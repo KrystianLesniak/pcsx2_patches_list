@@ -1,0 +1,4 @@
+[submodule "pcsx2_patches"]
+	path = pcsx2_patches
+	url = https://github.com/PCSX2/pcsx2_patches
+	branch = main
