@@ -1,5 +1,7 @@
 If you are looking for specific game use shortcut CTRL+F
 ## Official PCSX2 No Interlace Patches
+
+
 |CRC|Game Title|Comment|Link|
 |---|----------|-------|----|
 |EE4AA14C|Akira Psycho ball SLPS_201.50;1) Game CRC = 0xEE4AA14C|enhacement test|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/cheats_ni/EE4AA14C.pnach)|

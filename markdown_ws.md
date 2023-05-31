@@ -1,5 +1,7 @@
 If you are looking for specific game use shortcut CTRL+F
 ## Official PCSX2 Widescreen Patches
+
+
 |CRC|Game Title|Comment|Link|
 |---|----------|-------|----|
 |B07FF0E6|.hack 2 - Mutation (K) (SLKA-25138)|Widescreen Hack (16:9)  (Hyakki) (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/cheats_ws/B07FF0E6.pnach)|

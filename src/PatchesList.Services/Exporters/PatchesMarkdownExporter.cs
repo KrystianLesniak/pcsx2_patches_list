@@ -44,6 +44,7 @@ namespace PatchesList.Services.Exporters
         {
             await stream.WriteLineAsync("If you are looking for specific game use shortcut CTRL+F");
             await stream.WriteLineAsync($"## {_header}");
+            await stream.WriteLineAsync(Environment.NewLine);
             await stream.WriteLineAsync("|CRC|Game Title|Comment|Link|");
             await stream.WriteLineAsync("|---|----------|-------|----|");
         }
