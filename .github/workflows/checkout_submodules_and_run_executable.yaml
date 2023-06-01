@@ -18,24 +18,20 @@ jobs:
       # Step 1: Checkout Repository
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 2: Set up Git
-      - name: Set up Git
-        run: |
-          git config user.name "${{ github.actor }}"
-          git config user.email "${{ github.actor }}@users.noreply.github.com"
-
-      # Step 3: Update Git Submodule
+      # Step 2: Update Git Submodule
       - name: Update Git Submodule
         run: |
           git submodule update --init --recursive pcsx2_patches
 
-      # Step 4: Run Update List Executable
+      # Step 3: Run Update List Executable
       - name: Run Update List Executable
         run: |
           ".\Update list.exe"
 
-      # Step 5: Commit and Push Changes
+      # Step 4: Commit and Push Changes
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
