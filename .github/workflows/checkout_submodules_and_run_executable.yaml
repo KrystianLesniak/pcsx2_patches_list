@@ -29,7 +29,7 @@ jobs:
       # Step 3: Run Update List Executable
       - name: Run Update List Executable
         run: |
-          ".\Update list.exe"
+          .\Update_list.exe
 
       # Step 4: Commit and Push Changes
       - name: Commit and Push Changes
