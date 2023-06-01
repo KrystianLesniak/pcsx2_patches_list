@@ -18,6 +18,8 @@ jobs:
       # Step 1: Checkout Repository
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.WORKFLOW_GIT_ACCESS_TOKEN }}
 
       # Step 2: Set up Git
       - name: Set up Git
@@ -37,4 +39,8 @@ jobs:
 
       # Step 5: Commit and Push Changes
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v4
+        run: |
+          git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+          git config --global user.email "KrystianLesniak@users.noreply.github.com"
+          git commit -a -m "${{ env.CI_COMMIT_MESSAGE }}"
+          git push
