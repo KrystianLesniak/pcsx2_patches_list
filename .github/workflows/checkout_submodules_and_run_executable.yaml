@@ -18,8 +18,6 @@ jobs:
       # Step 1: Checkout Repository
       - name: Checkout Repository
         uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       # Step 2: Update Git Submodule
       - name: Update Git Submodule
