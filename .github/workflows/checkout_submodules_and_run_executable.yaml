@@ -23,6 +23,7 @@ jobs:
       - name: Update Git Submodule
         run: |
           git submodule update --init --recursive pcsx2_patches
+          git submodule update --recursive --remote pcsx2_patches
 
       # Step 3: Run Update List Executable
       - name: Run Update List Executable
