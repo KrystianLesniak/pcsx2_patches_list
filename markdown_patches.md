@@ -123,7 +123,7 @@ If you are looking for specific game use shortcut CTRL+F
 |CF736A9D|Aqua Aqua (U)(SLUS-20162)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CF736A9D.pnach)|
 |BE30EE2D|Aqua Kids (J)(SLPM-65670)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BE30EE2D.pnach)|
 |6508F464|Aqua Kids (K)(SLKA-25161)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6508F464.pnach)|
-|F173CF07|Aqua Teen Hunger Force - Zombie Ninja Pro-Am (E)(SLES-54788|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F173CF07.pnach)|
+|F173CF07|Aqua Teen Hunger Force - Zombie Ninja Pro-Am test(E)(SLES-54788|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F173CF07.pnach)|
 |504D1A7A|Aqua Teen Hunger Force - Zombie Ninja Pro-Am (U)(SLUS-21633)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/504D1A7A.pnach)|
 |A1A9C393|Aquaqua (J)(SLPS-20027)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A1A9C393.pnach)|
 |CE2C1DBF|Ar tonelico II - Melody of Metafalica (E)(SLES-55444)|Widescreen hack by nemesis2000 (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CE2C1DBF.pnach)|
