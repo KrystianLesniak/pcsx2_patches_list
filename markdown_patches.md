@@ -1,5 +1,5 @@
 If you are looking for specific game use shortcut CTRL+F
-## Official PCSX2 PatchesTest
+## Official PCSX2 Patches
 
 
 |CRC|Game Title|Comment|Link|
