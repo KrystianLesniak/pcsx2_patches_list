@@ -25,7 +25,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21016_C1B141D6|25 to Life  (U)(SLUS-21016)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21016_C1B141D6.pnach)|
 |F7D86DD0|3D Kakutou Tsukuru 2 [NTSC-J] (PBPX-95201)(SLPS-20214)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F7D86DD0.pnach)|
 |E3F32982|50 Cent - Bulletproof (E)(SLES-53734)|Widescreen hack by Arapapa and 60 FPS by asasega|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E3F32982.pnach)|
-|E24FC804|50 Cent - Bulletproof (U)(SLUS-21315)|Widescreen hack by Arapapa and 60 FPS by asasega|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E24FC804.pnach)|
+|SLUS-21315_E24FC804|50 Cent - Bulletproof (U)(SLUS-21315)|Widescreen hack by Arapapa and 60 FPS by asasega|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21315_E24FC804.pnach)|
 |C4DD197F|7 Blades (J)(SLPM-65008)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C4DD197F.pnach)|
 |97AE372A|7 Blades [PAL] (SLES-50109)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/97AE372A.pnach)|
 |SLES-53297_211736A2|7 Sins (E)(SLES-53297)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53297_211736A2.pnach)|
@@ -44,11 +44,11 @@ If you are looking for specific game use shortcut CTRL+F
 |7A8644FD|Ace Lightning (E)(SLES-51503)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7A8644FD.pnach)|
 |SLES-52956_5E82A640|Action Girlz Racing (E)(SLES-52956)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52956_5E82A640.pnach)|
 |C6D4771F|Adiboo and the Energy Thieves (E)(SLES-52521)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C6D4771F.pnach)|
-|9A409943|Adventure of Tokyo Disney Sea (J)(SLPM-65061)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9A409943.pnach)|
-|4D3469CC|AFL Live - Premiership Edition (E)(SLES-52368)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4D3469CC.pnach)|
+|SLPM-65061_9A409943|Adventure of Tokyo Disney Sea (J)(SLPM-65061)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65061_9A409943.pnach)|
+|SLES-52368_4D3469CC|AFL Live - Premiership Edition (E)(SLES-52368)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52368_4D3469CC.pnach)|
 |SLES-51168_D7A9DEF6|AFL Live 2003 (E)(SLES-51168)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51168_D7A9DEF6.pnach)|
 |2287515F|AFL Live 2004 - Aussie Rules Football (E)(SLES-51903)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2287515F.pnach)|
-|1D4764D2|AFL Live 2004 (E)(SLES-51826)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1D4764D2.pnach)|
+|SLES-51826_1D4764D2|AFL Live 2004 (E)(SLES-51826)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51826_1D4764D2.pnach)|
 |45B4258D|AFL Premiership 2005 (E)(SCES-53449)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/45B4258D.pnach)|
 |14AF63BD|AFL Premiership 2006 (E)(SCES-54068)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/14AF63BD.pnach)|
 |74FBFBB1|Agassi Tennis Generation (E)(SLES-52125)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/74FBFBB1.pnach)|
@@ -61,7 +61,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20327_67DB3ED8|Aggressive Inline (SLUS-20327)|Widescreen patch by BloodRaynare (Based on PAL version by ElHecht)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20327_67DB3ED8.pnach)|
 |603F5B4E|Aim for the Top - Gunbuster (NTSC-J) (SLPS-25447)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/603F5B4E.pnach)|
 |SLUS-20346_ACB735A5|AirBlade (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20346_ACB735A5.pnach)|
-|07D1DC03|Airborne Troops - Countdown to D-Day (E)(SLES-52939)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/07D1DC03.pnach)|
+|SLES-52939_07D1DC03|Airborne Troops - Countdown to D-Day (E)(SLES-52939)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52939_07D1DC03.pnach)|
 |SLUS-21125_C5CE56CD|Airborne Troops - Countdown to D-Day (U)(SLUS-21125)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21125_C5CE56CD.pnach)|
 |2156763B|AirForce Delta - Blue Wing Knight (J)(SLPM-65486)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2156763B.pnach)|
 |SLKA-25133_8A8FC183|AirForce Delta Strike (NTSC-K)(SLKA-25133)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25133_8A8FC183.pnach)|
@@ -80,7 +80,7 @@ If you are looking for specific game use shortcut CTRL+F
 |3AAD52A4|Aliens in the Attic (E)(SLES-55532)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3AAD52A4.pnach)|
 |64DA78A3|Aliens Versus Predator - Extinction (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/64DA78A3.pnach)|
 |64DA75B2|Aliens Versus Predator - Extinction SLES_517.92|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/64DA75B2.pnach)|
-|5911EF58|All Star Fighters (E)(SLES-54459)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5911EF58.pnach)|
+|SLES-54459_5911EF58|All Star Fighters (E)(SLES-54459)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54459_5911EF58.pnach)|
 |23328202|All Star Pro Wrestling (J)(SLPS-20022)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/23328202.pnach)|
 |1049E818|All Star Professional Wrestling II (J)(SLPS-20139)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1049E818.pnach)|
 |SLPM-65300_48C1A5F1|All Star Professional Wrestling III (J)(SLPM-65300)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65300_48C1A5F1.pnach)|
@@ -88,7 +88,7 @@ If you are looking for specific game use shortcut CTRL+F
 |284C23D4|All-Star Baseball 2002 (J)(SLPM-62069)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/284C23D4.pnach)|
 |193623F8|All-Star Baseball 2002 (U)(SLUS-20008)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/193623F8.pnach)|
 |E9454E84|All-Star Baseball 2003 (E)(SLES-50447)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E9454E84.pnach)|
-|1EA52BE1|All-Star Baseball 2003 (J)(SLPM-65137)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1EA52BE1.pnach)|
+|SLPM-65137_1EA52BE1|All-Star Baseball 2003 (J)(SLPM-65137)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65137_1EA52BE1.pnach)|
 |E0A54502|All-Star Baseball 2003 (U)(SLUS-20311)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E0A54502.pnach)|
 |F9D01209|All-Star Baseball 2004 (E)(SLES-51602)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F9D01209.pnach)|
 |3A38CD1A|All-Star Baseball 2004 (U)(SLUS-20569)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3A38CD1A.pnach)|
@@ -100,20 +100,20 @@ If you are looking for specific game use shortcut CTRL+F
 |81B3598B|Altered Beast (K)(SLKA-25131)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/81B3598B.pnach)|
 |SLES-53024_D6DF457B|Altered Beast SLES_530.24|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53024_D6DF457B.pnach)|
 |F834AA3A|America's 10 Most Wanted (E)(SLES-52367)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F834AA3A.pnach)|
-|2B4BD0E0|American Chopper (E)(SLES-53108)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2B4BD0E0.pnach)|
+|SLES-53108_2B4BD0E0|American Chopper (E)(SLES-53108)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53108_2B4BD0E0.pnach)|
 |16F94F28|American Chopper (U)(SLUS-21069)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/16F94F28.pnach)|
-|0FAA1865|American Chopper 2 - Full Throttle (E)(SLES-53779)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0FAA1865.pnach)|
+|SLES-53779_0FAA1865|American Chopper 2 - Full Throttle (E)(SLES-53779)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53779_0FAA1865.pnach)|
 |SLUS-21288_ADFDCCD7|American Chopper 2 - Full Throttle (U)(SLUS-21288)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21288_ADFDCCD7.pnach)|
-|2F7B4DB8|Amplitude (NTSC-U) [SCUS-97258] [2F7B4DB8]|Widescreen hacks by Aced14 (MIPS code injection/FMV experiment) and 2007excalibur2007 (initial live memory discovery)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2F7B4DB8.pnach)|
+|SCUS-97258_2F7B4DB8|Amplitude (NTSC-U) [SCUS-97258] [2F7B4DB8]|Widescreen hacks by Aced14 (MIPS code injection/FMV experiment) and 2007excalibur2007 (initial live memory discovery)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97258_2F7B4DB8.pnach)|
 |SCES-51706_F7DC0006|Amplitude (PAL-Unk) [SCES-51706] [F7DC0006]|Widescreen hacks by Aced14 (MIPS code injection/FMV experiment) and 2007excalibur2007 (initial live memory discovery)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51706_F7DC0006.pnach)|
 |AAE3849F|An American Tail (E)((SLES-54626)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AAE3849F.pnach)|
 |SLUS-21237_A542271D|And 1 Streetball (U)(SLUS-21237)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21237_A542271D.pnach)|
 |59A5C81C|Animaniacs - The Great Edgar Hunt (E)(SLES-52729)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/59A5C81C.pnach)|
-|08B19EFF|Another Century's Episode (J)(SLPS-25394)|Widescreen hack by Arapapa and Somebody who fixed A.C.E 3|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/08B19EFF.pnach)|
+|SLPS-25394_08B19EFF|Another Century's Episode (J)(SLPS-25394)|Widescreen hack by Arapapa and Somebody who fixed A.C.E 3|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25394_08B19EFF.pnach)|
 |SLPS-25623_3ED7CFA1|Another Century's Episode 2 (J)(SLPS-25623)|Widescreen hack by Arapapa and Somebody who fixed A.C.E 3|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25623_3ED7CFA1.pnach)|
 |EE84B8C5|Another Century's Episode 2 [Special Vocal Version] (J)(SLPS-25829)|Widescreen hack by Arapapa and Somebody who fixed A.C.E 3|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EE84B8C5.pnach)|
 |SLPS-25784_B1B6E33D|Another Century's Episode 3 - The Final (J)(SLPS-25784)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25784_B1B6E33D.pnach)|
-|500F0197|Antz Extreme Racing (E)(SLES-50964)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/500F0197.pnach)|
+|SLES-50964_500F0197|Antz Extreme Racing (E)(SLES-50964)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50964_500F0197.pnach)|
 |SLUS-20392_298ABB7D|Antz Extreme Racing (U)(SLUS-20392)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20392_298ABB7D.pnach)|
 |FB196496|Anubis - Zone of the Enders (J)(SLPM-65236)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FB196496.pnach)|
 |5A51A599|Anubis - Zone of the Enders Special Edition (J)(SLPM-65361)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5A51A599.pnach)|
@@ -121,7 +121,7 @@ If you are looking for specific game use shortcut CTRL+F
 |BF4AD345|Appleseed EX (J)(SLPM-66551)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BF4AD345.pnach)|
 |SLES-50053_C7591F3F|Aqua Aqua - Wetrix 2 (E)(SLES-50053)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50053_C7591F3F.pnach)|
 |SLPS-20027_CF736A9D|Aqua Aqua (U)(SLUS-20162)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20027_CF736A9D.pnach)|
-|BE30EE2D|Aqua Kids (J)(SLPM-65670)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BE30EE2D.pnach)|
+|SLPM-65670_BE30EE2D|Aqua Kids (J)(SLPM-65670)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65670_BE30EE2D.pnach)|
 |6508F464|Aqua Kids (K)(SLKA-25161)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6508F464.pnach)|
 |F173CF07|Aqua Teen Hunger Force - Zombie Ninja Pro-Am (E)(SLES-54788|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F173CF07.pnach)|
 |SLUS-21633_504D1A7A|Aqua Teen Hunger Force - Zombie Ninja Pro-Am (U)(SLUS-21633)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21633_504D1A7A.pnach)|
@@ -139,23 +139,23 @@ If you are looking for specific game use shortcut CTRL+F
 |EFC20258|Arc the Lad - Twilight of the Spirits (K) (SCKA_20012)|Widescreen hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EFC20258.pnach)|
 |30818780|Arctic Thunder (E)(SLES-50274)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/30818780.pnach)|
 |SLUS-20217_2B2E1535|Arctic Thunder (U)(SLUS-20217)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20217_2B2E1535.pnach)|
-|2F1BDED1|Area 51 (J) (SLPM_664.68)|Widescreen Hack by ElHecht (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2F1BDED1.pnach)|
+|SLPM-66468_2F1BDED1|Area 51 (J) (SLPM_664.68)|Widescreen Hack by ElHecht (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66468_2F1BDED1.pnach)|
 |SLUS-20595_B59EF006|Area 51 (NTSC-U) (SLUS-20595)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20595_B59EF006.pnach)|
 |C4ACBCF0|Area 51 (PAL-M5) (SLES-53075)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C4ACBCF0.pnach)|
 |07E0108A|Argus no Senshi [NTSC-J]|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/07E0108A.pnach)|
 |F9A37D6E|Armored Core - Fomula Front (K) (SLKA_252.70)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F9A37D6E.pnach)|
-|3E26EEEB|﻿Armored Core - Formula Front [NTSC-J] (SLPS-25461)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E26EEEB.pnach)|
+|SLPS-25461_3E26EEEB|﻿Armored Core - Formula Front [NTSC-J] (SLPS-25461)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25461_3E26EEEB.pnach)|
 |B1A38C05|Armored Core - Last Raven (PAL-E) (SLES-53820)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B1A38C05.pnach)|
 |FEBE1992|﻿Armored Core - Last Raven [NTSC-J] (SLPS-25462)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FEBE1992.pnach)|
 |1102F889|Armored Core - Nexus - Disc 1 - Evolution (NTSC-K) (SLKA-25201)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1102F889.pnach)|
 |F3A5EC6F|Armored Core - Nexus - Disc 1 - Evolution (PAL-M5) (SLES-82036)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F3A5EC6F.pnach)|
 |26D1C561|Armored Core - Nexus - Disc 2 - Revolution [NTSC-J] (SLPS-25339)<br />﻿Armored Core - Nexus - Disc 1 - Evolution [NTSC-J] (SLPS-25338)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/26D1C561.pnach)|
 |SLUS-20986_7E5F690C|Armored Core - Nexus SLUS_209.86  SLUS_210.79|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20986_7E5F690C.pnach)|
-|1E2BDB53|Armored Core - Nine Breaker (K) (SCKA-20047)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E2BDB53.pnach)|
+|SCKA-20047_1E2BDB53|Armored Core - Nine Breaker (K) (SCKA-20047)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20047_1E2BDB53.pnach)|
 |98BE10F8|Armored Core - Nine Breaker (PAL-E) (SLES-53819)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/98BE10F8.pnach)|
-|5C4E1AC4|﻿Armored Core - Nine Breaker [NTSC-J] (SLPS-25408)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C4E1AC4.pnach)|
+|SLPS-25408_5C4E1AC4|﻿Armored Core - Nine Breaker [NTSC-J] (SLPS-25408)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25408_5C4E1AC4.pnach)|
 |SLUS-21200_72486978|Armored Core - Nine Breaker SLUS_212.00|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21200_72486978.pnach)|
-|DB4EB6A9|Armored Core - Silent Line (K) (SLKA_250.41)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DB4EB6A9.pnach)|
+|SLKA-25041_DB4EB6A9|Armored Core - Silent Line (K) (SLKA_250.41)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25041_DB4EB6A9.pnach)|
 |SLES-52203_89D79F73|Armored Core - Silent Line (PAL-E) (SLES-52203)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52203_89D79F73.pnach)|
 |B8BFF0B1|Armored Core - Silent Line SLUS_206.44|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B8BFF0B1.pnach)|
 |63F88A8F|Armored Core 2 - Another Age (PAL-E) (SLES-50905)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/63F88A8F.pnach)|
@@ -182,10 +182,10 @@ If you are looking for specific game use shortcut CTRL+F
 |859AB297|Arthur and the Minimoys [PAL-M7] (SLES_544.20)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/859AB297.pnach)|
 |A0CD42B4|Ashita no Joe - Masshiro ni Moe Tsukiro! (J)(SLPM-65441)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A0CD42B4.pnach)|
 |SLUS-20866_7884CDB0|Asterix & Obelix - Kick Buttix (U)(SLUS-20866)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20866_7884CDB0.pnach)|
-|1DB1A6C6|Asterix & Obelix XXL (PAL-M5) (SLES-51838)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1DB1A6C6.pnach)|
+|SLES-51838_1DB1A6C6|Asterix & Obelix XXL (PAL-M5) (SLES-51838)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51838_1DB1A6C6.pnach)|
 |70C6047D|Asterix & Obelix XXL 2 (PAL-M3) (SLES-53060)|Widescreen hack by Arapapa/ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/70C6047D.pnach)|
 |040345C2|Asterix & Obelix XXL 2 (PAL-M5) (SLES-53725)|Widescreen hack by Arapapa/ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/040345C2.pnach)|
-|36B523BC|Astro Boy - Tetsuwan Atom (J)(v1.00) (SLPM-65551)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/36B523BC.pnach)|
+|SLPM-65551_36B523BC|Astro Boy - Tetsuwan Atom (J)(v1.00) (SLPM-65551)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65551_36B523BC.pnach)|
 |7DABF252|Astro Boy - The Video Game (U)(SLUS-21895)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7DABF252.pnach)|
 |6BE74384|Astro Boy (K)(SLKA-25159)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6BE74384.pnach)|
 |D88FCB86|Astro Boy (U)(SLUS-20867)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D88FCB86.pnach)|
@@ -201,7 +201,7 @@ If you are looking for specific game use shortcut CTRL+F
 |5DCE75ED|Athens 2004 (J)(SCPS-15074)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5DCE75ED.pnach)|
 |BC08CDDE|Athens 2004 (K)(SCKA-20031)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BC08CDDE.pnach)|
 |SCUS-97379_76FB86D4|Athens 2004 (U)(SCUS-97379)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97379_76FB86D4.pnach)|
-|2D632F06|ATV Offroad Fury 2 [NTSC-U] (SCUS_972.11)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2D632F06.pnach)|
+|SCUS-97211_2D632F06|ATV Offroad Fury 2 [NTSC-U] (SCUS_972.11)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97211_2D632F06.pnach)|
 |025670BE|ATV Offroad Fury 2 [PAL] (SLES_518.14)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/025670BE.pnach)|
 |C5A2A6E6|ATV Offroad: All Terrain Vehicle [PAL-M5] (SCES_502.93)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C5A2A6E6.pnach)|
 |C4F0E5CC|Auto Modellista (K) (SLPM-67540)|Widescreen hack by nemesis2000 and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C4F0E5CC.pnach)|
@@ -239,11 +239,11 @@ If you are looking for specific game use shortcut CTRL+F
 |5C5BC6D2|Bad Boys II (E)(SLES-52363)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C5BC6D2.pnach)|
 |FA861ED2|﻿Bakuen Kakusei - Neverland Senki Zero [NTSC-J] (SLPM-65635)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FA861ED2.pnach)|
 |DD93DA88|Bakusou Convoy Densetsu - Otoko Hanamichi America Roman (J)(SLPM-62378)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DD93DA88.pnach)|
-|3D80BAAB|Bakusou Dekotora Densetsu - Otoko Hanamichi Yume Roman (J)(SLPM-65234)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3D80BAAB.pnach)|
+|SLPM-65234_3D80BAAB|Bakusou Dekotora Densetsu - Otoko Hanamichi Yume Roman (J)(SLPM-65234)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65234_3D80BAAB.pnach)|
 |8362ED29|Bakusou Dekotora Densetsu Otoko Hanamichi Yume Roman (Playstation2 The Best) (J)[SLPM-74419]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8362ED29.pnach)|
 |C3B698F9|Baldur's Gate - Dark Alliance II (NTSC-J)(SLPM-65845)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C3B698F9.pnach)|
 |4A9D8E01|Baldur's Gate: Dark Alliance|Baldur's Gate: Dark Alliance * SLES-50672 * PAL-M5 * 4A9D8E01<br />Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4A9D8E01.pnach)|
-|4BA22FFF|Baldur's Gate: Dark Alliance (J) (SLPS_25140)|Widescreen hack by nemesis2000 (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4BA22FFF.pnach)|
+|SLPS-25140_4BA22FFF|Baldur's Gate: Dark Alliance (J) (SLPS_25140)|Widescreen hack by nemesis2000 (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25140_4BA22FFF.pnach)|
 |SLUS-20035_773A8DAB|Baldur's Gate: Dark Alliance * SLUS-20035 * NTSC-U * 773A8DAB|Baldur's Gate: Dark Alliance * SLUS-20035 * NTSC-U * 773A8DAB|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20035_773A8DAB.pnach)|
 |SLES-52187_F59FF56B|Baldur's Gate: Dark Alliance II|Baldur's Gate: Dark Alliance II * SLES-52188 * PAL-M3 * F59FF56B<br />Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52187_F59FF56B.pnach)|
 |SLUS-20675_B0859096|Baldur's Gate: Dark Alliance II (SLUS-20675)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20675_B0859096.pnach)|
@@ -252,17 +252,17 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20136_5C6B00F4|Barbarian SLUS_201.36|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20136_5C6B00F4.pnach)|
 |A038AAC7|Barbie Horse Adventures - Riding Camp (E)(SLES-55371)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A038AAC7.pnach)|
 |EA79D106|Barbie Horse Adventures - Riding Camp (U)(SLUS-21806)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EA79D106.pnach)|
-|3BA6EAFC|Barbie Horse Adventures - Wild Horse Rescue (E)(SLES-51845)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3BA6EAFC.pnach)|
+|SLES-51845_3BA6EAFC|Barbie Horse Adventures - Wild Horse Rescue (E)(SLES-51845)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51845_3BA6EAFC.pnach)|
 |54D2D5DA|Barbie Horse Adventures - Wild Horse Rescue (U)(SLUS-20664)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/54D2D5DA.pnach)|
 |C3ADE1C8|Barbie in The 12 Dancing Princesses (E)(SLES-54566)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C3ADE1C8.pnach)|
 |72E17DFF|Barbie in The 12 Dancing Princesses (E)(SLES-54608)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/72E17DFF.pnach)|
 |EC38550F|Barbie in The 12 Dancing Princesses (U)(SLUS-21579)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EC38550F.pnach)|
-|0B2F3DEE|Barnyard (K)(SCKA-20096)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0B2F3DEE.pnach)|
+|SCKA-20096_0B2F3DEE|Barnyard (K)(SCKA-20096)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20096_0B2F3DEE.pnach)|
 |SLUS-21277_EC8EF2DE|Barnyard (U)(SLUS-21277)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21277_EC8EF2DE.pnach)|
 |3CE1316C|Baroque (J) (SLPM_66747)|Widescreen hack by ElHecht (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3CE1316C.pnach)|
 |SLUS-21714_4566213C|Baroque (NTSC-U)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21714_4566213C.pnach)|
-|0CFFFBCC|Baroque (PAL-E) (SLES-55216)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0CFFFBCC.pnach)|
-|1BB99AAA|Baseball 2002, The: Battle Ball Park Sengen (J)(SLPM-62155)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1BB99AAA.pnach)|
+|SLES-55216_0CFFFBCC|Baroque (PAL-E) (SLES-55216)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55216_0CFFFBCC.pnach)|
+|SLPM-62155_1BB99AAA|Baseball 2002, The: Battle Ball Park Sengen (J)(SLPM-62155)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62155_1BB99AAA.pnach)|
 |7C1AD726|Baskelian (J)(SLPS-20266)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7C1AD726.pnach)|
 |32F02A6C|Basketball Xciting [PAL] (SLES_518.50)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/32F02A6C.pnach)|
 |63007DE0|Bass Master Fishing (E)(SLES-51862)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/63007DE0.pnach)|
@@ -274,7 +274,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20929_97BBD2C1|Battle Assault 3 featuring Gundam Seed SLUS_209.29|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20929_97BBD2C1.pnach)|
 |E16618B7|Battle Engine Aquila (E)(SLES-50777)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E16618B7.pnach)|
 |SLUS-20495_19DE198E|Battle Engine Aquila (U)(SLUS-20495)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20495_19DE198E.pnach)|
-|12266F36|Battle Gear 2 (J)(SLPM-62048)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/12266F36.pnach)|
+|SLPM-62048_12266F36|Battle Gear 2 (J)(SLPM-62048)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62048_12266F36.pnach)|
 |AC9F1FC0|Battle Gear 3 (SLPM_65434)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AC9F1FC0.pnach)|
 |SLPS-25855_D0D71384|Battle of Sunrise (J)(SLPS-25855)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25855_D0D71384.pnach)|
 |C80DF46D|﻿Battle of Yuu Yuu Hakusho,Shitou! Ankoku Bujutsukai! 120% [NTSC-J] (SLPS-25734)|Widescreen|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C80DF46D.pnach)|
@@ -286,11 +286,11 @@ If you are looking for specific game use shortcut CTRL+F
 |042A96F1|Battlestar Galactica (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/042A96F1.pnach)|
 |6062787F|Battlestar Galactica SLES_517.02|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6062787F.pnach)|
 |83F2A231|BDFL Manager 2002 (G)(SLES-50548)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/83F2A231.pnach)|
-|728E6913|BDFL Manager 2003 (G)(SLES-51025)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/728E6913.pnach)|
+|SLES-51025_728E6913|BDFL Manager 2003 (G)(SLES-51025)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51025_728E6913.pnach)|
 |DE14DDBF|BDFL Manager 2004 (G)(SLES-51458)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DE14DDBF.pnach)|
 |619CD6C5|BDFL Manager 2005 (G)(SLES-52694)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/619CD6C5.pnach)|
 |F33C3759|Beat Down - Fists of Vengeance (J) (SLPM_66181)|Widescreen Hack (16:9) by ElHecht (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F33C3759.pnach)|
-|00C82D94|Beat Down - Fists of Vengeance (PAL-M5) (SLES-53505)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/00C82D94.pnach)|
+|SLES-53505_00C82D94|Beat Down - Fists of Vengeance (PAL-M5) (SLES-53505)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53505_00C82D94.pnach)|
 |SLUS-21150_C9F6EF9A|Beat Down - Fists of Vengeance (U) (SLUS-21150)|Widescreen Hack (16:9) by ElHecht (pnach NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21150_C9F6EF9A.pnach)|
 |9D6AA1B8|Bee Movie Game (E)(SLES-55016)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9D6AA1B8.pnach)|
 |SLUS-21622_07717046|Bee Movie Game (U)(SLUS-21622)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21622_07717046.pnach)|
@@ -305,9 +305,9 @@ If you are looking for specific game use shortcut CTRL+F
 |94C80119|Beni no Umi 2 - Crimson Sea [NTSC-J] [SLPM-65477]|Widescreen Hack NTSC-J by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/94C80119.pnach)|
 |SLPM-65688_9685E636|Berserk - Millennium Falcon Hen Seima Senki no Shou (J)(SLPM-65688)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65688_9685E636.pnach)|
 |DF3FEFA9|Berserk (K)(SLKA-25213)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DF3FEFA9.pnach)|
-|08A88E90|Beverly Hills Cop (E)(SLES-54456)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/08A88E90.pnach)|
+|SLES-54456_08A88E90|Beverly Hills Cop (E)(SLES-54456)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54456_08A88E90.pnach)|
 |591ABA45|Beyond Good & Evil (E)(SLES-51917)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/591ABA45.pnach)|
-|495F76EF|Biathlon 2008 (U)(SLUS-21711)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/495F76EF.pnach)|
+|SLUS-21711_495F76EF|Biathlon 2008 (U)(SLUS-21711)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21711_495F76EF.pnach)|
 |SLES-51355_506644B3|Big Mutha Truckers (PAL)(SLES-51355)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51355_506644B3.pnach)|
 |92624842|Big Mutha Truckers (U)(SLUS-20291)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/92624842.pnach)|
 |SLUS-21086_6332499C|Big Mutha Truckers 2 (NTSC-U)(SLUS-21086)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21086_6332499C.pnach)|
@@ -328,20 +328,20 @@ If you are looking for specific game use shortcut CTRL+F
 |85495C17|Bionicle Heroes (E)(SLES-54150)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/85495C17.pnach)|
 |51692BF7|Bionicle Heroes (J)(SLPM-66645)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/51692BF7.pnach)|
 |B3A9F9ED|BLACK (J) (SLPM-66354)|Widescreen hack by No.47 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B3A9F9ED.pnach)|
-|688E77CC|BLACK (K)(SLKA-25372)|Widescreen hack by No.47 and 60 FPS by asasega (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/688E77CC.pnach)|
+|SLKA-25372_688E77CC|BLACK (K)(SLKA-25372)|Widescreen hack by No.47 and 60 FPS by asasega (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25372_688E77CC.pnach)|
 |SLES-53886_ADDFF505|BLACK (PAL) (SLES_538.86)|Widescreen Converted from NTSC hack by No.47 (pnach by Some Chump)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53886_ADDFF505.pnach)|
 |SLUS-21376_5C891FF1|BLACK (SLUS_21376)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21376_5C891FF1.pnach)|
 |F743CD58|Black & Bruised (E)(SLES-51620)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F743CD58.pnach)|
 |SLUS-20506_D2CA77B8|Black & Bruised (U)(SLUS-20506)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20506_D2CA77B8.pnach)|
 |7FCA9ECB|Black Buccaneer (E)(SLES-54213)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7FCA9ECB.pnach)|
-|4A6C43EF|Black/Matrix II (J)(SLPS-20187)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4A6C43EF.pnach)|
+|SLPS-20187_4A6C43EF|Black/Matrix II (J)(SLPS-20187)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20187_4A6C43EF.pnach)|
 |SLUS-20360_6D0E5F2D|Blade 2 SLUS_203.60|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20360_6D0E5F2D.pnach)|
 |66CC8148|Blade II [PAL] (SLES_510.13)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/66CC8148.pnach)|
 |EC529173|Blazing Souls (J)(SLPM-66270)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EC529173.pnach)|
 |A49563FA|Blazing Souls (K)(SLKA-25384)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A49563FA.pnach)|
 |SCPS-15116_6DF62AEA|Bleach - Blade Battlers [NTSC-J] (SCPS-15116)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15116_6DF62AEA.pnach)|
 |SCPS-15119_6EB71AB0|Bleach - Blade Battlers 2nd [NTSC-J] (SCPS-15119)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15119_6EB71AB0.pnach)|
-|1E25F8A1|Bleach - Erabareshi Tamashi (J)(SCPS-15087)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E25F8A1.pnach)|
+|SCPS-15087_1E25F8A1|Bleach - Erabareshi Tamashi (J)(SCPS-15087)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15087_1E25F8A1.pnach)|
 |SLUS-21128_5AD4E46F|Blitz - The League (U)(SLUS-21128)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21128_5AD4E46F.pnach)|
 |1897D0F7|Blood Omen 2: The Legacy of Kain Series (PAL/G)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1897D0F7.pnach)|
 |SLES-50771_06DCCAF4|Blood Omen 2: The Legacy of Kain Series (SLES-50771)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50771_06DCCAF4.pnach)|
@@ -352,11 +352,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25677_5A6C7AE6|Blood+ One Night Kiss (J)(SLPS-25677)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25677_5A6C7AE6.pnach)|
 |SCPS-15112_4D8D6989|﻿Blood+ Souyoku no Battle Rondo [NTSC-J] (SCPS-15112)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15112_4D8D6989.pnach)|
 |SLUS-20461_17244B57|Bloodrayne SLUS_204.61|Widescreen hack by pelvicthrustman|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20461_17244B57.pnach)|
-|5967BC05|Bloody Roar 3 (NTSC-J)(SLPM-62055)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5967BC05.pnach)|
+|SLPM-62055_5967BC05|Bloody Roar 3 (NTSC-J)(SLPM-62055)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62055_5967BC05.pnach)|
 |SLES-50203_880AA922|Bloody Roar 3 [PAL] (SLES_502.03)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50203_880AA922.pnach)|
 |64328775|Bloody roar 3 jap SLPM_620.55;1) Game CRC = 0x64328775|Enhancement test *480p mode + no interlacing|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/64328775.pnach)|
 |SLUS-20212_AA4E5A35|Bloody Roar 3 SLUS_202.12|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20212_AA4E5A35.pnach)|
-|0DA820C2|Bloody Roar 4 (NTSC-J)(SLPM-65499)|Widescreen hack by paul_met (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0DA820C2.pnach)|
+|SLPM-65499_0DA820C2|Bloody Roar 4 (NTSC-J)(SLPM-65499)|Widescreen hack by paul_met (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65499_0DA820C2.pnach)|
 |SLUS-20795_C9F6F222|Bloody Roar 4 (SLUS-20795)|Widescreen patch 16:9 by paul_met|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20795_C9F6F222.pnach)|
 |SLUS-20850_71584BAC|Blowout (SLUS-20850)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20850_71584BAC.pnach)|
 |0158297B|Blowout [PAL] (SLES_529.89)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0158297B.pnach)|
@@ -365,7 +365,7 @@ If you are looking for specific game use shortcut CTRL+F
 |ED32D333|Boboboubo Boubobo - Hajike Matsuri (J)(SLPM-65262)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ED32D333.pnach)|
 |SCPS-11008_EE838B5C|Boku to Mao (J) (PBPX-95201)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11008_EE838B5C.pnach)|
 |D2F0DC73|Bokujou Monogatari - Oh! Wonderful Life (First Print Limited Edition) (J)(SLPS-25421)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D2F0DC73.pnach)|
-|02F53745|Bokujou Monogatari 3 - Heart ni Hi wo Tsukete (J)(SLPS-20104)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/02F53745.pnach)|
+|SLPS-20104_02F53745|Bokujou Monogatari 3 - Heart ni Hi wo Tsukete (J)(SLPS-20104)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20104_02F53745.pnach)|
 |841CF939|Bolt [PAL-M3] (SLES_554.29)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/841CF939.pnach)|
 |SLES-51966_40127377|Bombastic [PAL] (SLES_519.66)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51966_40127377.pnach)|
 |SLUS-20764_FB55E35C|Bombastic SLUS_207.64|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20764_FB55E35C.pnach)|
@@ -374,20 +374,20 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51302_EC56B5F6|Bomberman Kart (PAL)(SLES-51302)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51302_EC56B5F6.pnach)|
 |09A73FBC|Bomberman Kart DX (J)(SLPM-62478)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/09A73FBC.pnach)|
 |DC2E5A76|Bomberman Land 2 (NTSC-J)|Widescreen hack by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DC2E5A76.pnach)|
-|A5BD7ADC|Bomberman Land 3 (J)(SLPM_62643)|Widescreen Hack by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A5BD7ADC.pnach)|
+|SLPM-62643_A5BD7ADC|Bomberman Land 3 (J)(SLPM_62643)|Widescreen Hack by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62643_A5BD7ADC.pnach)|
 |SLPM-65014_E94C216C|﻿Bouken Jidai Katsugeki - Goemon [NTSC-J] (SLPM-65014)|Widescreen hack by Little Giant and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65014_E94C216C.pnach)|
 |93476F02|Bouken Shounen Club Gahou (J)(SLPS-25279)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/93476F02.pnach)|
 |9DA64F02|Bouken-Ou Beet - Darkness Century (J) (SLPS-25470)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9DA64F02.pnach)|
 |13D53A3F|Boukoku no Aegis 2035 - Warship Gunner (NTSC-J)(SLPM-66060)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/13D53A3F.pnach)|
-|0FEEE8ED|Bowling Xciting [PAL] (SLES_518.61)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0FEEE8ED.pnach)|
+|SLES-51861_0FEEE8ED|Bowling Xciting [PAL] (SLES_518.61)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51861_0FEEE8ED.pnach)|
 |F6375797|Boxing Champions (PAL-E) (SLES_517.17)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F6375797.pnach)|
 |8A18DA30|Bratz - Forever Diamonds (U)(SLUS-21470)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8A18DA30.pnach)|
 |26847412|Bratz - Girlz Really Rock (E)(SLES-55357)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/26847412.pnach)|
 |8071EB8E|Bratz - Girlz Really Rock (U)(SLUS-21791)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8071EB8E.pnach)|
 |A6CF1D2B|Bratz - Rock Angelz (E)(SLES-53574)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A6CF1D2B.pnach)|
 |9CA89C19|Bratz - Rock Angelz (U)(SLUS-21225)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9CA89C19.pnach)|
-|83E8E954|Bratz - The Movie (E)(SLES-54986)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/83E8E954.pnach)|
-|1A4890AB|Bratz - The Movie (G)(SLES-54988)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1A4890AB.pnach)|
+|SLES-54986_83E8E954|Bratz - The Movie (E)(SLES-54986)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54986_83E8E954.pnach)|
+|SLES-54988_1A4890AB|Bratz - The Movie (G)(SLES-54988)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54988_1A4890AB.pnach)|
 |3217BCCC|Bratz - The Movie (U)(SLUS-21643)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3217BCCC.pnach)|
 |SLES-54343_A90A973D|Bratz: Forever Diamondz [PAL-M3] (SLES_543.43)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54343_A90A973D.pnach)|
 |488B2543|﻿Brave Story - Wataru no Bouken [NTSC-J] (SCPS-15111)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/488B2543.pnach)|
@@ -401,14 +401,14 @@ If you are looking for specific game use shortcut CTRL+F
 |C0EE68EC|Britney's Dance Beat [PAL] (SLES-50947)|Britney's Dance Beat|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C0EE68EC.pnach)|
 |SLES-51978_1248FE3A|Broken Sword: The Sleeping Dragon (SLES-51557)|Widescreen patch by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51978_1248FE3A.pnach)|
 |7C45C11D|Broken Sword: The Sleeping Dragon(J)  (SLPS-25356)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7C45C11D.pnach)|
-|1CF4E2B3|Brothers in Arms - Road to Hill 30 (J)(SLPM-66042)|Widescreen Hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1CF4E2B3.pnach)|
+|SLPM-66042_1CF4E2B3|Brothers in Arms - Road to Hill 30 (J)(SLPM-66042)|Widescreen Hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66042_1CF4E2B3.pnach)|
 |22C2AC43|Brothers in Arms: Earned in Blood (J) (SLPM_664.10)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/22C2AC43.pnach)|
 |SLUS-21310_D371F4DF|Brothers in Arms: Earned in Blood (SLUS-21310)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21310_D371F4DF.pnach)|
 |DD0273E8|Brothers in Arms: Earned in Blood [PAL-M5] (SLES_536.59)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DD0273E8.pnach)|
-|03E58308|Brothers in Arms: Road to Hill 30 (K) (SLKA_252.77)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/03E58308.pnach)|
+|SLKA-25277_03E58308|Brothers in Arms: Road to Hill 30 (K) (SLKA_252.77)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25277_03E58308.pnach)|
 |SLUS-21163_DFC0888A|Brothers in Arms: Road to Hill 30 (SLUS-21163)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21163_DFC0888A.pnach)|
-|0B918E04|Brothers in Arms: Road to Hill 30 [PAL-M5] (SLES_528.88)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0B918E04.pnach)|
-|0AD03FF9|Brunswick Pro Bowling (E)(SLES-54588)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0AD03FF9.pnach)|
+|SLES-52888_0B918E04|Brothers in Arms: Road to Hill 30 [PAL-M5] (SLES_528.88)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52888_0B918E04.pnach)|
+|SLES-54588_0AD03FF9|Brunswick Pro Bowling (E)(SLES-54588)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54588_0AD03FF9.pnach)|
 |SLUS-21566_E04356E2|Brunswick Pro Bowling (U)(SLUS-21566)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21566_E04356E2.pnach)|
 |023BB5F6|Buccaneer (E)(SLES-54476)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/023BB5F6.pnach)|
 |66927E5B|Bujingai - The Forsaken City (K) (SLKA-25150)|Widescreen Hack (pnach NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/66927E5B.pnach)|
@@ -428,7 +428,7 @@ If you are looking for specific game use shortcut CTRL+F
 |EEA60511|Burnout Revenge (K) (SLKA-25304)|Widescreen Hack (16:9) by Dread and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EEA60511.pnach)|
 |SLUS-21242_D224D348|Burnout Revenge (U)(SLUS-21242)|Widescreen Hack (16:9) by Dread and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21242_D224D348.pnach)|
 |15E34677|Busin - Wizardry Alternative (J)(SLPM-62098)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/15E34677.pnach)|
-|AEDB8BB2|Busin 0 - Wizardry Alternative NEO (J)(SLPM-65378)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AEDB8BB2.pnach)|
+|SLPM-65378_AEDB8BB2|Busin 0 - Wizardry Alternative NEO (J)(SLPM-65378)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65378_AEDB8BB2.pnach)|
 |56075A21|Busin Zero (K) (SLKA-25221)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/56075A21.pnach)|
 |46E615BE|Busou Renkin: Yokosu Papillon Park e [NTSC-J] (SLPS-25764)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/46E615BE.pnach)|
 |SLPM-62029_F782A513|Bust a Move Dance Summit 2001 (J)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62029_F782A513.pnach)|
@@ -454,7 +454,7 @@ If you are looking for specific game use shortcut CTRL+F
 |6712AFD7|Cabela's Outdoor Adventures (2009) (U)(SLUS-21906)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6712AFD7.pnach)|
 |SLUS-21624_0576A188|Cabela's Trophy Bucks (U)(SLUS-21624)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21624_0576A188.pnach)|
 |58BF0E90|Call of Duty - Finest Hour (NTSC-J)(SLPM-66159)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/58BF0E90.pnach)|
-|0BC05D02|Call of Duty: Finest Hour (SLES-52782)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0BC05D02.pnach)|
+|SLES-52782_0BC05D02|Call of Duty: Finest Hour (SLES-52782)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52782_0BC05D02.pnach)|
 |SLUS-20725_30AE5278|Call of Duty: Finest Hour (SLUS-20725)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20725_30AE5278.pnach)|
 |C78A495D|Canis Canem Edit (SLES-53561)|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C78A495D.pnach)|
 |SLPM-65047_D79F697A|Capcom vs SNK 2 - Millionaire Fighting (J)(SLPM-65047)(PBPX-95201)|Widescreen Hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65047_D79F697A.pnach)|
@@ -462,7 +462,7 @@ If you are looking for specific game use shortcut CTRL+F
 |FFC911D0|Capcom vs SNK 2: Mark of the Millennium 2001 [PAL] (SLES_505.41)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FFC911D0.pnach)|
 |B54C0319|﻿Capcom vs. SNK 2: Mark of the Millennium 2001  [NTSC-J] (SLPM-65047)|Widescreen patch by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B54C0319.pnach)|
 |SLPS-25691_2CF3EFF3|Captain Tsubasa (NTSC-J)(SLPS-25691)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25691_2CF3EFF3.pnach)|
-|6C694919|Car Racing Challenge (E)(SLES-53485)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6C694919.pnach)|
+|SLES-53485_6C694919|Car Racing Challenge (E)(SLES-53485)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53485_6C694919.pnach)|
 |AA9ABE8B|Cars (K)(SCKA-20068)|Widescreen Hack by El_Patas (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AA9ABE8B.pnach)|
 |SLUS-21151_F2A25D7B|Cars (U)(SLUS-21151)|Widescreen Hack by El_Patas (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21151_F2A25D7B.pnach)|
 |B8435BF4|Cars [PAL-Spain] (SLES_540.07)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B8435BF4.pnach)|
@@ -473,13 +473,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21438_EAE72CFE|Cartoon Network Racing (U)(SLUS-21438)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21438_EAE72CFE.pnach)|
 |85D7BA33|Casper - Spirit Dimensions (E)(SLES-50647)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/85D7BA33.pnach)|
 |SLUS-20205_5C06B9F3|Casper - Spirit Dimensions (U)(SLUS-20205)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20205_5C06B9F3.pnach)|
-|0BF6A590|Casper and the Ghostly Trio (E)(SLES-54383)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0BF6A590.pnach)|
+|SLES-54383_0BF6A590|Casper and the Ghostly Trio (E)(SLES-54383)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54383_0BF6A590.pnach)|
 |40AAA323|Casper's Scare School (E)(SLES-54672)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/40AAA323.pnach)|
 |950876FA|Castlevania: Curse of Darkness (K) (SLKA_25328)|Widescreen hack by nemesis2000 (pnach NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/950876FA.pnach)|
 |SLES-53755_F321BC38|Castlevania: Curse of Darkness (SLES-53755)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53755_F321BC38.pnach)|
 |SLUS-21168_3A446111|Castlevania: Curse of Darkness (SLUS-21168)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21168_3A446111.pnach)|
 |SLPM-66175_237B84D3|﻿Castlevania: Curse of Darkness [NTSC-J] (SLPM-66175)|=Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66175_237B84D3.pnach)|
-|9A93FE5D|Castlevania: Lament of Innocence (K) (SLKA_25082)|Widescreen hack by nemesis2000 (pnach NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9A93FE5D.pnach)|
+|SLKA-25082_9A93FE5D|Castlevania: Lament of Innocence (K) (SLKA_25082)|Widescreen hack by nemesis2000 (pnach NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25082_9A93FE5D.pnach)|
 |SLES-52118_306CDADA|Castlevania: Lament of Innocence (SLES-52118)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52118_306CDADA.pnach)|
 |SLUS-20733_28270F7D|Castlevania: Lament of Innocence (SLUS-20733)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20733_28270F7D.pnach)|
 |SLPM-65444_A36CFF6C|﻿Castlevania: Lament of Innocence [NTSC-J] (SLPM-65444)|=Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65444_A36CFF6C.pnach)|
@@ -487,7 +487,7 @@ If you are looking for specific game use shortcut CTRL+F
 |B90470B8|Catwoman (E)(SLES-52567)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B90470B8.pnach)|
 |SLUS-20992_E3DF71E1|Catwoman (U)(SLUS-20992)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20992_E3DF71E1.pnach)|
 |SLES-51554_904B7BA0|Cell Damage Overdrive (PAL-M5) SLES_515.54|Widescreen hack by dieSkaarj|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51554_904B7BA0.pnach)|
-|2E34BD54|Centre Court - Hard Hitter (E)(SLES-50636)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2E34BD54.pnach)|
+|SLES-50636_2E34BD54|Centre Court - Hard Hitter (E)(SLES-50636)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50636_2E34BD54.pnach)|
 |BD11A6EE|Chains of Power (K)(SLKA-25291)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BD11A6EE.pnach)|
 |5C64E73A|Champions - Return to Arms (PAl-M4) (SLES-53039)|Widescreen Hack by ElHecht<br />Disable interlacing hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C64E73A.pnach)|
 |75D86958|Champions of Norrath (PAL-M3) (SLES-52325)|Widescreen Hack by ElHecht<br />Disable interlacing hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/75D86958.pnach)|
@@ -498,7 +498,7 @@ If you are looking for specific game use shortcut CTRL+F
 |AD0C84EA|Chaos Legion (K) (SLKA_250.26)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AD0C84EA.pnach)|
 |SLUS-20695_F3B0734E|Chaos Legion (SLUS-20695)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20695_F3B0734E.pnach)|
 |SLPM-65249_5E191B9C|﻿Chaos Legion [NTSC-J] (SLPM-65249)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65249_5E191B9C.pnach)|
-|0ACDD053|Chaos Legion PAL (SLES_515.53)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0ACDD053.pnach)|
+|SLES-51553_0ACDD053|Chaos Legion PAL (SLES_515.53)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51553_0ACDD053.pnach)|
 |87A2714B|Chaos Wars (J) (SLPM_665.53)|Widescreen Hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/87A2714B.pnach)|
 |SLUS-21722_56AD161B|Chaos Wars SLUS_217.22|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21722_56AD161B.pnach)|
 |SLUS-21246_157995EE|Charlie and the Chocolate Factory (U)(SLUS-21246)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21246_157995EE.pnach)|
@@ -507,9 +507,9 @@ If you are looking for specific game use shortcut CTRL+F
 |EF8BBFE6|Chicken Little (K)(SLKA-25345)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EF8BBFE6.pnach)|
 |FCF4C7D8|Choro Q (PAL-E) (SLES-53140)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FCF4C7D8.pnach)|
 |A3F06070|Choro Q H.G High Grade 3 (J)(SLPM-62244)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A3F06070.pnach)|
-|6F9C4D7C|Choro Q HG (J)(SLPS-25015)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6F9C4D7C.pnach)|
+|SLPS-25015_6F9C4D7C|Choro Q HG (J)(SLPS-25015)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25015_6F9C4D7C.pnach)|
 |4C3A3060|Choro Q HG 4 (J)(SLPM-65326)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4C3A3060.pnach)|
-|56E9A705|ChoroQ (U)(SLUS-20930)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/56E9A705.pnach)|
+|SLUS-20930_56E9A705|ChoroQ (U)(SLUS-20930)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20930_56E9A705.pnach)|
 |E9958CE3|ChoroQ Works (NTSC-J) (SLPM_657.24)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E9958CE3.pnach)|
 |F9507A7C|Chou Battle Houshi (K)(SLKA-25010)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F9507A7C.pnach)|
 |83945660|Chou Battle Houshin [NTSC-J] [SLPM-65207]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/83945660.pnach)|
@@ -521,17 +521,17 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21754_A06BD445|CID the Dummy (U)(SLUS-21754)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21754_A06BD445.pnach)|
 |4D412DD3|Circuit Blasters (E)(SLES-53090)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4D412DD3.pnach)|
 |8E0C5071|Circus Maximus - Chariot Wars (E)(SLES-50935)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8E0C5071.pnach)|
-|6C93AB81|City Crisis (E)(SLES-50364)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6C93AB81.pnach)|
+|SLES-50364_6C93AB81|City Crisis (E)(SLES-50364)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50364_6C93AB81.pnach)|
 |05E1287B|City Crisis (J)(SLPS-20101)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/05E1287B.pnach)|
 |9B87ACF8|City Crisis (U)(SLUS-20274)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9B87ACF8.pnach)|
 |F4283A99|City Soccer Challenge (E)(SLES-53343)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F4283A99.pnach)|
 |SLES-53614_0AB8ED51|Classic British Motor Racing (E)(SLES-53614)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53614_0AB8ED51.pnach)|
 |4874A937|Climax Tennis - WTA Tour Edition (J)(SLPM-62129)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4874A937.pnach)|
-|0E6F7A7B|Clock Tower 3 (SLKA_25051)|Widescreen Hack by nemesis2000 and hyakki (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0E6F7A7B.pnach)|
+|SLKA_25051_0E6F7A7B|Clock Tower 3 (SLKA_25051)|Widescreen Hack by nemesis2000 and hyakki (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA_25051_0E6F7A7B.pnach)|
 |SLPM-65221_68EAF48F|Clock Tower 3 [NTSC-J] (SLPM-65221)|NTSC-J Widescreen Hack by parotaku|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65221_68EAF48F.pnach)|
 |SLES-51078_AD8A8599|Club Football - Arsenal (PAL)(SLES-51089)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51078_AD8A8599.pnach)|
 |BADBA2C8|Club Football - Juventus (PAL)(SLES-51081)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BADBA2C8.pnach)|
-|2F01CB32|Club Football 2005 - AC Milan and Others (PAL)(SLES-52656)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2F01CB32.pnach)|
+|SLES-52656_2F01CB32|Club Football 2005 - AC Milan and Others (PAL)(SLES-52656)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52656_2F01CB32.pnach)|
 |SLUS-21663_93352BA1|Cocoto Fishing Master (U)(SLUS-21663)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21663_93352BA1.pnach)|
 |CF4094BD|Cocoto Funfair (E)(SLES-53805)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CF4094BD.pnach)|
 |6E69A06C|Cocoto Kart Racer (E)(SLES-52858)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6E69A06C.pnach)|
@@ -540,17 +540,17 @@ If you are looking for specific game use shortcut CTRL+F
 |6AECA3DC|Code Lyoko - Quest for Infinity (E)(SLES-55172)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6AECA3DC.pnach)|
 |SLUS-21743_4EECA3D0|Code Lyoko - Quest for Infinity (U)(SLUS-21743)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21743_4EECA3D0.pnach)|
 |SLES-54615_35F040CD|Code of the Samurai (PAL-E) (SLES-54615)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54615_35F040CD.pnach)|
-|9AC20A5B|Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (U)(SLUS-21155)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9AC20A5B.pnach)|
+|SLUS-21155_9AC20A5B|Codename - Kids Next Door - Operation - V.I.D.E.O.G.A.M.E. (U)(SLUS-21155)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21155_9AC20A5B.pnach)|
 |A38C6B77|Codename Kids Next Door Operation VIDEOGAME [PAL-M4] (SLES_538.12)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A38C6B77.pnach)|
 |SLUS-20845_D6D704BB|Cold Winter (SLUS-20845)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20845_D6D704BB.pnach)|
 |CD6AA180|Cold Winter [PAL-M4] (SLES_529.63)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CD6AA180.pnach)|
 |SLUS-20502_AA294EDC|Colin McRae Rally 3 [SLUS 20502] (U)|Widescreen patch|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20502_AA294EDC.pnach)|
 |9285A8D6|Colosseum - Road to Freedom (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9285A8D6.pnach)|
 |51233169|Colosseum - Road to Freedom SLPS_254.56|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/51233169.pnach)|
-|29CA91F1|Colosseum: Road to Freedom [PAL] (SLES_533.56)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/29CA91F1.pnach)|
+|SLES-53356_29CA91F1|Colosseum: Road to Freedom [PAL] (SLES_533.56)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53356_29CA91F1.pnach)|
 |0712E8FA|Combat Elite - WWII Paratroopers (U)(SLUS-20715)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0712E8FA.pnach)|
 |SLES-52451_9A206BA3|Conan - The Dark Axe (E)(SLES-52451)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52451_9A206BA3.pnach)|
-|2BE460DF|Conflict - Desert Storm II - Back to Baghdad (U)(SLUS-20689)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2BE460DF.pnach)|
+|SLUS-20689_2BE460DF|Conflict - Desert Storm II - Back to Baghdad (U)(SLUS-20689)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20689_2BE460DF.pnach)|
 |SLES-51523_AA40FD87|Conflict - Desert Storm II (E)(SLES-51523)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51523_AA40FD87.pnach)|
 |SLUS-20549_49AF964B|Conflict - Desert Storm SLUS_205.49|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20549_49AF964B.pnach)|
 |73973370|Conflict - Global Storm (E)(SLES-52573)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/73973370.pnach)|
@@ -569,7 +569,7 @@ If you are looking for specific game use shortcut CTRL+F
 |C82BB39E|Contra - Shattered Soldier (PAL-M5) (SLES-51284)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C82BB39E.pnach)|
 |EC3F279F|Contra - Shattered Soldier (PAL-M5) (SLES-51284)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EC3F279F.pnach)|
 |47C29CE9|Conveni 4, The - A no Machi o Dokusen Seyo (J)(SLPM-62724)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/47C29CE9.pnach)|
-|5B38173C|Cool Boarders - Code Alien (J)(SLPS-25022)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5B38173C.pnach)|
+|SLPS-25022_5B38173C|Cool Boarders - Code Alien (J)(SLPS-25022)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25022_5B38173C.pnach)|
 |SCUS-97108_0993962D|Cool Boarders 2001 SCUS_971.08|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97108_0993962D.pnach)|
 |150529ED|Cool Girl (J)(SLPM-65506)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/150529ED.pnach)|
 |SLES-55470_4F82849C|Coraline [PAL] (SLES_554.70)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55470_4F82849C.pnach)|
@@ -577,19 +577,19 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21499_45A8B64C|Corvette Evolution GT (SLUS-21499)|Widescreen patch by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21499_45A8B64C.pnach)|
 |CFE893B8|Covert Command (E)(SLES-54568)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CFE893B8.pnach)|
 |C162A768|Cowboy Bebop - Tsuioku no Serenade (J)(SLPS-25551)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C162A768.pnach)|
-|00A074A7|Crash Bandicoot - Return of The Demon King (K)(SLPM-64513)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/00A074A7.pnach)|
+|SLPM-64513_00A074A7|Crash Bandicoot - Return of The Demon King (K)(SLPM-64513)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64513_00A074A7.pnach)|
 |F8643F9B|Crash Bandicoot 4 - Sakuretsu! Majin Power (J)(v1.03) (SLPM-62114)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F8643F9B.pnach)|
 |84AAB204|﻿Crash Bandicoot Bakusou! Nitro Kart [NTSC-J] (SLPM-65580)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/84AAB204.pnach)|
-|1E65175B|Crash Bandicoot Gacchanko World (J)(SLPM-66090)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E65175B.pnach)|
+|SLPM-66090_1E65175B|Crash Bandicoot Gacchanko World (J)(SLPM-66090)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66090_1E65175B.pnach)|
 |SLES-50386_3A03D62F|Crash Bandicoot Wrath Of Cortex (SLES 503.86) (PAL)|Crash Bandicoot Wrath Of Cortex|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50386_3A03D62F.pnach)|
 |35D70452|Crash Bandicoot Wrath Of Cortex (SLES 503.86) (PAL)Ver 1.03|Crash Bandicoot Wrath Of Cortex|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/35D70452.pnach)|
 |103B5706|Crash Bandicoot Wrath Of Cortex (SLUS_202.38) (Version 1.1)|Widescreen hack by flameofrecca; ported by PsxFan107|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/103B5706.pnach)|
 |5188ABCA|Crash Bandicoot Wrath of Cortex (SLUS-20238) (Version 1.0)|Widescreen hack by flameofrecca|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5188ABCA.pnach)|
 |SLUS-20649_8F943CF3|Crash Nitro Kart (SLUS-20649)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20649_8F943CF3.pnach)|
-|1B09B0E4|Crash Nitro Kart [PAL-M6] (SLES_515.11)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1B09B0E4.pnach)|
+|SLES-51511_1B09B0E4|Crash Nitro Kart [PAL-M6] (SLES_515.11)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51511_1B09B0E4.pnach)|
 |E2FF6D3D|Crash Tag Team Racing (E)(SLES-53439)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E2FF6D3D.pnach)|
-|SLUS-21191_AA525269|Crash Tag Team Racing (U)(SLUS-21191)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21191_AA525269.pnach)|
-|739EB266|Crazy Bump's: Kattobi Car Battle (NTSC-J) [SLPS-20067] [739EB266]|Widescreen hacks by Arapapa (original hack) and Aced14 (alternate hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/739EB266.pnach)|
+|SLUS-21191_AA525269|Crash Tag Team Racing (U)(SLUS-21191)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21191_AA525269.pnach)|
+|SLPS-20067_739EB266|Crazy Bump's: Kattobi Car Battle (NTSC-J) [SLPS-20067] [739EB266]|Widescreen hacks by Arapapa (original hack) and Aced14 (alternate hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20067_739EB266.pnach)|
 |SLUS-21634_DB53D06D|Crazy Frog Arcade Racer (U)(SLUS-21634)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21634_DB53D06D.pnach)|
 |44E5F136|Crazy Frog Racer (E)(SLES-53869)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/44E5F136.pnach)|
 |SLES-54549_31E4639D|Crazy Frog Racer 2 (E)(SLES-54549)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54549_31E4639D.pnach)|
@@ -605,7 +605,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20948_D31904C2|Crimson Tears SLUS_209.48|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20948_D31904C2.pnach)|
 |4CCEF323|Critical Velocity (NTSC-J)(SLPS-25532)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4CCEF323.pnach)|
 |63FE356A|Crouching Tiger - Hidden Dragon (J)(SLPS-25308)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/63FE356A.pnach)|
-|6178158D|Crouching Tiger Hidden Dragon (K)(SLKA-25107)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6178158D.pnach)|
+|SLKA-25107_6178158D|Crouching Tiger Hidden Dragon (K)(SLKA-25107)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25107_6178158D.pnach)|
 |9C8C770A|Crouching Tiger Hidden Dragon (PAL)(SLES-51916)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9C8C770A.pnach)|
 |SLUS-20523_71BE05FA|Crouching Tiger Hidden Dragon (U)(SLUS-20523)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20523_71BE05FA.pnach)|
 |SLUS-21655_033C16DC|CSI - Crime Scene Investigation - 3 Dimensions of Murder (NTSC-U) (SLUS-21655)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21655_033C16DC.pnach)|
@@ -639,7 +639,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20300_F26B83E0|Dark Summit (U)(SLUS-20300)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20300_F26B83E0.pnach)|
 |SLUS-21042_327053E8|Darkwatch (SLUS-21042)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21042_327053E8.pnach)|
 |9D443C69|Darkwatch [PAL] (SLES_535.64)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9D443C69.pnach)|
-|2277CAEB|Dave Mirra Freestyle BMX 2 (SLES-50217)|Widescreen patch by BloodRaynare|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2277CAEB.pnach)|
+|SLES-50217_2277CAEB|Dave Mirra Freestyle BMX 2 (SLES-50217)|Widescreen patch by BloodRaynare|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50217_2277CAEB.pnach)|
 |SLUS-20159_CEC42835|Dave Mirra Freestyle BMX 2 (SLUS-20159)|Widescreen patch by BloodRaynare|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20159_CEC42835.pnach)|
 |FDDB7579|David Beckham Soccer (E)(SLES-50243)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FDDB7579.pnach)|
 |833D54BC|David Douillet Judo (E)(SLES-54366)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/833D54BC.pnach)|
@@ -650,7 +650,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-50003_7A51F86E|Dead or Alive 2 (SCES-50003)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50003_7A51F86E.pnach)|
 |SLPS-25002_7894BA09|Dead or Alive 2 (SLPS_25002)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25002_7894BA09.pnach)|
 |SLES-51581_FAC64195|Dead to Rights (E)(SLES-51581)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51581_FAC64195.pnach)|
-|916B1D2E|Dead to Rights (J)(SLPS-25268)|Widescreen hack by Arapapa<br />No Interlacing|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/916B1D2E.pnach)|
+|SLPS-25268_916B1D2E|Dead to Rights (J)(SLPS-25268)|Widescreen hack by Arapapa<br />No Interlacing|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25268_916B1D2E.pnach)|
 |SLUS-20220_5EA6B8BE|Dead to Rights (U)(SLUS-20220)|Widescreen hack by Arapapa<br />No Interlacing|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20220_5EA6B8BE.pnach)|
 |SLUS-20934_E1D6F85E|Death by Degrees (SLUS-20934)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20934_E1D6F85E.pnach)|
 |26875047|Death Crimson OX+ (J)(SLPM-62401)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/26875047.pnach)|
@@ -660,7 +660,7 @@ If you are looking for specific game use shortcut CTRL+F
 |DBD0E172|Def Jam - Vendetta (J)(SLPS-25275)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DBD0E172.pnach)|
 |SLUS-20639_4042248C|Def Jam - Vendetta SLUS_206.39|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20639_4042248C.pnach)|
 |SLUS-21004_4538436F|Def Jam: Fight for NY (SLUS-21004)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21004_4538436F.pnach)|
-|7B8477F9|Def Jam: Vendetta [PAL] (SLES_514.79)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7B8477F9.pnach)|
+|SLES-51479_7B8477F9|Def Jam: Vendetta [PAL] (SLES_514.79)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51479_7B8477F9.pnach)|
 |8A6875C4|Defender (E)(SLES-50714)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8A6875C4.pnach)|
 |SLUS-20191_10BB2872|Defender (U)(SLUS-20191)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20191_10BB2872.pnach)|
 |SLUS-21414_3115A446|Delta Force - Black Hawk Down - Team Sabre (U)(SLUS-21414)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21414_3115A446.pnach)|
@@ -693,14 +693,14 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20964_0BED0AF9|Devil May Cry 3 NTSC-U  (SLUS_20964)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20964_0BED0AF9.pnach)|
 |SLPM-66160_79C952B0|Devil May Cry 3 Special Edition|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66160_79C952B0.pnach)|
 |53B84E26|Diabolik - The Original Sin (E)(SLES-55274)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/53B84E26.pnach)|
-|5B192B56|Diet Channel (J)(SLPM-62472)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5B192B56.pnach)|
+|SLPM-62472_5B192B56|Diet Channel (J)(SLPM-62472)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62472_5B192B56.pnach)|
 |115A184D|Digimon Battle Chronicle (K)(SLKA-25254)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/115A184D.pnach)|
-|7F995E8D|﻿Digimon Battle Chronicle NTSC-J (SLPS-25383)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7F995E8D.pnach)|
+|SLPS-25383_7F995E8D|﻿Digimon Battle Chronicle NTSC-J (SLPS-25383)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25383_7F995E8D.pnach)|
 |SLUS-21598_7E582398|Digimon Data Squad (NTSC-U) (16:9)|Digimon Data Squad|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21598_7E582398.pnach)|
 |SLUS-21067_568A5C78|Digimon Rumble Arena 2 SLUS_210.67|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21067_568A5C78.pnach)|
 |7915CB1E|﻿Digimon Savers - Another Mission [NTSC-J] (SLPS-25716)|Widescreen|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7915CB1E.pnach)|
 |SLUS-20836_B871C1D0|Digimon World 4 (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20836_B871C1D0.pnach)|
-|2CEFF37C|Digimon World 4 (PAL-M4) (SLES-53405)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2CEFF37C.pnach)|
+|SLES-53405_2CEFF37C|Digimon World 4 (PAL-M4) (SLES-53405)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53405_2CEFF37C.pnach)|
 |E4F97921|﻿Digimon World X [NTSC-J] (SLPS-25453)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E4F97921.pnach)|
 |SLUS-20974_D7273511|Digital Devil Saga|Shin Megami Tensei - Digital Devil Saga (SLUS-20974) (CRC-D7273511)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20974_D7273511.pnach)|
 |44865CE1|Digital Devil Saga Avatar Tuner|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/44865CE1.pnach)|
@@ -719,20 +719,20 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20666_4D2CAC9D|Disgaea: Hour of Darkness (SLUS-20666)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20666_4D2CAC9D.pnach)|
 |SLPS-73103_D00037C4|﻿Disgaea: Hour of Darkness [NTSC-J] (SLPS-20251)|Widescreen hack by nemesis2000 (pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-73103_D00037C4.pnach)|
 |8ED1E558|Disney High School Musical 3 - Senior Year Dance! (E)(SLES-55398)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8ED1E558.pnach)|
-|004B2E96|Disney Presents Piglet's Big Game (U)(SLUS-20659)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/004B2E96.pnach)|
+|SLUS-20659_004B2E96|Disney Presents Piglet's Big Game (U)(SLUS-20659)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20659_004B2E96.pnach)|
 |5F30B426|Disney Princess - Enchanted Journey (E)(SLES-54837)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5F30B426.pnach)|
 |SLUS-21660_56790A28|Disney Princess - Enchanted Journey (U)(SLUS-21660)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21660_56790A28.pnach)|
 |38D6ED88|Disney Princess - Mahou no Sekai e (J)(SLPM-66902)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/38D6ED88.pnach)|
 |5B1DC04C|Disney Stitch: Experiment 626 [PAL-M2] [Eng-Sve] (SCES_509.66)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5B1DC04C.pnach)|
 |B74A2938|Disney Stitch: Experiment 626 [PAL-M2] [Esp-Por] (SCES_509.59)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B74A2938.pnach)|
 |14AE6410|Disney-Pixar Finding Nemo (E)(SLES-51755)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/14AE6410.pnach)|
-|1E70F18D|Disney-Pixar Finding Nemo (U)(SLUS-20628)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E70F18D.pnach)|
+|SLUS-20628_1E70F18D|Disney-Pixar Finding Nemo (U)(SLUS-20628)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20628_1E70F18D.pnach)|
 |334BBC45|Disney-Pixar Finding Nemo (Yuke's the Best) (J)(SLPM-65655)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/334BBC45.pnach)|
 |SLES-55622_EA6A9029|Disney-Pixar Toy Story 3 (E)(SLES-55622)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55622_EA6A9029.pnach)|
 |EA6A9009|Disney-Pixar Toy Story 3 (U)(SLUS-21931)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EA6A9009.pnach)|
 |07E37616|Disney's Chicken Little - Ace in Action (U)(SLUS-21420)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/07E37616.pnach)|
 |AD96FA2F|Disney's Chicken Little (NTSC-U)(SLUS-21088)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AD96FA2F.pnach)|
-|238B189C|Disney's Dinosaur (E)(SLES-50042 & SLES-50043)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/238B189C.pnach)|
+|SLES-50043_238B189C|Disney's Dinosaur (E)(SLES-50042 & SLES-50043)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50043_238B189C.pnach)|
 |SLUS-20077_C573F3A2|Disney's Donald Duck - Goin' Quackers (U)(SLUS-20077)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20077_C573F3A2.pnach)|
 |SLES-50773_D4781770|Disney's Donald Duck - PK (E)(SLES-50773)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50773_D4781770.pnach)|
 |SLES-50048_F34ECBDC|Disney's Donald Duck - Quack Attack (E)(SLES-50048)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50048_F34ECBDC.pnach)|
@@ -740,7 +740,7 @@ If you are looking for specific game use shortcut CTRL+F
 |C76031E8|Disney's Meet the Robinsons (E)(SLES-54510)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C76031E8.pnach)|
 |SLUS-21453_E319F8A2|Disney's Meet the Robinsons (U)(SLUS-21453)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21453_E319F8A2.pnach)|
 |E45821EC|Disney's Peter Pan - The Legend of Never Land (E)(SCES-50522)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E45821EC.pnach)|
-|77C7F85A|Disney's Pixar - Monsters, Inc. - Scare Island (E)(SCES-50595)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/77C7F85A.pnach)|
+|SCES-50595_77C7F85A|Disney's Pixar - Monsters, Inc. - Scare Island (E)(SCES-50595)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50595_77C7F85A.pnach)|
 |SLUS-20478_8938E1F5|Disney's PK - Out of the Shadows (U)(SLUS-20478)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20478_8938E1F5.pnach)|
 |80B66618|Disney's Stitch - Experiment 626 (K)(SLKA-25024)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/80B66618.pnach)|
 |F78AE86C|Disney's Stitch - Experiment 626 (U)(SCUS-97145)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F78AE86C.pnach)|
@@ -757,12 +757,12 @@ If you are looking for specific game use shortcut CTRL+F
 |0194120C|Dog of Bay (J)(SLPS-20057)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0194120C.pnach)|
 |EEE2C773|Dokapon Kingdom (J) (SLPM_66878)|Widescreen Hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EEE2C773.pnach)|
 |CDE9832D|Dokapon Kingdom SLUS_217.78|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CDE9832D.pnach)|
-|9F0248CB|Doko Demo Issyo - Toro to Ippai (J)(SCPS-15081)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9F0248CB.pnach)|
+|SCPS-15081_9F0248CB|Doko Demo Issyo - Toro to Ippai (J)(SCPS-15081)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15081_9F0248CB.pnach)|
 |D0692603|Donald Duck - Rescue Daisakusen!! (J)(SLPS-20070)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D0692603.pnach)|
 |7F762742|Doomsday Racers (E)(SLES-53142)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7F762742.pnach)|
 |643BED21|Dora the Explorer - Dora Saves the Crystal Kingdom (U)(SLUS-21923)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/643BED21.pnach)|
-|4D6B5DE5|Dora the Explorer - Dora Saves the Snow Princess (U)(SLUS-21796)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4D6B5DE5.pnach)|
 |EAEDE6E8|Dora the Explorer - Dora Saves the Snow Princess (U)(SLUS-21796)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EAEDE6E8.pnach)|
+|SLUS-21796_4D6B5DE5|Dora the Explorer - Dora Saves the Snow Princess (U)(SLUS-21796)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21796_4D6B5DE5.pnach)|
 |FDA2F2DF|DoRoRo (K)(SLKA-25225)|Widescreen Hack by Little Giant, Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FDA2F2DF.pnach)|
 |9E2ADF9C|﻿Dororo [NTSC-J] (SLPM-65526)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9E2ADF9C.pnach)|
 |SLPS-25527_273933B4|dot Hack - FRAGMENT SLPS_255.27|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25527_273933B4.pnach)|
@@ -772,7 +772,7 @@ If you are looking for specific game use shortcut CTRL+F
 |49C7704B|Dot Hack Part 3 - Outbreak (PAL-M5) (SLES-52469)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/49C7704B.pnach)|
 |SLES-52468_49C7774C|Dot Hack Part 4 - Quarantine (PAL-M5) (SLES-52468)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52468_49C7774C.pnach)|
 |SLUS-20405_EAB359C1|Downforce NTSC-U|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20405_EAB359C1.pnach)|
-|5AE01D98|Downhill Domination (NTSC-U) [SCUS-97177]|Downhill Domination Widescreen Hacks (by Aced14)<br />no interlacing by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5AE01D98.pnach)|
+|SCUS-97177_5AE01D98|Downhill Domination (NTSC-U) [SCUS-97177]|Downhill Domination Widescreen Hacks (by Aced14)<br />no interlacing by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97177_5AE01D98.pnach)|
 |SLES-52202_73671EFD|Downhill Domination (PAL-M5) [SLES-52202]|Downhill Domination Widescreen Hacks (by Aced14)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52202_73671EFD.pnach)|
 |BA7CAA90|Dr. Muto (PAL-M5) (SLES-50710)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BA7CAA90.pnach)|
 |SLUS-20458_FF60D3ED|Dr. Muto (U)(SLUS-20458)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20458_FF60D3ED.pnach)|
@@ -780,7 +780,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21227_7B0E28D0|Dragon Ball Z - Budokai Tenkaichi (U)(SLUS-21227)|Widescreen hack by sergx12/ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21227_7B0E28D0.pnach)|
 |9669948F|Dragon Ball Z - Sparking! (K)(SLKA-25307)|Widescreen hack by sergx12/ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9669948F.pnach)|
 |E29C09A3|Dragon Ball Z - Sparking! NEO (K)(SLKA-25397)|Widescreen hack by sergx12 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E29C09A3.pnach)|
-|2BA66E82|Dragon Ball Z (J)(SLPS-25174)|Widescreen Hack by sergx12 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2BA66E82.pnach)|
+|SLPS-25174_2BA66E82|Dragon Ball Z (J)(SLPS-25174)|Widescreen Hack by sergx12 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25174_2BA66E82.pnach)|
 |0192F911|Dragon Ball Z (K)(SLKA-25046)|Widescreen Hack by sergx12 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0192F911.pnach)|
 |10B25938|Dragon Ball Z 2 (PlayStation 2 the Best) (J)(SLPS-73208)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/10B25938.pnach)|
 |C410973D|Dragon Ball Z 2V (J)(SLPM-68513)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C410973D.pnach)|
@@ -813,7 +813,7 @@ If you are looking for specific game use shortcut CTRL+F
 |C2B6BDCC|Dragonball Z 2 (K) (SLKA-25062)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C2B6BDCC.pnach)|
 |4B27353A|Dragonball Z 3 (K) (SLKA-25205)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4B27353A.pnach)|
 |SLUS-20998_C97EF0A4|DragonBall Z Budokai 3 - Greatest Hits SLUS_209.98|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20998_C97EF0A4.pnach)|
-|2A4B60EB|DragonBall Z Budokai 3 SLUS_209.98|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2A4B60EB.pnach)|
+|SLUS-20998_2A4B60EB|DragonBall Z Budokai 3 SLUS_209.98|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20998_2A4B60EB.pnach)|
 |04F9D87F|Drakan - The Ancients' Gates|Drakan - The Ancients' Gates * SCES-50006 * PAL-M5 * 04F9D87F<br />- Fix by pgert against displaycrap which arises with HD<br />-  when using GSdx (in HW-mode) around the Health & Mana bars.<br />- Widescreen hack ported by Dreadmoth from the NTSC-U pnach by nemesis2000.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/04F9D87F.pnach)|
 |SCUS-97128_4167D813|Drakan: The Ancients' Gates (SCUS-97128)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97128_4167D813.pnach)|
 |SLUS-20732_9679D44C|Drakengard (NTSC) SLUS_207|Ported by InfiniteNine from PAL code by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20732_9679D44C.pnach)|
@@ -829,7 +829,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21392_34B473E6|DreamWorks Shrek Smash n' Crash Racing (U)(SLUS-21392)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21392_34B473E6.pnach)|
 |6DD4EB8D|DreamWorks Shrek the Third (E)(SLES-54771)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6DD4EB8D.pnach)|
 |SLUS-21454_90A9963E|DreamWorks Shrek the Third (U)(SLUS-21454)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21454_90A9963E.pnach)|
-|0AD22FB5|﻿Drift Racer - Kaido Battle [NTSC-J] (SLPM-65246)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0AD22FB5.pnach)|
+|SLPM-65246_0AD22FB5|﻿Drift Racer - Kaido Battle [NTSC-J] (SLPM-65246)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_0AD22FB5.pnach)|
 |SLUS-21109_0520A26D|Drive To Survive (U)(SLUS-21109)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21109_0520A26D.pnach)|
 |250353F1|Driven (E)(SLES-50390)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/250353F1.pnach)|
 |EAB0862D|Driven (U)(SLUS-20239)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EAB0862D.pnach)|
@@ -850,10 +850,10 @@ If you are looking for specific game use shortcut CTRL+F
 |5938CA04|Dynasty Tactics 2 (SLKA_250.88) (NTSC-K)|widescreen 16:9 hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5938CA04.pnach)|
 |SLUS-20761_5EF0678E|Dynasty Tactics 2 (U)(SLUS-20761)|widescreen 16:9 hack by 99skull (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20761_5EF0678E.pnach)|
 |5B665C0B|Dynasty Warriors 2||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5B665C0B.pnach)|
-|E90A5E60|Dynasty Warriors 2 (PAL-EUR) (SLES-50057)|Widescreen Hack (16:9) by Machiavel Dhy'v converted from ElHecht PAL-G|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E90A5E60.pnach)|
-|0CE91053|Dynasty Warriors 2 (PAL-G) (SLES-50059)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0CE91053.pnach)|
+|SLES-50057_E90A5E60|Dynasty Warriors 2 (PAL-EUR) (SLES-50057)|Widescreen Hack (16:9) by Machiavel Dhy'v converted from ElHecht PAL-G|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50057_E90A5E60.pnach)|
+|SLES-50059_0CE91053|Dynasty Warriors 2 (PAL-G) (SLES-50059)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50059_0CE91053.pnach)|
 |SLUS-20277_4A35E19F|Dynasty Warriors 3||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20277_4A35E19F.pnach)|
-|0F84FE89|Dynasty Warriors 3 - Xtreme Legends (PAL-G) (SLES-51443)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0F84FE89.pnach)|
+|SLES-51443_0F84FE89|Dynasty Warriors 3 - Xtreme Legends (PAL-G) (SLES-51443)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51443_0F84FE89.pnach)|
 |A1021ADC|Dynasty Warriors 3 (PAL-M3) (SLES-50641)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A1021ADC.pnach)|
 |839D614D|Dynasty Warriors 3: Xtreme Legends (E)(SLES-51441)|Widescreen Hack (16:9) by ElHecht (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/839D614D.pnach)|
 |C22D5152|Dynasty Warriors 3: Xtreme Legends (U)(SLUS-20617)|Widescreen Hack (16:9) by ElHecht (NTSC-U by Arapapa)<br />no interlace by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C22D5152.pnach)|
@@ -867,7 +867,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20812_96C20D6F|Dynasty Warriors 4: Xtreme Legends (SLUS-20812)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )<br />no interlacing by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20812_96C20D6F.pnach)|
 |8E8BB571|Dynasty Warriors 5 - Empires (PAL-G) (SLES-54097)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8E8BB571.pnach)|
 |5A631627|Dynasty Warriors 5 - Xtreme Legends (PAL-G) (SLES-53862)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5A631627.pnach)|
-|55AC5DA3|Dynasty Warriors 5 (PAL-G) (SLES-53341)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/55AC5DA3.pnach)|
+|SLES-53341_55AC5DA3|Dynasty Warriors 5 (PAL-G) (SLES-53341)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53341_55AC5DA3.pnach)|
 |D9A3B30E|Dynasty Warriors 5 (SLES-53340)|Widescreen hack by Machiavel Dhy'v (converted from nemesis2000 ntsc-u)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D9A3B30E.pnach)|
 |SLUS-21153_6677B437|Dynasty Warriors 5 (SLUS-21153)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21153_6677B437.pnach)|
 |SLUS-21398_F0EA2271|Dynasty Warriors 5: Empires (NTSC-U)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21398_F0EA2271.pnach)|
@@ -882,26 +882,26 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20928_2DE16D21|Echo Night - Beyond (U)(SLUS-20928)|Widescreen Hack by Arapapa<br />No-Interlacing + 60FPS by asasega|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20928_2DE16D21.pnach)|
 |SLES-53414_BBF8C3D6|Echo Night: Beyond [PAL] (SLES_534.14)|Widescreen hack by El_Patas and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53414_BBF8C3D6.pnach)|
 |E5BE5D27|Enter the Matrix (SLKA_25032) Ver. 2.0|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E5BE5D27.pnach)|
-|2A968F81|Enter the Matrix (SLUS-20454) Ver. 2.0|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2A968F81.pnach)|
+|SLUS-20454_2A968F81|Enter the Matrix (SLUS-20454) Ver. 2.0|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20454_2A968F81.pnach)|
 |SLES-51203_F1370E83|Enter the Matrix [PAL-M5] (SLES_512.03)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51203_F1370E83.pnach)|
 |SLUS-20967_81D233DC|Enthusia - Professional Racing (SLUS_20967)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20967_81D233DC.pnach)|
 |5C63B5AC|Enthusia - Professional Racing PAL|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C63B5AC.pnach)|
 |5637E95B|Enthusia Professional Racing (J)(SLPM-65948)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5637E95B.pnach)|
 |SLUS-20169_D4DE7788|Ephemeral Fantasia [NTSC-J] (SLUS-20169)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20169_D4DE7788.pnach)|
 |SLES-50110_8EF3DDFC|Ephemeral Fantasia [PAL] (SLES-50110)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50110_8EF3DDFC.pnach)|
-|3E9B19C2|Eragon (E)(SLES-54159)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E9B19C2.pnach)|
+|SLES-54159_3E9B19C2|Eragon (E)(SLES-54159)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54159_3E9B19C2.pnach)|
 |SLUS-21322_7E3C6FDE|Eragon (U)(SLUS-21322)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21322_7E3C6FDE.pnach)|
 |SLPM-62623_B99379B7|﻿Erementar Gerad [NTSC-J] (SLPM-62623)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62623_B99379B7.pnach)|
 |SCES-52460_E59E10BF|ESPN International Track & Field (E)(SLES-50036)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52460_E59E10BF.pnach)|
 |SLUS-20041_B2A5B6F2|ESPN International Track & Field (U)(SLUS20041)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20041_B2A5B6F2.pnach)|
 |B03280F6|ESPN International Winter Sports 2002 (U)(SLUS-20320)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B03280F6.pnach)|
 |E3BC4CEE|ESPN MLS Extra Time (U)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E3BC4CEE.pnach)|
-|FE830EBC|ESPN National Hockey Night (J)(SLPM-62041)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FE830EBC.pnach)|
+|SLPM-62041_FE830EBC|ESPN National Hockey Night (J)(SLPM-62041)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62041_FE830EBC.pnach)|
 |0414648B|ESPN National Hockey Night (U)(SLUS-20166)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0414648B.pnach)|
 |CA37B42E|ESPN NBA 2K5 (E)(SLES-53022)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CA37B42E.pnach)|
 |903C7BC5|ESPN NBA 2K5 (U)(SLUS-20920)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/903C7BC5.pnach)|
 |SLES-50075_68DAC75E|ESPN NBA 2Night (E)(SLES-50075)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50075_68DAC75E.pnach)|
-|07A63225|ESPN NBA 2Night (J)(SLPM-62032)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/07A63225.pnach)|
+|SLPM-62032_07A63225|ESPN NBA 2Night (J)(SLPM-62032)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62032_07A63225.pnach)|
 |6CC36213|ESPN NBA 2Night (U)(SLUS-20143)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6CC36213.pnach)|
 |8741DA37|ESPN NBA 2NIght 2002 (J)(SLPM-62121)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8741DA37.pnach)|
 |162CDF86|ESPN NBA 2Night 2002 (U)(SLUS-20261)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/162CDF86.pnach)|
@@ -914,7 +914,7 @@ If you are looking for specific game use shortcut CTRL+F
 |C801FB9F|ESPN Winter X-Games Skateboarding (U)(SLUS-20237)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C801FB9F.pnach)|
 |SLUS-20321_0FF28F8B|ESPN Winter X-Games Snowboarding 2002 (U)(SLUS-20321)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20321_0FF28F8B.pnach)|
 |33A198C1|ESPN X-Games Skateboarding (J)(SLPM-62084)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/33A198C1.pnach)|
-|0EFF5BCA|ESPN X-Games Snowboarding (J)(SLPM-65009)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0EFF5BCA.pnach)|
+|SLPM-65009_0EFF5BCA|ESPN X-Games Snowboarding (J)(SLPM-65009)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65009_0EFF5BCA.pnach)|
 |5350FBD1|ESPN X-Games Snowboarding 2002 (J)(SLPM-65072)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5350FBD1.pnach)|
 |7EC8A8A3|eter Jackson's King Kong - The Official Game of the Movie (J)(SLPM-66211)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7EC8A8A3.pnach)|
 |SLUS-21779_2BE55519|Eternal Poison (U) (SLUS-21779)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21779_2BE55519.pnach)|
@@ -927,27 +927,27 @@ If you are looking for specific game use shortcut CTRL+F
 |A87BCC9C|Eureka Seven-Vol 1 (SLPS_25554)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A87BCC9C.pnach)|
 |SLUS-21353_88DD7C86|Eureka Seven-Vol 1 SLUS_213.53|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21353_88DD7C86.pnach)|
 |015AC745|Eureka Seven-Vol 2 (SLPS_25646)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/015AC745.pnach)|
-|2EA818EA|European Tennis Pro (E)(SLES-51813)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2EA818EA.pnach)|
+|SLES-51813_2EA818EA|European Tennis Pro (E)(SLES-51813)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51813_2EA818EA.pnach)|
 |CBB87BF9|Evangelion - Jo (J)(SLPS-25932)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CBB87BF9.pnach)|
 |SLPM-62081_59C8E0B8|Everblue (J)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62081_59C8E0B8.pnach)|
 |SLES-50639_3832F5E0|Everblue (PAL)(SLES-50639)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50639_3832F5E0.pnach)|
 |F97D5A55|Everblue 2 (J)(SLPM-62214)|Widescreen Hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F97D5A55.pnach)|
 |SLUS-20598_BCE9B7BB|Everblue 2 [NTSC-U] (SLUS_205.98)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20598_BCE9B7BB.pnach)|
-|00C584CB|Everblue 2 [PAL] (SLES_513.81)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/00C584CB.pnach)|
+|SLES-513.81_00C584CB|Everblue 2 [PAL] (SLES_513.81)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-513.81_00C584CB.pnach)|
 |66FB2124|Evergrace (NTSC-J) (SLPS_25003)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/66FB2124.pnach)|
 |F40297F7|Evergrace (PAL) (SLES-50050)|Widescreen Hack by Machiavel Dhy'v converted from NTSC-U|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F40297F7.pnach)|
 |E26D2E7D|﻿Evergrace II [NTSC-J] (SLPS-25044)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E26D2E7D.pnach)|
 |SLUS-20016_758F0EE6|Evergrace SLUS_200.16|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20016_758F0EE6.pnach)|
 |E12A4CFA|Everybody's Golf (K)(SCKA-20057)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E12A4CFA.pnach)|
 |C24621B8|Everybody's Golf (PAL-M5) (SCES-52582)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C24621B8.pnach)|
-|7B09C4CB|Everybody's Tennis (PAL-M11) (SCES-54535)|Widescreen hack by ElHecht<br />no interlacing by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7B09C4CB.pnach)|
+|SCES-54535_7B09C4CB|Everybody's Tennis (PAL-M11) (SCES-54535)|Widescreen hack by ElHecht<br />no interlacing by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54535_7B09C4CB.pnach)|
 |5D795715|Evil Twin - Cyprien's Chronicles (PAL-M5) (SLES-50201)|Widescreen hack by ElHecht<br />game still needs black bar fix/removal in cut-scenes|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5D795715.pnach)|
-|27B3F625|Evolution GT (PAL-M5) (SLES-53976)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/27B3F625.pnach)|
+|SLES-53976_27B3F625|Evolution GT (PAL-M5) (SLES-53976)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53976_27B3F625.pnach)|
 |7EA8E7C5|Evolution Skateboarding (E)(SLES-51349)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7EA8E7C5.pnach)|
 |B3734A96|Evolution Skateboarding (K)(SLKA-25015)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B3734A96.pnach)|
 |SLUS-20540_536D9565|Evolution Skateboarding (U)(SLUS-20540)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20540_536D9565.pnach)|
 |FF3DB201|Extermination (J)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF3DB201.pnach)|
-|A369B96F|Extermination (J)(SCPS-15011)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A369B96F.pnach)|
+|SCPS-15011_A369B96F|Extermination (J)(SCPS-15011)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15011_A369B96F.pnach)|
 |68707E85|Extermination [PAL-M5] (SCES_502.40)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/68707E85.pnach)|
 |SCUS-97112_0AE679AF|Extermination SCUS 971.12|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97112_0AE679AF.pnach)|
 |1634FB4A|Extreme Sprint 3010 (E)(SLES-53080)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1634FB4A.pnach)|
@@ -961,7 +961,7 @@ If you are looking for specific game use shortcut CTRL+F
 |B9D20D1D|F1 Championship Season 2000 (J)(SLPS-20044)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B9D20D1D.pnach)|
 |SLUS-20103_E138094A|F1 Championship Season 2000 (U)(SLUS-20103)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20103_E138094A.pnach)|
 |SLES-50047_3063BD41|F1 Racing Championship (E)(SLES-50047)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50047_3063BD41.pnach)|
-|32F1FA12|F1 Racing Championship (J)(SLPS-20042)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/32F1FA12.pnach)|
+|SLPS-20042_32F1FA12|F1 Racing Championship (J)(SLPS-20042)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20042_32F1FA12.pnach)|
 |25064744|Fahrenheit (NTSC-J)(SLPM-66193)|Widescreen patch (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/25064744.pnach)|
 |8F96D103|Fahrenheit SLES_535.39|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8F96D103.pnach)|
 |SLUS-21734_0C6E5A80|Falling Stars (U)(SLUS-21734)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21734_0C6E5A80.pnach)|
@@ -977,7 +977,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-11002_78950D31|Fantavision (J)(SCPS-11002)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11002_78950D31.pnach)|
 |40372109|Fantavision (U)(SCUS-97105)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/40372109.pnach)|
 |BCF04BF3|Fatal Frame (Project Zero) (K)(SCPS-56008)|16:9 widescreen hack by nemesis2000, pgert and devina40 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BCF04BF3.pnach)|
-|56ABF4C6|Fatal Frame 2 (Project Zero 2) (K)(SCKA-20023)|16:9 widescreen hack by nemesis2000 and devina40 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/56ABF4C6.pnach)|
+|SCKA-20023_56ABF4C6|Fatal Frame 2 (Project Zero 2) (K)(SCKA-20023)|16:9 widescreen hack by nemesis2000 and devina40 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20023_56ABF4C6.pnach)|
 |9A51B627|Fatal Frame II|Fatal Frame II - Crimson Butterfly * SLUS-20766 * NTSC-U * 9A51B627<br />- This game might have some problems with the Cinematics,<br />-  regardless of resolution or patches; this pnach is not causing that.<br />- *  *  *  *  *<br />- Widescreen & HD pnach by pgert.<br />- Patches primarily by nemesis2000.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9A51B627.pnach)|
 |SLUS-21244_2ADBA7BC|Fatal Frame III: The Tormented (SLUS-21244)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21244_2ADBA7BC.pnach)|
 |SLPM-55108_3AF675BA|Fate/Unlimited Codes (SLPM-55108)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55108_3AF675BA.pnach)|
@@ -1020,7 +1020,7 @@ If you are looking for specific game use shortcut CTRL+F
 |D56DA4AB|Firefighter F.D. 18 (J)(SLPM-65470)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D56DA4AB.pnach)|
 |4590ECC3|Firefighter F.D. 18 (PAL)(SLES-52096)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4590ECC3.pnach)|
 |SLUS-20724_35092D61|Firefighter F.D. 18 (U)(SLUS-25724)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20724_35092D61.pnach)|
-|2EA99E16|Fish Eyes 3 - Ki Oku no Hahen-tachi (J)(SLPS-20291)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2EA99E16.pnach)|
+|SLPS-20291_2EA99E16|Fish Eyes 3 - Ki Oku no Hahen-tachi (J)(SLPS-20291)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20291_2EA99E16.pnach)|
 |SLUS-20428_22CB4B43|Fisherman's Bass Club (U)(SLUS-20428)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20428_22CB4B43.pnach)|
 |SLUS-20553_D1DFF756|Fisherman's Challenge (U)(SLUS 20553)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20553_D1DFF756.pnach)|
 |E8761BDA|Fitness Fun (E)(SLES-52983)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E8761BDA.pnach)|
@@ -1029,7 +1029,7 @@ If you are looking for specific game use shortcut CTRL+F
 |56A593F3|FlatOut 2 (K)(SLKA-25401)|Widescreen hack by El_Patas (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/56A593F3.pnach)|
 |SLUS-21251_45DEB7AC|FlatOut 2 (U)(SLUS-21251)|Widescreen hack by El_Patas (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21251_45DEB7AC.pnach)|
 |SLES-54002_3F0452DE|FlatOut 2 [PAL-M4] (SLES_540.02)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54002_3F0452DE.pnach)|
-|1E05A4A5|FlatOut 2 GTR (J)(SLPM-66591)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E05A4A5.pnach)|
+|SLPM-66591_1E05A4A5|FlatOut 2 GTR (J)(SLPM-66591)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66591_1E05A4A5.pnach)|
 |SLUS-20901_E0127F2D|FlatOut SLUS_209.01|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20901_E0127F2D.pnach)|
 |8F1DB793|Flipnic (E)(SLES-52065)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8F1DB793.pnach)|
 |SCPS-15050_25433CBD|Flipnic (J)(SCPS-15050)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15050_25433CBD.pnach)|
@@ -1038,8 +1038,8 @@ If you are looking for specific game use shortcut CTRL+F
 |4CB5D96E|Flushed Away [PAL-M5] (SLES_545.27)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4CB5D96E.pnach)|
 |080C4D05|Flying Circus (J)(SLPM-62096)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/080C4D05.pnach)|
 |B29E5362|Football Generation (E)(SLES-51959)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B29E5362.pnach)|
-|1ED40BF2|Football Kingdom: Trial Edition [NTSC-J] (SLPS_203.74) (Original version)|Widescreen hacks by El_Patas (X FOV) and Aced14 (Y FOV)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1ED40BF2.pnach)|
-|3EE9A586|Football Kingdom: Trial Edition [NTSC-J] (SLPS_203.74) [English patched, Fernando's v0.004 patch]|Widescreen hacks by El_Patas (X FOV) and Aced14 (Y FOV)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3EE9A586.pnach)|
+|SLPS-20374_1ED40BF2|Football Kingdom: Trial Edition [NTSC-J] (SLPS_203.74) (Original version)|Widescreen hacks by El_Patas (X FOV) and Aced14 (Y FOV)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20374_1ED40BF2.pnach)|
+|SLPS-20374_3EE9A586|Football Kingdom: Trial Edition [NTSC-J] (SLPS_203.74) [English patched, Fernando's v0.004 patch]|Widescreen hacks by El_Patas (X FOV) and Aced14 (Y FOV)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20374_3EE9A586.pnach)|
 |47C2C34A|Forbidden Siren (K) (SCKA_200.19)|Widescreen Hack by sergx12 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/47C2C34A.pnach)|
 |SCES-51920_D5AFDBA7|Forbidden Siren (SCES_519.20)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51920_D5AFDBA7.pnach)|
 |SCPS-15106_626552EB|Forbidden Siren 2 (J) (SCPS_15106)|Widescreen Hack by sergx12 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15106_626552EB.pnach)|
@@ -1058,11 +1058,11 @@ If you are looking for specific game use shortcut CTRL+F
 |79BCFA3A|Formula One 2002 (J)(SCPS-15032)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/79BCFA3A.pnach)|
 |SCES-51592_93223BE4|Formula One 2003 (E)(SCES-51592)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51592_93223BE4.pnach)|
 |309FC75F|Franklin - A Birthday Surprise (U)(SLUS-21382)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/309FC75F.pnach)|
-|223FC5B0|Freak Out - Extreme Freeride (E)(SLES-54653)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/223FC5B0.pnach)|
+|SLES-54653_223FC5B0|Freak Out - Extreme Freeride (E)(SLES-54653)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54653_223FC5B0.pnach)|
 |SLES-50310_FE191134|Freak Out (PAL-Unk) [SLES-50310] [FE191134]|Widescreen hacks by sergx12 (ISO HEX codes) and Aced14 (pnach version - ELF and 16:10 hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50310_FE191134.pnach)|
 |D6A0A3EF|Free Running (E)(SLES-54559)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D6A0A3EF.pnach)|
 |C1D359F2|Freekstyle (K)(SLPM-64517)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C1D359F2.pnach)|
-|3D2FC5EE|Freekstyle [PAL-M5] (SLES_507.53)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3D2FC5EE.pnach)|
+|SLES-50753_3D2FC5EE|Freekstyle [PAL-M5] (SLES_507.53)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50753_3D2FC5EE.pnach)|
 |SLUS-20367_77ECAAA0|Freekstyle SLUS_203.67|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20367_77ECAAA0.pnach)|
 |SCUS-97125_78F63595|Frequency (NTSC-U) [SCUS-97125] [78F63595]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97125_78F63595.pnach)|
 |SCES-50791_386D1E86|Frequency (PAL-Unk) [SCES-50791] [386D1E86]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50791_386D1E86.pnach)|
@@ -1098,10 +1098,10 @@ If you are looking for specific game use shortcut CTRL+F
 |5E4C44CF|Future Tactics: The Uprising [PAL] (SLES_527.01)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5E4C44CF.pnach)|
 |SLPM-65813_950241D3|Fuun Bakumatsuden [NTSC-J] (SLPM-65813)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65813_950241D3.pnach)|
 |AF95D8FC|Fuun Shinsengumi [NTSC-J] (SLPM-65494)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AF95D8FC.pnach)|
-|68C8FC78|Fuuun Shinsengumi [NTSC-K] (SLKA-25139)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/68C8FC78.pnach)|
+|SLKA-25139_68C8FC78|Fuuun Shinsengumi [NTSC-K] (SLKA-25139)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25139_68C8FC78.pnach)|
 |AA0D46D4|G-Saviour (J)(SLPS-25009)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AA0D46D4.pnach)|
 |724B94F6|G.I. Joe - The Rise of Cobra (E)(SLES-55537)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/724B94F6.pnach)|
-|4EC21458|G.I. Joe - The Rise of Cobra (NTSC-U)(SLUS-21886)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4EC21458.pnach)|
+|SLUS-21886_4EC21458|G.I. Joe - The Rise of Cobra (NTSC-U)(SLUS-21886)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21886_4EC21458.pnach)|
 |CE2A5384|Gacharoku (J)(SCPS-11026)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CE2A5384.pnach)|
 |09312716|Gacharoku 2 - Kondo wa Sekai Isshuu yo!! (J)(SCPS-11034)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/09312716.pnach)|
 |FEE46123|Gachinko Pro Yakyuu (J)(SLPS-20301)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FEE46123.pnach)|
@@ -1112,10 +1112,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65097_6B0E0231|Galacta Meisaku Gekijou - Rakugaki Oukouku (J)(SLPM-65097)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65097_6B0E0231.pnach)|
 |SLUS-20822_8745F0BA|Galactic Wrestling - Featuring Ultimate Muscle (U)(SLUS-20822)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20822_8745F0BA.pnach)|
 |E8E54032|Galerians - Ash x Rion Complete Pack [NTSC-J] (SLPS-25096)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E8E54032.pnach)|
-|1AE08CF5|Galerians Ash SLES_513.43|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1AE08CF5.pnach)|
+|SLES-51343_1AE08CF5|Galerians Ash SLES_513.43|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51343_1AE08CF5.pnach)|
 |SLUS-20560_B506C936|Galerians Ash SLUS|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20560_B506C936.pnach)|
 |BE0CAF70|Gallop Racer (E)(SLES-51896)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BE0CAF70.pnach)|
-|46F3905A|Gallop Racer 2 (E)(SLES-53011)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/46F3905A.pnach)|
+|SLES-53011_46F3905A|Gallop Racer 2 (E)(SLES-53011)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53011_46F3905A.pnach)|
 |3EFD508C|Gallop Racer 2003 - A New Breed (U)(SLUS-20662)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3EFD508C.pnach)|
 |157ECF54|Gallop Racer 2004 (U)(SLUS-21031)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/157ECF54.pnach)|
 |SLUS-21393_E7ED0846|Gallop Racer 2006 (U)(SLUS-21393)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21393_E7ED0846.pnach)|
@@ -1147,7 +1147,7 @@ If you are looking for specific game use shortcut CTRL+F
 |B4776FC1|﻿Genji [NTSC-J] (SCPS-15095)|Widescreen Hack by okuha8748p, Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B4776FC1.pnach)|
 |SLUS-21668_028AAFC8|George of the Jungle and the Search for the Secret (U)(SLUS-21668)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21668_028AAFC8.pnach)|
 |6D666080|Germany's Next Topmodel (PAL)(SLES-55529)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6D666080.pnach)|
-|805627AB|Get Ride! AMDriver: Soukoku no Shinjitsu [NTSC-J] (SLPM_659.49)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/805627AB.pnach)|
+|SLPM-65949_805627AB|Get Ride! AMDriver: Soukoku no Shinjitsu [NTSC-J] (SLPM_659.49)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65949_805627AB.pnach)|
 |DF0DD9E7|GetBackers Dakkanya - Dakkandayo! Zenin Shuugou!! (J)(SLPM-62276)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DF0DD9E7.pnach)|
 |B5622E87|GetBackers Dakkanya - Ubawareta Mugenjou (J)(SLPM-62186)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B5622E87.pnach)|
 |50B5FA9F|GetBackers Dakkanya - Urashinshiku Saikyou Battle (J)(SLPM-62476)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/50B5FA9F.pnach)|
@@ -1169,7 +1169,7 @@ If you are looking for specific game use shortcut CTRL+F
 |DDF29822|﻿Gladiator - Road to Freedom Remix [NTSC-J] (SLPM-66132)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DDF29822.pnach)|
 |SLUS-20793_C5DAD771|Gladiator - Sword of Vengeance NTSC-U|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20793_C5DAD771.pnach)|
 |80EA26DA|Gladiator - Sword of Vengeance SLES_517.66|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/80EA26DA.pnach)|
-|2F1A1A42|Gladius [PAL-M3] (SLES_510.64)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2F1A1A42.pnach)|
+|SLES-51064_2F1A1A42|Gladius [PAL-M3] (SLES_510.64)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51064_2F1A1A42.pnach)|
 |SLUS-20490_78ADCFB9|Gladius SLUS_204.90|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20490_78ADCFB9.pnach)|
 |DD35AC9F|Global Defence Force (PAL-E) [SLES-54464] [DD35AC9F]|Widescreen hacks by Yourgrandma (initial active X FOV hack) and Aced14 (ELF and 16:10 hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DD35AC9F.pnach)|
 |930E07E3|Global Folktale (NTSC-J)(SLPS-20052)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/930E07E3.pnach)|
@@ -1188,7 +1188,7 @@ If you are looking for specific game use shortcut CTRL+F
 |4340C7C6|God of War2 (SCKA_300.06)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4340C7C6.pnach)|
 |SLUS-20809_1025D50A|Godzilla - Save the Earth (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20809_1025D50A.pnach)|
 |SLES-52766_AA869E3B|Godzilla - Save the Earth (PAL-M5) (SLES-52766)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52766_AA869E3B.pnach)|
-|98CD9ACA|Godzilla Kaijuu Dairansen - Chikyuu Saishuu Kessen (J)(SLPM-65805)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/98CD9ACA.pnach)|
+|SLPM-65805_98CD9ACA|Godzilla Kaijuu Dairansen - Chikyuu Saishuu Kessen (J)(SLPM-65805)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65805_98CD9ACA.pnach)|
 |9ED42B11|Golf Paradise (J)(SLPS-20009)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9ED42B11.pnach)|
 |D7416293|Golf Paradise DX (J)(SLPS-25027)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D7416293.pnach)|
 |C8BACD69|Golful Golf (J)(SLPS-25032)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C8BACD69.pnach)|
@@ -1201,7 +1201,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-51719_44A61C8F|Gran Turismo 4 [SCES-51719] (E)|Widescreen Text|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51719_44A61C8F.pnach)|
 |77E61C8A|Gran Turismo 4 [SCUS-97328] (U)|Widescreen Text|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/77E61C8A.pnach)|
 |SCUS-97436_32A1C752|Gran Turismo 4 Online Public Beta [SCUS-97436] (U)|Widescreen Text|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97436_32A1C752.pnach)|
-|2A84A1E2|Gran Turismo 4: Mazda MX-5 Edition [SCUS-97483] (USA)|Autoboot in 480p|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2A84A1E2.pnach)|
+|SCUS-97483_2A84A1E2|Gran Turismo 4: Mazda MX-5 Edition [SCUS-97483] (USA)|Autoboot in 480p|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97483_2A84A1E2.pnach)|
 |7812A8FA|Grand Theft Auto - Liberty City Stories (J) (SLPM_66851)|Widescreen fix by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7812A8FA.pnach)|
 |SLPM-65984_60FE139C|Grand Theft Auto - San Andreas (SLPM-65984)|Widescreen fix by BloodRaynare|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65984_60FE139C.pnach)|
 |20B89E56|Grand Theft Auto - Vice City (KOR Undub) (SLUS-21590)|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/20B89E56.pnach)|
@@ -1214,7 +1214,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20062_5E115FB6|Grand Theft Auto III (SLUS-20062)|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20062_5E115FB6.pnach)|
 |SLES-54135_D693D4CF|Grand Theft Auto: Liberty City Stories (PAL)  SLES_541.35|Widescreen converted from nemesis2000's NTSC pnach|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54135_D693D4CF.pnach)|
 |SLUS-21423_7EA439F5|Grand Theft Auto: Liberty City Stories (SLUS-21423)|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21423_7EA439F5.pnach)|
-|SLES-52541_A1B3F232|Grand Theft Auto: San Andreas (SLES-52541)|Original Widescreen fix by nemesis2000 (pnach by nemesis2000) for the NTSC-U version, ported to PAL by shaolinassassin|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52541_A1B3F232.pnach)|
+|SLES-52541_A1B3F232|Grand Theft Auto: San Andreas (SLES-52541)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52541_A1B3F232.pnach)|
 |SLUS-20946_399A49CA|Grand Theft Auto: San Andreas (SLUS-20946GH) / Ver 1.03|Widescreen fix by nemesis2000 (pnach by nemesis2000), port by flameofrecca|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20946_399A49CA.pnach)|
 |SLUS-20946_2C6BE434|Grand Theft Auto: San Andreas (SLUS-20946GH) / Ver 3.00|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20946_2C6BE434.pnach)|
 |SLES-52541_B440A8FE|Grand Theft Auto: San Andreas [PAL-M5] (v2.01) (SLES-52541)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52541_B440A8FE.pnach)|
@@ -1257,13 +1257,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21020_83C9749E|Gungrave Overdose (NTSC-U)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21020_83C9749E.pnach)|
 |80BB14B2|Gungrave: Overdose [PAL-M3] (SLES_529.41)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/80BB14B2.pnach)|
 |30039C36|Gungriffon Blaze (E)(SLES-50158)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/30039C36.pnach)|
-|2DA31A2F|GunGriffon Blaze (J)(SLPS-20033)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2DA31A2F.pnach)|
+|SLPS-20033_2DA31A2F|GunGriffon Blaze (J)(SLPS-20033)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20033_2DA31A2F.pnach)|
 |SLUS-20080_D1E24531|GunGriffon Blaze (U)(SLUS-20080]|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20080_D1E24531.pnach)|
 |SLPS-25343_651DFFAF|Gunslinger Girl Volume.I|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25343_651DFFAF.pnach)|
-|0BFB247D|Gunslinger Girl Volume.II|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0BFB247D.pnach)|
+|SLPS-25373_0BFB247D|Gunslinger Girl Volume.II|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25373_0BFB247D.pnach)|
 |E0EE3385|Gunslinger Girl Volume.III|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E0EE3385.pnach)|
 |SLPS-25402_2FE30958|Hagane no Renkinjutsushi - Dream Carnival (J)(SLPS-25402)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25402_2FE30958.pnach)|
-|54EAD1B8|﻿Hagane no Renkinjutsushi 3 - Kami o Tsugu Shoujo [NTSC-J] (SLPM-66073)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/54EAD1B8.pnach)|
+|SLPM-66073_54EAD1B8|﻿Hagane no Renkinjutsushi 3 - Kami o Tsugu Shoujo [NTSC-J] (SLPM-66073)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66073_54EAD1B8.pnach)|
 |7E33C663|Hajime no Ippo - Victorious Boxers - Championship Version (K)(SLPM-67528)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7E33C663.pnach)|
 |4405AA47|Hajime no Ippo - Victorious Boxers - Championship Version (PlayStation 2 the Best)  (J) (SLPS-25129)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4405AA47.pnach)|
 |059F0DE7|Hajime no Ippo - Victorious Boxers (J)(SLPS-25012)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/059F0DE7.pnach)|
@@ -1277,8 +1277,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65315_08C2754F|Hanjuku Eiyuu Tai 3D (J)(SLPM-65315)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65315_08C2754F.pnach)|
 |3750F7C7|Hanjuku Hero vs 3D (K)(SLKA-25091)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3750F7C7.pnach)|
 |E9FFA1F2|Hannspree Ten Kate Honda - SBK-07 Superbike World Championship (U)(SLUS-21656)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E9FFA1F2.pnach)|
-|4AFEA97B|Happy! Happy!! Boarders in Hokkaido (J)(SLPS-20050)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4AFEA97B.pnach)|
-|B8B74173|Hard Hitter 2 (E)(SLES-51057)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B8B74173.pnach)|
+|SLPS-20050_4AFEA97B|Happy! Happy!! Boarders in Hokkaido (J)(SLPS-20050)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20050_4AFEA97B.pnach)|
+|SLES-51057_B8B74173|Hard Hitter 2 (E)(SLES-51057)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51057_B8B74173.pnach)|
 |683845A3|Hard Hitter Tennis (U)(SLUS-20568)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/683845A3.pnach)|
 |AA930DAA|Hard Knock High (E)(SLES-54590)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AA930DAA.pnach)|
 |C0451DE2|Hard Luck - Return of the Heroes (J)(SLPM-65695)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C0451DE2.pnach)|
@@ -1289,7 +1289,7 @@ If you are looking for specific game use shortcut CTRL+F
 |CDE017A7|Harry Potter and The Goblet of Fire (K)(SLKA-25327)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CDE017A7.pnach)|
 |SLES-53728_B18DC525|Harry Potter and the Goblet of Fire [PAL-M5] (SLES_537.28)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53728_B18DC525.pnach)|
 |SLUS-21325_B38CC628|Harry Potter and the Goblet of Fire SLUS_213.25|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21325_B38CC628.pnach)|
-|01A9BF0E|Harry Potter and The Order of the Phoenix (E)(SLES-54779)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/01A9BF0E.pnach)|
+|SLES-54779_01A9BF0E|Harry Potter and The Order of the Phoenix (E)(SLES-54779)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54779_01A9BF0E.pnach)|
 |SLUS-21619_4C01B1B0|Harry Potter and The Order of the Phoenix (U)(SLUS-21619)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21619_4C01B1B0.pnach)|
 |99A8B4FF|Harry Potter and the Prisoner of Azkaban (K)(SLKA-25172)|Widescreen hack by Devina and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/99A8B4FF.pnach)|
 |SLES-52440_51E019BC|Harry Potter and the Prisoner of Azkaban (U)(SLUS-20926)|Widescreen hack by Devina and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52440_51E019BC.pnach)|
@@ -1302,11 +1302,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21805_3D96DC04|Hasbro Family Game Night (U)(SLUS 21805)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21805_3D96DC04.pnach)|
 |D6EF17F3|Haunted Mansion (J)(SLPM-65581)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D6EF17F3.pnach)|
 |08C1ED4D|Haunting Ground (SLES-52877)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/08C1ED4D.pnach)|
-|2CD5794C|Haunting Ground (SLES-52877)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2CD5794C.pnach)|
+|SLES-52877_2CD5794C|Haunting Ground (SLES-52877)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52877_2CD5794C.pnach)|
 |SLUS-21075_901AAC09|Haunting Ground (SLUS-21075)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21075_901AAC09.pnach)|
 |SLES-51209_83D0CE43|Haven - Call of the King (PAL-M5) (SLES-51209)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51209_83D0CE43.pnach)|
 |SLUS-20517_67171615|Haven - Call of the King SLUS_205.17|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20517_67171615.pnach)|
-|2D24ABAD|Headhunter - Redemption SLES_516.82|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2D24ABAD.pnach)|
+|SLES-51682_2D24ABAD|Headhunter - Redemption SLES_516.82|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51682_2D24ABAD.pnach)|
 |SLUS-20817_2F5EB1FF|Headhunter - Redemption SLUS_208.17|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20817_2F5EB1FF.pnach)|
 |SLUS-20416_6B64AB86|Headhunter (NTSC-U) (SLUS-20416)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20416_6B64AB86.pnach)|
 |107B1670|Headhunter (PAL-M5) (SCES-50500)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/107B1670.pnach)|
@@ -1320,10 +1320,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20943_83FB515E|Heroes of the Pacific (U)(SLUS-20943)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20943_83FB515E.pnach)|
 |7E89D327|Hidden Invasion [PAL] (SLES_502.60)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7E89D327.pnach)|
 |SLUS-20301_7759A3F0|Hidden Invasion SLUS_203.01|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20301_7759A3F0.pnach)|
-|01D33F45|High Heat - Major League Baseball 2003 (K)(SLPM-62209)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/01D33F45.pnach)|
-|2DB5A0F4|High Heat - Major League Baseball 2003 (U)(SLUS-20298)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2DB5A0F4.pnach)|
-|0EAB545E|High Heat Major League Baseball 2002 (U)(SLUS-20133)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0EAB545E.pnach)|
-|0AF91FC6|High Heat Major League Baseball 2004 (U)(SLUS-20602)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0AF91FC6.pnach)|
+|SLPM-62209_01D33F45|High Heat - Major League Baseball 2003 (K)(SLPM-62209)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62209_01D33F45.pnach)|
+|SLUS-20298_2DB5A0F4|High Heat - Major League Baseball 2003 (U)(SLUS-20298)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20298_2DB5A0F4.pnach)|
+|SLUS-20133_0EAB545E|High Heat Major League Baseball 2002 (U)(SLUS-20133)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20133_0EAB545E.pnach)|
+|SLUS-20602_0AF91FC6|High Heat Major League Baseball 2004 (U)(SLUS-20602)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20602_0AF91FC6.pnach)|
 |SLUS-21014_D3C57C9C|High Rollers Casino (U)(SLUS-21014)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21014_D3C57C9C.pnach)|
 |D4D45FF4|Hippa Linda (NTSC-J) [SLPM-62109] [D4D45FF4]|Widescreen hacks by sergx12 (ISO HEX codes) and Aced14 (pnach version - ELF and 16:10 hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D4D45FF4.pnach)|
 |2C8FDB5E|Hissatsu Ura-Kagyou (J)(SLPM-66113)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2C8FDB5E.pnach)|
@@ -1339,7 +1339,7 @@ If you are looking for specific game use shortcut CTRL+F
 |554A62A4|Hobbit - The Prelude to the Lord of the Rings (E)(SLES-51723)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/554A62A4.pnach)|
 |SLUS-20655_2D29C32F|Hobbit, The (U)(SLUS-20655)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20655_2D29C32F.pnach)|
 |E1FCDA9D|Home Alone (E)(SLES-54469)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E1FCDA9D.pnach)|
-|6A7039A3|Homerun (E)(SLES-51812)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6A7039A3.pnach)|
+|SLES-51812_6A7039A3|Homerun (E)(SLES-51812)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51812_6A7039A3.pnach)|
 |SLUS-21563_F0512849|Horsez (U)(SLUS-21563)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21563_F0512849.pnach)|
 |98C1CE89|Hot Shots Golf 3 (K)(SCPS-56007)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/98C1CE89.pnach)|
 |SCUS-97130_9794BFEF|Hot Shots Golf 3 (U)(SCUS-97130)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97130_9794BFEF.pnach)|
@@ -1353,13 +1353,13 @@ If you are looking for specific game use shortcut CTRL+F
 |351ECCAD|Houshin Engi 2 (K)(SLPM-67536)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/351ECCAD.pnach)|
 |19A6A496|Houshinengi 2 [NTSC-J] [SLPM-65083]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/19A6A496.pnach)|
 |DA21B99E|Hresvelgr - Formula Highpowered (J) (SLPS-20024)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DA21B99E.pnach)|
-|1D91728A|Hresvelgr - International Edition (J) (SLPS-20059)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1D91728A.pnach)|
+|SLPS-20059_1D91728A|Hresvelgr - International Edition (J) (SLPS-20059)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20059_1D91728A.pnach)|
 |B818D3C4|Hudson Selction Vol.1 - Cubic Lode Runner (J)(SLPM_62404)|Widescreen Hack by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B818D3C4.pnach)|
-|2DA90F04|Hudson Selction Vol.4 - Adventure Island (J)(SLPM_62422)|Widescreen Hack by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2DA90F04.pnach)|
+|SLPM-62422_2DA90F04|Hudson Selction Vol.4 - Adventure Island (J)(SLPM_62422)|Widescreen Hack by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62422_2DA90F04.pnach)|
 |CEADAD75|Hudson Selection Vol 3 PC Genjin [SLPM_624.18] [CEADAD75]|Widescreen hacks by gamemasterplc|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CEADAD75.pnach)|
 |B8605ABB|Hudson Selection Vol 4 - Takahashi Meijin no Bouken Jima (K) (SLKA-15009)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B8605ABB.pnach)|
 |SLPM-62422_09398F2B|﻿Hudson Selection Vol. 4 - Takahashi Meijin no Bouken Jima [NTSC-J] (SLPM-62422)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62422_09398F2B.pnach)|
-|804F5858|Hulk (E)(SLES-51508)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/804F5858.pnach)|
+|SLES-51508_804F5858|Hulk (E)(SLES-51508)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51508_804F5858.pnach)|
 |B33016F7|Hulk (J)(SLPS-25272)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B33016F7.pnach)|
 |SLUS-20422_3EA649FB|Hulk (U)(SLUS-20422)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20422_3EA649FB.pnach)|
 |7C7877F2|Hummer Badlands (E)(SLES-54158)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7C7877F2.pnach)|
@@ -1371,8 +1371,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-11001_DE7A4924|I.Q Remix+ - Intelligent Qube (J)(SCPS-11001)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11001_DE7A4924.pnach)|
 |FEDC6572|I.Q. Remix+ - Intelligent Qube (K)(SLKA-25060)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FEDC6572.pnach)|
 |23D96D2B|Ichigeki Sacchuu! HoiHoi-San (K)(SLKA-15015)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/23D96D2B.pnach)|
-|91EC035D|﻿Ichigeki Sacchuu!! HoiHoi-San [NTSC-J] (SLPM-62391)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/91EC035D.pnach)|
-|2DF2C1EA|ICO (NTSC-K) (SCPS-56001)|16:9 widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2DF2C1EA.pnach)|
+|SLPM-62391_91EC035D|﻿Ichigeki Sacchuu!! HoiHoi-San [NTSC-J] (SLPM-62391)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62391_91EC035D.pnach)|
+|SCPS-56001_2DF2C1EA|ICO (NTSC-K) (SCPS-56001)|16:9 widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56001_2DF2C1EA.pnach)|
 |SCES-50760_5C991F4E|ICO (SCES-50760)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50760_5C991F4E.pnach)|
 |SCUS-97113_6F8545DB|ICO (SCUS-97113)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97113_6F8545DB.pnach)|
 |SCPS-11003_B01A4C95|﻿ICO [NTSC-J] (SCPS-11003)|Widescreen hack by nemesis2000 (pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11003_B01A4C95.pnach)|
@@ -1383,9 +1383,9 @@ If you are looking for specific game use shortcut CTRL+F
 |9E98B8AE|﻿Ikki Tousen - Shining Dragon NTSC-J (SLPS-25798)<br />﻿Ikki Tousen - Shining Dragon NTSC-J (SLPS-25798)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9E98B8AE.pnach)|
 |99E75AF9|ikkyou Powerful Major League 3 (J)(SLPM-55062)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/99E75AF9.pnach)|
 |SLKA-25320_562BE37A|Ikusa Gami (K)(SLKA-25320)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25320_562BE37A.pnach)|
-|6BC8DA64|Ikusa Gami [NTSC-J] (SLPM-66184)|Widescreen hack by ElHecht (pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6BC8DA64.pnach)|
-|1CE3766E|Ikuze! Onsen Takkyuu!! (J)(SLPM-62035)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1CE3766E.pnach)|
-|8EE57E45|Inaka Kurasi - Nan no Shima no Monogatari (J)(SLPS-20222)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8EE57E45.pnach)|
+|SLPM-66184_6BC8DA64|Ikusa Gami [NTSC-J] (SLPM-66184)|Widescreen hack by ElHecht (pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66184_6BC8DA64.pnach)|
+|SLPM-62035_1CE3766E|Ikuze! Onsen Takkyuu!! (J)(SLPM-62035)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62035_1CE3766E.pnach)|
+|SLPS-20222_8EE57E45|Inaka Kurasi - Nan no Shima no Monogatari (J)(SLPS-20222)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20222_8EE57E45.pnach)|
 |AA75FE6A|Inaka Kurasi - Nan no Shima no Monogatari (Super Best Collection) [NTSC-J] (PBPX-95201) (SLPS-20499)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AA75FE6A.pnach)|
 |SLUS-21765_EA8D4BDF|Incredible Hulk, The SLUS_217.65|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21765_EA8D4BDF.pnach)|
 |SLUS-21217_6DFE8ED7|Incredibles, The - Rise of the Underminer SLUS_212.17|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21217_6DFE8ED7.pnach)|
@@ -1402,20 +1402,20 @@ If you are looking for specific game use shortcut CTRL+F
 |F0C727B8|International Snooker Championship (E)(SLES-51996)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F0C727B8.pnach)|
 |FA02D9DB|International Super Karts (E)(SLES-53186)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FA02D9DB.pnach)|
 |SLPM-62002_BE388588|International Superstar Soccer (E)(SLES-50039)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62002_BE388588.pnach)|
-|01E953C2|International Superstar Soccer 2 (E)(SLES-50787)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/01E953C2.pnach)|
-|0F7CD26F|International Superstar Soccer 2 (K)(SLPM-64510)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0F7CD26F.pnach)|
+|SLES-50787_01E953C2|International Superstar Soccer 2 (E)(SLES-50787)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50787_01E953C2.pnach)|
+|SLPM-64510_0F7CD26F|International Superstar Soccer 2 (K)(SLPM-64510)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64510_0F7CD26F.pnach)|
 |C99317AD|International Superstar Soccer 3 (PAL-M5) (SLES-51435)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C99317AD.pnach)|
 |66F4417D|International Tennis Pro (E)(SLES-54582)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/66F4417D.pnach)|
 |SLUS-21193_E246AA30|Inuyasha - Feudal Combat [NTSC-U] (SLUS-21193)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21193_E246AA30.pnach)|
 |78E96CCC|﻿Inuyasha - Juuso no Kamen [NTSC-J] (SLPS-25320)|Widescreen hack by miseru99|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/78E96CCC.pnach)|
-|2B8BBCBB|Inuyasha - Okugi Ranbu (K)(SLKA-25296)|Widescreen hack by Little Giant (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2B8BBCBB.pnach)|
-|2B8DB1A5|﻿Inuyasha - Okugi Ranbu [NTSC-J] (SLPS-25518)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2B8DB1A5.pnach)|
+|SLKA-25296_2B8BBCBB|Inuyasha - Okugi Ranbu (K)(SLKA-25296)|Widescreen hack by Little Giant (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25296_2B8BBCBB.pnach)|
+|SLPS-25518_2B8DB1A5|﻿Inuyasha - Okugi Ranbu [NTSC-J] (SLPS-25518)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25518_2B8DB1A5.pnach)|
 |SLUS-21697_304497E5|Iridium Runners (U)(SLUS-21697)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21697_304497E5.pnach)|
 |ED355E84|Iron Aces 2 - Birds of Prey (E)(SLES-50686)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ED355E84.pnach)|
 |SLES-55198_37245C3F|Iron Man SLUS_217.39|Widescreen hack by PsxFan107|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55198_37245C3F.pnach)|
-|1A957202|Island Xtreme Stunts (E)(SLES-51153)|Widescreen hack by by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1A957202.pnach)|
+|SLES-51153_1A957202|Island Xtreme Stunts (E)(SLES-51153)|Widescreen hack by by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51153_1A957202.pnach)|
 |SLUS-20575_BC910F04|Island Xtreme Stunts (U)(SLUS-20575)|Widescreen hack by by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20575_BC910F04.pnach)|
-|211DEAD7|Itadaki Street 3 - Okumanchouja ni Shite Ageru! (J)(SLPM-62112)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/211DEAD7.pnach)|
+|SLPM-62112_211DEAD7|Itadaki Street 3 - Okumanchouja ni Shite Ageru! (J)(SLPM-62112)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62112_211DEAD7.pnach)|
 |D70C3195|J-League Pro Soccer Club o Tsukurou! '04 (J)(SLPM-65530)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D70C3195.pnach)|
 |F345D272|J-League Pro Soccer Club o Tsukurou! 3 (J)(SLPM-65227)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F345D272.pnach)|
 |F32B1B28|J-League Winning Eleven 10 - Europa League '06-'07 (NTSC-J) (SLPM-66595)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F32B1B28.pnach)|
@@ -1439,7 +1439,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97124_472E7699|Jak and Daxter - The Precursor Legacy (NTSC-U) (Greatest Hits)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_472E7699.pnach)|
 |SCES-50361_9C712FF0|Jak and Daxter - The Precursor Legacy (PAL-M6) (SCES-50361)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50361_9C712FF0.pnach)|
 |B4976DAF|Jak II - Jak x Daxter 2 (J)(SCPS-15057)|Widescreen Hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B4976DAF.pnach)|
-|25FE4D23|Jak II - Renegade (NTSC-K) (SCKA-20010)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/25FE4D23.pnach)|
+|SCKA-20010_25FE4D23|Jak II - Renegade (NTSC-K) (SCKA-20010)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20010_25FE4D23.pnach)|
 |SCES-51608_2479F4A9|Jak II - Renegade (PAL-M7) (SCES-51608)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51608_2479F4A9.pnach)|
 |SCUS-97265_9184AAF1|Jak II - Renegade (U)(SCUS-97265)|Widescreen Hack by ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97265_9184AAF1.pnach)|
 |EDE4FE64|Jak x Daxter - Kyuusekai no Isan (NTSC-J)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EDE4FE64.pnach)|
@@ -1459,15 +1459,15 @@ If you are looking for specific game use shortcut CTRL+F
 |3E8C9B7D|Jikkyou Powerful Major League 2009 (J)(SLPM-55155)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E8C9B7D.pnach)|
 |D04A515C|Jikkyou Powerful Pro Yakyuu 10 (J)(SLPM-65317)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D04A515C.pnach)|
 |92F4C42E|Jikkyou Powerful Pro Yakyuu 11 (J)(SLPM-65630)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/92F4C42E.pnach)|
-|1F980F7F|Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban (J)(SLPM-65825)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1F980F7F.pnach)|
+|SLPM-65825_1F980F7F|Jikkyou Powerful Pro Yakyuu 11 Chou Ketteiban (J)(SLPM-65825)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65825_1F980F7F.pnach)|
 |398E4F71|Jikkyou Powerful Pro Yakyuu 12 (J)(SLPM-66061)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/398E4F71.pnach)|
 |2440D76C|Jikkyou Powerful Pro Yakyuu 12 Ketteiban (J)(SLPM-66217)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2440D76C.pnach)|
 |SLPM-66450_143A362F|Jikkyou Powerful Pro Yakyuu 13 (J)(SLPM-66450)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66450_143A362F.pnach)|
 |C9D22492|Jikkyou Powerful Pro Yakyuu 13 Chou Ketteiban (J)(SLPM-66590)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C9D22492.pnach)|
 |C8E271AB|Jikkyou Powerful Pro Yakyuu 14 (J)(SLPM-66777)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C8E271AB.pnach)|
 |BFBFE018|Jikkyou Powerful Pro Yakyuu 14 Chou Ketteiban (J)(SLPM-66916)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BFBFE018.pnach)|
-|0A4B3607|Jikkyou Powerful Pro Yakyuu 15 (J)(SLPM-55024)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0A4B3607.pnach)|
-|0EC6A45D|Jikkyou Powerful Pro Yakyuu 9 (J)(SLPM-62192)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0EC6A45D.pnach)|
+|SLPM-55024_0A4B3607|Jikkyou Powerful Pro Yakyuu 15 (J)(SLPM-55024)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55024_0A4B3607.pnach)|
+|SLPM-62192_0EC6A45D|Jikkyou Powerful Pro Yakyuu 9 (J)(SLPM-62192)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62192_0EC6A45D.pnach)|
 |FED78EB4|Jikkyou Powerful Pro Yakyuu 9 Ketteiban (J)(SLPM-62274)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FED78EB4.pnach)|
 |1715947D|Jikkyou World Soccer 2000 - Final Edition (J)(SLPM-62040)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1715947D.pnach)|
 |EDD8A976|Jikkyou World Soccer 2000 (J)(SLPM-62002)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EDD8A976.pnach)|
@@ -1483,7 +1483,7 @@ If you are looking for specific game use shortcut CTRL+F
 |960FFA6A|Jurassic Park - Operation Genesis (E)(SLES-51354)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/960FFA6A.pnach)|
 |A99B8FE7|Jurassic Park - Operation Genesis (U)(SLUS20380)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A99B8FE7.pnach)|
 |151DF9C9|Just Cause (E-F)(SLES-54200)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/151DF9C9.pnach)|
-|5CC61637|Just Cause (E)(SLES-54137)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5CC61637.pnach)|
+|SLES-54137_5CC61637|Just Cause (E)(SLES-54137)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54137_5CC61637.pnach)|
 |SLUS-21436_34C62B5C|Just Cause (NTSC-U)(SLUS-21436)|Widescreen hack  by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21436_34C62B5C.pnach)|
 |42BF81D5|Justice League Heroes [PAL-M5] (SLES_544.23)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/42BF81D5.pnach)|
 |SLUS-21304_C33CA288|Justice League Heroes SLUS_213.04|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21304_C33CA288.pnach)|
@@ -1499,7 +1499,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25710_A7E5CE23|K-1 World Grand Prix 2006 (J)(SLPS-25710)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25710_A7E5CE23.pnach)|
 |SLUS-20682_E520CABA|K-1 World Grand Prix SLUS_206.82|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20682_E520CABA.pnach)|
 |8632E388|K-League Winning Eleven 9 - Asia Championship (NTSC-K) (SLKA_25321)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8632E388.pnach)|
-|4BBE024D|K.O King (E)(SLES-54537)|Widescreen hack  (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4BBE024D.pnach)|
+|SLES-54537_4BBE024D|K.O King (E)(SLES-54537)|Widescreen hack  (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54537_4BBE024D.pnach)|
 |SLES-52179_973793E8|Kaan - Barbarian's Blade (E)(SLES-52179)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52179_973793E8.pnach)|
 |5FEE89E0|Kagero 2 - Dark Illusion (J)(SLPS-25445)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5FEE89E0.pnach)|
 |EC33CA0D|﻿Kaido - Touge no Densetsu [NTSC-J] (SLPM-66022)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EC33CA0D.pnach)|
@@ -1519,14 +1519,14 @@ If you are looking for specific game use shortcut CTRL+F
 |E4614547|Kamen Rider Kabuto (J)(SLPS-20483)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E4614547.pnach)|
 |F4EF4B57|Kamiwaza|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F4EF4B57.pnach)|
 |C3BE8BAB|Kao the Kangaroo Round 2 (E)(SLES-51998)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C3BE8BAB.pnach)|
-|5D8B63C1|Kao the Kangaroo Round 2 (U)(SLUS-20296)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5D8B63C1.pnach)|
+|SLUS-20296_5D8B63C1|Kao the Kangaroo Round 2 (U)(SLUS-20296)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20296_5D8B63C1.pnach)|
 |5B563DA7|Katamari Damacy (K) (SCKA_200.25)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5B563DA7.pnach)|
 |SLUS-21008_FA7E3081|Katamari Damacy (SLUS-21008)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21008_FA7E3081.pnach)|
 |E0BF7C19|Katamari Damacy 2 (K) (SCKA_200.51)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E0BF7C19.pnach)|
 |SLPS-25806_39E23E49|Kateikyoushi Hitman Reborn! Dream Hyper Battle (J)(SLPS-25806)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25806_39E23E49.pnach)|
 |E060A6A4|Katekyoo Hitman Reborn! Kindan no Yami no Delta [NTSC-J] (SLPS-25904)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E060A6A4.pnach)|
 |SLUS-20334_EC474179|Kelly Slater's Pro Surfer [NTSC-U] (SLUS_203.34)|Widescreen hack by Sergx12|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20334_EC474179.pnach)|
-|0C19A18B|Kelly Slater's Pro Surfer [PAL-En] (SLES_512.00)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0C19A18B.pnach)|
+|SLES-51200_0C19A18B|Kelly Slater's Pro Surfer [PAL-En] (SLES_512.00)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51200_0C19A18B.pnach)|
 |DA9E1F73|Kelly Slater's Pro Surfer [PAL-M3-En-Fr-De] (SLES_512.01)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DA9E1F73.pnach)|
 |SLES-50114_472C9E70|Kengo - Master of Bushido PAL|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50114_472C9E70.pnach)|
 |SLUS-20021_BF3542FE|Kengo - Master of Bushido SLUS_200.21|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20021_BF3542FE.pnach)|
@@ -1538,7 +1538,7 @@ If you are looking for specific game use shortcut CTRL+F
 |4BE2DE91|Kenran Butou Sai - The Mars Daybreak (J)(SCPS-15085)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4BE2DE91.pnach)|
 |31603A01|Kensetsu Juuki Kenka Battle - Buchigire Kongou!! [NTSC-J] [PBPX-95201](SLPS-25004)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/31603A01.pnach)|
 |CD62245A|﻿Keroro Gunsou - MeroMero Battle Royale [NTSC-J] (SLPS-25399)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CD62245A.pnach)|
-|42EE9611|﻿Keroro Gunsou - MeroMero Battle Royale Z (K)(SLKA-25361)|Widescreen hack by Little Giant (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/42EE9611.pnach)|
+|SLKA-25361_42EE9611|﻿Keroro Gunsou - MeroMero Battle Royale Z (K)(SLKA-25361)|Widescreen hack by Little Giant (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25361_42EE9611.pnach)|
 |SLPS-25575_6E8687AE|﻿Keroro Gunsou - MeroMero Battle Royale Z (NTSC-J] (SLPS-25575)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25575_6E8687AE.pnach)|
 |SLUS-21119_FB539DD4|Kessen 3 SLUS_211.19|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21119_FB539DD4.pnach)|
 |7C012435|Kessen II (J)(SLPM-65015)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7C012435.pnach)|
@@ -1561,7 +1561,7 @@ If you are looking for specific game use shortcut CTRL+F
 |1453B44C|Kidou Senshi Gundam SEED - Owaranai Ashita e (K)(SLKA-25255)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1453B44C.pnach)|
 |B0918A18|Kidou Senshi Gundam SEED Destiny - Generation of C.E (J)(SLPS-25549)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B0918A18.pnach)|
 |672F3D8A|Kidou Senshi Gundam Senki - Lost War Chronicles (J)(SLPS-25123)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/672F3D8A.pnach)|
-|3F192139|Kidou Senshi Gundam Senki - Lost War Chronicles (K)(SLKA-25035)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3F192139.pnach)|
+|SLKA-25035_3F192139|Kidou Senshi Gundam Senki - Lost War Chronicles (K)(SLKA-25035)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25035_3F192139.pnach)|
 |99336083|Kidou Senshi Gundam Ver. 1.5 (Gundam the Best) (J)(SLPS-25061)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/99336083.pnach)|
 |74B1AA2F|Kidou Shinsengumi - Moeyo Ken (J)(SLPS-25186)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/74B1AA2F.pnach)|
 |55AB1F9F|Kidz Sports Basketball (E)(SLES-52449)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/55AB1F9F.pnach)|
@@ -1580,12 +1580,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97132_D39C08F5|Kinetica (NTSC-U)|Widescreen hack<br />No Interlacing|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97132_D39C08F5.pnach)|
 |079140D6|King of Clubs (E)(SLES-54731)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/079140D6.pnach)|
 |DBDE0864|King of Colosseum (Green) - Zero-One Disc (J)(SLPM-65206)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DBDE0864.pnach)|
-|0BF26D23|King of Colosseum (Red) - Shin Nippon x Zen Nippon x Pancrase Disc (J)(SLPM-65176)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0BF26D23.pnach)|
+|SLPM-65176_0BF26D23|King of Colosseum (Red) - Shin Nippon x Zen Nippon x Pancrase Disc (J)(SLPM-65176)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65176_0BF26D23.pnach)|
 |SLPM-65602_9F4A4C47|King of Colosseum II (J)(SLPM-65602)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65602_9F4A4C47.pnach)|
 |SLPS-25636_B643F02A|King of Fighters - Maximum Impact - Maniax (J)(SLPS-25636)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25636_B643F02A.pnach)|
 |589A6B75|King of Fighters - Maximum Impact (K)(SLKA-25211)|Widescreen Hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/589A6B75.pnach)|
 |EF7B9E4D|King of Fighters - Maximum Impact [NTSC-J] [SLPS-25386]|Widescreen Hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EF7B9E4D.pnach)|
-|0CC85693|King of Fighters - Maximum Impact 2 (Limited Edition) (J)(SLPS-25609)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0CC85693.pnach)|
+|SLPS-25609_0CC85693|King of Fighters - Maximum Impact 2 (Limited Edition) (J)(SLPS-25609)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25609_0CC85693.pnach)|
 |645495B7|King of Fighters - Maximum Impact Regulation A (J)(SLPS-27565)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/645495B7.pnach)|
 |E74F7C39|King of Fighters '94, The - Re-Bout (Japan) (Special Genteiban)|autoboot question progressive mode by felixthecat1970|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E74F7C39.pnach)|
 |13A41CA1|King of Fighters, The - Maximum Impact 2 (K)(SLKA-25394)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/13A41CA1.pnach)|
@@ -1609,10 +1609,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21799_A287DF74|Kingdom Hearts: Re:Chain of Memories (SLUS-21799)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21799_A287DF74.pnach)|
 |741A5EA2|Kinght Rider (K)(SLKA-15006)|Widescreen hack by ThirteenAG (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/741A5EA2.pnach)|
 |SLUS-20318_36E02E91|Kings Field: The Ancient City SLUS_203.18|Widescreen hack by pelvicthrustman|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20318_36E02E91.pnach)|
-|0C786CEF|Kinkou Myaku Tansa Simulation - Ingot 79 (J)(SLPS-25166)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0C786CEF.pnach)|
+|SLPS-25166_0C786CEF|Kinkou Myaku Tansa Simulation - Ingot 79 (J)(SLPS-25166)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25166_0C786CEF.pnach)|
 |FF6BA78B|Kinniku Banzuke - Muscle Wars 21 (J)(SLPM-65048)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF6BA78B.pnach)|
 |823A7E69|Kinnikuman Generations (J)(SLPS-20369)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/823A7E69.pnach)|
-|6AFDBEC6|Kinnikuman Muscle Grand Prix Max [NTSC-J] (SLPS_256.76)|Widescreen hack by Sergx12|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6AFDBEC6.pnach)|
+|SLPS-25676_6AFDBEC6|Kinnikuman Muscle Grand Prix Max [NTSC-J] (SLPS_256.76)|Widescreen hack by Sergx12|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25676_6AFDBEC6.pnach)|
 |SLPS-25881_D5FDEBDC|Kinnikuman Muscle Grand Prix Max 2: Tokumori [NTSC-J] (SLPS_258.81)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25881_D5FDEBDC.pnach)|
 |SCES-50354_7EBEEBBD|Klonoa 2: Lunatea's Veil PAL (SCES-50354)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50354_7EBEEBBD.pnach)|
 |SLPS-25033_1645DE53|Klonoa 2:Lunatea's Veil (SLPS_25033)|Widescreen fix by synce (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25033_1645DE53.pnach)|
@@ -1621,7 +1621,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52836_37C182D7|Knight Rider: The Game 2 (PAL-M6)(SLES-52836)|Widescreen Fix by ThirteenAG https://thirteenag.github.io/wfp|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52836_37C182D7.pnach)|
 |A03898F9|Knights of the Temple - Infernal Crusade (PAL-M4) (SLES-52448)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A03898F9.pnach)|
 |SLES-53645_9637D496|Knights Of The Temple II (PAL-M5) (SLES-53645)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53645_9637D496.pnach)|
-|2D309BA4|Knockout Kings 2002 (E-G)(SLES-50802)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2D309BA4.pnach)|
+|SLES-50802_2D309BA4|Knockout Kings 2002 (E-G)(SLES-50802)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50802_2D309BA4.pnach)|
 |SLUS-20369_36FEEE3A|Knockout Kings 2002 (U)(SLUS-20369)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20369_36FEEE3A.pnach)|
 |AB9E3E64|﻿Konjiki no Gashbell - Yuujou Tag Battle [NTSC-J] (SLPS-25358)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AB9E3E64.pnach)|
 |FFBE2593|﻿Konjiki no Gashbell!! Gekitou! Saikyou no Mamonotachi [NTSC-J] (SLPS-25440)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FFBE2593.pnach)|
@@ -1640,7 +1640,7 @@ If you are looking for specific game use shortcut CTRL+F
 |09B4F5F9|Kuon (PAL-M3) (SLES-53411)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/09B4F5F9.pnach)|
 |SLPS-25329_D1AD86D6|﻿Kuon [NTSC-J] (SLPS-25329)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25329_D1AD86D6.pnach)|
 |SLUS-21007_9AC63A2E|Kuon SLUS_210.07|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21007_9AC63A2E.pnach)|
-|1DE78E93|Kuri Kuri Mix (J)(SLPS-25013)|Widescreen hack by El_Patas (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1DE78E93.pnach)|
+|SLPS-25013_1DE78E93|Kuri Kuri Mix (J)(SLPS-25013)|Widescreen hack by El_Patas (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25013_1DE78E93.pnach)|
 |SLES-50224_19D145D7|Kuri Kuri Mix [PAL-M3] (SLES_502.24)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50224_19D145D7.pnach)|
 |A341986A|Kurogane no Houkou - Warship Gunner 2 (J)(SLPM-66321)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A341986A.pnach)|
 |EDBA4A98|Kurogane no Houkou 2 - Warship Commander (J)(SLPM-65458)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EDBA4A98.pnach)|
@@ -1649,7 +1649,7 @@ If you are looking for specific game use shortcut CTRL+F
 |D8F11BD2|Kuusen 2 (J)(SLPM-62413)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D8F11BD2.pnach)|
 |FAE6A6F6|Kyoushuu Kidou Butai - Kougeki Helicopter Senki (J)(SLPM-62538)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FAE6A6F6.pnach)|
 |SLUS-21112_35B70FB8|L.A. Rush (U)(SLUS-21112)|Widescreen Hack (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21112_35B70FB8.pnach)|
-|EA0CB4B8|L.A. Rush SLES_534.19|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EA0CB4B8.pnach)|
+|SLES-53419_EA0CB4B8|L.A. Rush SLES_534.19|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53419_EA0CB4B8.pnach)|
 |C4C80532|La Pucelle - Hikari no Seijou Densetsu (J) (v1.04) (SLPS-20167)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C4C80532.pnach)|
 |SLUS-20847_448F4B67|La Pucelle - Tactics [NTSC-U] (SLUS_208.47)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20847_448F4B67.pnach)|
 |474EC389|La Pucelle - Tactics [PAL] (SLES_529.78)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/474EC389.pnach)|
@@ -1657,7 +1657,7 @@ If you are looking for specific game use shortcut CTRL+F
 |CCF46486|La Pucelle: Hikari no Seijo Densetsu Nishuu 2-Shu-me hajimemashita (J)(SLPS-20398)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CCF46486.pnach)|
 |77B9C3B3|Lake Masters EX (J)(SLPS-20043)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/77B9C3B3.pnach)|
 |712EB514|Lake Masters EX Super (J)(SLPS-20103)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/712EB514.pnach)|
-|A629A376|Lara Croft Tomb Raider - Anniversary|Lara Croft Tomb Raider - Anniversary * SLES-54674 * PAL/Europe * A629A376<br />pnach by pgert.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A629A376.pnach)|
+|SLES-54674_A629A376|Lara Croft Tomb Raider - Anniversary|Lara Croft Tomb Raider - Anniversary * SLES-54674 * PAL/Europe * A629A376<br />pnach by pgert.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54674_A629A376.pnach)|
 |SLES-53908_05177ECE|Lara Croft Tomb Raider - Legend|Lara Croft Tomb Raider - Legend * SLES-53908 * PAL/Europe * 05177ECE<br />pnach by pgert.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53908_05177ECE.pnach)|
 |SLES-51093_1373EB26|Largo Winch - Empire Under Threat (E)(SLES-51093)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51093_1373EB26.pnach)|
 |4E838541|LarryBoy and the Bad Apple [NTSC-U] (SLUS_214.40)|Widescreen hack by El_Patas (Causes a glitch in the upper left HUD panel)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4E838541.pnach)|
@@ -1676,8 +1676,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20045_64F425AF|Legend of Alon Dar SLUS_200.45|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20045_64F425AF.pnach)|
 |SLES-52931_54D68884|Legend of Kay (PAL-M5) (SLES-52931)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52931_54D68884.pnach)|
 |SLUS-21248_F4807B40|Legend of Kay (SLUS_21248)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21248_F4807B40.pnach)|
-|13516983|Legends of Wrestling (E)(SLES-50107)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/13516983.pnach)|
-|55AB5FA6|Legends of Wrestling (K)(SLPM-64514)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/55AB5FA6.pnach)|
+|SLES-50107_13516983|Legends of Wrestling (E)(SLES-50107)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50107_13516983.pnach)|
+|SLPM-64514_55AB5FA6|Legends of Wrestling (K)(SLPM-64514)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64514_55AB5FA6.pnach)|
 |4876A0E7|Legends of Wrestling (U)(SLUS-20242)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4876A0E7.pnach)|
 |77056550|Legends of Wrestling II (E)(SLES-51045)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/77056550.pnach)|
 |SLUS-20507_6E5692B9|Legends of Wrestling II (U)(SLUS-20507)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20507_6E5692B9.pnach)|
@@ -1699,7 +1699,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20956_A1736B07|Leisure Suit Larry - Magna Cum Laude (NTSC-U) (SLUS-20956)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20956_A1736B07.pnach)|
 |5B2962FD|Lemony Snicket's A Series of Unfortunate Events (E)(SLES-52807)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5B2962FD.pnach)|
 |SLUS-21078_4835F048|Lemony Snicket's A Series of Unfortunate Events (U)(SLUS-21078)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21078_4835F048.pnach)|
-|19ED9AE4|Let's Bravo Music (J)(SCPS-11028)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/19ED9AE4.pnach)|
+|SCPS-11028_19ED9AE4|Let's Bravo Music (J)(SCPS-11028)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11028_19ED9AE4.pnach)|
 |2FABCAE0|Let's Bravo Music (K)(SCKA-20005)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2FABCAE0.pnach)|
 |SLUS-20386_7ABEFA85|Lethal Skies Elite Pilot - Team SW  SLUS_203.86|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20386_7ABEFA85.pnach)|
 |BBAB0D9A|Lethal Skies Elite Pilot: Team SW [PAL] (SLES_508.92)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BBAB0D9A.pnach)|
@@ -1714,7 +1714,7 @@ If you are looking for specific game use shortcut CTRL+F
 |1563EBAC|LMA Manager 2004 (E)(SLES-51456)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1563EBAC.pnach)|
 |C5EBD545|LMA Manager 2005 (E)(SLES-52693)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C5EBD545.pnach)|
 |04246737|LMA Manager 2006 (E)(SLES-53471)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/04246737.pnach)|
-|1F2269B6|LMA Manager 2007 (E)(SLES-54225)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1F2269B6.pnach)|
+|SLES-54225_1F2269B6|LMA Manager 2007 (E)(SLES-54225)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54225_1F2269B6.pnach)|
 |SLES-50487_5E641834|Looney Tunes - Space Race (E)(SLES-50487)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50487_5E641834.pnach)|
 |614F7928|Looney Tunes - Space Race (U)(SLUS-20352)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/614F7928.pnach)|
 |C818BEC2|Lord of Rings: The Two Towers SLUS_205.78|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C818BEC2.pnach)|
@@ -1754,7 +1754,7 @@ If you are looking for specific game use shortcut CTRL+F
 |EB925207|﻿Magna Carta [NTSC-J] (SLPM-25401)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EB925207.pnach)|
 |12A01A1B|Mahoroba Stories [NTSC-J] (SLPM-66751)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/12A01A1B.pnach)|
 |90D2D375|Mahou no Pumpkin (J)(SLPS-20280)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/90D2D375.pnach)|
-|4A5E94E1|﻿Mahou Tsukai Kurohime [NTSC-J] (SLPM-66164)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4A5E94E1.pnach)|
+|SLPM-66164_4A5E94E1|﻿Mahou Tsukai Kurohime [NTSC-J] (SLPM-66164)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66164_4A5E94E1.pnach)|
 |SLPM-62127_602C8097|Makai Eiyuuki Maximo: Machine Monster no Yabou [NTSC-J] (SLPM-62127)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62127_602C8097.pnach)|
 |SLUS-21170_121AFAF5|Makai Kingdom: Chronicles of the Sacred Tome [NTSC-U] (SLUS_211.70)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21170_121AFAF5.pnach)|
 |C97A17F8|Makai Kingdom: Chronicles of the Sacred Tome [PAL] (SLES_536.90)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C97A17F8.pnach)|
@@ -1791,7 +1791,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-11027_794D3E00|Mawaza (J)(SCPS-11027)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11027_794D3E00.pnach)|
 |SLUS-20230_BEB4577E|Max Payne (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_BEB4577E.pnach)|
 |E7FB0320|Max Payne (PAL-E) (SLES-50325)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E7FB0320.pnach)|
-|52E0597D|Max Payne [PAL-M4] (SLES_503.26)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/52E0597D.pnach)|
+|SLES-50326_52E0597D|Max Payne [PAL-M4] (SLES_503.26)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50326_52E0597D.pnach)|
 |EE68CA13|Maximo - Ghosts to Glory (J) (PBPX_95201)|Widescreen hack by No.47 (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EE68CA13.pnach)|
 |7EA2F758|Maximo - Ghosts to Glory (K) (SLPM_64504)|Widescreen hack by No.47 (pnach NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7EA2F758.pnach)|
 |SLUS-20017_0958556B|Maximo - Ghosts to Glory (SLUS_20017)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20017_0958556B.pnach)|
@@ -1814,7 +1814,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20368_E9348A11|Medal of Honor: Frontline  (SLUS-20368)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20368_E9348A11.pnach)|
 |SLUS-20753_F22C1E3B|Medal of Honor: Rising Sun  (SLUS-20753) / Medal of Honor: Rising Sun  (SLES-51873)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20753_F22C1E3B.pnach)|
 |SLUS-21597_EA1BFC51|Medal of Honor: Vanguard  (	SLUS-21597) / Medal of Honor: Vanguard  (SLES-54683)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21597_EA1BFC51.pnach)|
-|1E3EDB7E|Mega Man X: Command Mission (SLES-52832)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E3EDB7E.pnach)|
+|SLES-52832_1E3EDB7E|Mega Man X: Command Mission (SLES-52832)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52832_1E3EDB7E.pnach)|
 |SLUS-20903_C3553F46|Mega Man X: Command Mission (SLUS-20903)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20903_C3553F46.pnach)|
 |E144C5B5|Mega Man X7 (SLES-51885)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E144C5B5.pnach)|
 |SLUS-20487_3EDA6DE7|Mega Man X7 (SLUS-20487)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20487_3EDA6DE7.pnach)|
@@ -1845,7 +1845,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20554_C539049D|Metal Gear Solid 2 - Substance SLUS_205.54|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20554_C539049D.pnach)|
 |5942DD1F|Metal Gear Solid 2 Substance (K)(SLKA-35001)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5942DD1F.pnach)|
 |C69ACB6F|Metal Gear Solid 3 - Snake Eater (K) (SLKA_25251)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C69ACB6F.pnach)|
-|01B2FA7F|Metal Gear Solid 3 - Subsistence (Disc 2of3) (U)(SLUS-21243)|Widescreen|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/01B2FA7F.pnach)|
+|SLUS-21243_01B2FA7F|Metal Gear Solid 3 - Subsistence (Disc 2of3) (U)(SLUS-21243)|Widescreen|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21243_01B2FA7F.pnach)|
 |B0D195EF|Metal Gear Solid 3 - Subsistence (K) (SLKA_25353)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B0D195EF.pnach)|
 |SLUS-21359_053D2239|Metal Gear Solid 3 - Subsistence (SLUS_21359)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21359_053D2239.pnach)|
 |86BC3040|Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc1of3] (J)(SLPM-666220)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/86BC3040.pnach)|
@@ -1854,7 +1854,7 @@ If you are looking for specific game use shortcut CTRL+F
 |0481AD8A|Metal Gear Solid 3 Snake Eater|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0481AD8A.pnach)|
 |8A5C25A7|Metal Gear Solid 3: Subsistence [PAL-Spain] (SLES_820.48)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8A5C25A7.pnach)|
 |SLUS-21293_269F5DF5|Metal saga SLUS_212.93|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21293_269F5DF5.pnach)|
-|0C4DA2CF|Metal Saga: Sajin no Kusari [NTSC-J] (SLPM-65868)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0C4DA2CF.pnach)|
+|SLPM-65868_0C4DA2CF|Metal Saga: Sajin no Kusari [NTSC-J] (SLPM-65868)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65868_0C4DA2CF.pnach)|
 |SLPS-25650_7D8D8BFA|Metal Slug (SLPS-25650)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25650_7D8D8BFA.pnach)|
 |SLPS-25209_5ACBE847|Metal slug 3 SLPS_252.09;1) Game CRC = 0x5ACBE847|enhacement test|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25209_5ACBE847.pnach)|
 |SLUS-20971_D62C4CD0|Metal Slug 4 SLUS_209.71;1) Game CRC = 0xD62C4CD0|Enhancement test game extended lines to 640x480 *dont use both code sections|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20971_D62C4CD0.pnach)|
@@ -1872,12 +1872,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51054_ACB1989A|Midnight Club II (E)(SLES-51054)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51054_ACB1989A.pnach)|
 |E5F2DF38|Midnight Club II (U)(SLUS-20209)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E5F2DF38.pnach)|
 |SLUS-21094_B843EAFB|Midway Arcade Treasures 3|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21094_B843EAFB.pnach)|
-|2B6F7BA5|Mike Tyson Heavyweight Boxing (E)(SLES-50396)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2B6F7BA5.pnach)|
+|SLES-50396_B6F7BA5|Mike Tyson Heavyweight Boxing (E)(SLES-50396)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50396_B6F7BA5.pnach)|
 |SLUS-20345_61737929|Mike Tyson Heavyweight Boxing (U)(SLUS-20345)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20345_61737929.pnach)|
 |052A5B0B|Minna no Golf 3 (J)(SCPS-15016)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/052A5B0B.pnach)|
 |BC53B2E5|Minna no Golf 4 [NTSC-J] [SCPS-15059]|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BC53B2E5.pnach)|
 |A35F68F7|Minna no Tennis (J)(SCPS-15113)|Widescreen hack by ElHecht (NTSC-J by Arapapa)<br />no interlacing by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A35F68F7.pnach)|
-|37FA69D8|Mission Impossible - Operation Surma (K) (SLKA-25028)|Widescreen patch by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/37FA69D8.pnach)|
+|SLKA-25028_37FA69D8|Mission Impossible - Operation Surma (K) (SLKA-25028)|Widescreen patch by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25028_37FA69D8.pnach)|
 |SLUS-20400_B82A0B91|Mission Impossible - Operation Surma (U)(SLUS-20400)|Widescreen patch by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20400_B82A0B91.pnach)|
 |SLES-52001_8F969858|Mission Impossible - Operation Surma SLES_520.01|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52001_8F969858.pnach)|
 |A4E8C610|Mister Mosquito SLES-50769|Widescreen Hack- Esppiral :)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A4E8C610.pnach)|
@@ -1890,22 +1890,22 @@ If you are looking for specific game use shortcut CTRL+F
 |C774219F|MLB SlugFest 2004 (U)(SLUS-20618)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C774219F.pnach)|
 |SLUS-21342_F6D977AE|MLB Slugfest 2006 (U)(SLUS-21342)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21342_F6D977AE.pnach)|
 |SLUS-20740_0B4B46AC|Mobile Suit Gundam - Encounters in Space SLUS_207.40|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20740_0B4B46AC.pnach)|
-|1B791836|Mobile Suit Gundam - Federation vs. Zeon SLUS_203.82|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1B791836.pnach)|
+|SLUS-20382_1B791836|Mobile Suit Gundam - Federation vs. Zeon SLUS_203.82|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20382_1B791836.pnach)|
 |SLUS-20821_59319476|Mobile Suit Gundam - Gundam vs. Zeta Gundam SLUS_208.21|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20821_59319476.pnach)|
 |SLUS-20175_88CA8484|Mobile Suit Gundam - Journey to Jaburo (U)(SLUS-20175)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20175_88CA8484.pnach)|
-|23FFE14B|Mobile Suit Gundam - Zeonic Front (U)(SLUS-20233)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/23FFE14B.pnach)|
+|SLUS-20233_23FFE14B|Mobile Suit Gundam - Zeonic Front (U)(SLUS-20233)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20233_23FFE14B.pnach)|
 |SLUS-21140_3A0E75E5|Mobile Suit Gundam Seed - Never Ending Tomorrow SLUS_211.40|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21140_3A0E75E5.pnach)|
 |SCPS-11033_2D215D04|Mojib-Ribbon(NTSC-J) (SCPS-11033)|Widescreen Hack by Parotaku|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11033_2D215D04.pnach)|
 |SLES-52111_D354BAEF|Mojo! (U)(SLES-52111)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52111_D354BAEF.pnach)|
 |SLUS-20741_00D5D3E4|Mojo! (U)(SLUS-20741)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20741_00D5D3E4.pnach)|
-|76AE462E|Momotarou Dentetsu 11 - Black Bonbi Shutsugen! no Maki (J)(SLPM-62266)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/76AE462E.pnach)|
+|SLPM-62266_76AE462E|Momotarou Dentetsu 11 - Black Bonbi Shutsugen! no Maki (J)(SLPM-62266)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62266_76AE462E.pnach)|
 |F4654032|Momotarou Dentetsu 12 - Nishinihon Hen mo ari Masse! (J)(SLPM-62416)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F4654032.pnach)|
 |DEE8838A|Momotarou Dentetsu 15 - Godai Bonbi Toujo! no Kan (J)(SLPM-62702)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DEE8838A.pnach)|
 |A4D76B34|Momotarou Dentetsu 16 - Hokkaido Dai Idou no Kan (J)(SLPM-62750)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A4D76B34.pnach)|
 |FA600E3B|Momotarou Dentetsu USA (J)(SLPM-62555)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FA600E3B.pnach)|
-|04D450CC|Monkey Turn V (J)(SLPS-20381)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/04D450CC.pnach)|
-|0CEDE605|Monster 4x4 - Masters of Metal SLUS_207.96|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0CEDE605.pnach)|
-|0AA95F54|Monster Attack (PAL-Unk) [SLES-51856] [0AA95F54]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0AA95F54.pnach)|
+|SLPS-20381_04D450CC|Monkey Turn V (J)(SLPS-20381)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20381_04D450CC.pnach)|
+|SLUS-20796_0CEDE605|Monster 4x4 - Masters of Metal SLUS_207.96|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20796_0CEDE605.pnach)|
+|SLES-51856_0AA95F54|Monster Attack (PAL-Unk) [SLES-51856] [0AA95F54]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51856_0AA95F54.pnach)|
 |ED1F2721|Monster Farm [NTSC-J] [SLPS-25035]|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ED1F2721.pnach)|
 |B282D5FD|Monster Farm 4 [NTSC-J] (SLPS-25263)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B282D5FD.pnach)|
 |CC1E5592|Monster Farm 5 - Circus Caravan [NTSC-J] (SLPS-25585)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CC1E5592.pnach)|
@@ -1928,14 +1928,14 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21870_D3C84C28|Monsters vs. Aliens (U)(SLUS-21870)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21870_D3C84C28.pnach)|
 |SCUS-97123_E157ACB8|Monsters, Inc. (U)(SCUS-97123)|Widescreen hack by ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97123_E157ACB8.pnach)|
 |70C67A3C|Moorhuhn Fun Kart 2008 (E)(SLES-55122)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/70C67A3C.pnach)|
-|3D02E0BF|Mortal Kombat - Shaolin Monks (SLES-53524)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3D02E0BF.pnach)|
+|SLES-53524_3D02E0BF|Mortal Kombat - Shaolin Monks (SLES-53524)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53524_3D02E0BF.pnach)|
 |SLUS-21087_455DD546|Mortal Kombat - Shaolin Monks (SLUS_21087)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21087_455DD546.pnach)|
 |SLUS-21543_EFCFAEBB|Mortal Kombat: Armageddon Premium Edition(SLUS-21543)|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21543_EFCFAEBB.pnach)|
 |SLES-50717_347BFDA5|Mortal Kombat: Deadly Alliance (SLES-50717)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50717_347BFDA5.pnach)|
 |SLUS-20423_059F35E8|Mortal Kombat: Deadly Alliance (SLUS-20423)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20423_059F35E8.pnach)|
 |SLUS-20881_7C22850A|Mortal Kombat: Deception (SLUS-20881)|Widescreen fix by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20881_7C22850A.pnach)|
 |SCES-50034_E6C0751A|Moto GP (E)(SLES-50034)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50034_E6C0751A.pnach)|
-|2E2BF306|Moto GP (J)(SLPS-20040)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2E2BF306.pnach)|
+|SLPS-20040_2E2BF306|Moto GP (J)(SLPS-20040)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20040_2E2BF306.pnach)|
 |SLUS-20058_B9BD4B3B|Moto GP (U)(SLUS-20058)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20058_B9BD4B3B.pnach)|
 |3242590D|Moto GP 2 (E)(SLES-50409)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3242590D.pnach)|
 |SLUS-20285_586EA828|Moto GP 2 (U)(SLUS-20285)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20285_586EA828.pnach)|
@@ -1947,7 +1947,7 @@ If you are looking for specific game use shortcut CTRL+F
 |899557DF|Moto X Maniac (E)(SLES-54885)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/899557DF.pnach)|
 |SLUS-21688_FF46F4C4|MotoGP 07 (U)(SLUS-21688)|Widescreen Hack by El_Patas (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21688_FF46F4C4.pnach)|
 |DECEBFAD|MotoGP 07 [NTSC-J] [SLPM-66867]|Widescreen Hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DECEBFAD.pnach)|
-|1C000196|MotoGP 07 [PAL-M5] (SLES_549.59)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1C000196.pnach)|
+|SLES-54959_1C000196|MotoGP 07 [PAL-M5] (SLES_549.59)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54959_1C000196.pnach)|
 |SLUS-21811_73DA9F6F|MotoGP 08 (USA) [SLUS-21811]|Widescreen Hack by El_Patas (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21811_73DA9F6F.pnach)|
 |SLES-55266_0AE1DBD5|MotoGP 08 [PAL-M5] (SLES_552.66)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55266_0AE1DBD5.pnach)|
 |46B7FEC5|MotoGP 3 (U)(SLUS-20625)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/46B7FEC5.pnach)|
@@ -1972,9 +1972,9 @@ If you are looking for specific game use shortcut CTRL+F
 |F0E90890|﻿Musashiden II - Blade Master [NTSC-J] (SLPM-66008)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F0E90890.pnach)|
 |A1970E42|Musou Orochi - Maou Sairin (J)(SLPM-66953)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A1970E42.pnach)|
 |03487FEE|Musou Orochi (J)(SLPM-66721)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/03487FEE.pnach)|
-|009E5458|Musou Orochi:Maou Sairin(=Warriors Orochi 2) (SLKA_254.43) (NTSC-K)|16:9 widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/009E5458.pnach)|
+|SLKA-25443_009E5458|Musou Orochi:Maou Sairin(=Warriors Orochi 2) (SLKA_254.43) (NTSC-K)|16:9 widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25443_009E5458.pnach)|
 |9315EF73|MVP 06 NCAA Baseball (U)(SLUS-21367)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9315EF73.pnach)|
-|8D479556|MVP 07 NCAA Baseball (U)(SLUS-21582)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8D479556.pnach)|
+|SLUS-21582_8D479556|MVP 07 NCAA Baseball (U)(SLUS-21582)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21582_8D479556.pnach)|
 |55493524|MVP Baseball 2003 (NTSC-U)(SLUS-20650)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/55493524.pnach)|
 |8F14728A|MVP Baseball 2004 (K)(SLKA-25148)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8F14728A.pnach)|
 |753A1E73|MVP Baseball 2004 (NTSC-U)(SLUS-20868)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/753A1E73.pnach)|
@@ -1990,7 +1990,7 @@ If you are looking for specific game use shortcut CTRL+F
 |74912B29|MX vs ATV Untamed [PAL] (SLES_550.50)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/74912B29.pnach)|
 |B31E8440|MX vs. ATV Unleashed (K)(SLKA-25282)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B31E8440.pnach)|
 |SLUS-21104_95BB1901|MX vs. ATV Unleashed SLUS_211.04|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21104_95BB1901.pnach)|
-|01A1B7CD|MX World Tour (E)(SLES-52864)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/01A1B7CD.pnach)|
+|SLES-52864_01A1B7CD|MX World Tour (E)(SLES-52864)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52864_01A1B7CD.pnach)|
 |SLUS-21097_383176C2|MX World Tour featuring Jamie Little (U)(SLUS-21097)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21097_383176C2.pnach)|
 |EB94A7B4|MXRider (E)(SLES-50132)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EB94A7B4.pnach)|
 |FE0E9B39|MXRider (U)(SLUS-20234)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FE0E9B39.pnach)|
@@ -2004,17 +2004,17 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25505_75C01A04|Namco x Capcom (NTSC-J)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25505_75C01A04.pnach)|
 |9536E111|Namco x Capcom (NTSC-J) (English patch)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9536E111.pnach)|
 |A79B0491|﻿NanoBreaker [NTSC-J] (SLPM-65809)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A79B0491.pnach)|
-|9B89F425|Nanobreaker SLES_529.64|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9B89F425.pnach)|
+|SLES-52964_9B89F425|Nanobreaker SLES_529.64|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52964_9B89F425.pnach)|
 |SLUS-21010_98C7B76D|Nanobreaker SLUS_210.10|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21010_98C7B76D.pnach)|
 |A91A6865|Naruto - Konoha Spirits (NTSC-J) (SLLPS_25714)|Widescreen Hack (16:9) by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A91A6865.pnach)|
 |SLPS-25293_476FE4D8|Naruto - Narutimett Hero (NTSC-J) (SLPS-25293)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25293_476FE4D8.pnach)|
 |531BE810|Naruto - Narutimett Hero 2 (NTSC-J) (SLPS_25398)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/531BE810.pnach)|
 |59739DDE|Naruto - Narutimett Hero 3 (NTSC-J) (SLPS_25589)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/59739DDE.pnach)|
-|4DF3A440|Naruto - Narutimett Hero International (NTSC-K) (SLKA_25232)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4DF3A440.pnach)|
+|SLKA-25232_4DF3A440|Naruto - Narutimett Hero International (NTSC-K) (SLKA_25232)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25232_4DF3A440.pnach)|
 |SLUS-21358_7377BC6F|Naruto - Ultimate Ninja (U)(SLUS-21358)|Widescreen Hack by Someone and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21358_7377BC6F.pnach)|
 |SLUS-21575_D9D0E6DD|Naruto - Ultimate Ninja 2 (NTSC-U) (SLUS_21575)|Widescreen Hack (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21575_D9D0E6DD.pnach)|
 |EE3737A4|Naruto - Ultimate Ninja 3 (U)(SLUS-21727)|Widescreen Hack (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EE3737A4.pnach)|
-|9CD1A85C|Naruto - Uzumaki Chronicles (NTSC-K) (SLKA-25313)|Widescreen Hack (16:9) (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9CD1A85C.pnach)|
+|SLKA-25313_9CD1A85C|Naruto - Uzumaki Chronicles (NTSC-K) (SLKA-25313)|Widescreen Hack (16:9) (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25313_9CD1A85C.pnach)|
 |SLUS-21498_98E28B05|Naruto - Uzumaki Chronicles (NTSC-U)|Widescreen Hack (16:9)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21498_98E28B05.pnach)|
 |E94C9A02|Naruto - Uzumaki Chronicles 2 (NTSC-K) (SLKA_25366)|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E94C9A02.pnach)|
 |6EA6EC1B|Naruto - Uzumaki Chronicles 2 (PAL-M6) (SLES-55090)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6EA6EC1B.pnach)|
@@ -2034,22 +2034,22 @@ If you are looking for specific game use shortcut CTRL+F
 |BAC92C25|NBA Live 06 (PAL)(SLES-53546)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BAC92C25.pnach)|
 |10118EC4|NBA Live 06 (U)(SLUS-21279)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/10118EC4.pnach)|
 |600A44DC|NBA Live 07 (K)(SLKA-25395)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/600A44DC.pnach)|
-|2A126B9C|NBA Live 2001 (J)(SLPS-20073)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2A126B9C.pnach)|
+|SLPS-20073_2A126B9C|NBA Live 2001 (J)(SLPS-20073)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20073_2A126B9C.pnach)|
 |823BFFD3|NBA Live 2001 (U)(SLUS-20102)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/823BFFD3.pnach)|
 |78B0222C|NBA Live 2002 (U)(SLUS-20303)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/78B0222C.pnach)|
 |D682A8B8|NBA Live 2003 (E)(SLES-51198).|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D682A8B8.pnach)|
 |767799C1|NBA Live 2003 (K)(SLPM-67541)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/767799C1.pnach)|
-|0BBDBE84|NBA Live 2003 (U)(SLUS-20536).|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0BBDBE84.pnach)|
-|5EAC167B|NBA Live 2004 (E)(SLES-52008)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5EAC167B.pnach)|
-|3E26A38A|NBA Live 2004 (K)(SLKA-25086)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E26A38A.pnach)|
-|09F914F1|NBA Live 2004 (U)(SLUS-20755)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/09F914F1.pnach)|
+|SLUS-20536_0BBDBE84|NBA Live 2003 (U)(SLUS-20536).|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20536_0BBDBE84.pnach)|
+|SLES-52008_5EAC167B|NBA Live 2004 (E)(SLES-52008)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52008_5EAC167B.pnach)|
+|SLKA-25086_3E26A38A|NBA Live 2004 (K)(SLKA-25086)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25086_3E26A38A.pnach)|
+|SLUS-20755_09F914F1|NBA Live 2004 (U)(SLUS-20755)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20755_09F914F1.pnach)|
 |0167915E|NBA Live 2005 (K)(SLKA-25110)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0167915E.pnach)|
-|39F26623|NBA Live 2005 (PAL)(SLES-52713)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/39F26623.pnach)|
-|3DF2B0BE|NBA Live 2005 (U)(SLUS-21058)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3DF2B0BE.pnach)|
+|SLES-52713_39F26623|NBA Live 2005 (PAL)(SLES-52713)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52713_39F26623.pnach)|
+|SLUS-21058_3DF2B0BE|NBA Live 2005 (U)(SLUS-21058)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21058_3DF2B0BE.pnach)|
 |4507B732|NBA Starting Five (U)(SLUS-20513)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4507B732.pnach)|
 |FE62008B|NBA Starting Five 2005 SLPM_657.67|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FE62008B.pnach)|
 |SLUS-20187_AE381E74|NBA Street (NTSC-U)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20187_AE381E74.pnach)|
-|0F9479F8|NBA Street (PAL) (SLES-50219)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0F9479F8.pnach)|
+|SLES-50219_0F9479F8|NBA Street (PAL) (SLES-50219)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50219_0F9479F8.pnach)|
 |92ABE4E1|NBA Street Vol. 2 [PAL-M2] (SLES_514.81)|Widescreen Hack by Ko81e24wy|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/92ABE4E1.pnach)|
 |88889BAA|NCAA Final Four 2001 (U)(SCUS-97109)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/88889BAA.pnach)|
 |3397DEFF|NCAA Final Four 2002 (U)(SCUS-97136)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3397DEFF.pnach)|
@@ -2074,12 +2074,12 @@ If you are looking for specific game use shortcut CTRL+F
 |E3DCB6B9|NHL 2001 (E)(SLES-50027)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E3DCB6B9.pnach)|
 |SLUS-20100_3BA51A68|NHL 2001 (U)(SLUS-20100)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20100_3BA51A68.pnach)|
 |533584A7|NHL 2002 (U)(SLUS-20281)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/533584A7.pnach)|
-|0B5371C9|NHL 2003 (K)(SLPM-67530)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0B5371C9.pnach)|
+|SLPM-67530_0B5371C9|NHL 2003 (K)(SLPM-67530)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67530_0B5371C9.pnach)|
 |6A6173DA|NHL 2003 (U)(SLUS-20531)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6A6173DA.pnach)|
 |SLUS-21914_82CA153C|NHL 2K10 (U)(SLUS-21914)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21914_82CA153C.pnach)|
 |SLUS-20140_E2CC1613|NHL Hitz 2002|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20140_E2CC1613.pnach)|
 |B0B73F49|NHL Hitz 2002 Ver 2.00|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B0B73F49.pnach)|
-|1BAECD6A|NHL Hitz 2003 (SLES_50712)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1BAECD6A.pnach)|
+|SLES-50712_1BAECD6A|NHL Hitz 2003 (SLES_50712)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50712_1BAECD6A.pnach)|
 |SLUS-20438_8EA2C9FB|NHL Hitz 2003 (SLUS_20438)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20438_8EA2C9FB.pnach)|
 |A9360C6D|NHL Hitz Pro (PAL-E) (SLES-51840)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A9360C6D.pnach)|
 |SLUS-20691_A6B59CA2|NHL Hitz Pro (SLUS_20691)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20691_A6B59CA2.pnach)|
@@ -2094,10 +2094,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21469_CAF1432F|Nicktoons - Battle for Volcano Island (U)(SLUS-21469)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21469_CAF1432F.pnach)|
 |28D09BF9|Nicktoons Unite! (NTSC-U) (SLUS_212.84)|Widescreen fix by flameofrecca|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/28D09BF9.pnach)|
 |SLUS-20810_519E816B|Nightshade (SLUS-20810)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20810_519E816B.pnach)|
-|3B470BBD|Nightshade [PAL] (SLES_522.38)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3B470BBD.pnach)|
+|SLES-52238_3B470BBD|Nightshade [PAL] (SLES_522.38)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52238_3B470BBD.pnach)|
 |1554A5C8|Nihon Sumo Kyokai Kounin: Nihon Oozumou Gekitou Honbashohen (J)(SLPM-62194)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1554A5C8.pnach)|
 |SLES-53570_C488EC04|Ninjabread Man (E)(SLES-53570)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53570_C488EC04.pnach)|
-|0E0637B6|Ninkyouden Toseinin Ichidaiki (J)(SLPM-66274)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0E0637B6.pnach)|
+|SLPM-66274_0E0637B6|Ninkyouden Toseinin Ichidaiki (J)(SLPM-66274)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66274_0E0637B6.pnach)|
 |C9E1A718|Nippon Daisumo (J)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C9E1A718.pnach)|
 |B2367FD0|Nitrobike (E)(SLES-55192)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B2367FD0.pnach)|
 |SLUS-21738_F5FE754D|Nitrobike (U)(SLUS-21738)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21738_F5FE754D.pnach)|
@@ -2114,7 +2114,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55110_35F3A1D9|Odin Sphere (E)(SLES-55110)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55110_35F3A1D9.pnach)|
 |SLPM-66474_731B4557|Odin Sphere (J)(SLPM-66474)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66474_731B4557.pnach)|
 |96A608C5|Official U.S. PlayStation Magazine Demo Disc 055 (NTSC-U) [SCUS-97181] [96A608C5]|Frequency demo widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/96A608C5.pnach)|
-|5E2DA75C|Offroad Extreme! (E)(SLES-52751)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5E2DA75C.pnach)|
+|SLES-52572_5E2DA75C|Offroad Extreme! (E)(SLES-52751)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52572_5E2DA75C.pnach)|
 |SCUS-97129_E0426FC6|Okage Shadow King SCUS_971.29|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97129_E0426FC6.pnach)|
 |SLPM-66375_C5DEFEA0|Okami (J) (SLPM_66375)|Widescreen hack by ElHecht (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66375_C5DEFEA0.pnach)|
 |SLUS-21115_21068223|Okami (SLUS-21115)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21115_21068223.pnach)|
@@ -2136,7 +2136,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50177_32629F36|Oni SLES_501.77|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50177_32629F36.pnach)|
 |SLUS-20064_FD9CD8FC|Oni SLUS_200.64|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20064_FD9CD8FC.pnach)|
 |SLUS-20710_CE7451A4|Onimusha - Blade Warriors (NTSC-U) (SLUS-20710)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20710_CE7451A4.pnach)|
-|106A1E75|Onimusha 2 - Samurai's Destiny (K)(SLPM-67518)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/106A1E75.pnach)|
+|SLPM-67518_106A1E75|Onimusha 2 - Samurai's Destiny (K)(SLPM-67518)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67518_106A1E75.pnach)|
 |19CC4372|Onimusha 2 (Limited Edition)(J)(SLPM-65100)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/19CC4372.pnach)|
 |224B2933|﻿Onimusha 2 [NTSC-J] (SLPM-65101])|Widescreen correction by nemesis2000 (pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/224B2933.pnach)|
 |SLUS-20393_5848889C|﻿Onimusha 2 [NTSC-U]|Widescreen correction by nemesis2000 (pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20393_5848889C.pnach)|
@@ -2151,18 +2151,18 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66275_BD17248E|Onimusha: Dawn of Dreams (Disc 1) (SLPM-66275) / Onimusha: Dawn of Dreams (Disc 2) (SLUS-21362)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66275_BD17248E.pnach)|
 |SLUS-21180_FE44479E|Onimusha: Dawn of Dreams (Disc 1) (SLUS-21180) / Onimusha: Dawn of Dreams (Disc 2) (SLUS-21362)|Widescreen correction by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21180_FE44479E.pnach)|
 |7142AF8B|Onmyou Taisenki - Byakko Enbu (With_Eyetoy) (J)(SLPS-20416)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7142AF8B.pnach)|
-|55D22FA4|Onmyou Taisenki - Byakko Enbu [NTSC-J] [SLPS-20417]|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/55D22FA4.pnach)|
+|SLPS-20417_55D22FA4|Onmyou Taisenki - Byakko Enbu [NTSC-J] [SLPS-20417]|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20417_55D22FA4.pnach)|
 |E0959BA8|Oookuki (J)(SLLPM-66441)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E0959BA8.pnach)|
 |30204F8E|Open Season (E)(SLES-54316)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/30204F8E.pnach)|
 |SLUS-21467_06BBB610|Open Season (U)(SLUS-21467)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21467_06BBB610.pnach)|
-|6A58CA53|Operation Air Assault (E)(SLES-52572)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6A58CA53.pnach)|
+|SLES-52572_6A58CA53|Operation Air Assault (E)(SLES-52572)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52572_6A58CA53.pnach)|
 |SLES-54804_DED31A79|Operation Air Assault 2 (E)(SLES-54804)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54804_DED31A79.pnach)|
 |SLES-50155_BD2818EA|Operation WinBack (PAL-M3) (SLES-50155)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50155_BD2818EA.pnach)|
-|1E917B2D|Operation WinBack 2 - Project Poseidon (PAL-E) (SLES-54116)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E917B2D.pnach)|
+|SLES-54116_1E917B2D|Operation WinBack 2 - Project Poseidon (PAL-E) (SLES-54116)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54116_1E917B2D.pnach)|
 |E37B178F|Orega Kantoku da (NTSC-J)(SLPM-65005)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E37B178F.pnach)|
 |40A831BF|Orega Kantoku da Vol.2 - Getitou Pennent Race (NTSC-J)(SLPM-65056)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/40A831BF.pnach)|
 |SLUS-20011_7BF65F9C|Orphen: Scion of Sorcery [NTSC-U] (SLUS-20011)|Pnach by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20011_7BF65F9C.pnach)|
-|2DF5D168|Otostaz (K)(SCPS-56004)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2DF5D168.pnach)|
+|SCPS-56004_2DF5D168|Otostaz (K)(SCPS-56004)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56004_2DF5D168.pnach)|
 |SCPS-11024_9F7246A3|Otostaz [NTSC-J] [SCPS-11024]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11024_9F7246A3.pnach)|
 |96F3F344|Ougon Kishi Garo [NTSC-J] (SLPS-20463)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/96F3F344.pnach)|
 |35CBC3A9|Outlaw Golf (PAL-M3) (SLES-51926)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/35CBC3A9.pnach)|
@@ -2205,7 +2205,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20955_B43000A1|Phantom Brave [NTSC-U] (SLUS_209.55)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20955_B43000A1.pnach)|
 |SLES-52951_977116A5|Phantom Brave [PAL] (SLES_529.51)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52951_977116A5.pnach)|
 |BE3F85FF|Phantom Kingdom (J)(SLPS-20410)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BE3F85FF.pnach)|
-|48C43B26|Pilot ni Narou 2 (J)(SLPS-20077)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/48C43B26.pnach)|
+|SLPS-20077_48C43B26|Pilot ni Narou 2 (J)(SLPS-20077)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20077_48C43B26.pnach)|
 |SLUS-21580_3CCCFD55|Pimp my Ride (U)(SLUS-21580)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21580_3CCCFD55.pnach)|
 |SLES-52519_46D15FAC|Pink Pong [PAL] (SLES_525.19)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52519_46D15FAC.pnach)|
 |SLUS-21478_741E27AB|Pirates - Legend of the Black Buccaneer (U)(SLUS-21478)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21478_741E27AB.pnach)|
@@ -2239,36 +2239,36 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21287_84F3309D|Prince of Persia: The Two Thrones (SLUS-21287)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21287_84F3309D.pnach)|
 |SLUS-21022_6B17B39F|Prince of Persia: Warrior Within (SLUS-21022)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21022_6B17B39F.pnach)|
 |BAFCDA66|Prisoner of War (PAL-M5) (SLES-50397)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BAFCDA66.pnach)|
-|0A4A7296|Pro Beach Soccer (E)(SLES-51492)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0A4A7296.pnach)|
+|SLES-51492_0A4A7296|Pro Beach Soccer (E)(SLES-51492)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51492_0A4A7296.pnach)|
 |7220EA06|Pro Evolution Soccer (E)(SLES-50412)(v2.00)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7220EA06.pnach)|
-|0C4D62D7|Pro Evolution Soccer (I)(SLES-50462)(v2.00)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0C4D62D7.pnach)|
+|SLES-50462_0C4D62D7|Pro Evolution Soccer (I)(SLES-50462)(v2.00)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50462_0C4D62D7.pnach)|
 |768D7B3C|Pro Evolution Soccer 2 (E)(SLES-51114)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/768D7B3C.pnach)|
 |SLUS-21464_DE67BB91|Pro Evolution Soccer 2007 (SLUS_21464)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21464_DE67BB91.pnach)|
 |C7A1EFF2|Pro Evolution Soccer 2008 (USA) [SLUS-21685]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C7A1EFF2.pnach)|
 |SLES-54913_99D51FA8|Pro Evolution Soccer 2008 PAL Spain (SLES_549.13)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54913_99D51FA8.pnach)|
 |7FCDAAAD|Pro Evolution Soccer 2009 (U)(SLUS-21821)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7FCDAAAD.pnach)|
-|2EB6FAFD|Pro Evolution Soccer 2009 PAL Spain (SLES_554.06)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2EB6FAFD.pnach)|
+|SLES-55406_2EB6FAFD|Pro Evolution Soccer 2009 PAL Spain (SLES_554.06)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55406_2EB6FAFD.pnach)|
 |74232157|Pro Evolution Soccer 2010 (SLES-55406)|Widescreen hack (PAL-Unk by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/74232157.pnach)|
 |SLUS-21918_6579BD4D|Pro Evolution Soccer 2010 (USA) [SLUS-21918]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21918_6579BD4D.pnach)|
 |D0F72D6F|Pro Evolution Soccer 2010 [PAL-M5] (SLES_555.87)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D0F72D6F.pnach)|
-|9E0FC9A1|Pro Evolution Soccer 2010 PAL Spain (SLES_555.89)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9E0FC9A1.pnach)|
+|SLES-55589_9E0FC9A1|Pro Evolution Soccer 2010 PAL Spain (SLES_555.89)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55589_9E0FC9A1.pnach)|
 |SLUS-21942_FF55109B|Pro Evolution Soccer 2011 (USA) [SLUS-21942]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21942_FF55109B.pnach)|
 |SLES-55636_F937AEF0|Pro Evolution Soccer 2011 [PAL-M5] (SLES_556.36)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55636_F937AEF0.pnach)|
 |DB2A922D|Pro Evolution Soccer 2011 PAL Spain (SLES_556.38)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DB2A922D.pnach)|
 |SLUS-21948_B04FC443|Pro Evolution Soccer 2012 [NTSC-U] [SLUS-21948]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21948_B04FC443.pnach)|
 |E68BBB09|Pro Evolution Soccer 2012 [PAL-M5] (SLES_556.56)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E68BBB09.pnach)|
 |C49AD6F8|Pro Evolution Soccer 2012 PAL Spain (SLES_556.58)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C49AD6F8.pnach)|
-|30D78E9F|Pro Evolution Soccer 2013 [PAL-M5] (SLES_556.66)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/30D78E9F.pnach)|
+|SLES-55666_30D78E9F|Pro Evolution Soccer 2013 [PAL-M5] (SLES_556.66)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55666_30D78E9F.pnach)|
 |94A99538|Pro Evolution Soccer 2013 [U] (SLUS-21955)|Widescreen hack (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/94A99538.pnach)|
 |39C58126|Pro Evolution Soccer 2013 PAL Spain (SLES_556.69)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/39C58126.pnach)|
 |A8A7A42A|Pro Evolution Soccer 2014 [E] (SLES-55673)|Widescreen hack (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A8A7A42A.pnach)|
 |6B903B81|Pro Evolution Soccer 2014 [E] (SLES-55676)|Widescreen hack (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6B903B81.pnach)|
-|3D653E04|Pro Evolution Soccer 3 [PAL-M4] (SLES_519.12)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3D653E04.pnach)|
+|SLES-51912_3D653E04|Pro Evolution Soccer 3 [PAL-M4] (SLES_519.12)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51912_3D653E04.pnach)|
 |SLES-52760_FB8BCB6D|Pro Evolution Soccer 4 [PAL-M4] (SLES_527.60)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52760_FB8BCB6D.pnach)|
-|BFDF7C5A|Pro Evolution Soccer 5 PAL Spain (SLES_535.44)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BFDF7C5A.pnach)|
-|2D2AF931|Pro Evolution Soccer 6 PAL Spain (SLES_543.62)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2D2AF931.pnach)|
+|SLES-53544_BFDF7C5A|Pro Evolution Soccer 5 PAL Spain (SLES_535.44)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53544_BFDF7C5A.pnach)|
+|SLES-54362_2D2AF931|Pro Evolution Soccer 6 PAL Spain (SLES_543.62)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54362_2D2AF931.pnach)|
 |7D2AF924|Pro Evolution Soccer 6 PAL UK|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7D2AF924.pnach)|
-|19DA6238|Pro Evolution Soccer Management (E)(SLES-53899)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/19DA6238.pnach)|
+|SLES-53899_19DA6238|Pro Evolution Soccer Management (E)(SLES-53899)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53899_19DA6238.pnach)|
 |SLES-50637_FF920E90|Pro Rally 2002 (E)(SLES-50637)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50637_FF920E90.pnach)|
 |62188F25|Pro Tennis WTA Tour [PAL] (SLES_507.52)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/62188F25.pnach)|
 |49A81A40|Pro Yakyuu Spirits 2 (NTSC-J) (SLPM_659.29)|widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/49A81A40.pnach)|
@@ -2284,7 +2284,7 @@ If you are looking for specific game use shortcut CTRL+F
 |4471743C|Project FIFA Worldcup - Sorenara kimi ga daihyou kantoku (J)(SLPS-25110)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4471743C.pnach)|
 |40C77B13|Project Minerva (K)(SLPM-67545)|Widescreen Hack by Little Gaint (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/40C77B13.pnach)|
 |AB09D7EC|Project Minerva [NTSC-J] (SLPM-65165)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AB09D7EC.pnach)|
-|1FA1E198|Project Minerva Professional & Simple 2000 Ultimate Series Vol. 23: Project Minerva Professional [NTSC-J] (SLPM-65344)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1FA1E198.pnach)|
+|SLPM-65344_1FA1E198|Project Minerva Professional & Simple 2000 Ultimate Series Vol. 23: Project Minerva Professional [NTSC-J] (SLPM-65344)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65344_1FA1E198.pnach)|
 |SLES-50821_22E91837|Project Zero|Project Zero * SLES-50821 * PAL-M5 * 22E91837<br />- Widescreen & HD pnach by pgert.<br />- Credits to ElHecht & nemesis2000.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50821_22E91837.pnach)|
 |SLES-52384_9D87F3AF|Project Zero 2 - Crimson Butterfly|Project Zero 2 - Crimson Butterfly * SLES-52384 * PAL-M5 * 9D87F3AF<br />- This game might have some problems with the Cinematics in 60Hz mode,<br />-  regardless of resolution or patches; this pnach is not causing that.<br />- *  *  *  *  *<br />- Widescreen & HD pnach by pgert.<br />- Patches primarily by nemesis2000.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52384_9D87F3AF.pnach)|
 |23B754F4|Project Zero 3 - The Tormented|Project Zero 3 - The Tormented * SLES-53825 * PAL-M5 * 23B754F4<br />- Widescreen & HD pnach by pgert.<br />- Credits to ElHecht, Little giant and nemesis2000.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/23B754F4.pnach)|
@@ -2292,18 +2292,18 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50721_D4FB6049|Pryzm: Chapter One: The Dark Unicorn [PAL-M4] (SLES_507.21)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50721_D4FB6049.pnach)|
 |SLUS-20688_9C71B59E|Psi-Ops: The Mindgate Conspiracy (SLUS-20688)|Widescreen hack by Nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20688_9C71B59E.pnach)|
 |5E7EB5E2|Psi-Ops: The Mindgate Conspiracy [PAL-M5] (SLES_527.02)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5E7EB5E2.pnach)|
-|6B97BBC8|Psychonauts (E)(SLES-53830)|Widescreen hack by pelvicthrustman|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6B97BBC8.pnach)|
+|SLES-53830_6B97BBC8|Psychonauts (E)(SLES-53830)|Widescreen hack by pelvicthrustman|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53830_6B97BBC8.pnach)|
 |SLUS-21120_2373FD16|Psychonauts SLUS_211.20|Widescreen hack by pelvicthrustman|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21120_2373FD16.pnach)|
 |SLPS-25247_D0E17D26|R-Type Final (J)(SLPS-25247)|Widescreen hack NTSC-J by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25247_D0E17D26.pnach)|
 |5681F8B1|R-Type Final (K)(SCKA-20009)|Widescreen hack NTSC-K by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5681F8B1.pnach)|
 |355DBDDF|R-Type Final (PAL-M3) [SLES-51952]|Widescreen Hack by sergx12, PAL conversion & black bar fix by FlatOut|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/355DBDDF.pnach)|
 |SLUS-20780_85E994DD|R-Type Final SLUS_207.80|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20780_85E994DD.pnach)|
-|1C087362|Racing Battle C1 Grand Prix (J)(SLPM-65897)|Widescreen hack by Arapapa<br />No Interlacing Patch by Tokman5|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1C087362.pnach)|
+|SLPM-65897_1C087362|Racing Battle C1 Grand Prix (J)(SLPM-65897)|Widescreen hack by Arapapa<br />No Interlacing Patch by Tokman5|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65897_1C087362.pnach)|
 |669AE6D2|Racing Game - Chuui!!! (J)(SLPM-66043)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/669AE6D2.pnach)|
 |SLES-51235_A8D651D2|Raging Blades (E)(SLES-51235)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51235_A8D651D2.pnach)|
 |A18347E0|Raging Bless - Gouma Mokushiroku (J)(SLPS-20198)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A18347E0.pnach)|
 |F2386C7B|Ragingbless (NTSC-K)(SLPM-64521)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F2386C7B.pnach)|
-|4C927A09|RahXephon (J) (SLPS-25265)|Widescreen Hack by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4C927A09.pnach)|
+|SLPS-25265_4C927A09|RahXephon (J) (SLPS-25265)|Widescreen Hack by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25265_4C927A09.pnach)|
 |SLPM-65637_3B1E61D6|Rakugaki Oukoku 2 - Majo no Tataki (J)(SLPM-65637)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65637_3B1E61D6.pnach)|
 |55E708DA|Rally Fusion - Race of Champions (E)(SLES-50997)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/55E708DA.pnach)|
 |90CEC039|Rally Fusion - Race of Champions (U)(SLUS-20361)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/90CEC039.pnach)|
@@ -2328,13 +2328,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50077_91202475|RC Revenge Pro (E)(SLES-50077)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50077_91202475.pnach)|
 |SLUS-20153_A8083AE6|RC Revenge Pro (U)((SLUS-20153)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20153_A8083AE6.pnach)|
 |409E55FF|RC Toy Machines (E)(SLES-52999)|Widescreen hack by Devina and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/409E55FF.pnach)|
-|3BCE9305|Ready 2 Rumble Boxing - Round 2 (J) (v1.04) (SLPM-62124)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3BCE9305.pnach)|
-|49872FED|Ready 2 Rumble Boxing - Round 2 SLES_500.10|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/49872FED.pnach)|
+|SLPM-62124_3BCE9305|Ready 2 Rumble Boxing - Round 2 (J) (v1.04) (SLPM-62124)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62124_3BCE9305.pnach)|
+|SLES-50010_49872FED|Ready 2 Rumble Boxing - Round 2 SLES_500.10|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50010_49872FED.pnach)|
 |SLUS-20054_70A26400|Ready 2 Rumble Boxing - Round 2 SLUS_200.54|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20054_70A26400.pnach)|
 |AD5C679D|Real Sports Pro Yakyuu (J)(SLPS-20305)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AD5C679D.pnach)|
 |F693320E|Realm of the Dead (E)(SLES-54339)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F693320E.pnach)|
 |D287A60F|Realm of the Dead (PAL-E) (SLES-54339)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D287A60F.pnach)|
-|05855832|Rebel Raiders - Operation Nighthawk (E)(SLES-53413)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/05855832.pnach)|
+|SLES-53413_05855832|Rebel Raiders - Operation Nighthawk (E)(SLES-53413)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53413_05855832.pnach)|
 |SLUS-21303_5B048038|Rebel Raiders - Operation Nighthawk (U)(SLUS-21303)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21303_5B048038.pnach)|
 |SLUS-20073_FBF28175|Red Faction (NTSC-U) (SLUS-20073)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20073_FBF28175.pnach)|
 |A7E712FD|Red Faction (PAL-F) (SLES-50278)|Widescreen hack by Bigdemon|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A7E712FD.pnach)|
@@ -2348,7 +2348,7 @@ If you are looking for specific game use shortcut CTRL+F
 |F48D1411|RedCard SLES_507.11|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F48D1411.pnach)|
 |AFCAEC88|Reel Fishing III (E)(SLES-51308)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AFCAEC88.pnach)|
 |SLUS-20555_EA3B2269|Reel Fishing III (U)(SLUS-20555)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20555_EA3B2269.pnach)|
-|79464D5E|Reign of Fire (E)(SLES-50873)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/79464D5E.pnach)|
+|SLES-50873_79464D5E|Reign of Fire (E)(SLES-50873)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50873_79464D5E.pnach)|
 |637125B6|Reign of Fire (K)(SLKA-25011)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/637125B6.pnach)|
 |D10945CE|Reign of Fire (U)(SLUS_205.56)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D10945CE.pnach)|
 |4867052B|Reiselied - Ephemeral Fantasia [NTSC-J] (SLPM-65004)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4867052B.pnach)|
@@ -2361,8 +2361,8 @@ If you are looking for specific game use shortcut CTRL+F
 |47C231CC|Resident Evil: Outbreak (SLES-51589)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/47C231CC.pnach)|
 |0245EF6D|Resident Evil: Outbreak (SLUS-20765)  / VER = 2.00||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0245EF6D.pnach)|
 |A8505479|Resident Evil: Outbreak: File #2 (SLES-53319)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A8505479.pnach)|
-|1E65A59B|Resident Evil: Outbreak: File #2 (SLUS-20984)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E65A59B.pnach)|
 |SLUS-20984_1E65A50E|Resident Evil: Outbreak: File #2 (SLUS-20984)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20984_1E65A50E.pnach)|
+|SLUS-20984_1E65A59B|Resident Evil: Outbreak: File #2 (SLUS-20984)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20984_1E65A59B.pnach)|
 |461C79A5|Return to Castle Wolfenstein: Operation Resurrection (PAL SLES_514.49)|Widescreen hack by nemesis2000 (Converted to PAL by Somechump)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/461C79A5.pnach)|
 |SLUS-20297_5F4DB1DD|Return to Castle Wolfenstein: Operation Resurrection (SLUS-20297)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20297_5F4DB1DD.pnach)|
 |DFC8C288|﻿Reveal Fantasia [NTSC-J] (SLPS-25094)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DFC8C288.pnach)|
@@ -2396,9 +2396,9 @@ If you are looking for specific game use shortcut CTRL+F
 |B860F5B6|Robots (E)(SLES-53052)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B860F5B6.pnach)|
 |126D3540|Robots (J)(SLPM-66059)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/126D3540.pnach)|
 |SLUS-20942_5931A065|Robots (NTSC-U)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20942_5931A065.pnach)|
-|2AF40F67|﻿RockMan X Command Mission [NTSC-J] (SLPM-65643)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2AF40F67.pnach)|
+|SLPM-65643_2AF40F67|﻿RockMan X Command Mission [NTSC-J] (SLPM-65643)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65643_2AF40F67.pnach)|
 |E46BD847|﻿RockMan X7 [NTSC-J] (SLPM-65331)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E46BD847.pnach)|
-|4FF01A82|﻿RockMan X8 [NTSC-J] (SLPM-65730)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4FF01A82.pnach)|
+|SLPM-65730_4FF01A82|﻿RockMan X8 [NTSC-J] (SLPM-65730)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65730_4FF01A82.pnach)|
 |SLUS-20890_166EC9E6|Rocky - Legends (NTSC-U)(SLUS-20890)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20890_166EC9E6.pnach)|
 |9F45265C|Rocky (E)(SLES-51208)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9F45265C.pnach)|
 |78865F28|Rocky (J)(SLPM-65463)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/78865F28.pnach)|
@@ -2408,7 +2408,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-54552_CBB4B383|Rogue Galaxy [PAL-M5] (SLES_545.52)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54552_CBB4B383.pnach)|
 |144CC35B|Rogue Ops|Rogue Ops * SLES-52002 * PAL-M6 * 144CC35B<br />- Widescreen hack by pgert.<br />- Might not work with all BIOS types & configurations.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/144CC35B.pnach)|
 |FCEA8119|Rogue Ops SLUS_207.46|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FCEA8119.pnach)|
-|03C8EA64|Rogue Trooper (E)(SLES-52921)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/03C8EA64.pnach)|
+|SLES-52921_03C8EA64|Rogue Trooper (E)(SLES-52921)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52921_03C8EA64.pnach)|
 |SLUS-21320_2F63F868|Rogue Trooper (NTSC-U)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21320_2F63F868.pnach)|
 |8FE61CAD|Roland Garros 2005 - Powered by Smash Court Tennis (E)(SCES-53310)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8FE61CAD.pnach)|
 |SLUS-21584_C0D6A139|Romance of the Three Kingdoms XI SLUS_215.84|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21584_C0D6A139.pnach)|
@@ -2418,13 +2418,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52190_A1B8DAC8|RPM Tuning (E)(SLES-52190)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52190_A1B8DAC8.pnach)|
 |SLES-52277_635AB78A|RS II - Riding Spirits (E)(SLES-52277)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52277_635AB78A.pnach)|
 |005B2002|RS II - Riding Spirits (J)(SLPM-65427)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/005B2002.pnach)|
-|1AC2F637|RTL Biathlon 2008 [PAL] (SLES_549.37)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1AC2F637.pnach)|
+|SLES-54937_1AC2F637|RTL Biathlon 2008 [PAL] (SLES_549.37)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54937_1AC2F637.pnach)|
 |SLUS-20491_E349C1D4|RTX - Red Rock|RTX - Red Rock * SLES-51069 * PAL-M5 * E349C1D4<br />- Widescreen hack by pgert.<br />- Might not work with all BIOS types & configurations.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20491_E349C1D4.pnach)|
 |SLES-51071_8AEE00C6|RTX - Red Rock * SLES-51069 * PAL/Europe * E349C1D4|RTX - Red Rock * SLES-51069 * PAL/Europe * E349C1D4<br />- Widescreen hack by pgert.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51071_8AEE00C6.pnach)|
 |SLUS-21314_F73488D5|Ruff Trigger - The Vanocore Conspiracy SLUS_213.14|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21314_F73488D5.pnach)|
 |B02C81E5|Ruff Trigger: The Vanocore Conspiracy [PAL-M5] (SLES_540.21)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B02C81E5.pnach)|
 |B7BA39A1|Rugby (E)(SLES-50220)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B7BA39A1.pnach)|
-|3E29A8FD|Rugby (USA) [SLUS-20262]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E29A8FD.pnach)|
+|SLUS-20262_3E29A8FD|Rugby (USA) [SLUS-20262]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20262_3E29A8FD.pnach)|
 |7250EB43|Rugby 2005 (E)(SLES-53094)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7250EB43.pnach)|
 |DAEC84E6|Rugby 2005 (USA) [SLUS-21158]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DAEC84E6.pnach)|
 |SCPS-15093_72588D1A|Rule of Rose (J) (SCPS-15093)|Widescreen patch (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15093_72588D1A.pnach)|
@@ -2441,8 +2441,8 @@ If you are looking for specific game use shortcut CTRL+F
 |A2DD109B|Runabout 3 - Neo Age (E)(SLES-51223)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A2DD109B.pnach)|
 |DF3812A4|Runabout 3 - Neo Age (J)(SLPS-25108)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DF3812A4.pnach)|
 |DE737FE2|﻿Rurouni Kenshin - Enjou! Kyoto Rinne [NTSC-J] (SLPS-25685)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DE737FE2.pnach)|
-|3A2EF433|Rygar - The Legendary Adventure (NTSC-K) (SCKA_20006)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3A2EF433.pnach)|
-|2DFD9846|Rygar - The Legendary Adventure (PAL-M5) (SLES-51445)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2DFD9846.pnach)|
+|SCKA_20006_3A2EF433|Rygar - The Legendary Adventure (NTSC-K) (SCKA_20006)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA_20006_3A2EF433.pnach)|
+|SLES-51445_2DFD9846|Rygar - The Legendary Adventure (PAL-M5) (SLES-51445)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51445_2DFD9846.pnach)|
 |SLUS-20471_3E2A42FA|Rygar - The Legendary Adventure (SLUS_20471)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20471_3E2A42FA.pnach)|
 |F293D7F6|S.L.A.I. - Steel Lancer Arena International (NTSC-J)(SLPM-65791)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F293D7F6.pnach)|
 |SLUS-20969_A9A55B5E|S.L.A.I. - Steel Lancer Arena International SLUS_209.69|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20969_A9A55B5E.pnach)|
@@ -2458,7 +2458,7 @@ If you are looking for specific game use shortcut CTRL+F
 |8AA8BEA6|Saiyuki Reload - Gunlock (K)(SLKA-15035)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8AA8BEA6.pnach)|
 |SLPM-20436_4FF4AA01|Sakigake Otokojuku (J) (SLPS-20436)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-20436_4FF4AA01.pnach)|
 |7D2AB18C|Sakurazaka Shouboutai (J)(SLPS-25363)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7D2AB18C.pnach)|
-|1C9C08BA|Samurai - Kanzenban (J)(SLPM-74405)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1C9C08BA.pnach)|
+|SLPM-74405_1C9C08BA|Samurai - Kanzenban (J)(SLPM-74405)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74405_1C9C08BA.pnach)|
 |A7110F33|Samurai (J)(SLPS-20178)|Widescreen hack by ElHecht(NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A7110F33.pnach)|
 |SLUS-21343_7A5B4F80|Samurai Champloo - Sidetracked (NTSC-U) (SLUS-21343)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21343_7A5B4F80.pnach)|
 |3894622B|Samurai Champloo (K)(SLKA-25360)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3894622B.pnach)|
@@ -2469,7 +2469,7 @@ If you are looking for specific game use shortcut CTRL+F
 |95E985AA|Samurai Warriors - Xtreme Legends (PAL-G) (SLES-53004)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/95E985AA.pnach)|
 |SLUS-20878_CF11CD83|Samurai Warriors (NTSC-U) (SLUS-20878)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20878_CF11CD83.pnach)|
 |73C051CE|Samurai Warriors (PAL-G) (SLES-52553)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/73C051CE.pnach)|
-|2FF26DC2|Samurai Warriors 2 - Empires (PAL-E) (SLES-54624)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2FF26DC2.pnach)|
+|SLES-54624_2FF26DC2|Samurai Warriors 2 - Empires (PAL-E) (SLES-54624)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54624_2FF26DC2.pnach)|
 |SLUS-21585_3D3D9A58|Samurai Warriors 2 - Empires (U) (SLUS-21585) [3D3D9A58]|Widescreen Hack (16:9) by ElHecht converted by Shang|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21585_3D3D9A58.pnach)|
 |67472179|Samurai Warriors 2 - Xtreme Legends (PAL-E) (SLES-55108)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/67472179.pnach)|
 |C8844E0B|Samurai Warriors 2 (PAL-E) (SLES-54340)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C8844E0B.pnach)|
@@ -2498,9 +2498,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20349_10B1F370|Scooby-Doo! Night of 100 Frights (U)(SLUS-20349)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20349_10B1F370.pnach)|
 |SLUS-21091_FE0030D6|Scooby-Doo! Unmasked (U)(SLUS-21091) and (E)(SLES-53100)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21091_FE0030D6.pnach)|
 |C2C630E5|SD Gundam Force - Showdown! (U)(SLUS-20698)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C2C630E5.pnach)|
-|4A9E1684|SD Gundam Force: Daikessen! Jigen Kaizoku De Scar!! (J)(SLPS-25425)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4A9E1684.pnach)|
+|SLPS-25425_4A9E1684|SD Gundam Force: Daikessen! Jigen Kaizoku De Scar!! (J)(SLPS-25425)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25425_4A9E1684.pnach)|
 |49D60A00|SD Gundam G Generation Neo (J)(SLPS-25170)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/49D60A00.pnach)|
-|3BAAB99F|SD Gundam G Generation Neo (K)(SLKA-25081)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3BAAB99F.pnach)|
+|SLKA-25081_3BAAB99F|SD Gundam G Generation Neo (K)(SLKA-25081)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25081_3BAAB99F.pnach)|
 |9370E436|SD Gundam G Generation Seed (J)(SLPS-25531)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9370E436.pnach)|
 |819DDCF8|SD Gundam G Generation Seed (K)(SLKA-25170)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/819DDCF8.pnach)|
 |BBDE6926|SD Gundam G Generation Spirits (J)(SLPS-25832)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BBDE6926.pnach)|
@@ -2515,7 +2515,7 @@ If you are looking for specific game use shortcut CTRL+F
 |F27FDE85|Secret Weapons Over Normandy (J)(SLPM-65483)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F27FDE85.pnach)|
 |SLUS-20762_47197D6B|Secret Weapons Over Normandy (U)(SLUS-20762)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20762_47197D6B.pnach)|
 |SLUS-20606_71B6ADB9|Seek and Destroy (NTSC-U)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20606_71B6ADB9.pnach)|
-|5F2F5469|Seek and Destroy (PAL-M5) (SLES_516.03)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5F2F5469.pnach)|
+|SLES-51603_5F2F5469|Seek and Destroy (PAL-M5) (SLES_516.03)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51603_5F2F5469.pnach)|
 |SLPM-62445_1DB29B3C|Sega Ages 2500 Series Vol. 09 - Gain Ground (J)(SLPM-62445)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62445_1DB29B3C.pnach)|
 |SLPM-62446_60437C5F|Sega Ages 2500 Series Vol. 10 - Afterburner II (J)(SLPM-62446)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62446_60437C5F.pnach)|
 |21501356|Sega Ages 2500 Series Vol. 13 - OutRun SLPM_624.47|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/21501356.pnach)|
@@ -2539,7 +2539,7 @@ If you are looking for specific game use shortcut CTRL+F
 |AEA1B3AD|﻿Sengoku Basara [NTSC-J] (SLPM-66058)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AEA1B3AD.pnach)|
 |CA857E71|Sengoku Basara 2 Heroes(SLPM_668.48)|Sengoku Basara 2 Heroes|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CA857E71.pnach)|
 |SLPM-66447_4961CB79|Sengoku Basara 2(SLPM_664.47)|Sengoku Basara 2|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66447_4961CB79.pnach)|
-|75326E04|Sengoku Musou (K)(SLKA-25166)|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/75326E04.pnach)|
+|SLKA-25166_75326E04|Sengoku Musou (K)(SLKA-25166)|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25166_75326E04.pnach)|
 |19487E13|Sengoku Musou [NTSC-J] [SLPM-65517]|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/19487E13.pnach)|
 |4192E055|Sengoku Musou 2 (J)(SLPM-66307)|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4192E055.pnach)|
 |C6C71A64|Sengoku Musou 2 (K)(SLKA-25379)|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C6C71A64.pnach)|
@@ -2582,7 +2582,7 @@ If you are looking for specific game use shortcut CTRL+F
 |F820AA03|Shin Best Play Pro Yakyuu (J)(SLPS-20130)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F820AA03.pnach)|
 |SLPS-25763_9AC21F92|Shin Bokujou Monogatari - Pure Innocent Life (J)(SLPS-25763)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25763_9AC21F92.pnach)|
 |4322E466|Shin Combat Choro Q (J)(SLPM-65105)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4322E466.pnach)|
-|1B4EBBA4|Shin Combat Choro Q (K)(SLKA-25047)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1B4EBBA4.pnach)|
+|SLKA-25047_1B4EBBA4|Shin Combat Choro Q (K)(SLKA-25047)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25047_1B4EBBA4.pnach)|
 |C6B97484|﻿Shin Contra [NTSC-J] (SLPM-62264)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C6B97484.pnach)|
 |SLPM-66246_67D76160|Shin Megami Tensei - Devil Summoner 1 (SLPM_662.46)|Widescreen Hack by Arapapa and Red_Tv|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66246_67D76160.pnach)|
 |D06BF8A6|Shin Megami Tensei - Devil Summoner 2 (SLPM_666.79)|Widescreen Hack by Arapapa and Red_Tv|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D06BF8A6.pnach)|
@@ -2602,7 +2602,7 @@ If you are looking for specific game use shortcut CTRL+F
 |BCD68B1E|Shin Megami Tensei: Persona 3 (K) (SCKA_20099)|Widescreen hack by nemesis2000 and devina (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BCD68B1E.pnach)|
 |SLUS-21569_7AE1C04B|Shin Megami Tensei: Persona 3 (SLUS-21569)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21569_7AE1C04B.pnach)|
 |SLPM-74277_232C7D72|Shin Megami Tensei: Persona 3 FES (SLPM-66690)|Widescreen hack by CeruleansBlue, devina, nemesis2000, sergx12, Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74277_232C7D72.pnach)|
-|970A82A2|Shin Megami Tensei: Persona 3 FES (SLUS-21621) (UNDUB)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/970A82A2.pnach)|
+|SLUS-21621_970A82A2|Shin Megami Tensei: Persona 3 FES (SLUS-21621) (UNDUB)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21621_970A82A2.pnach)|
 |SLUS-21621_94A82AAA|Shin Megami Tensei: Persona 3 FES (U)(SLUS-21621)|Widescreen hack by nemesis2000, devina, CeruleansBlue, Arapapa, The Calculator|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21621_94A82AAA.pnach)|
 |F64A6AE5|Shin Megami Tensei: Persona 3 FES [PAL] (SLES-55354)|16:9 Widescreen, 60fps, & Progressive Scan|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F64A6AE5.pnach)|
 |117D1977|Shin Megami Tensei: Persona 4  [PAL] (SLES-55474)|16:9 Widescreen, 60fps, & Progressive Scan|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/117D1977.pnach)|
@@ -2611,7 +2611,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21782_DEDC3B71|Shin Megami Tensei: Persona 4 (SLUS-21782B)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21782_DEDC3B71.pnach)|
 |SLPM-66978_4E63E63C|﻿Shin Megami Tensei: Persona 4 NTSC-J (SLPM-66978)|Widescreen hack by nemesis2000 and pavachan (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66978_4E63E63C.pnach)|
 |C1C77637|Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc1of2] [SLPM-74232]|Widescreen hack by nemesiss2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C1C77637.pnach)|
-|5C1E5BEF|Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc2of2] [SLPM-74232]|Widescreen hack by nemesiss2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C1E5BEF.pnach)|
+|SLPM-74232_5C1E5BEF|Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc2of2] [SLPM-74232]|Widescreen hack by nemesiss2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74232_5C1E5BEF.pnach)|
 |D27095D6|Shin Sangoku Mosou 3 Empires(=Dynasty warriors 4 Empires) (SLKA_251.87)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D27095D6.pnach)|
 |ACFB7A31|Shin Sangoku Mosou 3(=Dynasty warriors 4) (SLKA_250.50)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ACFB7A31.pnach)|
 |5A63669B|Shin Sangoku Musou (J)(SLPM-62005)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5A63669B.pnach)|
@@ -2626,14 +2626,14 @@ If you are looking for specific game use shortcut CTRL+F
 |3CEB6582|Shin Sangoku Musou 3 Mushouden (J)(SLPM-65377A)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3CEB6582.pnach)|
 |421A1DC6|Shin Sangoku Musou 4 (J)(SLPM-65890)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/421A1DC6.pnach)|
 |88B27A66|﻿Shin Sangoku Musou 4 Empires [NTSC-J] (SLPM-66343)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/88B27A66.pnach)|
-|4A7E3B36|Shin Sangoku Musou 4 Empires(=Dynasty warriors 5 Empires) (SLKA_253.90)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4A7E3B36.pnach)|
-|3A4AC047|Shin Sangoku Musou 4 Mushouden (J)(SLPM-66101)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3A4AC047.pnach)|
-|5C19B973|Shin Sangoku Musou 4 Special(=Dynasty warriors5sp)(SLKA_253.29)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C19B973.pnach)|
-|6E671EBC|Shin Sangoku Musou 4(=Dynasty warriors 5) (SLKA_252.89)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6E671EBC.pnach)|
+|SLKA-25390_4A7E3B36|Shin Sangoku Musou 4 Empires(=Dynasty warriors 5 Empires) (SLKA_253.90)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25390_4A7E3B36.pnach)|
+|SLPM-66101_3A4AC047|Shin Sangoku Musou 4 Mushouden (J)(SLPM-66101)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66101_3A4AC047.pnach)|
+|SLKA-25329_5C19B973|Shin Sangoku Musou 4 Special(=Dynasty warriors5sp)(SLKA_253.29)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25329_5C19B973.pnach)|
+|SLKA-25289_6E671EBC|Shin Sangoku Musou 4(=Dynasty warriors 5) (SLKA_252.89)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25289_6E671EBC.pnach)|
 |B39683CE|Shin Sangoku Musou 5 SP(=Dynasty warriors 6) (SLKA_350.05)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B39683CE.pnach)|
 |B1E138B6|Shin Sangoku Musou 5 Special [Disc1of2](J)(SLPM-55082)|Widescreen hack by 99skul (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B1E138B6.pnach)|
 |91CA46D6|shin sangokumusou 4 xtreme legends|widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/91CA46D6.pnach)|
-|8B383FDF|Shining Force EXA (J) (SLPM_666.46)|Widescreen Hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8B383FDF.pnach)|
+|SLPM-66646_8B383FDF|Shining Force EXA (J) (SLPM_666.46)|Widescreen Hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66646_8B383FDF.pnach)|
 |SLUS-21567_C3F67CAF|Shining Force EXA SLUS_215.67|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21567_C3F67CAF.pnach)|
 |64F241D2|Shining Force Neo (J) (SLPM_659.08)|Widescreen Hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/64F241D2.pnach)|
 |AABDB541|Shining Force NEO (SLUS-212061)|Widescreen hack by nemesis2000 and paul_met|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AABDB541.pnach)|
@@ -2713,16 +2713,16 @@ If you are looking for specific game use shortcut CTRL+F
 |742B28CC|Simple 2000 Series Ultimate Vol.07 - Saikyou Shiro Biking (J)(SLPM-62314)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/742B28CC.pnach)|
 |996A788B|Simple 2000 Series Ultimate Vol.09 - Bakusou Manhattan Runabout 3|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/996A788B.pnach)|
 |DE8028AD|Simple 2000 Series Ultimate Vol.13 - Kyousou Tansha King (J)(SLPM-62399)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DE8028AD.pnach)|
-|3E274F26|Simple 2000 Series Ultimate Vol.15 - Love Ping Pong (J)(SLPM-62429)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E274F26.pnach)|
+|SLPM-62429_3E274F26|Simple 2000 Series Ultimate Vol.15 - Love Ping Pong (J)(SLPM-62429)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62429_3E274F26.pnach)|
 |SLPM-62467_8F4FF912|Simple 2000 Series Ultimate Vol.18 - Love Aerobie (J)(SLPM-62467)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62467_8F4FF912.pnach)|
-|1FF8FDF7|Simple 2000 Series Ultimate Vol.21 - Kenka Joutou Yankee Banchou (J)(SLPM-62558)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1FF8FDF7.pnach)|
+|SLPM-62558_1FF8FDF7|Simple 2000 Series Ultimate Vol.21 - Kenka Joutou Yankee Banchou (J)(SLPM-62558)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62558_1FF8FDF7.pnach)|
 |A9B076A1|Simple 2000 Series Ultimate Vol.24 - Makai Tenshou (J)(SLPM-65872)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A9B076A1.pnach)|
 |B94D2F0D|Simple 2000 Series Ultimate Vol.28 - The Gaidou! Genocide Grand Prix - D|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B94D2F0D.pnach)|
 |SLPS-20453_602B7A48|Simple 2000 Series Ultimate Vol.29 - K-1 Premium 2005 Dynamite!! (J)(SLPS-20453)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20453_602B7A48.pnach)|
-|2AF8719D|Simple 2000 Series Vol. 03 - The Bass Fishing (J)(PBPX-95201)(SLPM-62150)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2AF8719D.pnach)|
+|SLPM-62150_2AF8719D|Simple 2000 Series Vol. 03 - The Bass Fishing (J)(PBPX-95201)(SLPM-62150)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62150_2AF8719D.pnach)|
 |A268B71A|Simple 2000 Series Vol. 06 - The Snowboard (J)(SLPM-62196)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A268B71A.pnach)|
 |5FF52634|Simple 2000 Series Vol. 100 - The Otoko Tachi no Kijuu Houza (J)(SLPS-20465)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5FF52634.pnach)|
-|6B7DDDD9|Simple 2000 Series Vol. 102 - The Fuhyou - Senjou no Inu Tachi (J)(SLPS-20467)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6B7DDDD9.pnach)|
+|SLPS-20467_6B7DDDD9|Simple 2000 Series Vol. 102 - The Fuhyou - Senjou no Inu Tachi (J)(SLPS-20467)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20467_6B7DDDD9.pnach)|
 |C810CF06|Simple 2000 Series Vol. 105 - The Maid Fuku to Kikanjuu [NTSC-J] (SLPS-20464)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C810CF06.pnach)|
 |SLPS-20468_0C370E94|Simple 2000 Series Vol. 106 - The Block Kuzushi Quest - Dragon Kingdom (J)(SLPS-20468)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20468_0C370E94.pnach)|
 |F3A2AB09|Simple 2000 Series Vol. 107 - The Honoo no Kakutou Banchou (J)(SLPS-20474)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F3A2AB09.pnach)|
@@ -2742,15 +2742,15 @@ If you are looking for specific game use shortcut CTRL+F
 |398D81B3|Simple 2000 Series Vol. 35 - The Helicopter (J)(SLPM-62373)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/398D81B3.pnach)|
 |95AC6A36|Simple 2000 Series Vol. 39: Boku no Machi Zukuri: Machi-ing Maker++|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/95AC6A36.pnach)|
 |289084A7|Simple 2000 Series Vol. 42 - The Ishu Kakutou Waza (SLPM-62426)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/289084A7.pnach)|
-|0C1A3802|Simple 2000 Series Vol. 48 - The Taxi Utenshu wa Kimi da (SLPM-62483)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0C1A3802.pnach)|
+|SLPM-62483_0C1A3802|Simple 2000 Series Vol. 48 - The Taxi Utenshu wa Kimi da (SLPM-62483)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62483_0C1A3802.pnach)|
 |890E20CA|Simple 2000 Series Vol. 51 - The Senkan (J)(SLPM-62497)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/890E20CA.pnach)|
-|5CDC4435|Simple 2000 Series Vol. 52 - The Chikyuu Shinryokugun - Space Raiders [NTSC-J] [SLPM-62496]|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5CDC4435.pnach)|
+|SLPM-62496_5CDC4435|Simple 2000 Series Vol. 52 - The Chikyuu Shinryokugun - Space Raiders [NTSC-J] [SLPM-62496]|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62496_5CDC4435.pnach)|
 |75ED921E|Simple 2000 Series Vol. 54 - The Daikaijuu (J)(SLPM-62493)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/75ED921E.pnach)|
 |2F65DD7C|Simple 2000 Series Vol. 56 - The Survival Game|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2F65DD7C.pnach)|
 |093A3746|Simple 2000 Series Vol. 57 - The Pro Yakyuu 2004 (J)(SLPM-62508)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/093A3746.pnach)|
 |SLPM-62510_8B365637|Simple 2000 Series Vol. 60 - The Tokusatsu Henshin Hero (J)(SLPM-62510)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62510_8B365637.pnach)|
 |SLPM-62534_988929F3|Simple 2000 Series Vol. 63 - The Suieitaikai [NTSC-J] (SLPM-62534)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62534_988929F3.pnach)|
-|000B73EE|Simple 2000 Series Vol. 65 - The Kyonshi Panic (J)(SLPM-62543)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/000B73EE.pnach)|
+|SLPM-62543_000B73EE|Simple 2000 Series Vol. 65 - The Kyonshi Panic (J)(SLPM-62543)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62543_000B73EE.pnach)|
 |DE85CB65|Simple 2000 Series Vol. 68 - The Runaway - Toumei Highway (J)(SLPM-62564)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DE85CB65.pnach)|
 |D1B78388|Simple 2000 Series Vol. 72 - The Ninkyou (J)(SLPM-62589)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D1B78388.pnach)|
 |F478B7F9|Simple 2000 Series Vol. 73 - The Saiyuki Saruden (J)(SLPM-62588)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F478B7F9.pnach)|
@@ -2763,7 +2763,7 @@ If you are looking for specific game use shortcut CTRL+F
 |9E0A16EE|Simple 2000 Series Vol.05 - The Blockbuster Hyper (J)(SLPM-62171)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9E0A16EE.pnach)|
 |7B147E2D|Simple 2000 Series Vol.07 - The Real Fist Fighter (J)(SLPM-62197)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7B147E2D.pnach)|
 |E08D659B|Simple 2000 Series Vol.112 - The Tousou Highway 2 - Road Warrior 2050 (J)(SLPS-20481)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E08D659B.pnach)|
-|0B34D12E|Simple 2000 Series Vol.24 - The Bowling (J)(SLPM-62308)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0B34D12E.pnach)|
+|SLPM-62308_0B34D12E|Simple 2000 Series Vol.24 - The Bowling (J)(SLPM-62308)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62308_0B34D12E.pnach)|
 |DA0ECB30|Simple 2000 Series Vol.27 - The Pro Yakyuu - 2003 Pennant Race (J)(SLPM-62328)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DA0ECB30.pnach)|
 |SLPM-66077_08E3C435|Simple 2000 Series Vol.31 - K-1 World Max 2005 - Sekai Ouja he no Michi (J)(SLPM-66077)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66077_08E3C435.pnach)|
 |BCCCF3F3|Simple 2000 Series Vol.31 - The Chikyuu Boueigun (NTSC-J) [SLPM-62344] [BCCCF3F3]|Widescreen hacks by ggxxtonghao (initial active X FOV hack) and Aced14 (ELF and 16:10 hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BCCCF3F3.pnach)|
@@ -2776,13 +2776,13 @@ If you are looking for specific game use shortcut CTRL+F
 |AFFB8141|Skate Attack (E)(SLES-54628)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AFFB8141.pnach)|
 |EC064AC7|Sky Odyssey (J)(SCPS-15003)|Widescreen Hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EC064AC7.pnach)|
 |SLUS-20134_CD213E68|Sky Odyssey (NTSC-U)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20134_CD213E68.pnach)|
-|29B11E02|Sky Odyssey (PAL-M5) (SCES-50105)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/29B11E02.pnach)|
+|SCES-50105_29B11E02|Sky Odyssey (PAL-M5) (SCES-50105)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50105_29B11E02.pnach)|
 |7EAAD346|Sky Surfer (E)(SLES-50261)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7EAAD346.pnach)|
 |C3AC9115|Sky Surfer (J)(SLPS-20012)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C3AC9115.pnach)|
 |SCPS-11006_9000252A|﻿SkyGunner [NTSC-J] (SCPS-11006)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11006_9000252A.pnach)|
 |SLUS-20384_A9461CB2|SkyGunner SLUS_203.84|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20384_A9461CB2.pnach)|
 |EAEEC017|Skyscraper (E)(SLES-55152)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EAEEC017.pnach)|
-|43CC009B|Slam Tennis (E)(SLES-50776)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/43CC009B.pnach)|
+|SLES-50776_43CC009B|Slam Tennis (E)(SLES-50776)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50776_43CC009B.pnach)|
 |9C033483|SLPM_626.22;1) Game CRC = 0x9C033483|enhancement no interlacing|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9C033483.pnach)|
 |SCES-52529_FDA1CBF6|Sly 2 - Band of Thieves (PAL-M11) (SCES-52529)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_FDA1CBF6.pnach)|
 |07652DD9|Sly 2 - Band of Thieves (SCUS-97316)|Widescreen Fix by PsxFan107<br />No Interlacing & No Motion Blur|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/07652DD9.pnach)|
@@ -2793,13 +2793,13 @@ If you are looking for specific game use shortcut CTRL+F
 |A8CC1583|Sly Cooper 3 - Honour Among Thieves (K)(SCKA-20063)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A8CC1583.pnach)|
 |71017DE1|Sly Cooper and the Thievius Raccoonus (K)(SCKA-20004)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/71017DE1.pnach)|
 |DA3DD765|Sly Raccoon (PAL-M5) (SCES-50917)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DA3DD765.pnach)|
-|B112BD24|Smarties - Meltdown (E)(SLES-53940)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B112BD24.pnach)|
+|SLES-53940_B112BD24|Smarties - Meltdown (E)(SLES-53940)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53940_B112BD24.pnach)|
 |257F96FD|Smash Court Tennis - Pro Tournament (E)(SLES-50810)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/257F96FD.pnach)|
-|2B0D3251|Smash Court Tennis - Pro Tournament (K)(SCPS-56009)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2B0D3251.pnach)|
+|SCPS-56009_2B0D3251|Smash Court Tennis - Pro Tournament (K)(SCPS-56009)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56009_2B0D3251.pnach)|
 |AD3294F9|Smash Court Tennis - Pro Tournament (U)(SLUS-20286)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AD3294F9.pnach)|
 |F0A31EE3|SMT-Nocturne|SMT-Nocturne-NTSC-U-Widescreen Hack (16:9)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F0A31EE3.pnach)|
 |SLUS-20065_0E7F91DA|Smuggler's Run (NTSC-U) [SLUS-20065] [0E7F91DA]|Widescreen hacks by Devina (active X FOV discovery), sergx12 (render fixes) and Aced14 (ELF hacks/repositioning/revisions)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20065_0E7F91DA.pnach)|
-|3F7F970B|Smuggler's Run (PAL-Unk) [SLES-50055] [3F7F970B]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3F7F970B.pnach)|
+|SLES-50055_3F7F970B|Smuggler's Run (PAL-Unk) [SLES-50055] [3F7F970B]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50055_3F7F970B.pnach)|
 |SLES-50061_95416482|Smuggler's Run [PAL-M5] (SLES_500.61)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50061_95416482.pnach)|
 |SLUS-20204_0EF2C216|Smugglers Run 2 - Hostile Territory (SLUS_20204)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20204_0EF2C216.pnach)|
 |SLUS-21231_395779C5|Sniper Elite (U)(SLUS-21231)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21231_395779C5.pnach)|
@@ -2816,7 +2816,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97134_6F4056DB|SOCOM - U.S. Navy SEALs (U)(SCUS-97134)|Widescreen hack by ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97134_6F4056DB.pnach)|
 |DEAE8CF5|SOCOM - U.S. NAVY SEALs(J)(SCPS-15044|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DEAE8CF5.pnach)|
 |73E5382E|SOCOM II - U.S. Navy SEALs (J)(SCPS-15065)|Widescreen Hack by  ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/73E5382E.pnach)|
-|8C121240|SOCOM II - U.S. Navy SEALs (K)(SCKA-20020)|Widescreen Hack by  ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8C121240.pnach)|
+|SCKA-20020_8C121240|SOCOM II - U.S. Navy SEALs (K)(SCKA-20020)|Widescreen Hack by  ElHecht (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20020_8C121240.pnach)|
 |58A1B8D8|SOCOM II - U.S. Navy SEALs (PAL-M5) (SCES-51904)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/58A1B8D8.pnach)|
 |SCUS-97275_0F6FC6CF|SOCOM II - U.S. Navy SEALs (U)(SCUS-97275)|Widescreen Hack by  ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97275_0F6FC6CF.pnach)|
 |B0D6C2C2|Soldier of Fortune - Gold Edition (U)(SLUS-20084)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B0D6C2C2.pnach)|
@@ -2844,7 +2844,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21603_1F159541|Soul Nomad & the World Eaters (SLUS-21603)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21603_1F159541.pnach)|
 |SLPS-25738_1AB273DA|﻿Soul Nomad & the World Eaters [NTSC-J](SLPS-25739)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25738_1AB273DA.pnach)|
 |6F991F52|Soul Reaver 2 (J)(SLPS-25085)|Widescreen hack by Arapapa and nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6F991F52.pnach)|
-|1B7FF35A|Soul Reaver 2 (K)(SLPM-67516)|Widescreen hack by Arapapa and nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1B7FF35A.pnach)|
+|SLPM-67516_1B7FF35A|Soul Reaver 2 (K)(SLPM-67516)|Widescreen hack by Arapapa and nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67516_1B7FF35A.pnach)|
 |SLUS-21216_027C604C|Soulcalibur III (SLUS-21216)|Widescreen correction by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21216_027C604C.pnach)|
 |ECD5DB23|﻿Sousei no Aquarion [NTSC-J] (SLPS-25519)|Widescreen|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ECD5DB23.pnach)|
 |EF710B2B|Space Channel 5 - Part 2 (PAL-M5) (SCES-50612)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EF710B2B.pnach)|
@@ -2859,7 +2859,7 @@ If you are looking for specific game use shortcut CTRL+F
 |26689C87|Spartan: Total Warrior (J) (SLPM-66444)|Widescreen patch (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/26689C87.pnach)|
 |SLUS-21212_08277A9E|Spartan: Total Warrior (NTSC-U)|Widescreen patch|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21212_08277A9E.pnach)|
 |SLES-53393_72E1E60E|Spartan: Total Warrior (SLES-53393)|Widescreen patch by paul_met|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53393_72E1E60E.pnach)|
-|7B93ED37|Special Forces (E)(SLES-54591)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7B93ED37.pnach)|
+|SLES-54591_7B93ED37|Special Forces (E)(SLES-54591)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54591_7B93ED37.pnach)|
 |C4F46C8A|Spectral Force - Radical Elements (J)(SLPM-65669)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C4F46C8A.pnach)|
 |E1E0B924|Spectral Force Chronicle (J)(SLPM-65967)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E1E0B924.pnach)|
 |98E77EBE|Speed Machines III (E)(SLES-53920)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/98E77EBE.pnach)|
@@ -2878,26 +2878,26 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20223_A6D116DB|Splashdown (U)(SLUS-20223)|Widescreen Hack by Sergx12 and El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20223_A6D116DB.pnach)|
 |E9C544F7|Splashdown [PAL-M5] (SLES_504.86)|Widescreen Hack by Sergx12 and El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E9C544F7.pnach)|
 |66CFAB3C|Splashdown [PAL-M5] (SLES_504.86) (Original game 66CFAB3C)|Widescreen Hack by Sergx12 and El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/66CFAB3C.pnach)|
-|1D8EE3CF|Splatter Master (E)(SLES-53368)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1D8EE3CF.pnach)|
+|SLES-53368_1D8EE3CF|Splatter Master (E)(SLES-53368)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53368_1D8EE3CF.pnach)|
 |SLES-51466_A7705A52|Splinter Cell|Splinter Cell * SLES-51466 * PAL-M5 * A7705A52<br />- 16:9 Widescreen hack by sergx12.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51466_A7705A52.pnach)|
 |AB82114E|Splinter Cell 2 - Pandora Tomorrow|Splinter Cell 2 - Pandora Tomorrow * SLES-52149 * PAL-M5 * AB82114E<br />- 16:9 Widescreen hack for Single Player mode by ElHecht.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AB82114E.pnach)|
 |SLES-53007_4C4D7072|Splinter Cell 3 - Chaos Theory|Splinter Cell 3 - Chaos Theory * SLES-53007 * PAL-M5 * 4C4D7072<br />- 16:9 Widescreen hack for Solo/Coop mode by ElHecht.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53007_4C4D7072.pnach)|
 |ABE3FDEA|Splinter Cell 4 - Double Agent|Splinter Cell 4 - Double Agent * SLES-53826 * PAL-M5 * ABE3FDEA<br />- 16:9 Widescreen hack for Solo/Coop mode by ElHecht.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ABE3FDEA.pnach)|
-|1DF57175|SpongeBob and Friends - Battle for Volcano Island (E)(SLES-54521)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1DF57175.pnach)|
+|SLES-54521_1DF57175|SpongeBob and Friends - Battle for Volcano Island (E)(SLES-54521)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54521_1DF57175.pnach)|
 |B1F87437|SpongeBob SquarePants - Creature from the Krusty Krab (E)(SLES-54400)|Widescreen hack by Arapapa & ICUP321|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B1F87437.pnach)|
-|1A7A27E6|SpongeBob SquarePants - Creature from the Krusty Krab (J)(SLPM-66694)|Widescreen hack by Arapapa & ICUP321|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1A7A27E6.pnach)|
+|SLPM-66694_1A7A27E6|SpongeBob SquarePants - Creature from the Krusty Krab (J)(SLPM-66694)|Widescreen hack by Arapapa & ICUP321|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66694_1A7A27E6.pnach)|
 |CC8451F9|SpongeBob SquarePants - Creature from the Krusty Krab (K)(SCKA-20098)|Widescreen hack by Arapapa & ICUP321|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CC8451F9.pnach)|
 |SLUS-21391_82C46B7A|SpongeBob SquarePants - Creature from the Krusty Krab (U)(SLUS-21391)|Widescreen hack by Arapapa & ICUP321|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21391_82C46B7A.pnach)|
 |SLES-53494_CBDD9686|SpongeBob SquarePants - Lights, Camera, Pants! (E)(SLES-53494)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53494_CBDD9686.pnach)|
-|1C0740ED|SpongeBob SquarePants - Lights, Camera, Pants! (K)(SLKA-25319)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1C0740ED.pnach)|
+|SLKA-25319_1C0740ED|SpongeBob SquarePants - Lights, Camera, Pants! (K)(SLKA-25319)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25319_1C0740ED.pnach)|
 |SLUS-21252_9DDF4676|SpongeBob SquarePants - Lights, Camera, Pants! (U)(SLUS-21252)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21252_9DDF4676.pnach)|
 |SLES-51285_8FDE8E16|SpongeBob Squarepants - Revenge of the Flying Dutchman (E)(SLES-51285)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51285_8FDE8E16.pnach)|
 |5D2C6E36|SpongeBob Squarepants - Revenge of the Flying Dutchman (U)(SLUS-20425)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5D2C6E36.pnach)|
-|AE28C9C7|SpongeBob's Atlantis SquarePantis (E)(SLES-55024)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AE28C9C7.pnach)|
+|SLES-55024_AE28C9C7|SpongeBob's Atlantis SquarePantis (E)(SLES-55024)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55024_AE28C9C7.pnach)|
 |SLUS-21644_1FF9C051|SpongeBob's Atlantis SquarePantis (U)(SLUS-21644)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21644_1FF9C051.pnach)|
-|41ACBA03|Springdale (E)(SLES-55610)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/41ACBA03.pnach)|
+|SLES-55610_41ACBA03|Springdale (E)(SLES-55610)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55610_41ACBA03.pnach)|
 |9872000C|Spy Fiction (NTSC-K)(SLKA-25007)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9872000C.pnach)|
-|08833E1E|Spy Fiction (PAL-M5) (SLES-52505)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/08833E1E.pnach)|
+|SLES-52505_08833E1E|Spy Fiction (PAL-M5) (SLES-52505)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52505_08833E1E.pnach)|
 |479DC25E|﻿Spy Fiction [NTSC-J] (SLPS-25311)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/479DC25E.pnach)|
 |SLUS-20856_9551DBB1|Spy Fiction SLUS_208.56|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20856_9551DBB1.pnach)|
 |SLUS-21421_64B39069|Spy Hunter - Nowhere to Run SLUS_214.21|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21421_64B39069.pnach)|
@@ -2913,9 +2913,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20227_9F70EE4F|Star Trek Voyager - Elite Force (U)(SLUS-20227)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20227_9F70EE4F.pnach)|
 |SLUS-20420_A1030867|Star Wars - Bounty Hunter SLUS_204.20|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20420_A1030867.pnach)|
 |9A03A3DB|Star Wars - Episode III - Revenge of the Sith (PAL-G) (SLES-53157)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9A03A3DB.pnach)|
-|99AD19EE|Star Wars - Episode III - Revenge of the Sith (PAL-M3) (SLES-53155)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/99AD19EE.pnach)|
+|SLES-53155_99AD19EE|Star Wars - Episode III - Revenge of the Sith (PAL-M3) (SLES-53155)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53155_99AD19EE.pnach)|
 |SLUS-21143_976EA156|Star Wars - Episode III - Revenge of the Sith SLUS_211.43|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21143_976EA156.pnach)|
-|979F5102|Star Wars - Jedi Starfighter (E)(SLES-50371)|Widescreen Hack (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/979F5102.pnach)|
+|SLES-50371_979F5102|Star Wars - Jedi Starfighter (E)(SLES-50371)|Widescreen Hack (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50371_979F5102.pnach)|
 |1839BAC3|Star Wars - Jedi Starfighter (J)(SLPS-25147)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1839BAC3.pnach)|
 |F4D84B68|Star Wars - Jedi Starfighter (K)(SLPM-67543)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F4D84B68.pnach)|
 |SLUS-20293_82957819|Star Wars - Jedi Starfighter SLUS_202.93|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20293_82957819.pnach)|
@@ -2931,10 +2931,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25502_937F9183|Steamboy (J)(SLPS-25502)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25502_937F9183.pnach)|
 |929486F0|Stella Deus - The Gate of Eternity (J) (SLPM_656.85)|Widescreen Hack (pnach NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/929486F0.pnach)|
 |SLUS-21132_0C5D220A|Stella Deus - The Gate of Eternity SLUS_211.32|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21132_0C5D220A.pnach)|
-|2A246A0D|Stella Deus: The Gate of Eternity [PAL] (SLES_537.65)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2A246A0D.pnach)|
+|SLES-53765_2A246A0D|Stella Deus: The Gate of Eternity [PAL] (SLES_537.65)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53765_2A246A0D.pnach)|
 |SLES-52882_BBAE448F|Stolen (PAL-M5) SLES_528.82|Widescreen hack by dieSkaarj|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52882_BBAE448F.pnach)|
 |SLUS-21099_C98BEF46|Stolen SLUS_210.99|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21099_C98BEF46.pnach)|
-|1D1B3CBC|Strawberry Shortcake - The Sweet Dreams Game (U)(SLUS-21497)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1D1B3CBC.pnach)|
+|SLUS-21497_1D1B3CBC|Strawberry Shortcake - The Sweet Dreams Game (U)(SLUS-21497)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21497_1D1B3CBC.pnach)|
 |60CB032B|Strawberry Shortcake: The Sweet Dreams Game [PAL-M6] (SLES_543.09)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/60CB032B.pnach)|
 |BA568F6B|Street Boyz (E)(SLES-53407)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BA568F6B.pnach)|
 |SLUS-20130_72B3802A|Street Fighter EX 3 (SLUS-201301)|Widescreen hack by nemesis2000 (pnach by paul_met)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20130_72B3802A.pnach)|
@@ -2950,7 +2950,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20846_B96EDBE5|Strike Force Bowling (U)(SLUS-20846)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20846_B96EDBE5.pnach)|
 |A8A2A013|Stunt GP (J)(SLPS-20152)|Widescreen hack by LRukyk (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A8A2A013.pnach)|
 |D5B1137C|Stunt GP [NTSC-U] [D5B1137C]|Widescreen hack by LRukyk|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D5B1137C.pnach)|
-|0B74A404|Stunt GP [PAL] (SLES_500.64)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0B74A404.pnach)|
+|SLES-50064_0B74A404|Stunt GP [PAL] (SLES_500.64)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50064_0B74A404.pnach)|
 |SLES-50288_790A4ACB|Stuntman (E)(SLES-50288)|Widescreen hack by Arapapa and FlatOut|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50288_790A4ACB.pnach)|
 |3F67D220|Stuntman (J)(SLPM-66019)|Widescreen hack by Arapapa and FlatOut|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3F67D220.pnach)|
 |SLUS-20250_76CBC428|Stuntman (U)(SLUS-20250)|Widescreen hack by Arapapa and FlatOut|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20250_76CBC428.pnach)|
@@ -2967,17 +2967,17 @@ If you are looking for specific game use shortcut CTRL+F
 |4C73FB6B|Summer Heat - Beach Volleyball (SLUS_20634)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4C73FB6B.pnach)|
 |7A7E708C|Summer Heat Beach Volleyball (K)(SLKA-25210)|Widescreen hack by No.47 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7A7E708C.pnach)|
 |SLES-51778_098384FD|Summer Heat: Beach Volleyball [PAL-M5] (SLES_517.78)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51778_098384FD.pnach)|
-|0C3E8D76|Summon Night EX Thesis - Yoake no Tsubasa (J)(SLPS-25528)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0C3E8D76.pnach)|
+|SLPS-25528_0C3E8D76|Summon Night EX Thesis - Yoake no Tsubasa (J)(SLPS-25528)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25528_0C3E8D76.pnach)|
 |081CA57B|Summon Night Gran-These - Horobi no Tsurugi to Yakusoku no Kishi (J)(SLPS-25947)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/081CA57B.pnach)|
 |SLES-82005_24C43406|Summoner (PAL-G) (SLES-82005)|Widescreen Hack (16:9) by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82005_24C43406.pnach)|
 |SLES-51142_B338676A|Summoner 2 (NTSC-U)||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51142_B338676A.pnach)|
 |SLUS-20074_13E2774E|Summoner SLUS_200.74|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20074_13E2774E.pnach)|
-|6D050005|Sunny Garcia Surfing (E)(SLES-50533)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6D050005.pnach)|
+|SLES-50533_6D050005|Sunny Garcia Surfing (E)(SLES-50533)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50533_6D050005.pnach)|
 |SLUS-20208_C9E72987|Sunny Garcia Surfing [NTSC-U] [SLUS-20208]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20208_C9E72987.pnach)|
-|A0B1D94A|Super Dragon Ball Z [PAL] (SLES_541.61)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A0B1D94A.pnach)|
+|SLES-54161_A0B1D94A|Super Dragon Ball Z [PAL] (SLES_541.61)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54161_A0B1D94A.pnach)|
 |D304FA88|Super PickUps [NTSC-U] (SLUS_214.50)|Widescreen hack by Sergx12 & El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D304FA88.pnach)|
 |B6CA0C9B|Super PickUps [PAL-M5] (SLES_548.18)|Widescreen hack by Sergx12 & El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B6CA0C9B.pnach)|
-|62D73EA2|Super Robot Taisen - Scramble Commander (J)(SLPS-25296)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/62D73EA2.pnach)|
+|SCPS-15081_#62D73EA2|Super Robot Taisen - Scramble Commander (J)(SLPS-25296)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15081_#62D73EA2.pnach)|
 |6667E5E4|Super Robot Taisen - Scramble Commander the 2nd (J)(SLPS-25750)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6667E5E4.pnach)|
 |216658F6|Super Robot Taisen Impact (J)(SLPS-25104)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/216658F6.pnach)|
 |SLPS-25345_4FC5B891|Super Robot Taisen MX (J)(SLPS-25345)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25345_4FC5B891.pnach)|
@@ -2994,12 +2994,12 @@ If you are looking for specific game use shortcut CTRL+F
 |6A031FEB|Surfing H3O (E)(SLES-50056)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6A031FEB.pnach)|
 |95062074|Surfing H3O (U)(SLUS-20092)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/95062074.pnach)|
 |75DF43A4|Surfroid - Densetsu no Surfer (J)(SLPS-20029)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/75DF43A4.pnach)|
-|3D2ADD93|Suzuki TT Super Bikes - Real Road Racing (NTSC-J)(SLPM-66403)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3D2ADD93.pnach)|
+|SLPM-66403_3D2ADD93|Suzuki TT Super Bikes - Real Road Racing (NTSC-J)(SLPM-66403)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66403_3D2ADD93.pnach)|
 |SLUS-20912_8201A07C|Suzuki TT Super Bikes - Real Road Racing (NTSC-U)(SLUS-20912)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20912_8201A07C.pnach)|
 |68A01AD7|Sven-Goeran Eriksson's World Challenge (E)(SLES-50852)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/68A01AD7.pnach)|
-|0E40BA6A|SWAT - Global Strike Team (E)(SLES-51997)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0E40BA6A.pnach)|
+|SLES-51997_0E40BA6A|SWAT - Global Strike Team (E)(SLES-51997)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51997_0E40BA6A.pnach)|
 |SLUS-20433_6E762B3C|SWAT - Global Strike Team (U)(SLUS-20433)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20433_6E762B3C.pnach)|
-|54FBDC95|Sword of the Samurai [PAL] (SLES_512.90)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/54FBDC95.pnach)|
+|SLES-51290_54FBDC95|Sword of the Samurai [PAL] (SLES_512.90)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51290_54FBDC95.pnach)|
 |SLES-51495_96B76E56|SX Superstar (E)(SLES-51495)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51495_96B76E56.pnach)|
 |3676E74C|Syphon Filter - The Omega Virus (K) (SCKA-20032)|Widescreen hack by nemesis2000 (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3676E74C.pnach)|
 |SCUS-97362_3D92EAFF|Syphon Filter: Dark Mirror (SCUS-97362)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97362_3D92EAFF.pnach)|
@@ -3007,14 +3007,14 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-52033_27E54B37|Syphon Filter: The Omega Strain (SCES-52033)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52033_27E54B37.pnach)|
 |SCUS-97264_D5605611|Syphon Filter: The Omega Strain (SCUS-97264)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97264_D5605611.pnach)|
 |SLUS-21218_4B06117D|Tak - The Great Juju Challenge (U)(SLUS-21218)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21218_4B06117D.pnach)|
-|1C713A5C|Tak 2 - The Staff of Dreams (K)(SLKA-25272)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1C713A5C.pnach)|
+|SLKA-25272_1C713A5C|Tak 2 - The Staff of Dreams (K)(SLKA-25272)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25272_1C713A5C.pnach)|
 |SLUS-20952_55F99E5C|Tak 2: The Staff of Dreams [NTSC-U]|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20952_55F99E5C.pnach)|
 |F1A69850|Tak 2: The Staff of Dreams [PAL] (SLES_530.36)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F1A69850.pnach)|
-|A9CEBBC7|Tak and the Guardians of Gross (E)(SLES-55376)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A9CEBBC7.pnach)|
+|SLES-55376_A9CEBBC7|Tak and the Guardians of Gross (E)(SLES-55376)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55376_A9CEBBC7.pnach)|
 |SLUS-21797_63A9B931|Tak and the Guardians of Gross (U)(SLUS-21797)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21797_63A9B931.pnach)|
 |5961800A|Tak and the Power of Juju (K)(SLKA-25142)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5961800A.pnach)|
-|4D2944CC|Tak and The Power of Juju (U)(SLUS-20519)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4D2944CC.pnach)|
-|5A6F5E04|Tak and the Power of Juju [PAL-Germany] (SLES_521.04)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5A6F5E04.pnach)|
+|SLUS-20519_4D2944CC|Tak and The Power of Juju (U)(SLUS-20519)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20519_4D2944CC.pnach)|
+|SLES-52104_5A6F5E04|Tak and the Power of Juju [PAL-Germany] (SLES_521.04)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52104_5A6F5E04.pnach)|
 |CED08066|Tak: The Great Juju Challenge [PAL] (SLES_536.95)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CED08066.pnach)|
 |A90CD846|Tales of Destiny (J)(SLPS-25715)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A90CD846.pnach)|
 |A86BA5E4|Tales of Destiny 2 (NTSC-J)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A86BA5E4.pnach)|
@@ -3044,16 +3044,16 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20328_833FE0A4|Tekken 4 (SLUS-20328)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20328_833FE0A4.pnach)|
 |26173F9A|﻿Tekken 4 [NTSC-J] (SLPS-25100)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/26173F9A.pnach)|
 |EA64EF39|Tekken 5 (NTSC-K) (SCKA_200.49)|Widescreen hack by nemesis2000, porting by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EA64EF39.pnach)|
-|1F88BECD|Tekken 5 (PAL-M5) (SCES-53202)|Widescreen Hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1F88BECD.pnach)|
+|SCES-53202_1F88BECD|Tekken 5 (PAL-M5) (SCES-53202)|Widescreen Hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53202_1F88BECD.pnach)|
 |SLUS-21059_652050D2|Tekken 5 (SLUS-21059)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21059_652050D2.pnach)|
 |SLPS-25510_FC46EA61|﻿Tekken 5 [NTSC-J] (SLPS-25510)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25510_FC46EA61.pnach)|
 |F088FA5B|Tekken Nina Williams In Death By Degree (K)(SCKA-20039)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F088FA5B.pnach)|
-|D73A8856|Tekken Tag Tournament (SCPS_560.02)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D73A8856.pnach)|
+|SCPS-56002_D73A8856|Tekken Tag Tournament (SCPS_560.02)|widescreen 16:9 (NTSC-K) hack by 99skull|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56002_D73A8856.pnach)|
 |06979F19|﻿Tekken Tag Tournament [NTSC-J] (SLPS-20015)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/06979F19.pnach)|
 |35B4028B|Tekken4 (SCPS_560.06) (NTSC-K)|16:9 widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/35B4028B.pnach)|
 |6BB8CADF|Tekkoki Mikazuki: Trial Edition (NTSC-J) [SLPM-60143]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6BB8CADF.pnach)|
 |BF0DC4CE|Tenchu - Fatal Shadows (PAL-G) (SLES-53014)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BF0DC4CE.pnach)|
-|0D73BBCD|Tenchu - Kurenai (NTSC-K) (SLKA-25198)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0D73BBCD.pnach)|
+|SLKA-25198_0D73BBCD|Tenchu - Kurenai (NTSC-K) (SLKA-25198)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25198_0D73BBCD.pnach)|
 |AFBEC8B7|Tenchu - Wrath of Heaven (NTSC-K)(SLKA-25064)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AFBEC8B7.pnach)|
 |SLES-51402_83261085|Tenchu - Wrath of Heaven (PAL-G) (SLES-51402)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51402_83261085.pnach)|
 |C8DADF58|Tenchu - Wrath of Heaven PAL (Europe)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C8DADF58.pnach)|
@@ -3069,13 +3069,14 @@ If you are looking for specific game use shortcut CTRL+F
 |CED93EB6|Tengai Makyou III - Namida (J)(SLPM-65952)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CED93EB6.pnach)|
 |49D66AEF|Tenka-bito (NTSC-J)(SLPM-66291)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/49D66AEF.pnach)|
 |7C20E49D|Tenshi no Present: Marle Oukoku Monogatari [NTSC-J] (SLPS_200.66 & SLPS_200.53)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7C20E49D.pnach)|
+|SLPS-20053_7C20E49D|Tenshi no Present: Marle Oukoku Monogatari [NTSC-J] (SLPS_200.66 & SLPS_200.53)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20053_7C20E49D.pnach)|
 |AAF10C7F|Terminator 3 - Rise of the Machines (J)(SLPM-65442)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AAF10C7F.pnach)|
 |SLES-52283_5DF023A5|Terminator 3 - The Redemption SLES_522.83|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52283_5DF023A5.pnach)|
 |SLUS-20852_B993C212|Terminator 3: The Redemption (U)(SLUS-20852)|Widescreen Hack (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20852_B993C212.pnach)|
 |SLUS-20177_0DDFE767|Test Drive - Off-Road - Wide Open (NTSC-U) [SLUS-20177]|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20177_0DDFE767.pnach)|
-|3A0A56B6|Tetsu 1 - Densha de Battle! - World Grand Prix (K)(SLPM-64544)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3A0A56B6.pnach)|
+|SLPM-64544_3A0A56B6|Tetsu 1 - Densha de Battle! - World Grand Prix (K)(SLPM-64544)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64544_3A0A56B6.pnach)|
 |F66528FF|Tetsu 1 - Densha de Battle! [NTSC-J] [PBPX-95201](SLPS-20100)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F66528FF.pnach)|
-|6C4641BC|Tetsujin 28 Go (NTSC-J) [SLPS-25362] [6C4641BC]|Widescreen hacks by Eiji (initial active X FOV hack) and Aced14 (ELF and 16:10 hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6C4641BC.pnach)|
+|SLPS-25362_6C4641BC|Tetsujin 28 Go (NTSC-J) [SLPS-25362] [6C4641BC]|Widescreen hacks by Eiji (initial active X FOV hack) and Aced14 (ELF and 16:10 hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25362_6C4641BC.pnach)|
 |B5E40DA3|TG DareDevil (E)(SLES-50068)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B5E40DA3.pnach)|
 |SLUS-20170_348CEAC4|The Adventures of Cookie & Cream (NTSC) SLUS_201.70|Widescreen hack by flameofrecca|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20170_348CEAC4.pnach)|
 |SLUS-21592_25E83ED5|The Adventures of Darwin [NTSC-U] (SLUS_215.92)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21592_25E83ED5.pnach)|
@@ -3104,7 +3105,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20880_CC955736|The Fairly OddParents! Shadow Showdown (U)(SLUS-20880)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20880_CC955736.pnach)|
 |91100045|The Fast and the Furious (E)(SLES-54483)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/91100045.pnach)|
 |SLUS-21449_2C728173|The Fast and the Furious (U)(SLUS-21449)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21449_2C728173.pnach)|
-|8B0725D5|The Flintstones - Bedrock Racing (E)(SLES-54473)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8B0725D5.pnach)|
+|SLES-54473_8B0725D5|The Flintstones - Bedrock Racing (E)(SLES-54473)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54473_8B0725D5.pnach)|
 |E7C59CE9|The Flintstones in Viva Rock Vegas [PAL] (SLES_502.59)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E7C59CE9.pnach)|
 |E5E683C9|The Godfather (NTSC-J)(SLPM-66710)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E5E683C9.pnach)|
 |SLUS-21385_D850707E|The Godfather (NTSC-U)(SLUS-21385)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21385_D850707E.pnach)|
@@ -3162,13 +3163,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20424_39A8356E|The Scorpion King - Rise of the Akkadian (U)(SLUS-20424)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20424_39A8356E.pnach)|
 |SLUS-21896_B6BA0E59|The Secret Saturdays - Beasts of the 5th Sun (U&PAL)(SLUS-21896,SLES-55546)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21896_B6BA0E59.pnach)|
 |DE86254A|The Seed (J)(SLPS-20144)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DE86254A.pnach)|
-|0AA8C953|The Seed: Warzone [PAL] (SLES_517.15)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0AA8C953.pnach)|
+|SLES-51715_0AA8C953|The Seed: Warzone [PAL] (SLES_517.15)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51715_0AA8C953.pnach)|
 |SLUS-20624_FC99EC8C|The Simpsons - Hit & Run (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20624_FC99EC8C.pnach)|
 |SLES-51897_73E68475|The Simpsons - Hit & Run (PAL-M4) (SLES-51897)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51897_73E68475.pnach)|
 |063CED6E|The Simpsons - Road Rage (PAL-M5) (SLES-50628)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/063CED6E.pnach)|
 |67F4E32F|The Simpsons - Skateboarding (PAL-G) (SLES-51362)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/67F4E32F.pnach)|
 |SLES-52047_BF0D1E1A|The Sims - Bustin' Out (E)(SLES-52047)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52047_BF0D1E1A.pnach)|
-|8D9CBC4B|The Sims - Bustin' Out (NTSC-K)(SLKA-25137)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8D9CBC4B.pnach)|
+|SLKA-25137_8D9CBC4B|The Sims - Bustin' Out (NTSC-K)(SLKA-25137)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25137_8D9CBC4B.pnach)|
 |SLUS-20842_6F096BCE|The Sims - Bustin' Out (NTSC-U)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20842_6F096BCE.pnach)|
 |C4FBEC7B|The Sims - In The City (NTSC-K)(SLKA-25099)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C4FBEC7B.pnach)|
 |SLES-51257_046962B0|The Sims (E)(SLES-51257)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51257_046962B0.pnach)|
@@ -3188,7 +3189,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52439_FB680748|The Suffering PAL (SLES_524.39)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52439_FB680748.pnach)|
 |SLUS-21189_C2144770|The Suffering: Ties That Bind (SLUS-21189)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21189_C2144770.pnach)|
 |AC4B758C|The Suffering: Ties That Bind PAL (SLES_535.27)|Widescreen pnach by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AC4B758C.pnach)|
-|BC0F422C|The Suieitaikai (K)(SLKA-15042)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BC0F422C.pnach)|
+|SLKA-15042_BC0F422C|The Suieitaikai (K)(SLKA-15042)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-15042_BC0F422C.pnach)|
 |SLES-51180_4691F6F7|The Sum of All Fears (E)(SLES-51180)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51180_4691F6F7.pnach)|
 |SLES-53768_88E95888|The Sword of Etheria (SLES-53768)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53768_88E95888.pnach)|
 |SLUS-21852_F989A710|The Tale Of Despereauxe (U)(SLUS-21852)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21852_F989A710.pnach)|
@@ -3217,11 +3218,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21264_40F3E75D|Tiger Woods PGA Tour 06 (NTSC-U) (SLUS-21264)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21264_40F3E75D.pnach)|
 |SLUS-21772_56D7AC28|Tiger Woods PGA Tour 09 (NTSC-U) (SLUS-21722)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21772_56D7AC28.pnach)|
 |F5DB01E6|Tiger Woods PGA Tour 2001 (J)(SLPS-20092)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F5DB01E6.pnach)|
-|1D3435B2|Tiger Woods PGA Tour 2001 (PAL)(SLES-50118)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1D3435B2.pnach)|
+|SLES-50118_1D3435B2|Tiger Woods PGA Tour 2001 (PAL)(SLES-50118)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50118_1D3435B2.pnach)|
 |SLUS-20104_5232E8D8|Tiger Woods PGA Tour 2001 (U)(SLUS-20104)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20104_5232E8D8.pnach)|
 |50C6B393|Tiger Woods PGA Tour 2002 (NTSC-U) (SLUS-20364)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/50C6B393.pnach)|
 |SLUS-20572_E14ADB65|Tiger Woods PGA Tour 2003 (NTSC-U) (SLUS-20572)|Widescreen Hack by VIRGIN KLM|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20572_E14ADB65.pnach)|
-|5C4FC84B|Tiger Woods PGA Tour 2004 (NTSC-K)(SLKA-25097)|Widescreen Hack by VIRGIN KLM and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C4FC84B.pnach)|
+|SLKA-25097_5C4FC84B|Tiger Woods PGA Tour 2004 (NTSC-K)(SLKA-25097)|Widescreen Hack by VIRGIN KLM and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25097_5C4FC84B.pnach)|
 |SLUS-20757_64F9781E|Tiger Woods PGA Tour 2004 NTSC-U (SLUS-20757)|Tiger Woods PGA Tour 2004 NTSC-U (SLUS-20757) Widescreen Hack by VIRGIN KLM and Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20757_64F9781E.pnach)|
 |SLUS-21002_88A808FA|Tiger Woods PGA Tour 2005 (NTSC-U) (SLUS-21002)|Widescreen Hack by VIRGIN KLM, pandubz, Willpower|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21002_88A808FA.pnach)|
 |SLUS-20860_8AD8BA91|Tim Burton's The Nightmare Before Christmas (NTSC-U)(SLUS-20860)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20860_8AD8BA91.pnach)|
@@ -3235,7 +3236,7 @@ If you are looking for specific game use shortcut CTRL+F
 |A6993EA8|Time Crisis 3 (K) (SCKA_200.15)|Widescreen Hack (pnach by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A6993EA8.pnach)|
 |FD32030F|Time Crisis 3 SLES_518.44|Widescreen hack by dieSkaarj.|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FD32030F.pnach)|
 |SLUS-20645_7290669C|Time Crisis 3 SLUS_206.45|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20645_7290669C.pnach)|
-|2C16B37E|TimeSplitter - Jikuu no Shinryakusha (J)(SLPS-25207)|Widescreen hack by No.47 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2C16B37E.pnach)|
+|SLPS-25207_2C16B37E|TimeSplitter - Jikuu no Shinryakusha (J)(SLPS-25207)|Widescreen hack by No.47 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25207_2C16B37E.pnach)|
 |SLES-50078_288AA369|TimeSplitters (SLES-50078)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50078_288AA369.pnach)|
 |SLUS-20090_B4A004F2|TimeSplitters (SLUS-20090)|Widescreen hack by nemesis2000 and gamemasterplc (Font Fixes by gamemasterplc)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20090_B4A004F2.pnach)|
 |C01FD223|TimeSplitters 2 (K)(SLKA-25020)|Widescreen hack by No.47 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C01FD223.pnach)|
@@ -3267,7 +3268,7 @@ If you are looking for specific game use shortcut CTRL+F
 |28A2774C|Tom Clancy's Rainbow Six 3 SLES_522.88|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/28A2774C.pnach)|
 |040421BE|Tom Clancy's Splinter Cell (NTSC-K)(SLKA-25061)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/040421BE.pnach)|
 |SLUS-20652_A1B095EC|Tom Clancy's Splinter Cell (SLUS_20652)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20652_A1B095EC.pnach)|
-|002C5D88|Tom Clancy's Splinter Cell 2 - Pandora Tomorrow (NTSC-K)(SLKA-25180)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/002C5D88.pnach)|
+|SLKA-25180_002C5D88|Tom Clancy's Splinter Cell 2 - Pandora Tomorrow (NTSC-K)(SLKA-25180)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25180_002C5D88.pnach)|
 |83162EAD|Tom Clancy's Splinter Cell 4 - Double Agent (NTSC-J)(SLPM-66672)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/83162EAD.pnach)|
 |CFE85175|Tom Clancy's Splinter Cell: Chaos Theory (SLUS_21137)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CFE85175.pnach)|
 |SLUS-21356_C0498D24|Tom Clancy's Splinter Cell: Double Agent (SLUS_21356)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21356_C0498D24.pnach)|
@@ -3290,13 +3291,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53175_126B46EB|Top Spin (E)(SLES-53175)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53175_126B46EB.pnach)|
 |SLUS-21222_D8BBFFF3|Top Spin (U)(SLUS-21222)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21222_D8BBFFF3.pnach)|
 |533FDBFF|Tori no Hoshi: Aerial Planet [NTSC-J] (SLPS-25812)|Widescreen Hack by Little Gaint|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/533FDBFF.pnach)|
-|28241DFE|Torrente 3 - The Protector (E)(SLES-54117)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/28241DFE.pnach)|
+|SLES-54117_28241DFE|Torrente 3 - The Protector (E)(SLES-54117)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54117_28241DFE.pnach)|
 |4C380F8B|﻿Total Overdose (E)(SLES-53492)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4C380F8B.pnach)|
 |SLUS-21283_461F9727|﻿Total Overdose: A Gunslinger's Tale in Mexico (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21283_461F9727.pnach)|
 |454BDDA2|Touge 3 (J)(SLPM-62087)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/454BDDA2.pnach)|
 |SCUS-97502_FF9C0E93|Tourist Trophy [SCUS-97502] (USA)|Autoboot in 480p|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97502_FF9C0E93.pnach)|
 |SLPM-65407_9D5125EA|Transformers Tatakai (J)(SLPM-65407)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65407_9D5125EA.pnach)|
-|1E4D0D98|TransWorld Surf (E)(SLES-50886)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E4D0D98.pnach)|
+|SLES-50886_1E4D0D98|TransWorld Surf (E)(SLES-50886)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50886_1E4D0D98.pnach)|
 |SLUS-20356_66B7B74E|Transworld Surf [NTSC-U] [SLUS-20356]|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20356_66B7B74E.pnach)|
 |SLUS-21255_DCFBB290|Trapt (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21255_DCFBB290.pnach)|
 |SLES-53824_2A79E058|Trapt (PAL-E) (SLES-53824)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53824_2A79E058.pnach)|
@@ -3318,7 +3319,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97621_3DC2FE45|Twisted Metal - Head-On [Extra Twisted Edition] (NTSC-U) [SCUS-97621] [3DC2FE45]|Widescreen hacks by Aced14 Font Fixes by gamemasterplc<br />no interlacing hack someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97621_3DC2FE45.pnach)|
 |7ACF7E03|Twisted Metal: Black (NTSC-U) [Russian Fan Translation] [PBPX-95506] [7ACF7E03]|Widescreen hacks by Aced14 (major updates) and No.47 (initial FOV hacks)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7ACF7E03.pnach)|
 |SCUS-97101_073696DA|Twisted Metal: Black (NTSC-U) [SCUS-97101] [073696DA]|Widescreen hacks by Aced14 (major updates) and No.47 (initial FOV hacks)<br />no interlacing hack someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97101_073696DA.pnach)|
-|2E93D897|Twisted Metal: Black (PAL-Unk) [SCES-50360] [2E93D897]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2E93D897.pnach)|
+|SLES-50636_2E93D897|Twisted Metal: Black (PAL-Unk) [SCES-50360] [2E93D897]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50636_2E93D897.pnach)|
 |CFCBDF0C|Twisted Metal: Black [Demo] (NTSC-U) [SCUS-97164] [CFCBDF0C]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CFCBDF0C.pnach)|
 |AF3E4E18|Twisted Metal: Black [Preview] (NTSC-U) [SLPS-200] [AF3E4E18]|Widescreen hacks by Aced14|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AF3E4E18.pnach)|
 |C6AAF4D4|U - Underwater Unit (K)(SCPS-56011)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C6AAF4D4.pnach)|
@@ -3327,7 +3328,7 @@ If you are looking for specific game use shortcut CTRL+F
 |5A1B2A9B|Ueki no Housoku - Taosu Zeroberuto Juudan!! (J)(SLPS-25601)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5A1B2A9B.pnach)|
 |SLUS-20596_0B971851|UFC - Sudden Impact (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20596_0B971851.pnach)|
 |310548EE|UFC - Sudden Impact SLES_522.04|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/310548EE.pnach)|
-|1F051E41|UFC: Throwdown [NTSC-U] (SLUS_202.52)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1F051E41.pnach)|
+|SLUS-20252_1F051E41|UFC: Throwdown [NTSC-U] (SLUS_202.52)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20252_1F051E41.pnach)|
 |D506150D|UFC: Throwdown [PAL] (SLES_509.99)|Widescreen hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D506150D.pnach)|
 |B92C34BE|Ultimate Fighting Championship 2 - Tap-Out (J)(SLPM-64539)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B92C34BE.pnach)|
 |ADFF13DF|Ultimate Spider-Man (J)(SLPM-66404)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/ADFF13DF.pnach)|
@@ -3335,7 +3336,7 @@ If you are looking for specific game use shortcut CTRL+F
 |FCABB636|Ultraman (J)(SLPS-25364)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FCABB636.pnach)|
 |9BD2779A|Ultraman Fighting Evolution 2 [NTSC-J] (SLPS-25155)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9BD2779A.pnach)|
 |128CF8F4|Ultraman Fighting Evolution 3 [NTSC-J] (SLPS-25441)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/128CF8F4.pnach)|
-|4E811100|Ultraman Fighting Evolution Rebirth [NTSC-J] (SLPS-25529)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/4E811100.pnach)|
+|SLPS-25529_4E811100|Ultraman Fighting Evolution Rebirth [NTSC-J] (SLPS-25529)|Widescreen hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25529_4E811100.pnach)|
 |3B6F3D8C|Ultraman Nexus (J)(SLPS-20420)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3B6F3D8C.pnach)|
 |C54CC888|Under The Skin (NTSC-U)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C54CC888.pnach)|
 |SLES-52719_823CDB0D|Under The Skin SLES_527.19|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52719_823CDB0D.pnach)|
@@ -3359,7 +3360,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20221_7FBCDA34|Vampire Night (NTSC-U) (SCUS-20221)|Widescreen Hack by ElHecht ported by PsxFan107|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20221_7FBCDA34.pnach)|
 |SCES-50411_91510857|Vampire Night (PAL-M5) (SCES-50411)|Widescreen Hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50411_91510857.pnach)|
 |14DDB291|Vampire Panic (First Print Limited Edition) (J)(SLPM-62506)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/14DDB291.pnach)|
-|960D74D7|Van Helsing (J)(SLPM-65723)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/960D74D7.pnach)|
+|SLPM-65723_960D74D7|Van Helsing (J)(SLPM-65723)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65723_960D74D7.pnach)|
 |SLUS-20738_901ECEFC|Van Helsing (SLUS-20738)|Wide screen patch 16:9 by paul_met|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20738_901ECEFC.pnach)|
 |SLES-51908_8176235A|Van Helsing [PAL] (SLES_519.08)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51908_8176235A.pnach)|
 |97A4995B|Vexx (NTSC-K)(SLKA-25121)|Widescreen hack by El_Patas (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/97A4995B.pnach)|
@@ -3378,7 +3379,7 @@ If you are looking for specific game use shortcut CTRL+F
 |FBE5B48C|Viewtiful Joe 2 (NTSC-J)(SLPM-65824)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FBE5B48C.pnach)|
 |SLPM-65824_F977249C|Viewtiful Joe 2 (NTSC-J)(SLPM-65824)|Widescreen Hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65824_F977249C.pnach)|
 |5F2205B1|Viewtiful Joe 2 [PAL-M5] (SLES_528.68)|Widescreen Hack by El_Patas|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5F2205B1.pnach)|
-|1B7DA82A|Viewtiful Joe 2 SLUS_209.39|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1B7DA82A.pnach)|
+|SLUS-20939_1B7DA82A|Viewtiful Joe 2 SLUS_209.39|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20939_1B7DA82A.pnach)|
 |SLUS-20951_080D5356|Viewtiful Joe SLUS_209.51|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20951_080D5356.pnach)|
 |B5FEAE85|Virtua Fighter - 10th Anniversary (J)(SLPM-68008)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B5FEAE85.pnach)|
 |AB01411F|Virtua Fighter 4 - Evolution (J)(SLPM-65270)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AB01411F.pnach)|
@@ -3421,7 +3422,7 @@ If you are looking for specific game use shortcut CTRL+F
 |E8499662|Warriors Orochi 2 (PAL-Fr) (SLES-553.83)|Widescreen hack by ElHecht, ported to PAL-French by Z_Boy|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E8499662.pnach)|
 |DB5AEC24|Warriors Orochi 2 (PAL-G) (SLES-55384)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DB5AEC24.pnach)|
 |SLUS-21387_701965CE|Warship Gunner 2 (U)(SLUS-21387)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21387_701965CE.pnach)|
-|1BBDDD82|Wave Rally (K)(SLPM-64507)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1BBDDD82.pnach)|
+|SLPM-64507_1BBDDD82|Wave Rally (K)(SLPM-64507)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64507_1BBDDD82.pnach)|
 |B439D8AA|Wave Rally (NTSC-J)(SLLPS-20170)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B439D8AA.pnach)|
 |SLUS-20313_888B3E8F|Wave Rally (U)(SLUS-20313)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20313_888B3E8F.pnach)|
 |SLUS-20407_06157251|Way of the Samurai (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20407_06157251.pnach)|
@@ -3455,9 +3456,9 @@ If you are looking for specific game use shortcut CTRL+F
 |DA8488A4|WinBack 2 - Project Poseidon (K)(SLKA-25380)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DA8488A4.pnach)|
 |SLUS-20947_A90B7E3F|WinBack 2 - Project Poseidon (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20947_A90B7E3F.pnach)|
 |BA147622|WinBack 2 - Project Poseidon [NTSC-J] (SLPM-66431)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BA147622.pnach)|
-|29B0DA73|Wining Eleven 10 (NTSC-J) (SLPM-66374)|Widescreen pnach (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/29B0DA73.pnach)|
 |93379F97|Wining Eleven 10 (NTSC-J) (SLPM-66374)|Widescreen pnach (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/93379F97.pnach)|
-|3B36E890|Winning Eleven 10 - Liveware Evolution (NTSC-K) (SLKA_25153)|Widescreen pnach (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3B36E890.pnach)|
+|SLPM-66374_29B0DA73|Wining Eleven 10 (NTSC-J) (SLPM-66374)|Widescreen pnach (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66374_29B0DA73.pnach)|
+|SLKA-25153_3B36E890|Winning Eleven 10 - Liveware Evolution (NTSC-K) (SLKA_25153)|Widescreen pnach (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25153_3B36E890.pnach)|
 |BF410FEB|Winning Eleven 2008 (NTSC-J) (SLPM_66885)|Widescreen pnach El_Patas (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BF410FEB.pnach)|
 |AFDCDAF4|Winning Eleven 2009 (NTSC-J) (SLPM_55131)|Widescreen pnach (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AFDCDAF4.pnach)|
 |5DB219F4|Winning Eleven 2010 - Aoki Samurai no Chousen (NTSC-J) (SLPM_55258)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5DB219F4.pnach)|
@@ -3468,7 +3469,7 @@ If you are looking for specific game use shortcut CTRL+F
 |5BEB153F|Winning Eleven 2012 (NTSC-K) (SLKA_25480)|Widescreen pnach El_Patas (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5BEB153F.pnach)|
 |3A6C0BA0|Winning Eleven 6 - Final Evolution (NTSC-J) (SLPM-62268)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3A6C0BA0.pnach)|
 |10C8E747|Winning Eleven 7 - International (NTSC-J) (SLPM-65498)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/10C8E747.pnach)|
-|3B8E8F67|Winning Eleven 7 - International (NTSC-K) (SLKA_25117)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3B8E8F67.pnach)|
+|SLKA-25117_3B8E8F67|Winning Eleven 7 - International (NTSC-K) (SLKA_25117)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25117_3B8E8F67.pnach)|
 |75AE3717|Winning Eleven 7 (NTSC-J) (SLPM-62356)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/75AE3717.pnach)|
 |A37A7348|Winning Eleven 8 - International (NTSC-K) (SLKA_25262)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A37A7348.pnach)|
 |7CC133E9|Winning Eleven 8 - Liveware Evolution (NTSC-J) (SLPM_65788)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7CC133E9.pnach)|
@@ -3477,8 +3478,8 @@ If you are looking for specific game use shortcut CTRL+F
 |94D2FAA2|Winning Eleven 9 - Liveware Evolution (NTSC-K) (SLKA_25359)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/94D2FAA2.pnach)|
 |SLPM-66009_D9B8D6EB|Winning Eleven 9 (NTSC-J) (SLPM-66009)|Widescreen pnach by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66009_D9B8D6EB.pnach)|
 |466D9013|Winning Eleven Tactics - European Club Soccer (J)(SLPM-65804)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/466D9013.pnach)|
-|44ACE0A6|Winter Sports (E)(SLES-53948)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/44ACE0A6.pnach)|
-|0FECA8E8|Winx Club (PAL-M5) (SLES-53219)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0FECA8E8.pnach)|
+|SLES-53948_44ACE0A6|Winter Sports (E)(SLES-53948)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53948_44ACE0A6.pnach)|
+|SLES-53219_0FECA8E8|Winx Club (PAL-M5) (SLES-53219)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53219_0FECA8E8.pnach)|
 |SLUS-20462_4C2D1E6D|WipeOut Fusion (SLUS_20462)|Widescreen hack by No.47|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20462_4C2D1E6D.pnach)|
 |D9D96321|Without Warning (SLES-53716)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D9D96321.pnach)|
 |SLUS-21156_15948AA5|Without Warning (SLUS)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21156_15948AA5.pnach)|
@@ -3499,7 +3500,7 @@ If you are looking for specific game use shortcut CTRL+F
 |CA14550C|World Poker Tour (E)(SLES-53689)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CA14550C.pnach)|
 |SLUS-21333_E701DB54|World Poker Tour (U)(SLUS-21333)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21333_E701DB54.pnach)|
 |E892412E|World Racing (E)(SLES-51387)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E892412E.pnach)|
-|2A4A9916|World Racing 2 (E)(SLES-53646)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2A4A9916.pnach)|
+|SLES-53646_2A4A9916|World Racing 2 (E)(SLES-53646)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53646_2A4A9916.pnach)|
 |3286A01C|World Series of Poker - Tournament of Champions - 2007 Edition (E)(SLES-54448)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3286A01C.pnach)|
 |SLUS-21491_802ED9C2|World Series of Poker - Tournament of Champions - 2007 Edition (U)(SLUS-21491)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21491_802ED9C2.pnach)|
 |5A138DFF|World Series of Poker (E)(SLES-53724)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5A138DFF.pnach)|
@@ -3522,7 +3523,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20431_DDE57BDF|Wreckless - The Yakuza Missions (NTSC-U)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20431_DDE57BDF.pnach)|
 |DBA95103|Wreckless - The Yakuza Missions (PAL-M3) (SLES-51202)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DBA95103.pnach)|
 |SLPM-66401_80745E51|Wrestle Kingdom (J)(SLPM-66401)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66401_80745E51.pnach)|
-|A3B0D1C7|Wrestle Kingdom 2 - Pro Wrestling Sekai Taisen (J)(SLPM-66714)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A3B0D1C7.pnach)|
+|SLPM-66714_A3B0D1C7|Wrestle Kingdom 2 - Pro Wrestling Sekai Taisen (J)(SLPM-66714)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66714_A3B0D1C7.pnach)|
 |SLPM-62046_D9FB2413|WTA Tour Tennis (J)(SLPM-62046)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62046_D9FB2413.pnach)|
 |SLES-55648_2FDB2FF3|WWE All-Stars (PAL-M5) (SLES-55648)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55648_2FDB2FF3.pnach)|
 |SLUS-21940_BEB62AA6|WWE All-Stars (U)(SLUS-21940)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21940_BEB62AA6.pnach)|
@@ -3538,7 +3539,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53676_0B05A5BD|WWE SmackDown vs. Raw 2006 (PAL-E) (SLES-53676)|Widescreen hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53676_0B05A5BD.pnach)|
 |SLES-54489_B39E7D13|WWE SmackDown vs. Raw 2007 (PAL-E) (SLES-54489)|Widescreen hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54489_B39E7D13.pnach)|
 |SLUS-21427_9D5AC274|WWE SmackDown vs. Raw 2007 (SLUS-21427)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21427_9D5AC274.pnach)|
-|3E694755|WWE SmackDown vs. Raw 2008 (PAL-M5) (SLES-54879)|Widescreen hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3E694755.pnach)|
+|SLES-54879_3E694755|WWE SmackDown vs. Raw 2008 (PAL-M5) (SLES-54879)|Widescreen hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54879_3E694755.pnach)|
 |SLUS-21645_6CFEFAC1|WWE SmackDown vs. Raw 2008 (SLUS-21645)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21645_6CFEFAC1.pnach)|
 |SLES-55251_FB26E854|WWE SmackDown vs. Raw 2009 (PAL-M5) (SLES-55251)|Widescreen hack by nemesis2000|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55251_FB26E854.pnach)|
 |SLUS-21810_02A3F34D|WWE SmackDown vs. Raw 2009 (SLUS-21810)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21810_02A3F34D.pnach)|
@@ -3549,7 +3550,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20483_B0AE1898|WWE Smackdown! Shut Your Mouth (U)(SLUS-20483)|Widescreen hack by ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20483_B0AE1898.pnach)|
 |F5D214FB|WWE SmackDown! vs Raw 2006 (K)(SLKA-25318)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F5D214FB.pnach)|
 |9D8201FB|WWE SmackDown! vs Raw 2008 (K)(SLKA-25365)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9D8201FB.pnach)|
-|02A1CB4D|WWE SmackDown! vs Raw 2009 (K)(SLKA-25418)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/02A1CB4D.pnach)|
+|SLKA-25418_02A1CB4D|WWE SmackDown! vs Raw 2009 (K)(SLKA-25418)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25418_02A1CB4D.pnach)|
 |A101C8D5|WWE SmackDown! vs Raw 2010 (K)(SLKA-25463)|Widescreen hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A101C8D5.pnach)|
 |SLUS-21286_74EB4E40|WWE SmackDown! vs. Raw 2006 (SLUS-21286)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )<br />no interlace by someother1ne|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21286_74EB4E40.pnach)|
 |63353AA4|WWF SmackDown - Just Bring It (PAL-E) (SLES-50477)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/63353AA4.pnach)|
@@ -3557,25 +3558,25 @@ If you are looking for specific game use shortcut CTRL+F
 |511447B7|WWII - Tank Battles (E)(SLES-52954)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/511447B7.pnach)|
 |8AE499F2|﻿X Fire [NTSC-J] (SLPS-20023)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8AE499F2.pnach)|
 |AF1CACC7|X-Men - Next Dimension (E)(SLES-50898)|Widescreen hack (Pal by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/AF1CACC7.pnach)|
-|00DCB57B|X-Men - Next Dimension (PAL-G) (SLES-50899)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/00DCB57B.pnach)|
+|SLES-50899_00DCB57B|X-Men - Next Dimension (PAL-G) (SLES-50899)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50899_00DCB57B.pnach)|
 |SLUS-20279_36240AE2|X-Men - Next Dimension SLUS_202.79|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20279_36240AE2.pnach)|
 |EE3180F4|X-Men 2 - Wolverine's Revenge (E)(SLES-51286)|Widescreen hack by Arapapa, ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/EE3180F4.pnach)|
 |FBF2383B|X-Men 2 - Wolverine's Revenge (PAL-M3) (SLES-51548)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FBF2383B.pnach)|
 |69094734|X-Men Legends (PAL-E) (SLES-52624)|Widescreen Hack (16:9) by XxGaMiNGK3LLERxX|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/69094734.pnach)|
-|6900A74B|X-Men Legends (PAL-G) (SLES-52625)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6900A74B.pnach)|
+|SLES-52625_6900A74B|X-Men Legends (PAL-G) (SLES-52625)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52625_6900A74B.pnach)|
 |SLUS-21138_0E707DA4|X-Men Legends II - Rise of Apocalypse (NTSC-U)(SLUS-21138)|Widescreen Hack by ElHecht (NTSC-U by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21138_0E707DA4.pnach)|
 |912C8E55|X-Men Legends II - Rise of Apocalypse (PAL-M3) (SLES-53374)|Widescreen hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/912C8E55.pnach)|
 |SLUS-20656_CE6A63BF|X-Men Legends SLUS_206.56|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20656_CE6A63BF.pnach)|
 |E81BE74B|﻿X-Squad (E)(SLES-50031)|Widescreen Hack (PAL by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E81BE74B.pnach)|
 |238FFAAE|﻿X-Squad [NTSC-U] (SLUS-20094)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/238FFAAE.pnach)|
-|2CFB6C22|X-treme Express - World Grand Prix (E)(SLES-50998)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/2CFB6C22.pnach)|
+|SLES-50998_2CFB6C22|X-treme Express - World Grand Prix (E)(SLES-50998)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50998_2CFB6C22.pnach)|
 |SLES-53141_DB49EA17|X-treme Quads (E)(SLES-53141)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53141_DB49EA17.pnach)|
 |SLUS-20337_16FB9855|X2 - Wolverine's Revenge SLUS_203.37|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20337_16FB9855.pnach)|
 |SLES-54541_59B36669|Xena: Warrior Princess (PAL)|Widescreen Hack (50hz)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54541_59B36669.pnach)|
 |6D980D22|Xena: Warrior Princess (PAL)|Widescreen Hack (60hz)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6D980D22.pnach)|
 |SCAJ-30001_A3D63039|Xenosaga Episode I|NTSC-J Widescreen Hack by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCAJ-30001_A3D63039.pnach)|
 |885094D2|Xenosaga Episode I RELOADED (NTSC-J)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/885094D2.pnach)|
-|6D1276AB|Xenosaga Episode I: Der Wille zur Macht (SLUS-20469)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6D1276AB.pnach)|
+|SLUS-20469_6D1276AB|Xenosaga Episode I: Der Wille zur Macht (SLUS-20469)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20469_6D1276AB.pnach)|
 |36487CCF|Xenosaga Episode II|NTSC-J Widescreen Hack ver.2 by synce|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/36487CCF.pnach)|
 |BBBAAF63|﻿Xenosaga Episode II: Jenseits von Gut und Böse (Disc 1) (SLUS-20892) / Xenosaga Episode II: Jenseits von Gut und Böse (Disc 2) (PAL)|Widescreen hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BBBAAF63.pnach)|
 |SLUS-20892_EB39ABEC|﻿Xenosaga Episode II: Jenseits von Gut und Böse (Disc 1) (SLUS-20892) / Xenosaga Episode II: Jenseits von Gut und Böse (Disc 2) (SLUS-21133)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20892_EB39ABEC.pnach)|
@@ -3594,11 +3595,11 @@ If you are looking for specific game use shortcut CTRL+F
 |9C0F01BD|﻿XIII (PAL-M5) (SLES-51244)|Widescreen hack by nemesis2000 (pnach by ElHecht)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/9C0F01BD.pnach)|
 |SLES-51244_200BC0E6|﻿XIII (SLES-51244)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51244_200BC0E6.pnach)|
 |SLUS-20677_FCD97245|﻿XIII (SLUS-20677)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20677_FCD97245.pnach)|
-|A5DA4B36|Yakuza Fury (E)(SLES-53399)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A5DA4B36.pnach)|
+|SLES-53399_A5DA4B36|Yakuza Fury (E)(SLES-53399)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53399_A5DA4B36.pnach)|
 |SLUS-20278_12BCE532|Yanya Caballista - City Skater (U)(SLUS-20278)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20278_12BCE532.pnach)|
 |402435E5|Yanya Caballista featuring Gawoo (J)(SLPM-62051)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/402435E5.pnach)|
 |118373E0|Yoake no Mariko (Performance Pack) (J)(SCPS-11010)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/118373E0.pnach)|
-|0CF7E6FF|Yoake no Mariko 2nd Act (J)(SCPS-11022)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0CF7E6FF.pnach)|
+|SCPS-11022_0CF7E6FF|Yoake no Mariko 2nd Act (J)(SCPS-11022)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11022_0CF7E6FF.pnach)|
 |SLPM-62489_3594F9E7|Yoshinoya (NTSC-J)(SLPM-62489)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62489_3594F9E7.pnach)|
 |F1E2D375|Yoshitsune Eiyuuden - The Story of Hero Yoshitsune (K)(SLKA-25258)|Widescreen Hack (NTSC-K by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F1E2D375.pnach)|
 |491AEEF6|﻿Yoshitsune Eiyuuden - The Story of Hero Yoshitsune [NTSC-J] (SLPS-25454)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/491AEEF6.pnach)|
@@ -3612,7 +3613,7 @@ If you are looking for specific game use shortcut CTRL+F
 |B91DC726|Yu-Gi-Oh! Capsule Monster Coliseum (J)(SLPM-65613)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B91DC726.pnach)|
 |SLUS-20940_63F6B523|Yu-Gi-Oh! Capsule Monster Coliseum (U)(SLUS-20940)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20940_63F6B523.pnach)|
 |32AF09E8|﻿Yuu Yuu Hakusho Forever [NTSC-J](SLPS-25499)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/32AF09E8.pnach)|
-|52F1ACCB|Yuusei Kara no Buutai X - Episode II (The Thing) (J)(SLPM-62245)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/52F1ACCB.pnach)|
+|SLPM-62245_52F1ACCB|Yuusei Kara no Buutai X - Episode II (The Thing) (J)(SLPM-62245)|Widescreen hack (NTSC-J by Arapapa)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62245_52F1ACCB.pnach)|
 |DFF3BB23|Zapper (E)(SLES-50974)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DFF3BB23.pnach)|
 |66026B1B|Zapper (U)(SLUS-20528)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/66026B1B.pnach)|
 |SLUS-21254_282CF16E|﻿Zatch Bell! Mamodo Battles [NTSC-U] (SLUS-21254)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21254_282CF16E.pnach)|
@@ -3625,11 +3626,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25544_3F651512|﻿Zero: Shisei no Koe [NTSC-J] (SLPS-25544)|Widescreen Hack (Pnach by Little Giant)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25544_3F651512.pnach)|
 |SLPS-25113_3E359E0B|﻿Zettaizetsumei Toshi [NTSC-J] (SLPS-25113)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25113_3E359E0B.pnach)|
 |SLPS-25606_C988ECBB|Zettaizetsumei Toshi 2 - Itetsuita Kiokutachi [NTSC-J] (SLPS-25606)|Widescreen Hack by Little Giant|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25606_C988ECBB.pnach)|
-|3EEB02D9|Zhuo Hou La 3 [NTSC-C] (SCAJ-20144)|Widescreen Hack (NTSC-C by DeQxJ00)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/3EEB02D9.pnach)|
+|SCAJ-20144_3EEB02D9|Zhuo Hou La 3 [NTSC-C] (SCAJ-20144)|Widescreen Hack (NTSC-C by DeQxJ00)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCAJ-20144_3EEB02D9.pnach)|
 |823FB487|ZOE2 - Widescreen Hack (16:9) (NTSC-K)|cafe.naver.com/pscx2|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/823FB487.pnach)|
 |696400C3|Zoids Infinity (J)(SLPM-65749)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/696400C3.pnach)|
 |SLPM-65141_5A930A4A|Zoku Segare Ijiri (J)(SLPM-65141)|Widescreen hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65141_5A930A4A.pnach)|
-|1CB1FCDA|Zombie Attack (E)(SLES-53592)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1CB1FCDA.pnach)|
+|SLES-53592_1CB1FCDA|Zombie Attack (E)(SLES-53592)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53592_1CB1FCDA.pnach)|
 |SLES-54569_07608CA2|Zombie Hunters 2 (PAL-E) (SLES-54569)|Widescreen Hack (16:9)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54569_07608CA2.pnach)|
 |A64DA833|Zombie Virus (E)(SLES-54462)|Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A64DA833.pnach)|
 |SLES-54461_3F73B727|Zombie Zone - Other Side (PAL-E) (SLES-54461)|Widescreen Hack (16:9) by ElHecht<br />Disable interlacing hack by ElHecht|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54461_3F73B727.pnach)|
@@ -3639,7 +3640,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20148_8CB179A6|Zone of the Enders (U)(SLUS-20148)|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20148_8CB179A6.pnach)|
 |SLES-51113_3E0BEB3A|Zone of the Enders: The 2nd Runner SLES 511.13|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51113_3E0BEB3A.pnach)|
 |SLUS-20545_FD12A397|Zone of the Enders: The 2nd Runner SLUS_205.45|Widescreen Hack|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20545_FD12A397.pnach)|
-|5AF8016F|﻿幻想水滸伝 III (SLPM-65073)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5AF8016F.pnach)|
+|SLPM-65073_5AF8016F|﻿幻想水滸伝 III (SLPM-65073)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65073_5AF8016F.pnach)|
 |7380A572|﻿幻想水滸伝 V (SLPM-66286)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7380A572.pnach)|
 |SLUS-21258_89E303FC||.Hack//G.U Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21258_89E303FC.pnach)|
 |SLUS-21488_0F26BB77||.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|
@@ -3678,8 +3679,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54354_78DA0252||Final Fantasy XII (SLES-54354)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54354_78DA0252.pnach)|
 |DC2A467E||Final Fantasy XII (SLES-54356)<br />Widescreen hack by nemesis2000 (original pnach by nemesis2000)<br />Ported from PAL-E to PAL-G by theHOMER|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/DC2A467E.pnach)|
 |SLUS-20963_0779FBDB||Final Fantasy XII (SLUS-20963)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|
-|1E7A88A7||Final Fantasy XII International: Zodiac Job System (SLPM-66750)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />English patch|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1E7A88A7.pnach)|
 |E20A9B0A||Final Fantasy XII International: Zodiac Job System (SLPM-66750)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Original game|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E20A9B0A.pnach)|
+|SLPM-66750_1E7A88A7||Final Fantasy XII International: Zodiac Job System (SLPM-66750)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />English patch|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66750_1E7A88A7.pnach)|
 |SLUS-20194_160076FE||Grandia II (NTSC-U) (SLUS-20194) Widescreen Hack (16:9)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20194_160076FE.pnach)|
 |D8AA81A8||Gundam Musou Special (NTSC-J) 16:9|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D8AA81A8.pnach)|
 |SLUS-20251_F0A6D880||Harvest Moon - Save the Homeland - Widescreen Hack (16:9) (NTSC-U)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20251_F0A6D880.pnach)|
@@ -3723,16 +3724,15 @@ If you are looking for specific game use shortcut CTRL+F
 |FEE23E8F||The Bouncer - Widescreen (16:9) (NTSC-U) // by Hyakki|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FEE23E8F.pnach)|
 |B65E141B||Valkyrie Profile 2: Silmeria (16:9) (PAL)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B65E141B.pnach)|
 |35610B70||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/35610B70.pnach)|
-|56CEA32F||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/56CEA32F.pnach)|
 |8760B4B1||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/8760B4B1.pnach)|
 |A06A7AFD||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/A06A7AFD.pnach)|
+|SLES-55293_56CEA32F||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55293_56CEA32F.pnach)|
 |SLUS-21819_D3F40C6A||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21819_D3F40C6A.pnach)|
 |SLUS-21844_E87D8667||Widescreen Hack by Arapapa|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21844_E87D8667.pnach)|
 |SLUS-20980_EF9E43EF||Ys - The Ark of Napishtim - Widescreen Hack (16:9) (NTSC-U)|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20980_EF9E43EF.pnach)|
 |SLUS-20515_07AD79C9||Yu-Gi-Oh! The Duelist of the Roses NTSC-U patches|[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20515_07AD79C9.pnach)|
 |0212D871|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0212D871.pnach)|
 |0745318F|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0745318F.pnach)|
-|0FBA2A65|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/0FBA2A65.pnach)|
 |1110976A|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/1110976A.pnach)|
 |178CD241|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/178CD241.pnach)|
 |23556F91|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/23556F91.pnach)|
@@ -3762,6 +3762,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-15013_FE6D362F|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15013_FE6D362F.pnach)|
 |SCUS-97102_85AE91B3|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97102_85AE91B3.pnach)|
 |SLES-52444_C8E31535|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52444_C8E31535.pnach)|
+|SLES-52601_0FBA2A65|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52601_0FBA2A65.pnach)|
 |SLPM-55184_E97030DF|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55184_E97030DF.pnach)|
 |SLPM-55292_9E18263C|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55292_9E18263C.pnach)|
 |SLPM-62205_A1AA9D67|||[Download](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62205_A1AA9D67.pnach)|
