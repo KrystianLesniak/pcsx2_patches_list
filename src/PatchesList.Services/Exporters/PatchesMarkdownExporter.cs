@@ -8,13 +8,11 @@ namespace PatchesList.Services.Exporters
     {
         private readonly IPatchesImporter _patchesImporter;
         private readonly string _filePath;
-        private readonly string _header;
 
-        public PatchesMarkdownExporter(IPatchesImporter patchesImporter, string filePath, string header)
+        public PatchesMarkdownExporter(IPatchesImporter patchesImporter, string filePath)
         {
             _patchesImporter = patchesImporter;
             _filePath = filePath;
-            _header = header;
         }
 
         public async Task ExportData()
@@ -37,17 +35,17 @@ namespace PatchesList.Services.Exporters
                 var comments = string.Join("<br />", data.PatchComment);
                 var downloadLink = Url.Combine("https://raw.githubusercontent.com/PCSX2/", Consts.Pcsx2SubModuleName, "/main/", data.FilePath.Replace('\\', '/'));
 
-                await sw.WriteLineAsync($"|{titles}|{data.CRCCode}|{data.GameCode}|{comments}|[Download]({downloadLink})|");
+                await sw.WriteLineAsync($"|{data.GameCode}|{titles}|[{data.CRCCode}]({downloadLink})|{comments}|");
             }
         }
 
         private async Task CreateHeader(StreamWriter stream)
         {
             await stream.WriteLineAsync("If you are looking for specific game use shortcut CTRL+F");
-            await stream.WriteLineAsync($"## {_header}");
+            await stream.WriteLineAsync($"## PCSX2 Official Patches");
             await stream.WriteLineAsync(Environment.NewLine);
-            await stream.WriteLineAsync("|Game Title|CRC|Game Code|Comment|Link|");
-            await stream.WriteLineAsync("|----------|---|---------|-------|----|");
+            await stream.WriteLineAsync("|Game Code|Game Title|CRC|Comments|");
+            await stream.WriteLineAsync("|---------|----------|---|--------|");
         }
     }
 }
