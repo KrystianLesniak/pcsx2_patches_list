@@ -26,9 +26,10 @@ namespace PatchesList.Services.Exporters
             var orderedSet = _patchesImporter.GameDataSet
                 .OrderBy(x => x.GameTitle.FirstOrDefault() == null)
                 .ThenBy(x => x.GameTitle.FirstOrDefault())
-                .ThenBy(x => x.PatchComment.FirstOrDefault() == null)
-                .ThenBy(x => x.PatchComment.FirstOrDefault())
-                .ThenBy(x => x.CRCCode);
+                .ThenBy(x => x.CRCCode == null)
+                .ThenBy(x => x.CRCCode)
+                .ThenBy(x => x.GameCode == null)
+                .ThenBy(x => x.GameCode);
 
             foreach (var data in orderedSet)
             {
@@ -36,7 +37,7 @@ namespace PatchesList.Services.Exporters
                 var comments = string.Join("<br />", data.PatchComment);
                 var downloadLink = Url.Combine("https://raw.githubusercontent.com/PCSX2/", Consts.Pcsx2SubModuleName, "/main/", data.FilePath.Replace('\\', '/'));
 
-                await sw.WriteLineAsync($"|{data.CRCCode}|{titles}|{comments}|[Download]({downloadLink})|");
+                await sw.WriteLineAsync($"|{titles}|{data.CRCCode}|{data.GameCode}|{comments}|[Download]({downloadLink})|");
             }
         }
 
@@ -45,8 +46,8 @@ namespace PatchesList.Services.Exporters
             await stream.WriteLineAsync("If you are looking for specific game use shortcut CTRL+F");
             await stream.WriteLineAsync($"## {_header}");
             await stream.WriteLineAsync(Environment.NewLine);
-            await stream.WriteLineAsync("|CRC|Game Title|Comment|Link|");
-            await stream.WriteLineAsync("|---|----------|-------|----|");
+            await stream.WriteLineAsync("|Game Title|CRC|Game Code|Comment|Link|");
+            await stream.WriteLineAsync("|----------|---|---------|-------|----|");
         }
     }
 }

@@ -21,12 +21,32 @@ namespace PatchesList.Services.Exporters
             await Parallel.ForEachAsync(Directory.GetFiles(GetLocalFilesPath(), "*.pnach"), async (file, ct) =>
             {
                 var lines = await File.ReadAllLinesAsync(file, ct);
+                var fileName = Path.GetFileNameWithoutExtension(file);
+
+                var gameTile = GetGameDataFromLines(lines, "gametitle=");
+
+                string crcCode;
+                string gameCode;
+                if (fileName.Contains('_'))
+                {
+                    crcCode = fileName.Split('_')[1];
+                    gameCode = fileName.Split('_')[0];
+
+                    gameTile = gameTile.Select(x => x.Replace(gameCode, string.Empty).Replace("()", string.Empty));
+                }
+                else
+                {
+                    crcCode = fileName;
+                    gameCode = String.Empty;
+                }
+
 
                 var gameData = new GameData(
-                    Path.GetFileNameWithoutExtension(file),
+                    crcCode,
+                    gameCode,
                     Path.Combine(_patchesDirectory,
                     Path.GetFileName(file)),
-                    GetGameDataFromLines(lines, "gametitle="),
+                    gameTile,
                     GetGameDataFromLines(lines, "comment="));
 
                 lock (dataSetLocker)
