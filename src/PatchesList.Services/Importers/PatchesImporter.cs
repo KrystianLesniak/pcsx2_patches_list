@@ -24,15 +24,29 @@ namespace PatchesList.Services.Exporters
                 var fileName = Path.GetFileNameWithoutExtension(file);
 
                 var gameTile = GetGameDataFromLines(lines, "gametitle=");
-
                 string crcCode;
                 string gameCode;
+
                 if (fileName.Contains('_'))
                 {
-                    crcCode = fileName.Split('_')[1];
-                    gameCode = fileName.Split('_')[0];
+                    var split = fileName.Split('_');
+                        
+                    gameCode = split.First();
+                    crcCode = split.Last();
+                    //If file name is ex. "SCKA_20006_3A2EF433" instead of "SCKA-20006_3A2EF433"
+                    if (split.Length > 2)
+                        gameCode = $"{split.First()}-{split[1]}";
 
-                    gameTile = gameTile.Select(x => x.Replace(gameCode, string.Empty).Replace("()", string.Empty));
+                    gameTile = gameTile.Select(x =>
+                        //Remove gamecode ex. "SLUS-21423" from title
+                        x.Replace(gameCode, string.Empty)
+                        //Remove gamecode ex. "SLPM_66851" from title
+                        .Replace(gameCode.Replace('-', '_'), string.Empty)
+                        //Remove gamecode ex. "SLES_541.35" from title
+                        .Replace(gameCode.Replace('-', '_').Insert(gameCode.Length - 2,"."), string.Empty)
+                        //Remove empty parenthess from title
+                        .Replace("()", string.Empty)
+                        .Replace("[]", string.Empty));
                 }
                 else
                 {
