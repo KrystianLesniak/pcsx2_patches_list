@@ -1,3 +1,4 @@
 @use 'initialize' with (
-    $content-width: 1600px
+    $content-width: 1600px,
+    $on-laptop: 800px
 );
