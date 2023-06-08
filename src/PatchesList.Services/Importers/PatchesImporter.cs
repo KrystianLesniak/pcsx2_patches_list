@@ -24,6 +24,9 @@ namespace PatchesList.Services.Exporters
                 var fileName = Path.GetFileNameWithoutExtension(file);
 
                 var gameTile = GetGameDataFromLines(lines, "gametitle=");
+                var patchComments = GetGameDataFromLines(lines, "comment=")
+                    .Concat(GetGameDataFromLines(lines, "description="));
+
                 string crcCode;
                 string gameCode;
 
@@ -58,10 +61,10 @@ namespace PatchesList.Services.Exporters
                 var gameData = new GameData(
                     crcCode,
                     gameCode,
-                    Path.Combine(_patchesDirectory,
-                    Path.GetFileName(file)),
+                    Path.Combine(_patchesDirectory, Path.GetFileName(file)),
                     gameTile,
-                    GetGameDataFromLines(lines, "comment="));
+                    patchComments
+                    );
 
                 lock (dataSetLocker)
                 {
