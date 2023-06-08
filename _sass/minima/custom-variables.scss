@@ -1,3 +1,7 @@
-//Width of the content area
-$content-width: 1600px;
-$on-laptop: 1600px;
+// width of the content area
+// can be set as "px" or "%"
+$content-width:    1600px;
+$on-palm:          800px;
+$on-laptop:        1200px;
+$on-medium:        1200px;
+$on-large:         1600px;
