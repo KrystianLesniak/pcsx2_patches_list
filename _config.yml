@@ -3,7 +3,7 @@ title: PCSX 2 Patches List
 description: >
  Organized list of all patches (Widescreen, No Interlace, etc.) officially distributed with the PCSX2 emulator.
 
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
   skin: auto
