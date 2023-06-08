@@ -1,0 +1,11 @@
+title: PCSX 2 Patches List
+
+description: >
+ Organized list of all patches (Widescreen, No Interlace, etc.) officially distributed with the PCSX2 emulator.
+
+theme: minima
+
+minima:
+  skin: auto
+  social_links:
+    - { platform: github,  user_url: "https://github.com/KrystianLesniak/pcsx2_patches_list" }
