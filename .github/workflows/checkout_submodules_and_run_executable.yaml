@@ -3,7 +3,7 @@ name: Update Submodule and Run Executable
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * 1,4'  # Run at 00:00 UTC every Sunday
+    - cron: '0 0 * * 1,4'
 
 jobs:
   update-submodule-and-file:
