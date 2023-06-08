@@ -9,3 +9,4 @@ minima:
   skin: auto
   social_links:
     - { platform: github,  user_url: "https://github.com/KrystianLesniak/pcsx2_patches_list" }
+  header_pages:
