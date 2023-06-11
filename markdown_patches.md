@@ -1846,7 +1846,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-67002|Metal Gear Solid 2 - Substance (J)|[CED0851A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67002_CED0851A.pnach)|Widescreen Hack by Arapapa|
 |SLKA-35001|Metal Gear Solid 2 Substance (K)|[5942DD1F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-35001_5942DD1F.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
 |SLKA-25251|Metal Gear Solid 3 - Snake Eater (K) |[C69ACB6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25251_C69ACB6F.pnach)|Widescreen pnach by Arapapa|
-|SLUS-21359|Metal Gear Solid 3 - Subsistence |[053D2239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21359_053D2239.pnach)|Widescreen hack by No.47|
+|SLUS-21359|Metal Gear Solid 3 - Subsistence |[053D2239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21359_053D2239.pnach)|Widescreen hack by No.47<br />60 fps patch (may need overclocking EE).<br />30 fps patch.|
 |SLUS-21243|Metal Gear Solid 3 - Subsistence (Disc 2of3) (U)|[01B2FA7F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21243_01B2FA7F.pnach)|Widescreen|
 |SLKA-25353|Metal Gear Solid 3 - Subsistence (K) |[B0D195EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25353_B0D195EF.pnach)|Widescreen pnach by Arapapa|
 |SLPM-66622|Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc1of3] (J)(0)|[86BC3040](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66622_86BC3040.pnach)|Widescreen Hack by Arapapa|
