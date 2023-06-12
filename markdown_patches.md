@@ -196,7 +196,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21564|Atelier Iris 3: Grand Phantasm  |[4CCC9212](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21564_4CCC9212.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLES-54822|Atelier Iris 3: Grand Phantasm [PAL] |[81D2A53F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54822_81D2A53F.pnach)|Widescreen pnach by El_Patas|
 |SLPM-66436|Atelier Iris 3: Grand Phantasm(J)  |[CA295E61](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66436_CA295E61.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
-|SCUS-97198|Atelier Iris Eternal Mana (NTSC) |[E3981DBB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97198_E3981DBB.pnach)|Widescreen hack by gamemasterplc|
+|SLUS-21113|Atelier Iris Eternal Mana (NTSC) |[E3981DBB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21113_E3981DBB.pnach)|Widescreen hack by gamemasterplc|
 |SLPM-65985|﻿Atelier Iris-Eternal Mana 2 [NTSC-J]|[F4D474EB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65985_F4D474EB.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SCES-52410|Athens 2004 (E)|[C3F83BD1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52410_C3F83BD1.pnach)|Widescreen Hack by Arapapa|
 |SCPS-15074|Athens 2004 (J)|[5DCE75ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15074_5DCE75ED.pnach)|Widescreen Hack by Arapapa|
@@ -295,9 +295,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21150|Beat Down - Fists of Vengeance (U) |[C9F6EF9A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21150_C9F6EF9A.pnach)|Widescreen Hack (16:9) by ElHecht (pnach NTSC-U by Arapapa)|
 |SLES-55016|Bee Movie Game (E)|[9D6AA1B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55016_9D6AA1B8.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21622|Bee Movie Game (U)|[07717046](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21622_07717046.pnach)|Widescreen Hack by Arapapa|
-|SLUS-21921|Ben 10 - Alien Force - Vilgax Attacks (U)|[8A1D18EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21921_8A1D18EE.pnach)|Widescreen Hack by El_Patas (NTSC-U by Arapapa)|
-|SLUS-21661|Ben 10 - Protector of Earth |[8FCCB5D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21661_8FCCB5D9.pnach)|Widescreen Hack|
-|SLUS-21815|Ben 10: Alien Force [NTSC-U] |[DB2DE310](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21815_DB2DE310.pnach)|Widescreen Hack by Sergx12|
+|SLUS-21921|Ben 10 - Alien Force - Vilgax Attacks (U)|[8A1D18EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21921_8A1D18EE.pnach)|Patches the game to run at Widescreen 16:9 aspect ratio.|
+|SLUS-21661|Ben 10 - Protector of Earth |[8FCCB5D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21661_8FCCB5D9.pnach)|Patches the game to run at Widescreen 16:9 aspect ratio.|
+|SLUS-21815|Ben 10: Alien Force [NTSC-U] |[DB2DE310](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21815_DB2DE310.pnach)|Patches the game to run at Widescreen 16:9 aspect ratio.|
 |SLES-55440|Ben 10: Alien Force [PAL-M5] |[08029382](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55440_08029382.pnach)|Widescreen Hack by El_Patas|
 |SLES-55592|Ben 10: Alien Force Vilgax Attacks [PAL-M5] |[35C84D80](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55592_35C84D80.pnach)|Widescreen Hack by El_Patas|
 |SLES-54952|Ben 10: Protector of Earth [PAL-M5] |[1712E9F9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54952_1712E9F9.pnach)|Widescreen Hack by El_Patas|
@@ -578,6 +578,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21499|Corvette Evolution GT |[45A8B64C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21499_45A8B64C.pnach)|Widescreen patch by nemesis2000 (pnach by nemesis2000)|
 |SLES-54568|Covert Command (E)|[CFE893B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54568_CFE893B8.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25551|Cowboy Bebop - Tsuioku no Serenade (J)|[C162A768](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25551_C162A768.pnach)|Widescreen Hack by Arapapa|
+|SLUS-21728|Crash - Mind Over Mutant (NTSC-U)|[6A8448BA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21728_6A8448BA.pnach)|Patches the game to run at 60 FPS.|
 |SLPM-64513|Crash Bandicoot - Return of The Demon King (K)|[00A074A7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64513_00A074A7.pnach)|Widescreen hack by Arapapa|
 |SLPM-62114|Crash Bandicoot 4 - Sakuretsu! Majin Power (J)(v1.03) |[F8643F9B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62114_F8643F9B.pnach)|Widescreen hack by Arapapa|
 |SLPM-65580|﻿Crash Bandicoot Bakusou! Nitro Kart [NTSC-J] |[84AAB204](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65580_84AAB204.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
@@ -588,6 +589,7 @@ If you are looking for specific game use shortcut CTRL+F
 ||Crash Bandicoot Wrath Of Cortex (SLES 503.86) (PAL)Ver 1.03|[35D70452](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/35D70452.pnach)|Crash Bandicoot Wrath Of Cortex|
 |SLUS-20649|Crash Nitro Kart |[8F943CF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20649_8F943CF3.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
 |SLES-51511|Crash Nitro Kart [PAL-M6] |[1B09B0E4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51511_1B09B0E4.pnach)|Widescreen pnach by El_Patas|
+|SLUS-21583|Crash of the Titans (NTSC-U)|[C6E85EF0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21583_C6E85EF0.pnach)|Patches the game to run at 60 FPS (Might need 130% EE Overclock to be stable).|
 |SLES-53439|Crash Tag Team Racing (E)|[E2FF6D3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53439_E2FF6D3D.pnach)|Widescreen hack by Arapapa|
 |SLUS-21191|Crash Tag Team Racing (U)|[AA525269](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21191_AA525269.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS (Might need 180% EE Overclock to be stable).|
 |SLPS-20067|Crazy Bump's: Kattobi Car Battle (NTSC-J)  [739EB266]|[739EB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20067_739EB266.pnach)|Widescreen hacks by Arapapa (original hack) and Aced14 (alternate hacks)|
@@ -2184,6 +2186,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20224|Pac-Man World 2 (U) (Greatest Hits)|[E7EA3288](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20224_E7EA3288.pnach)|Widescreen hack<br />No Interlacing|
 |SLES-53959|Pac-Man World 3 (PAL-M5)|[72A924F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53959_72A924F1.pnach)|Widescreen Hack by ICUP321|
 |SLUS-21219|Pac-Man World 3 (U)|[91ECC411](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21219_91ECC411.pnach)|Widescreen Hack by ICUP321|
+|SLUS-21328|Pac-Man World Rally (NTSC-U)|[99BD2C0C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21328_99BD2C0C.pnach)|Patches the game to run at 60 FPS.|
 |SLES-52571|Pacific Warriors II - Dogfight! (E)|[8B61D18D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52571_8B61D18D.pnach)|Widescreen hack by Arapapa|
 |SLES-54665|Paddington Bear (E)|[FE3E54B3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54665_FE3E54B3.pnach)|Widescreen hack by Arapapa|
 |SLPS-20135|Pai Chenjan [NTSC-J] [PBPX-95201]|[BD27FC43](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20135_BD27FC43.pnach)|Widescreen hack by Arapapa|
