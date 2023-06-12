@@ -1,9 +1,9 @@
 ﻿using PatchesList.Services.Exporters;
 
-var wsPatcherImporter = new PatchesImporter("patches");
-await wsPatcherImporter.ImportData();
+var wsPatcherImporter = new PatchesImporter();
+var gameDataCollection = await wsPatcherImporter.ImportData();
 
-var exporter = new PatchesMarkdownExporter(wsPatcherImporter, "markdown_patches.md");
+var exporter = new PatchesMarkdownExporter(gameDataCollection);
 await exporter.ExportData();
 
 Console.WriteLine("Markdowns updated");

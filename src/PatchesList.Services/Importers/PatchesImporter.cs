@@ -1,79 +1,58 @@
 ﻿using PatchesList.Common;
 using PatchesList.Common.Interfaces;
 using PatchesList.Common.Models;
+using PatchesList.Services.Importers;
 using System.Diagnostics;
 
 namespace PatchesList.Services.Exporters
 {
     public class PatchesImporter : IPatchesImporter
     {
-        public List<GameData> GameDataSet { get; private set; } = new();
-        private static readonly object dataSetLocker = new();
-
-        private readonly string _patchesDirectory;
-        public PatchesImporter(string patchesDirectory)
+        public async Task<IEnumerable<GameData>> ImportData()
         {
-            _patchesDirectory = patchesDirectory;
-        }
+            List<GameData> gameDatasSet = new();
+            object dataSetLocker = new();
 
-        public async Task ImportData()
-        {
             await Parallel.ForEachAsync(Directory.GetFiles(GetLocalFilesPath(), "*.pnach"), async (file, ct) =>
             {
+                //Prepare a File
                 var lines = await File.ReadAllLinesAsync(file, ct);
-                var fileName = Path.GetFileNameWithoutExtension(file);
+                var fileNameWithoutExt = Path.GetFileNameWithoutExtension(file);
 
-                var gameTile = GetGameDataFromLines(lines, "gametitle=");
-                var patchComments = GetGameDataFromLines(lines, "comment=")
-                    .Concat(GetGameDataFromLines(lines, "description="));
+                //Download data from File
+                var gameTitles = GameDatasDownloader.GetGameDataFromLines(lines, "gametitle=");
 
-                string crcCode;
-                string gameCode;
+                var patchComments = GameDatasDownloader.GetGameDataFromLines(lines, "comment=")
+                    .Concat(GameDatasDownloader.GetGameDataFromLines(lines, "description="));
 
-                if (fileName.Contains('_'))
-                {
-                    var split = fileName.Split('_');
-                        
-                    gameCode = split.First();
-                    crcCode = split.Last();
-                    //If file name is ex. "SCKA_20006_3A2EF433" instead of "SCKA-20006_3A2EF433"
-                    if (split.Length > 2)
-                        gameCode = $"{split.First()}-{split[1]}";
+                var crcCode = GameDatasDownloader.GetCrcCode(fileNameWithoutExt);
 
-                    gameTile = gameTile.Select(x =>
-                        //Remove gamecode ex. "SLUS-21423" from title
-                        x.Replace(gameCode, string.Empty)
-                        //Remove gamecode ex. "SLPM_66851" from title
-                        .Replace(gameCode.Replace('-', '_'), string.Empty)
-                        //Remove gamecode ex. "SLES_541.35" from title
-                        .Replace(gameCode.Replace('-', '_').Insert(gameCode.Length - 2,"."), string.Empty)
-                        //Remove empty parenthess from title
-                        .Replace("()", string.Empty)
-                        .Replace("[]", string.Empty));
-                }
-                else
-                {
-                    crcCode = fileName;
-                    gameCode = String.Empty;
-                }
+                var gameCode = GameDatasDownloader.GetGameCode(fileNameWithoutExt);
 
 
+                //Manipulate data
+                gameTitles = GameDatasManipulator.RemoveGameCodeFromTitles(gameTitles, gameCode);
+
+                //Create a record
                 var gameData = new GameData(
                     crcCode,
                     gameCode,
-                    Path.Combine(_patchesDirectory, Path.GetFileName(file)),
-                    gameTile,
+                    Path.GetFileName(file),
+                    gameTitles,
                     patchComments
                     );
 
                 lock (dataSetLocker)
                 {
-                    GameDataSet.Add(gameData);
+                    gameDatasSet.Add(gameData);
                 }
+
             });
+
+            return gameDatasSet;
         }
 
-        private string GetLocalFilesPath()
+        private static string GetLocalFilesPath()
         {
             if (Debugger.IsAttached)
             {
@@ -84,19 +63,12 @@ namespace PatchesList.Services.Exporters
                     directory = Directory.GetParent(directory)!.FullName;
                 }
 
-                return Path.Combine(directory, Consts.Pcsx2SubModuleName, _patchesDirectory);
+                return Path.Combine(directory, Consts.Pcsx2SubModuleName, Consts.Pcsx2PatchesFolder);
             }
             else
             {
-                return Path.Combine(Directory.GetCurrentDirectory(), Consts.Pcsx2SubModuleName, _patchesDirectory);
+                return Path.Combine(Directory.GetCurrentDirectory(), Consts.Pcsx2SubModuleName, Consts.Pcsx2PatchesFolder);
             }
-        }
-
-        public static IEnumerable<string> GetGameDataFromLines(string[] lines, string dataString = "gametitle=")
-        {
-            return lines
-                .Where(x => x.StartsWith(dataString, StringComparison.InvariantCultureIgnoreCase))
-                .Select(x => x.Replace(dataString, "").Trim());
         }
     }
 }

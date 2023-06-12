@@ -3,7 +3,7 @@
     public record GameData(
         string CRCCode,
         string GameCode,
-        string FilePath,
+        string FileName,
         IEnumerable<string> GameTitle,
         IEnumerable<string> PatchComment);
 }
