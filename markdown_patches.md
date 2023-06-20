@@ -145,31 +145,31 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53075|Area 51 (PAL-M5) |[C4ACBCF0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53075_C4ACBCF0.pnach)|Widescreen Hack by ElHecht|
 ||Argus no Senshi [NTSC-J]|[07E0108A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/07E0108A.pnach)|Widescreen hack by ElHecht|
 |SLKA-25270|Armored Core - Fomula Front (K) |[F9A37D6E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25270_F9A37D6E.pnach)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|
-|SLPS-25461|﻿Armored Core - Formula Front [NTSC-J] |[3E26EEEB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25461_3E26EEEB.pnach)|Widescreen hack by ElHecht|
+|SLPS-25461|﻿Armored Core - Formula Front [NTSC-J] |[3E26EEEB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25461_3E26EEEB.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
 |SLES-53820|Armored Core - Last Raven (PAL-E) |[B1A38C05](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53820_B1A38C05.pnach)|Widescreen hack by ElHecht|
-|SLPS-25462|﻿Armored Core - Last Raven [NTSC-J] |[FEBE1992](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25462_FEBE1992.pnach)|Widescreen hack by ElHecht|
+|SLPS-25462|﻿Armored Core - Last Raven [NTSC-J] |[FEBE1992](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25462_FEBE1992.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20986|Armored Core - Nexus   SLUS_210.79|[7E5F690C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20986_7E5F690C.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLKA-25201|Armored Core - Nexus - Disc 1 - Evolution (NTSC-K) |[1102F889](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25201_1102F889.pnach)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|
 |SLES-82036|Armored Core - Nexus - Disc 1 - Evolution (PAL-M5) |[F3A5EC6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82036_F3A5EC6F.pnach)|Widescreen hack by ElHecht|
-|SLPS-25339|Armored Core - Nexus - Disc 2 - Revolution [NTSC-J] <br />﻿Armored Core - Nexus - Disc 1 - Evolution [NTSC-J] (SLPS-25338)|[26D1C561](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25339_26D1C561.pnach)|Widescreen hack by ElHecht|
-|SLUS-21200|Armored Core - Nine Breaker |[72486978](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21200_72486978.pnach)|Widescreen Hack|
+|SLPS-25339|Armored Core - Nexus - Disc 2 - Revolution [NTSC-J] <br />﻿Armored Core - Nexus - Disc 1 - Evolution [NTSC-J] (SLPS-25338)|[26D1C561](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25339_26D1C561.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
+|SLUS-21200|Armored Core - Nine Breaker |[72486978](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21200_72486978.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SCKA-20047|Armored Core - Nine Breaker (K) |[1E2BDB53](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20047_1E2BDB53.pnach)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|
 |SLES-53819|Armored Core - Nine Breaker (PAL-E) |[98BE10F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53819_98BE10F8.pnach)|Widescreen hack by ElHecht|
-|SLPS-25408|﻿Armored Core - Nine Breaker [NTSC-J] |[5C4E1AC4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25408_5C4E1AC4.pnach)|Widescreen hack by ElHecht|
-|SLUS-20644|Armored Core - Silent Line |[B8BFF0B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20644_B8BFF0B1.pnach)|Widescreen Hack|
+|SLPS-25408|﻿Armored Core - Nine Breaker [NTSC-J] |[5C4E1AC4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25408_5C4E1AC4.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20644|Armored Core - Silent Line |[B8BFF0B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20644_B8BFF0B1.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLKA-25041|Armored Core - Silent Line (K) |[DB4EB6A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25041_DB4EB6A9.pnach)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|
 |SLES-52203|Armored Core - Silent Line (PAL-E) |[89D79F73](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52203_89D79F73.pnach)|Widescreen hack by ElHecht|
 |SLUS-20014|Armored Core 2 |[0D168765](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20014_0D168765.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLES-50905|Armored Core 2 - Another Age (PAL-E) |[63F88A8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50905_63F88A8F.pnach)|Widescreen hack by ElHecht|
-|SLPS-25040|﻿Armored Core 2 - Another Age [NTSC-J] |[5F2A0E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25040_5F2A0E36.pnach)|Widescreen hack by ElHecht|
+|SLPS-25040|﻿Armored Core 2 - Another Age [NTSC-J] |[5F2A0E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25040_5F2A0E36.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
 |SLES-50079|Armored Core 2 (PAL-E) |[D9B48C4A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50079_D9B48C4A.pnach)|Widescreen hack by ElHecht|
-|SLPS-25007|﻿Armored Core 2 [NTSC-J] |[F3F906DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25007_F3F906DE.pnach)|Widescreen hack by ElHecht|
-|SLUS-20249|Armored Core 2 Another Age |[9545216B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20249_9545216B.pnach)|Widescreen Hack|
-|SLUS-20435|Armored Core 3 |[FDB4D261](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20435_FDB4D261.pnach)|Widescreen Hack|
-|SLPS-25169|﻿Armored Core 3 - Silent Line [NTSC-J] |[124C0F8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25169_124C0F8D.pnach)|Widescreen hack by ElHecht|
+|SLPS-25007|﻿Armored Core 2 [NTSC-J] |[F3F906DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25007_F3F906DE.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20249|Armored Core 2 Another Age |[9545216B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20249_9545216B.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20435|Armored Core 3 |[FDB4D261](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20435_FDB4D261.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
+|SLPS-25169|﻿Armored Core 3 - Silent Line [NTSC-J] |[124C0F8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25169_124C0F8D.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
 |SLPM-67524|Armored Core 3 (NTSC-K) |[D4B9D03C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67524_D4B9D03C.pnach)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|
 |SLES-51399|Armored Core 3 (PAL-E) |[DE5AF9A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51399_DE5AF9A8.pnach)|Widescreen hack by ElHecht|
-|SLPS-25112|﻿Armored Core 3 [NTSC-J] |[D00E1931](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25112_D00E1931.pnach)|Widescreen hack by ElHecht|
+|SLPS-25112|﻿Armored Core 3 [NTSC-J] |[D00E1931](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25112_D00E1931.pnach)|Widescreen hack by ElHecht<br />Attempts to disable interlaced offset rendering.|
 |SLUS-21338|Armored Core: Last Raven |[1F34E107](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21338_1F34E107.pnach)|Widescreen Hack<br />De-interlace and blur removal by PsxFan107|
 |SLES-50233|Army Men - Air Attack - Blade's Revenge (E)|[E658A1D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50233_E658A1D9.pnach)|Widescreen hack by Arapapa|
 |SLUS-20004|Army Men - Air Attack 2 (NTSC-U)|[DC03D71F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20004_DC03D71F.pnach)|Widescreen hack by Arapapa|
