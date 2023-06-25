@@ -186,8 +186,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21305|Arthur and the Invisibles: The Game [NTSC-U] |[8EBA521C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21305_8EBA521C.pnach)|Widescreen hack by Sergx12|
 |SLES-54420|Arthur and the Minimoys [PAL-M7] |[859AB297](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54420_859AB297.pnach)|Widescreen hack by El_Patas|
 |SLPM-65441|Ashita no Joe - Masshiro ni Moe Tsukiro! (J)|[A0CD42B4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65441_A0CD42B4.pnach)|Widescreen hack by Arapapa|
-|SLUS-20866|Asterix & Obelix - Kick Buttix (U)|[7884CDB0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20866_7884CDB0.pnach)|Widescreen hack by ElHecht|
-|SLES-51838|Asterix & Obelix XXL (PAL-M5) |[1DB1A6C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51838_1DB1A6C6.pnach)|Widescreen hack by ElHecht|
+|SLUS-20866|Asterix & Obelix - Kick Buttix (U)|[7884CDB0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20866_7884CDB0.pnach)|Widescreen hack.<br />Corrects the font size for widescreen.<br />Disables screen shaking entirely.<br />Removes black bars from the Intro and Cutscenes.|
+|SLES-51838|Asterix & Obelix XXL (PAL-M5) |[1DB1A6C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51838_1DB1A6C6.pnach)|Widescreen hack.<br />Corrects the font size for widescreen.<br />Disables screen shaking entirely.<br />Removes black bars from the Intro and Cutscenes.|
 |SLES-53060|Asterix & Obelix XXL 2 (PAL-M3) |[70C6047D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53060_70C6047D.pnach)|Widescreen hack by Arapapa/ElHecht|
 |SLES-53725|Asterix & Obelix XXL 2 (PAL-M5) |[040345C2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53725_040345C2.pnach)|Widescreen hack by Arapapa/ElHecht|
 |SLPM-65551|Astro Boy - Tetsuwan Atom (J)(v1.00) |[36B523BC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65551_36B523BC.pnach)|Widescreen Hack by Arapapa|
