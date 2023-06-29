@@ -2204,7 +2204,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65271|Over the Monochrome Rainbow featuring Shogo Hamada (J)|[3562F45A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65271_3562F45A.pnach)|Widescreen hack by Arapapa|
 |SLPM-66033|Oz [NTSC-J] |[22031DAA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66033_22031DAA.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLPS-25141|Pac-Man World 2 (J)|[049BF05D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25141_049BF05D.pnach)|No Interlacing|
-|SLUS-20224|Pac-Man World 2 (U)|[047D8AA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20224_047D8AA6.pnach)|No Interlacing|
+|SLUS-20224|Pac-Man World 2 (U)|[047D8AA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20224_047D8AA6.pnach)|Widescreen hack<br />No Interlacing|
 |SLUS-20224|Pac-Man World 2 (U) (Greatest Hits)|[E7EA3288](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20224_E7EA3288.pnach)|Widescreen hack<br />No Interlacing|
 |SLES-53959|Pac-Man World 3 (PAL-M5)|[72A924F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53959_72A924F1.pnach)|Widescreen Hack by ICUP321|
 |SLUS-21219|Pac-Man World 3 (U)|[91ECC411](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21219_91ECC411.pnach)|Widescreen Hack by ICUP321|
