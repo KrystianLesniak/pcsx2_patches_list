@@ -1133,7 +1133,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25701|Gallop Racer Inbreed (J)|[EFFEF138](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25701_EFFEF138.pnach)|Widescreen hack  by Arapapa|
 |SLPS-25333|Gallop Racer Lucky 7 (J) |[215E7FBB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25333_215E7FBB.pnach)|Widescreen hack by Arapapa|
 |SLPM-65950|Gantz - The Game (J)|[09576267](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65950_09576267.pnach)|Widescreen Hack by Arapapa|
-||Garfield - Garfield World Tour (NTSC-U)|[5C241958](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/5C241958.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
+|SLUS-21749|Garfield - Garfield World Tour (NTSC-U)|[5C241958](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21749_5C241958.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-54817|Garfield - Lasangna World Tour (E)|[98317385](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54817_98317385.pnach)|Widescreen Hack by El_Patas|
 |SLPM-62733|Garfield - Saving Arlene (J)|[AECEA18C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62733_AECEA18C.pnach)|Widescreen Hack by Arapapa|
 |SLES-53587|Garfield - Saving Arlene (PAL)|[C124F105](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53587_C124F105.pnach)|Widescreen Hack by Arapapa|
@@ -1889,7 +1889,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52942|Midnight Club 3 - DUB Edition (E)|[EBE1972D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52942_EBE1972D.pnach)|Widescreen hack by Arapapa|
 |SLUS-21029|Midnight Club 3 - DUB Edition (U)|[4A0E5B3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21029_4A0E5B3A.pnach)|Widescreen hack by Arapapa|
 |SLES-53717|Midnight Club 3 - DUB Edition Remix |[208183AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53717_208183AF.pnach)|Widescreen Hack by FlatOut|
-|SLUS-21355|Midnight Club 3 - DUB Edition Remix |[60A42FF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21355_60A42FF5.pnach)|Widescreen Hack|
+|SLUS-21355|Midnight Club 3 - DUB Edition Remix |[60A42FF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21355_60A42FF5.pnach)|Widescreen Hack<br />removes motion blur|
 |SLES-51054|Midnight Club II (E)|[ACB1989A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51054_ACB1989A.pnach)|Widescreen hack by Arapapa|
 |SLUS-20209|Midnight Club II (U)|[E5F2DF38](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20209_E5F2DF38.pnach)|Widescreen hack by Arapapa|
 |SLUS-21094|Midway Arcade Treasures 3|[B843EAFB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21094_B843EAFB.pnach)|Widescreen Hack|
@@ -2979,7 +2979,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53172|Strike Force Bowling (E)|[2F7573E5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53172_2F7573E5.pnach)|Widescreen hack by Arapapa|
 |SLUS-20846|Strike Force Bowling (U)|[B96EDBE5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20846_B96EDBE5.pnach)|Widescreen hack by Arapapa|
 |SLPS-20152|Stunt GP (J)|[A8A2A013](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20152_A8A2A013.pnach)|Widescreen hack by LRukyk (NTSC-J by Arapapa)|
-||Stunt GP [NTSC-U] [D5B1137C]|[D5B1137C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/D5B1137C.pnach)|Widescreen hack by LRukyk|
+|SLUS-20218|Stunt GP [NTSC-U] [D5B1137C]|[D5B1137C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20218_D5B1137C.pnach)|Widescreen hack by LRukyk|
 |SLES-50064|Stunt GP [PAL] |[0B74A404](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50064_0B74A404.pnach)|Widescreen hack by El_Patas|
 |SLES-50288|Stuntman (E)|[790A4ACB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50288_790A4ACB.pnach)|Widescreen hack by Arapapa and FlatOut|
 |SLPM-66019|Stuntman (J)|[3F67D220](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66019_3F67D220.pnach)|Widescreen hack by Arapapa and FlatOut|
@@ -3739,6 +3739,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25088||[D9FC6310](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25088_D9FC6310.pnach)|Clock Tower 3 - Widescreen Hack (16:9) (PAL-E) // strider3871|
 |SLPS-25686||[28244492](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25686_28244492.pnach)|JoJo no Kimyouna Bouken Phantom Blood (NTSC-J) (SLPS-25686) Widescreen Hack by Goshorai|
 |SLUS-20001||[67454C1E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20001_67454C1E.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />original no interlace code by asasega. ported by someother1ne|
+|SLUS-20001||[E84C9242](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20001_E84C9242.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20018||[A07A5057](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20018_A07A5057.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20069||[FEE23E8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20069_FEE23E8F.pnach)|The Bouncer - Widescreen (16:9) (NTSC-U) // by Hyakki<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20105||[F191AFBC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20105_F191AFBC.pnach)|MDK2: Armageddon (SLUS-20105)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
@@ -3772,6 +3773,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21245||[1CC39DBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21245_1CC39DBD.pnach)|Suikoden Tactics (SLUS-21245)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-21258||[89E303FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21258_89E303FC.pnach)|.Hack//G.U Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21330||[BDFB1507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21330_BDFB1507.pnach)|Monster Rancher EVO (NTSC-U) WS patch|
+|SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
 |SLUS-21410||[104F08F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21410_104F08F4.pnach)|Mortal Kombat - Armageddon (U) (SLUS-21410) Widescreen Hack (16:9) by ElHecht|
 |SLUS-21419||[44A5FA15](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21419_44A5FA15.pnach)|Dirge of Cerberus - Final Fantasy VII Widescreen Hack (16:9) (NTSC-U)|
 |SLUS-21488||[0F26BB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
@@ -3800,7 +3802,6 @@ If you are looking for specific game use shortcut CTRL+F
 |||[6A4BE9E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6A4BE9E7.pnach)|Attempts to disable interlaced offset rendering.|
 |||[771C3B47](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/771C3B47.pnach)|Attempts to disable interlaced offset rendering.|
 |||[7E49FABF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7E49FABF.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
-|||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/82651334.pnach)|no interlace by someother1ne|
 |||[87F45627](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/87F45627.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |||[B65E141B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/B65E141B.pnach)|Valkyrie Profile 2: Silmeria (16:9) (PAL)|
 |||[BC06733B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/BC06733B.pnach)|Dirge of Cerberus - Final Fantasy VII International Widescreen Hack (16:9) (NTSC-J)|
@@ -3808,7 +3809,6 @@ If you are looking for specific game use shortcut CTRL+F
 |||[C293DD66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/C293DD66.pnach)|Attempts to disable interlaced offset rendering.|
 |||[CFDA79BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/CFDA79BE.pnach)|Attempts to disable interlaced offset rendering.|
 |||[E09E454C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E09E454C.pnach)|Dragon Quest V - Bride of the Sky - Widescreen Hack (16:9) (NTSC-J)<br />Widescreen hack by kerostar (Font fix by Arapapa)|
-|||[E84C9242](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/E84C9242.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />Attempts to disable interlaced offset rendering.|
 |||[F28D21F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/F28D21F1.pnach)|Dragon Ball Z: Sparking! Meteor WS patch|
 |||[FA3A9C0F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FA3A9C0F.pnach)|Attempts to disable interlaced offset rendering.|
 |||[FC368323](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FC368323.pnach)|Attempts to disable interlaced offset rendering.|
