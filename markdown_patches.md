@@ -966,6 +966,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50874|F1 2002 (NTSC-J & PAL)(SLPS-20199 & )|[A0ED2D23](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50874_A0ED2D23.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20455|F1 2002 (U)|[8FF059A1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20455_8FF059A1.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20295|F1 Career Challenge (J)|[5CBB11E6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20295_5CBB11E6.pnach)|Widescreen Hack by Arapapa|
+|SLUS-20693|F1 Career Challenge (PAL & NTSC-U)( & SLES-51584)|[2C1173B0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20693_2C1173B0.pnach)|Widescreen Hack by Arapapa|
 |SLES-51584|F1 Career Challenge (PAL & NTSC-U)(SLUS-20693 & )|[2C1173B0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51584_2C1173B0.pnach)|Widescreen Hack by Arapapa|
 |SLES-50017|F1 Championship Season 2000 (E)|[96E46AA0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50017_96E46AA0.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20044|F1 Championship Season 2000 (J)|[B9D20D1D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20044_B9D20D1D.pnach)|Widescreen Hack by Arapapa|
@@ -2352,6 +2353,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54307|Rayman - Raving Rabbids (PAL-M6)|[CFC63DFF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54307_CFC63DFF.pnach)|Widescreen hack by ICUP321|
 |SLUS-21576|Rayman - Raving Rabbids (U)|[53591072](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21576_53591072.pnach)|Widescreen hack by ICUP321|
 |SLUS-20138|Rayman 2: Revolution (NTSC-U & NTSC-K) ( & SLPM-67519)|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20138_D2F77DF2.pnach)|Widescreen Hacks by ElHecht & ICUP321|
+|SLPM-67519|Rayman 2: Revolution (NTSC-U & NTSC-K) (SLUS-20138 & )|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67519_D2F77DF2.pnach)|Widescreen Hacks by ElHecht & ICUP321|
 |SLPS-25029|Rayman Revolution (NTSC-J) |[BD9E8B57](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25029_BD9E8B57.pnach)|Widescreen Hacks by ElHecht & ICUP321|
 |SLES-50044|Rayman Revolution (PAL-M5) |[55EDA5A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50044_55EDA5A0.pnach)|Widescreen Hacks by ElHecht & ICUP321|
 |SLES-50077|RC Revenge Pro (E)|[91202475](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50077_91202475.pnach)|Widescreen hack by Arapapa|
@@ -2596,7 +2598,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50112|Shadow of Memories |[5F439D01](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50112_5F439D01.pnach)|Widescreen Hack|
 |SLPM-65013|Shadow of Memories (J) |[DB6B90FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65013_DB6B90FF.pnach)|Widescreen Hack (pnach NTSC-J by Arapapa)|
 |SLES-52950|Shadow of Rome |[B1995E29](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52950_B1995E29.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
-|SLUS-20902|Shadow of Rome |[57818AF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20902_57818AF6.pnach)|Widescreen Hack|
+|SLUS-20902|Shadow of Rome |[57818AF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20902_57818AF6.pnach)|Widescreen Hack<br />No interleacing, videos still shake|
 |SLPM-65883|Shadow of Rome (J)|[36393CD3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65883_36393CD3.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLES-53242|Shadow the Hedgehog |[7B94480C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53242_7B94480C.pnach)|Widescreen Hack|
 |SLUS-21261|Shadow the Hedgehog |[A5D29941](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21261_A5D29941.pnach)|Widescreen Hack|
