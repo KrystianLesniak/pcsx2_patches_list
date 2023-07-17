@@ -1387,7 +1387,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21563|Horsez (U)|[F0512849](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21563_F0512849.pnach)|Widescreen hack by Arapapa|
 |SCPS-56007|Hot Shots Golf 3 (K)|[98C1CE89](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56007_98C1CE89.pnach)|Widescreen hack by Arapapa|
 |SCUS-97130|Hot Shots Golf 3 (U)|[9794BFEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97130_9794BFEF.pnach)|Widescreen hack by Arapapa|
-|SCUS-97610|Hot Shots Tennis (NTSC-U) |[72326E67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97610_72326E67.pnach)|no interlacing by someother1ne|
+|SCUS-97610|Hot Shots Tennis (NTSC-U) |[72326E67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97610_72326E67.pnach)|Widescreen hack by ElHecht (ported by Tagg)<br />no interlacing by someother1ne|
 |SLUS-21628|Hot Wheels - Beat That! (U)|[8EA70682](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21628_8EA70682.pnach)|Widescreen hack by Arapapa|
 |SLES-52481|Hot Wheels - Stunt Track Challenge (PAL-Unk)|[39F20A4D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52481_39F20A4D.pnach)|Widescreen hack by Arapapa|
 |SLUS-20954|Hot Wheels - Stunt Track Challenge (U)|[E798B2D5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20954_E798B2D5.pnach)|Widescreen hack by Arapapa|
