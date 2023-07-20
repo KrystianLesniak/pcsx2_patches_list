@@ -2057,7 +2057,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20055|Mystic Nights (K)|[2383B74A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20055_2383B74A.pnach)|Widescreen Hack by Arapapa<br />Attempts to disable interlaced offset rendering.|
 |SLPM-65014|Mystical Ninja Goemon Zero (Prototype) |[FA3A9C0F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65014_FA3A9C0F.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-52241|Myth Makers - Orbs of Doom (E)|[38E47587](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52241_38E47587.pnach)|Widescreen hack by Arapapa|
-|SLES-52159|Myth Makers - Super Kart GP (E)|[51AB1AB0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52159_51AB1AB0.pnach)|Widescreen hack by Arapapa|
 |SLES-53452|Myth Makers - Trixie in Toyland (E)|[881B4780](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53452_881B4780.pnach)|Widescreen hack by Arapapa|
 |SLPS-25505|Namco x Capcom (NTSC-J)|[75C01A04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25505_75C01A04.pnach)|Widescreen Hack|
 |SLPS-25505|Namco x Capcom (NTSC-J) (English patch) |[9536E111](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25505_9536E111.pnach)|Widescreen Hack|
@@ -3757,6 +3756,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51815||[9AAC5309](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51815_9AAC5309.pnach)|Final Fantasy X-2 (PAL-Europe/Australia) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
 |SLES-51817||[9AAC530D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51817_9AAC530D.pnach)|Final Fantasy X-2 (PAL-G) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
 |SLES-51877||[C5DBDB45](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51877_C5DBDB45.pnach)|Bloody Roar 4 (PAL) (SLES-51877) Widescreen Hack (16:9) by ElHecht|
+|SLES-52159||[51AB1AB0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52159_51AB1AB0.pnach)||
 |SLES-52219||[CFA1065C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52219_CFA1065C.pnach)|Corvette (PAL)|
 |SLES-52444||[C8E31535](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52444_C8E31535.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-52535||[81C67E91](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52535_81C67E91.pnach)|Rumble Roses (PAL-M5) (SLES-52535) Widescreen Hack (16:9) by ElHecht|
