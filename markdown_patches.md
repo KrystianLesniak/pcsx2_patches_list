@@ -2983,6 +2983,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54130|Spy Hunter: Nowhere to Run [PAL] |[4731578B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54130_4731578B.pnach)|Widescreen hack by El_Patas|
 |SLES-53078|Spy vs. Spy |[6A31FB5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53078_6A31FB5C.pnach)|Widescreen Hack|
 |SLUS-20590|SpyHunter 2 |[A2B36980](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20590_A2B36980.pnach)|Widescreen Hack|
+|SLES-52569|Spyro: A Hero's Tail |[6E51213C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52569_6E51213C.pnach)|Widescreen|
 |SLUS-20884|Spyro: A Hero's Tail |[94C56923](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20884_94C56923.pnach)|Widescreen|
 |SLUS-21321|Squadra Course Alfa Romeo (Alfa Romeo Racing Italiano) (U)|[22FB53FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21321_22FB53FF.pnach)|Widescreen hack by Arapapa|
 |SLPM-65704|Standard Daisenryaku - Dengekisen (J)|[CD1EC9D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65704_CD1EC9D0.pnach)|Widescreen hack by Arapapa|
