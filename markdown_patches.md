@@ -601,7 +601,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20649|Crash Nitro Kart |[8F943CF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20649_8F943CF3.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
 |SLES-51511|Crash Nitro Kart [PAL-M6] |[1B09B0E4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51511_1B09B0E4.pnach)|Widescreen pnach by El_Patas|
 |SLUS-21583|Crash of the Titans (NTSC-U)|[C6E85EF0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21583_C6E85EF0.pnach)|Patches the game to run at 60 FPS (Might need 130% EE Overclock to be stable).|
-|SLES-53439|Crash Tag Team Racing (E)|[E2FF6D3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53439_E2FF6D3D.pnach)|Widescreen hack by Arapapa|
+|SLES-53439|Crash Tag Team Racing (E)|[E2FF6D3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53439_E2FF6D3D.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
 |SLUS-21191|Crash Tag Team Racing (U)|[AA525269](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21191_AA525269.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS (Might need 180% EE Overclock to be stable).|
 |SLPS-20067|Crazy Bump's: Kattobi Car Battle (NTSC-J)  [739EB266]|[739EB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20067_739EB266.pnach)|Widescreen hacks by Arapapa (original hack) and Aced14 (alternate hacks)|
 |SLUS-21634|Crazy Frog Arcade Racer (U)|[DB53D06D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21634_DB53D06D.pnach)|Widescreen Hack by Arapapa|
@@ -1538,6 +1538,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54423|Justice League Heroes [PAL-M5] |[42BF81D5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54423_42BF81D5.pnach)|Widescreen hack by El_Patas|
 |SLPM-65338|Juuni Kokuki - Guren no Shirube, Koujin no Michi (J)|[D0FDDA59](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65338_D0FDDA59.pnach)|Widescreen hack by Arapapa|
 |SLPM-65596|Juuni Kokuki - Kakukakutaru Oudou, Kouryoku no Uka (J)|[ACBB45C3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65596_ACBB45C3.pnach)|Widescreen hack by Arapapa|
+|SLAJ-25060|Juuouki - Project Altered Beast  [NTSC-J]|[664D4EAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLAJ-25060_664D4EAE.pnach)|Widescreen Hack by Little Giant|
 |SLPM-65796|Jyuouki - Project Altered Beast (J)|[BDF85A3C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65796_BDF85A3C.pnach)|Widescreen hack  (NTSC-J by Arapapa)|
 |SLUS-20682|K-1 World Grand Prix |[E520CABA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20682_E520CABA.pnach)|Widescreen hack|
 |SLPM-65336|K-1 World Grand Prix - The Beast Attack! (J)|[EA182A26](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65336_EA182A26.pnach)|Widescreen Hack by Arapapa|
@@ -1756,6 +1757,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50892|Lethal Skies Elite Pilot: Team SW [PAL] |[BBAB0D9A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50892_BBAB0D9A.pnach)|Widescreen pnach by El_Patas|
 |SLUS-20735|Lethal Skies II [NTSC-U] |[F523DBC9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20735_F523DBC9.pnach)|Widescreen Hack by El_Patas|
 |SLES-51886|Lethal Skies II [PAL-E] |[084D2994](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51886_084D2994.pnach)|Widescreen Hack by FlatOut|
+|SLES-55136|Lets Ride! Silver Buckle Stables |[7E49FABF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55136_7E49FABF.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLUS-20848|Life Line (NTSC-U) |[FD0936BF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20848_FD0936BF.pnach)|Life Line Widescreen Hack by VIRGIN KLM|
 |SLPS-25153|Lilo and Stitch - Stitch no Daibouken (J)|[ECF38282](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25153_ECF38282.pnach)|Widescreen hack by Arapapa|
 |SLES-54494|Little Britain - The Video Game (E)|[3EFF3155](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54494_3EFF3155.pnach)|Widescreen hack by Arapapa|
@@ -3848,6 +3850,4 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21750||[A06A7AFD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21750_A06A7AFD.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21819||[D3F40C6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21819_D3F40C6A.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21844||[E87D8667](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21844_E87D8667.pnach)|Widescreen Hack by Arapapa|
-|||[664D4EAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/664D4EAE.pnach)||
-|||[7E49FABF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/7E49FABF.pnach)||
 |||[FF3DB201](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF3DB201.pnach)||
