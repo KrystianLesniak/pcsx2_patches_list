@@ -539,7 +539,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53343|City Soccer Challenge (E)|[F4283A99](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53343_F4283A99.pnach)|Widescreen Hack by Arapapa|
 |SLES-53614|Classic British Motor Racing (E)|[0AB8ED51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53614_0AB8ED51.pnach)|Widescreen Hack by Arapapa|
 |SLPM-62129|Climax Tennis - WTA Tour Edition (J)|[4874A937](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62129_4874A937.pnach)|Widescreen hack by Arapapa|
-|SLKA-25051|Clock Tower 3 |[0E6F7A7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA_25051_0E6F7A7B.pnach)|Widescreen Hack by nemesis2000 and hyakki (NTSC-K by Arapapa)|
+|SLKA-25051|Clock Tower 3 |[0E6F7A7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25051_0E6F7A7B.pnach)|Widescreen Hack by nemesis2000 and hyakki (NTSC-K by Arapapa)|
 |SLPM-65221|Clock Tower 3 [NTSC-J] |[68EAF48F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65221_68EAF48F.pnach)|NTSC-J Widescreen Hack by parotaku|
 |SLES-51078|Club Football - Arsenal (PAL)(SLES-51089)|[AD8A8599](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51078_AD8A8599.pnach)|Widescreen Hack by Arapapa|
 |SLES-51081|Club Football - Juventus (PAL)|[BADBA2C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51081_BADBA2C8.pnach)|Widescreen Hack by Arapapa|
@@ -590,6 +590,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54568|Covert Command (E)|[CFE893B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54568_CFE893B8.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25551|Cowboy Bebop - Tsuioku no Serenade (J)|[C162A768](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25551_C162A768.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21728|Crash - Mind Over Mutant (NTSC-U)|[6A8448BA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21728_6A8448BA.pnach)|Patches the game to run at 60 FPS.|
+|SLES-55204|Crash - Mind Over Mutant (PAL)|[0F89A154](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55204_0F89A154.pnach)|Patches the game to run at 50 FPS (Activate Progressive Scan for 60 FPS).|
 |SLPM-64513|Crash Bandicoot - Return of The Demon King (K)|[00A074A7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64513_00A074A7.pnach)|Widescreen hack by Arapapa|
 |SLPM-62114|Crash Bandicoot 4 - Sakuretsu! Majin Power (J)(v1.03) |[F8643F9B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62114_F8643F9B.pnach)|Widescreen hack by Arapapa|
 |SLPM-65580|Crash Bandicoot Bakusou! Nitro Kart [NTSC-J] |[84AAB204](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65580_84AAB204.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
@@ -601,7 +602,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20649|Crash Nitro Kart |[8F943CF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20649_8F943CF3.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
 |SLES-51511|Crash Nitro Kart [PAL-M6] |[1B09B0E4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51511_1B09B0E4.pnach)|Widescreen pnach by El_Patas|
 |SLUS-21583|Crash of the Titans (NTSC-U)|[C6E85EF0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21583_C6E85EF0.pnach)|Patches the game to run at 60 FPS (Might need 130% EE Overclock to be stable).|
-|SLES-53439|Crash Tag Team Racing (E)|[E2FF6D3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53439_E2FF6D3D.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
+|SLES-54841|Crash of the Titans (PAL)|[ECA6BFC5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54841_ECA6BFC5.pnach)|Patches the game to run at 50 FPS (Might need 130% EE Overclock to be stable).|
+|SLES-53439|Crash Tag Team Racing (E)|[E2FF6D3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53439_E2FF6D3D.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 50 FPS (Might need 180% EE Overclock to be stable).|
 |SLUS-21191|Crash Tag Team Racing (U)|[AA525269](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21191_AA525269.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS (Might need 180% EE Overclock to be stable).|
 |SLPS-20067|Crazy Bump's: Kattobi Car Battle (NTSC-J)  [739EB266]|[739EB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20067_739EB266.pnach)|Widescreen hacks by Arapapa (original hack) and Aced14 (alternate hacks)|
 |SLUS-21634|Crazy Frog Arcade Racer (U)|[DB53D06D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21634_DB53D06D.pnach)|Widescreen Hack by Arapapa|
@@ -954,7 +956,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50639|Everblue (PAL)|[3832F5E0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50639_3832F5E0.pnach)|Widescreen Hack by Arapapa|
 |SLPM-62214|Everblue 2 (J)|[F97D5A55](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62214_F97D5A55.pnach)|Widescreen Hack by El_Patas (NTSC-J by Arapapa)|
 |SLUS-20598|Everblue 2 [NTSC-U] |[BCE9B7BB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20598_BCE9B7BB.pnach)|Widescreen hack by El_Patas|
-|SLES-513.81|Everblue 2 [PAL] |[00C584CB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-513.81_00C584CB.pnach)|Widescreen hack by El_Patas|
+|SLES-51381|Everblue 2 [PAL] |[00C584CB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51381_00C584CB.pnach)|Widescreen hack by El_Patas|
 |SLUS-20016|Evergrace |[758F0EE6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20016_758F0EE6.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLPS-25003|Evergrace (NTSC-J) |[66FB2124](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25003_66FB2124.pnach)|Widescreen Hack (NTSC-J by Arapapa)|
 |SLES-50050|Evergrace (PAL) |[F40297F7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50050_F40297F7.pnach)|Widescreen Hack by Machiavel Dhy'v converted from NTSC-U|
@@ -2391,10 +2393,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54587|Raw Danger! [PAL] |[A98B5B22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54587_A98B5B22.pnach)|Widescreen Hack by El_Patas|
 |SLES-54307|Rayman - Raving Rabbids (PAL-M6)|[CFC63DFF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54307_CFC63DFF.pnach)|Widescreen hack by ICUP321|
 |SLUS-21576|Rayman - Raving Rabbids (U)|[53591072](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21576_53591072.pnach)|Widescreen hack by ICUP321|
-|SLUS-20138|Rayman 2: Revolution (NTSC-U & NTSC-K) ( & SLPM-67519)|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20138_D2F77DF2.pnach)|Widescreen Hacks by ElHecht & ICUP321|
-|SLPM-67519|Rayman 2: Revolution (NTSC-U & NTSC-K) (SLUS-20138 & )|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67519_D2F77DF2.pnach)|Widescreen Hacks by ElHecht & ICUP321|
-|SLPS-25029|Rayman Revolution (NTSC-J) |[BD9E8B57](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25029_BD9E8B57.pnach)|Widescreen Hacks by ElHecht & ICUP321|
-|SLES-50044|Rayman Revolution (PAL-M5) |[55EDA5A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50044_55EDA5A0.pnach)|Widescreen Hacks by ElHecht & ICUP321|
+|SLUS-20138|Rayman 2: Revolution (NTSC-U & NTSC-K) ( & SLPM-67519)|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20138_D2F77DF2.pnach)|Widescreen Hacks by ElHecht & ICUP321<br />Patches the game to run at 60 FPS.|
+|SLPM-67519|Rayman 2: Revolution (NTSC-U & NTSC-K) (SLUS-20138 & )|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67519_D2F77DF2.pnach)|Widescreen Hacks by ElHecht & ICUP321<br />Patches the game to run at 60 FPS.|
+|SLPS-25029|Rayman Revolution (NTSC-J) |[BD9E8B57](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25029_BD9E8B57.pnach)|Widescreen Hacks by ElHecht & ICUP321<br />Patches the game to run at 60 FPS.|
+|SLES-50044|Rayman Revolution (PAL-M5) |[55EDA5A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50044_55EDA5A0.pnach)|Widescreen Hacks by ElHecht & ICUP321<br />Patches the game to run at 50 FPS.|
 |SLES-50077|RC Revenge Pro (E)|[91202475](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50077_91202475.pnach)|Widescreen hack by Arapapa|
 |SLUS-20153|RC Revenge Pro (U)(|[A8083AE6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20153_A8083AE6.pnach)|Widescreen hack by Arapapa|
 |SLES-52999|RC Toy Machines (E)|[409E55FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52999_409E55FF.pnach)|Widescreen hack by Devina and Arapapa|
@@ -2514,7 +2516,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25108|Runabout 3 - Neo Age (J)|[DF3812A4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25108_DF3812A4.pnach)|Widescreen hack by Arapapa|
 |SLPS-25685|Rurouni Kenshin - Enjou! Kyoto Rinne [NTSC-J] |[DE737FE2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25685_DE737FE2.pnach)|Widescreen Hack by Little Giant|
 |SLUS-20471|Rygar - The Legendary Adventure |[3E2A42FA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20471_3E2A42FA.pnach)|Widescreen hack by No.47<br />Attempts to disable interlaced offset rendering.|
-|SCKA-20006|Rygar - The Legendary Adventure (NTSC-K) |[3A2EF433](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA_20006_3A2EF433.pnach)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|
+|SCKA-20006|Rygar - The Legendary Adventure (NTSC-K) |[3A2EF433](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20006_3A2EF433.pnach)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|
 |SLES-51445|Rygar - The Legendary Adventure (PAL-M5) |[2DFD9846](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51445_2DFD9846.pnach)|Widescreen hack by ElHecht|
 |SLUS-20969|S.L.A.I. - Steel Lancer Arena International |[A9A55B5E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20969_A9A55B5E.pnach)|Widescreen Hack|
 |SLPM-65791|S.L.A.I. - Steel Lancer Arena International (NTSC-J)|[F293D7F6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65791_F293D7F6.pnach)|Widescreen hack by El_Patas (NTSC-J by Arapapa)|
@@ -2949,7 +2951,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65205|Spider-Man - The Movie (J)|[359EA298](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65205_359EA298.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20336|Spider-Man - The Movie (U)|[015CB6F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20336_015CB6F4.pnach)|Widescreen Hack by Arapapa|
 |SLPM-65662|Spider-Man 2 (J)|[078D39E3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65662_078D39E3.pnach)|Widescreen fix by flameofrecca (NTSC-J by Arapapa)|
-|SLUS-20776|Spider-Man 2 (NTSC-U) |[E2DFCE12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20776_E2DFCE12.pnach)|Widescreen fix by flameofrecca|
+|SLUS-20776|Spider-Man 2 (NTSC-U) |[E2DFCE12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20776_E2DFCE12.pnach)|Widescreen fix by flameofrecca<br />Patches the game to run at 60 FPS.|
 |SLUS-21552|Spider-Man 3 |[29873A0C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21552_29873A0C.pnach)|Widescreen Hack|
 |SLKA-25385|Spider-Man 3 (K)|[B35F8AAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25385_B35F8AAE.pnach)|Widescreen hack by Arapapa|
 |SLUS-21600|Spider-Man: Friend or Foe (NTSC-U)|[F52477F7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21600_F52477F7.pnach)|Widescreen Hack|
