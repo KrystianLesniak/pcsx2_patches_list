@@ -3225,7 +3225,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25237|The Lord of the Rings - The Third Age (K) |[37CD4279](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25237_37CD4279.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
 |SLUS-21027|The Lord of the Rings - The Third Age (NTSC-U)|[EB198738](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21027_EB198738.pnach)|Widescreen Hack (NTSC-U by Arapapa)|
 |SLES-52801|The Lord of the Rings - The Third Age (PAL-M5) |[614F4CF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52801_614F4CF4.pnach)|Widescreen hack by ElHecht|
-|SLPS-25026|The Lord of the Rings - The Two Towers (K) |[6898435D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25026_6898435D.pnach)|Widescreen Hack by Arapapa|
+|SLPM-67546|The Lord of the Rings - The Two Towers (K) |[6898435D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67546_6898435D.pnach)|Widescreen Hack by Arapapa|
 |SLES-51252|The Lord of the Rings - The Two Towers (PAL-M3) |[DC43F2B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51252_DC43F2B8.pnach)|Widescreen hack by ElHecht|
 |SLES-51252|The Lord of the Rings: The Two Towers (PAL-Spain) (SLES_512.56)|[9ABF90FB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51252_9ABF90FB.pnach)|Widescreen hack by El_Patas|
 |SCES-51164|The Mark of Kri (PAL-M5) |[A2837592](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51164_A2837592.pnach)|Widescreen hack by ElHecht|
