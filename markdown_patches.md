@@ -2416,6 +2416,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54339|Realm of the Dead (PAL-E) |[D287A60F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54339_D287A60F.pnach)|Widescreen hack by ElHecht|
 |SLES-53413|Rebel Raiders - Operation Nighthawk (E)|[05855832](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53413_05855832.pnach)|Widescreen hack by Arapapa|
 |SLUS-21303|Rebel Raiders - Operation Nighthawk (U)|[5B048038](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21303_5B048038.pnach)|Widescreen hack by Arapapa|
+|SLUS-20500|Red Dead Revolver  Blur orPost-Processing removal (V1.03)|[E169BAF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20500_E169BAF8.pnach)|Blur or Post-Processing removal ported from Aggressive CRC|
 |SLUS-20073|Red Faction (NTSC-U) |[FBF28175](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20073_FBF28175.pnach)|Widescreen hack by ElHecht|
 |SLES-50278|Red Faction (PAL-F) |[A7E712FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50278_A7E712FD.pnach)|Widescreen hack by Bigdemon|
 |SLES-50279|Red Faction (PAL-G) |[8DC64680](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50279_8DC64680.pnach)|Widescreen hack by ElHecht|
