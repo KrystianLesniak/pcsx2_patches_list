@@ -1126,6 +1126,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65813|Fuun Bakumatsuden [NTSC-J] |[950241D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65813_950241D3.pnach)|Widescreen hack by Little Giant|
 |SLPM-65494|Fuun Shinsengumi [NTSC-J] |[AF95D8FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65494_AF95D8FC.pnach)|Widescreen hack by Little Giant|
 |SLKA-25139|Fuuun Shinsengumi [NTSC-K] |[68C8FC78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25139_68C8FC78.pnach)|Widescreen hack by Little Giant|
+|SLUS-21891|G-Force |[67655A22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21891_67655A22.pnach)|Patches the game to run at 60 FPS.|
 |SLPS-25009|G-Saviour (J)|[AA0D46D4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25009_AA0D46D4.pnach)|Widescreen hack by Arapapa|
 |SLES-55537|G.I. Joe - The Rise of Cobra (E)|[724B94F6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55537_724B94F6.pnach)|Widescreen hack  by Arapapa|
 |SLUS-21886|G.I. Joe - The Rise of Cobra (NTSC-U)|[4EC21458](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21886_4EC21458.pnach)|Widescreen hack  by Arapapa|
@@ -2131,7 +2132,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51967|Need for Speed - Underground (PAL-M7) |[FDA10318](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51967_FDA10318.pnach)|Widescreen Hack|
 |SLPM-65614|Need for Speed - Underground J-Tune (EA Best Hits) [NTSC-J] |[6130F707](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65614_6130F707.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-21658|Need for Speed ProStreet  (U)|[DD3CE71B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21658_DD3CE71B.pnach)|Widescreen Mode (16:9)|
-|SLUS-20811|Need for Speed Underground |[CB99CD12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20811_CB99CD12.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
+|SLUS-20811|Need for Speed Underground |[CB99CD12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20811_CB99CD12.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Patches the game to run at 60 FPS.|
 |SLPM-65471|Need for Speed Underground (J)|[4608D01A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65471_4608D01A.pnach)|Widescreen hack by nemesis2000 (NTSC-Kby Arapapa)|
 |SLPS-25016|Neo Atlas III (J)|[62B8752C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25016_62B8752C.pnach)|Widescreen hack by Arapapa|
 |SLUS-20961|Neo Contra (NTSC-U) |[08901101](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20961_08901101.pnach)|Widescreen Hack by ElHecht|
@@ -2637,7 +2638,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20907|Serious Sam: Next Encounter |[155466E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20907_155466E8.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLES-52348|Seven Samurai 20XX (PAL-M5) |[CC229675](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52348_CC229675.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLUS-20621|Seven Samurai 20XX (U) |[A6356EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20621_A6356EA6.pnach)|Widescreen Hack (16:9) by ElHecht (pnach by Arapapa)|
-|SLES-50677|Shadow Hearts |[7DE3F9E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50677_7DE3F9E8.pnach)|Widescreen Hack|
 |SLES-50677|Shadow Hearts |[DEFA4763](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50677_DEFA4763.pnach)|Widescreen Hack|
 |SLUS-20347|Shadow Hearts |[8BE3D7B2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20347_8BE3D7B2.pnach)|Widescreen Hack|
 |SLUS-21326|Shadow Hearts - From the New World  |[C3D28EB9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21326_C3D28EB9.pnach)|Widescreen Hack|
