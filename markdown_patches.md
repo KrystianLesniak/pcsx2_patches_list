@@ -3657,6 +3657,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25463|WWE SmackDown! vs Raw 2010 (K)|[A101C8D5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25463_A101C8D5.pnach)|Widescreen hack (NTSC-K by Arapapa)|
 |SLUS-21286|WWE SmackDown! vs. Raw 2006 |[74EB4E40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21286_74EB4E40.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )<br />no interlace by someother1ne|
 |SLES-50477|WWF SmackDown - Just Bring It (PAL-E) |[63353AA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50477_63353AA4.pnach)|Widescreen hack by ElHecht|
+|SLUS-20316|WWF SmackDown! - Just Bring It (NTSC) |[612ED854](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20316_612ED854.pnach)|Widescreen hack by GTAZAZO98|
 |SLES-53653|WWII - Battle Over Europe (E)|[83C2D4D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53653_83C2D4D1.pnach)|Widescreen hack by Arapapa|
 |SLES-52954|WWII - Tank Battles (E)|[511447B7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52954_511447B7.pnach)|Widescreen hack by Arapapa|
 |SLPS-20023|X Fire [NTSC-J] |[8AE499F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20023_8AE499F2.pnach)|Widescreen Hack|
