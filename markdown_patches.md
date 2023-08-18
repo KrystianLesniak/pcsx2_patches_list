@@ -1735,6 +1735,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20045|Legend of Alon Dar |[64F425AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20045_64F425AF.pnach)|Widescreen Hack|
 |SLUS-21248|Legend of Kay |[F4807B40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21248_F4807B40.pnach)|Widescreen hack by No.47|
 |SLES-52931|Legend of Kay (PAL-M5) |[54D68884](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52931_54D68884.pnach)|Widescreen hack by ElHecht|
+|SLES-54359|Legend of Spyro, The - A New Beginning |[0EE5646B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54359_0EE5646B.pnach)|Patches the game to run at 50 FPS.|
+|SLUS-21372|Legend of Spyro, The - A New Beginning |[D03D4C77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21372_D03D4C77.pnach)|Patches the game to run at 60 FPS.|
+|SLES-54815|Legend of Spyro, The - The Eternal Night |[8AE9536D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54815_8AE9536D.pnach)|Patches the game to run at 50 FPS.|
+|SLUS-21607|Legend of Spyro, The - The Eternal Night |[B80CE8EC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21607_B80CE8EC.pnach)|Patches the game to run at 60 FPS.|
 |SLES-50107|Legends of Wrestling (E)|[13516983](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50107_13516983.pnach)|Widescreen hack by Arapapa|
 |SLPM-64514|Legends of Wrestling (K)|[55AB5FA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64514_55AB5FA6.pnach)|Widescreen hack by Arapapa|
 |SLUS-20242|Legends of Wrestling (U)|[4876A0E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20242_4876A0E7.pnach)|Widescreen hack by Arapapa|
@@ -1775,6 +1779,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52693|LMA Manager 2005 (E)|[C5EBD545](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52693_C5EBD545.pnach)|Widescreen hack by Arapapa|
 |SLES-53471|LMA Manager 2006 (E)|[04246737](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53471_04246737.pnach)|Widescreen hack by Arapapa|
 |SLES-54225|LMA Manager 2007 (E)|[1F2269B6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54225_1F2269B6.pnach)|Widescreen hack by Arapapa|
+|SLES-51794|Looney Tunes - Back in Action |[26F6F521](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51794_26F6F521.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 50 FPS (Might need 180% EE Overclock to be stable).|
+|SLUS-20853|Looney Tunes - Back in Action |[0BB7AE9B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20853_0BB7AE9B.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS (Might need 180% EE Overclock to be stable).|
 |SLES-50487|Looney Tunes - Space Race (E)|[5E641834](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50487_5E641834.pnach)|Widescreen hack<br />Patches the game to run at 50/60 FPS (Might need 130% EE Overclock to be stable).|
 |SLUS-20352|Looney Tunes - Space Race (U)|[614F7928](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20352_614F7928.pnach)|Widescreen hack<br />Patches the game to run at 60 FPS (Might need 130% EE Overclock to be stable).|
 |SLUS-20578|Lord of Rings: The Two Towers |[C818BEC2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20578_C818BEC2.pnach)|Widescreen Hack|
@@ -2962,7 +2968,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65205|Spider-Man - The Movie (J)|[359EA298](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65205_359EA298.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20336|Spider-Man - The Movie (U)|[015CB6F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20336_015CB6F4.pnach)|Widescreen Hack by Arapapa|
 |SLPM-65662|Spider-Man 2 (J)|[078D39E3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65662_078D39E3.pnach)|Widescreen fix by flameofrecca (NTSC-J by Arapapa)|
-|SLUS-20776|Spider-Man 2 (NTSC-U) |[E2DFCE12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20776_E2DFCE12.pnach)|Widescreen fix by flameofrecca<br />Patches the game to run at 60 FPS.|
+|SLUS-20776|Spider-Man 2 (NTSC-U) |[E2DFCE12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20776_E2DFCE12.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original pnach by flameofrecca; new zoom value, gauge_hero, some map and the unused boss hud codes found by CRASHARKI)<br />Patches the game to run at 60 FPS (Might need 130% EE Overclock to be stable on heavy scenes).|
+|SLES-52372|Spider-Man 2 (PAL) |[6B68932C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52372_6B68932C.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original NTSC-U pnach by flameofrecca; new zoom value, gauge_hero, some map and the unused boss hud codes found by CRASHARKI)<br />Patches the game to run at 50 FPS (Might need 130% EE Overclock to be stable on heavy scenes).|
 |SLUS-21552|Spider-Man 3 |[29873A0C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21552_29873A0C.pnach)|Widescreen Hack|
 |SLKA-25385|Spider-Man 3 (K)|[B35F8AAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25385_B35F8AAE.pnach)|Widescreen hack by Arapapa|
 |SLUS-21600|Spider-Man: Friend or Foe (NTSC-U)|[F52477F7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21600_F52477F7.pnach)|Widescreen Hack|
