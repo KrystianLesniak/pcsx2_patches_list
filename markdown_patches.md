@@ -27,6 +27,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21016|25 to Life  (U)|[C1B141D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21016_C1B141D6.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20214|3D Kakutou Tsukuru 2 [NTSC-J] (PBPX-95201)|[F7D86DD0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20214_F7D86DD0.pnach)|Widescreen hack by Little Giant|
 |PBPX-95201|3D Kakutou Tsukuru 2 [NTSC-J] (SLPS-20214)|[F7D86DD0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_F7D86DD0.pnach)|Widescreen hack by Little Giant|
+|SLES-53147|4 Fantásticos, Los [PAL-S]  F67E4351|[F67E4351](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53147_F67E4351.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-53734|50 Cent - Bulletproof (E)|[E3F32982](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53734_E3F32982.pnach)|Widescreen hack by Arapapa and 60 FPS by asasega|
 |SLUS-21315|50 Cent - Bulletproof (U)|[E24FC804](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21315_E24FC804.pnach)|Widescreen hack by Arapapa and 60 FPS by asasega<br />Forces the game to run at 60.|
 |SLPM-65008|7 Blades (J)|[C4DD197F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65008_C4DD197F.pnach)|Widescreen hack by Arapapa|
@@ -694,6 +695,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65590|Densha de Go! Final (J)|[F93AB3D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65590_F93AB3D0.pnach)|Widescreen Hack by Arapapa|
 |SLES-55625|Despicable Me - The Game (E)|[5ED15549](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55625_5ED15549.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21933|Despicable Me - The Game (U)|[4106DBA1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21933_4106DBA1.pnach)|Widescreen Hack by Arapapa|
+|SLES-54384|Destroy All Humans 2 - Make War not Love [PAL-M]  743E10C2|[743E10C2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54384_743E10C2.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20855|Destruction Derby Arenas |[82162759](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20855_82162759.pnach)|Widescreen Hack|
 |SCES-50781|Destruction Derby Arenas [PAL] |[83A82EA1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50781_83A82EA1.pnach)|Widescreen hack by El_Patas|
 |SLPS-25426|Detective Conan - Inheritance of Britain (NTSC-J)|[BFFC4507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25426_BFFC4507.pnach)|Widescreen Hack by Arapapa|
@@ -746,7 +748,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55499|Disney G-Force [PAL-M]  AB761209|[AB761209](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55499_AB761209.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-55398|Disney High School Musical 3 - Senior Year Dance! (E)|[8ED1E558](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55398_8ED1E558.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20659|Disney Presents Piglet's Big Game (U)|[004B2E96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20659_004B2E96.pnach)|Widescreen Hack by Arapapa|
-|SLES-54837|Disney Princess - Enchanted Journey (E)|[5F30B426](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54837_5F30B426.pnach)|Widescreen Hack by Arapapa|
+|SLES-54837|Disney Princess - Enchanted Journey (E)|[5F30B426](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54837_5F30B426.pnach)|Widescreen Hack by Arapapa<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21660|Disney Princess - Enchanted Journey (U)|[56790A28](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21660_56790A28.pnach)|Widescreen Hack by Arapapa|
 |SLPM-66902|Disney Princess - Mahou no Sekai e (J)|[38D6ED88](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66902_38D6ED88.pnach)|Widescreen Hack by Arapapa|
 |SCES-50966|Disney Stitch: Experiment 626 [PAL-M2] [Eng-Sve] |[5B1DC04C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50966_5B1DC04C.pnach)|Widescreen hack by Arapapa|
@@ -818,6 +820,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65555|Dragon Quest V - Tenkuu no Hanayome [NTSC-J] |[09C5BB8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65555_09C5BB8F.pnach)|Widescreen hack by kerostar (English patch)|
 |SLPM-65555|Dragon Quest V - Tenkuu no Hanayome [NTSC-J] |[72FBD360](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65555_72FBD360.pnach)|Widescreen hack by kerostar (English patch)|
 |SLPM-65555|Dragon Quest V - Tenkuu no Hanayome [NTSC-J] |[B64E9939](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65555_B64E9939.pnach)|Widescreen hack by kerostar (Font fix by Arapapa)|
+|SLES-53974|Dragon Quest VIII [PAL-M]  945FBF31|[945FBF31](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53974_945FBF31.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-50630|Dragon Rage (PAL-E) |[F035261E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50630_F035261E.pnach)|Widescreen hack by dieSkaarj|
 |SLUS-20195|Dragon Rage (U)|[37878C77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20195_37878C77.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20195|Dragon Rage [NTSC-U] |[37878C74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20195_37878C74.pnach)|Widescreen Hack by El_Patas|
@@ -858,9 +861,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54771|DreamWorks Shrek the Third (E)|[6DD4EB8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54771_6DD4EB8D.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21454|DreamWorks Shrek the Third (U)|[90A9963E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21454_90A9963E.pnach)|Widescreen Hack by Arapapa|
 |SLPM-65246|Drift Racer - Kaido Battle [NTSC-J] |[0AD22FB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_0AD22FB5.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
+|SLES-52153|Driv3r [PAL-M]  E94FBF35|[E94FBF35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52153_E94FBF35.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21109|Drive To Survive (U)|[0520A26D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21109_0520A26D.pnach)|Widescreen Hack by Arapapa|
 |SLES-50390|Driven (E)|[250353F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50390_250353F1.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20239|Driven (U)|[EAB0862D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20239_EAB0862D.pnach)|Widescreen Hack by Arapapa|
+|SLES-53556|Driver - Parallel Lines [PAL-M]  D720770D|[D720770D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53556_D720770D.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLPS-20007|Driving Emotion Type-S (J)|[034836F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20007_034836F8.pnach)|Widescreen Hack by Arapapa|
 |SLES-50073|Driving Emotion Type-S (PAL)|[8398DAF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50073_8398DAF3.pnach)|Widescreen patch by FlatOut|
 |SLUS-20113|Driving Emotion Type-S NTSC-U |[1FCC0CFB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20113_1FCC0CFB.pnach)|Driving Emotion Type-S NTSC-U (SLUS-20113) Widescreen Hack by VIRGIN KLM<br />Attempts to disable interlaced offset rendering.|
@@ -993,6 +998,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20042|F1 Racing Championship (J)|[32F1FA12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20042_32F1FA12.pnach)|Widescreen Hack by Arapapa|
 |SLES-53539|Fahrenheit |[8F96D103](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53539_8F96D103.pnach)|Widescreen Hack|
 |SLPM-66193|Fahrenheit (NTSC-J)|[25064744](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66193_25064744.pnach)|Widescreen patch (NTSC-J by Arapapa)|
+|SLES-53540|Fahrenheit (PAL-M)  8191D10A|[8191D10A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53540_8191D10A.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21734|Falling Stars (U)|[0C6E5A80](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21734_0C6E5A80.pnach)|Widescreen hack by Arapapa|
 |SLPM-65915|Fallout - Brotherhood of Steel (J)|[E518FD91](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65915_E518FD91.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20539|Fallout - Brotherhood of Steel (U)|[6E9D2844](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20539_6E9D2844.pnach)|Widescreen Hack by Arapapa|
@@ -1159,7 +1165,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21749|Garfield - Garfield World Tour (NTSC-U)|[5C241958](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21749_5C241958.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-54817|Garfield - Lasangna World Tour (E)|[98317385](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54817_98317385.pnach)|Widescreen Hack by El_Patas|
 |SLPM-62733|Garfield - Saving Arlene (J)|[AECEA18C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62733_AECEA18C.pnach)|Widescreen Hack by Arapapa|
-|SLES-53587|Garfield - Saving Arlene (PAL)|[C124F105](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53587_C124F105.pnach)|Widescreen Hack by Arapapa|
+|SLES-53587|Garfield - Saving Arlene (PAL)|[C124F105](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53587_C124F105.pnach)|Widescreen Hack by Arapapa<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-52843|Garfield (E)|[F8F8CD47](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52843_F8F8CD47.pnach)|Widescreen hack  by Arapapa|
 |SLES-54172|Garfield 2 (E)|[627B8252](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54172_627B8252.pnach)|Widescreen hack by Arapapa|
 |SLES-55043|Garfield: Lasagna World Tour [PAL-M2-Fre-Neth] |[F3290234](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55043_F3290234.pnach)|Widescreen Hack by El_Patas|
@@ -1182,6 +1188,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21668|George of the Jungle and the Search for the Secret (U)|[028AAFC8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21668_028AAFC8.pnach)|Widescreen hack by Arapapa|
 |SLES-55529|Germany's Next Topmodel (PAL)|[6D666080](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55529_6D666080.pnach)|Widescreen hack  by Arapapa|
 |SLPM-65949|Get Ride! AMDriver: Soukoku no Shinjitsu [NTSC-J] |[805627AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65949_805627AB.pnach)|Widescreen hack by El_Patas|
+|SCES-52758|Getaway Black Monday [PAL-M]  09C3DF79|[09C3DF79](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52758_09C3DF79.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SCES-51159|Getaway, The [PAL-M]  458485EF|[458485EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51159_458485EF.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLPM-62276|GetBackers Dakkanya - Dakkandayo! Zenin Shuugou!! (J)|[DF0DD9E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62276_DF0DD9E7.pnach)|Widescreen hack  by Arapapa|
 |SLPM-62186|GetBackers Dakkanya - Ubawareta Mugenjou (J)|[B5622E87](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62186_B5622E87.pnach)|Widescreen hack  by Arapapa|
@@ -1236,7 +1243,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20712|Gradius V (U)|[CDA95971](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20712_CDA95971.pnach)|Widescreen hack by Arapapa|
 |SLUS-21136|Graffiti Kingdom (NTSC-U)|[EF5B6AAD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21136_EF5B6AAD.pnach)|Widescreen Hack by Arapapa|
 |PAPX-90203|Gran Turismo 2000 |[55CE5111](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PAPX-90203_55CE5111.pnach)|Attempts to disable interlaced offset rendering.|
-|SCES-51719|Gran Turismo 4  (E)|[44A61C8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51719_44A61C8F.pnach)|Widescreen Text|
+|SCES-51719|Gran Turismo 4  (E)|[44A61C8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51719_44A61C8F.pnach)|Widescreen Text<br />Enable progressive scan mode in race|
 |SCUS-97328|Gran Turismo 4  (U)|[77E61C8A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97328_77E61C8A.pnach)|Widescreen Text|
 |SCUS-97436|Gran Turismo 4 Online Public Beta  (U)|[32A1C752](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97436_32A1C752.pnach)|Widescreen Text|
 |SCUS-97483|Gran Turismo 4: Mazda MX-5 Edition  (USA)|[2A84A1E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97483_2A84A1E2.pnach)|Autoboot in 480p|
@@ -1287,6 +1294,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-62258|GTC Africa (J)|[8AC3F5D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62258_8AC3F5D6.pnach)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|
 |SLES-50472|GTC Africa (PAL-M5) |[51D8A6A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50472_51D8A6A9.pnach)|Widescreen hack by ElHecht|
 |SLUS-21224|Guitar Hero (U)|[B815F724](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21224_B815F724.pnach)|Widescreen Hack by Arapapa|
+|SLES-53523|Gun [PAL-M]  98D7BF5E|[98D7BF5E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53523_98D7BF5E.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLPM-65059|Gun Survivor 2 - BioHazard Code - Veronica (with GunCon2) [NTSC-J] |[35FB8EE2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65059_35FB8EE2.pnach)|Widescreen hack by ElHecht (pnach by Little Giant)|
 |SLKA-25038|Gun Survivor 4 - Biohazard - Heroes Never Die (K)|[A8D433AD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25038_A8D433AD.pnach)|Widescreen hack by Little Giant (NTSC-K by Arapapa)|
 |SLPM-65245|Gun Survivor 4 - BioHazard - Heroes Never Die [NTSC-J] |[301A78F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65245_301A78F2.pnach)|Widescreen hack by Little Giant|
@@ -1381,7 +1389,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53029|Hitman - Blood Money (PAL-F) |[72DC82B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53029_72DC82B5.pnach)|Widescreen hack by ElHecht|
 |SLES-53030|Hitman - Blood Money (PAL-G) |[72DC82B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53030_72DC82B5.pnach)|Widescreen hack by ElHecht|
 |SLES-53031|Hitman - Blood Money (PAL-I) |[72DC82B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53031_72DC82B5.pnach)|Widescreen hack by ElHecht|
-|SLES-53032|Hitman - Blood Money (PAL-S) |[72DC82B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53032_72DC82B5.pnach)|Widescreen hack by ElHecht|
+|SLES-53032|Hitman - Blood Money (PAL-S) |[72DC82B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53032_72DC82B5.pnach)|Widescreen hack by ElHecht<br />Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20882|Hitman - Contracts (, SLES_52135)|[3569E863](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20882_3569E863.pnach)|Widescreen hack by ElHecht|
 |SLKA-25218|Hitman - Contracts (K)|[A7B09415](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25218_A7B09415.pnach)|Widescreen hack by ElHecht (NTSC-K by Arapapa)|
 |SLPS-25406|Hitman - Contracts(J)|[7A12A6B0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25406_7A12A6B0.pnach)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|
@@ -1542,6 +1550,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50619|Jonny Moseley Mad Trix (E)|[9C11C258](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50619_9C11C258.pnach)|Widescreen Hack by Arapapa|
 |SLES-50620|Jonny Moseley Mad Trix (E)|[9817C177](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50620_9817C177.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20229|Jonny Moseley Mad Trix (U)|[AE94FAF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20229_AE94FAF8.pnach)|Widescreen Hack by Arapapa|
+|SLES-51649|Judge Dredd - Dredd vs. Death [PAL-M]  6E900957|[6E900957](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51649_6E900957.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-55129|Jumper - Griffin's Story (E)|[08944D35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55129_08944D35.pnach)|Widescreen hack  by Arapapa|
 |SLUS-21730|Jumper - Griffin's Story (U)|[E164CB28](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21730_E164CB28.pnach)|Widescreen hack  by Arapapa|
 |SLUS-21907|Jurassic - The Hunted (U)|[EFE4448F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21907_EFE4448F.pnach)|Widescreen hack by Arapapa|
@@ -1662,13 +1671,14 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25105|Kingdom Hearts (NTSC-J) |[DB557147](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25105_DB557147.pnach)|Widescreen patch by nemesis2000 (pnach by nemesis2000 )|
 |SCES-50968|Kingdom Hearts (PAL-F) |[F6DC728D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50968_F6DC728D.pnach)|Widescreen hack by ElHecht - Port PAL-FR by PuNkY_BoY|
 |SCES-50969|Kingdom Hearts (PAL-G) |[AE3EAA05](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50969_AE3EAA05.pnach)|Widescreen hack by ElHecht|
-|SCES-50971|Kingdom Hearts (PAL-UK) |[09F5F39A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50971_09F5F39A.pnach)|Widescreen hack by ElHecht - Port PAL-UK|
+|SCES-50971|Kingdom Hearts (PAL-UK) |[09F5F39A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50971_09F5F39A.pnach)|Widescreen hack by ElHecht - Port PAL-UK<br />Gameplay at 50 fps, Gumi ship and scenes at 25 fps. Might need enable EE Overclock to be stable.|
 |SCES-50967|Kingdom Hearts (PAL)|[F52FB2BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50967_F52FB2BE.pnach)|Widescreen patch<br />Forces the game to run at 60.|
 |SLPM-66675|Kingdom Hearts 2 Final Mix + (NTSC-J) (SLPM 666 75)|[F266B00B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66675_F266B00B.pnach)|Kingdom Hearts 2 Final Mix + (NTSC-J)|
 |SLPM-66675|Kingdom Hearts 2 Final Mix + (NTSC-J) (SLPM 666 75)|[FAF99301](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66675_FAF99301.pnach)|Kingdom Hearts 2 Final Mix + (NTSC-J)<br />ENGLISH PATCH BY CRAZYCATZ00|
 |SLES-54232|Kingdom Hearts II  (France)|[C39FF377](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54232_C39FF377.pnach)|Widescreen Hack|
 |SLPM-66233|Kingdom Hearts II (J)  |[93F8A60B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66233_93F8A60B.pnach)|Widescreen patch (pnach NTSC-J by Arapapa)|
 |SLES-54114|Kingdom Hearts II (PAL-G) (SLES-54233)|[C398F477](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54114_C398F477.pnach)|Widescreen hack by ElHecht|
+|SLES-54235|Kingdom Hearts II (PAL-S)  C398F477|[C398F477](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54235_C398F477.pnach)|Widescreen hack by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.<br />Disable subtitles during scenes|
 |SLUS-21005|Kingdom Hearts II NTSC-U|[DA0535FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21005_DA0535FD.pnach)|KH2 - NTSC-U<br />Forces the game to run at 60.|
 |SLPM-66676|Kingdom Hearts Re - Chain of Memories (Ultimate Hits) [NTSC-J] |[7B23BFF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66676_7B23BFF5.pnach)|Widescreen correction by nemesis2000 (pnach by Little Giant)<br />Forces the game to run at 60.|
 |SLPS-25198|Kingdom Hearts: Final Mix|[3E68955A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25198_3E68955A.pnach)|Widescreen patch|
@@ -1938,7 +1948,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66221|Metal Gear Solid 3 - Subsistence [First Print Limited Edition] [Disc2of3] (J)|[3406B985](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66221_3406B985.pnach)|Widescreen Hack by Arapapa|
 |SLKA-25354|Metal Gear Solid 3 - Subsistence [Limited Edition] [Disc2of3] (K)|[3EBABC9C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25354_3EBABC9C.pnach)|Widescreen Hack by Arapapa|
 |SLPM-65790|Metal Gear Solid 3 Snake Eater (NTSC-J) |[0481AD8A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65790_0481AD8A.pnach)|NTSC-J Widescreen Hack by synce|
-|SLES-82048|Metal Gear Solid 3: Subsistence [PAL-Spain] |[8A5C25A7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82048_8A5C25A7.pnach)|Widescreen hack by El_Patas|
+|SLES-82048|Metal Gear Solid 3: Subsistence [PAL-Spain]  (Disc 1 of 3)|[8A5C25A7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82048_8A5C25A7.pnach)|Widescreen hack by El_Patas<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21293|Metal saga |[269F5DF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21293_269F5DF5.pnach)|Widescreen hack|
 |SLPM-65868|Metal Saga: Sajin no Kusari [NTSC-J] |[0C4DA2CF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65868_0C4DA2CF.pnach)|Widescreen hack by Little Giant|
 |SLPS-25650|Metal Slug |[7D8D8BFA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25650_7D8D8BFA.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
@@ -2148,7 +2158,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50731|Need for Speed - Hot Pursuit 2 (PAL-M6) |[1D2818AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50731_1D2818AF.pnach)|Widescreen Hack by nemesis2000/pnach by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-55003|Need for Speed - ProStreet (PAL-M2) |[EA8DC584](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55003_EA8DC584.pnach)|Widescreen Hack by ElHecht|
 |SLKA-25136|Need for Speed - Underground (K)|[C5D0EBD2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25136_C5D0EBD2.pnach)|Widescreen hack by nemesis2000 (NTSC-Kby Arapapa)|
-|SLES-51967|Need for Speed - Underground (PAL-M7) |[FDA10318](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51967_FDA10318.pnach)|Widescreen Hack|
+|SLES-51967|Need for Speed - Underground (PAL-M7) |[FDA10318](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51967_FDA10318.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
+|SLES-52725|Need for Speed - Underground 2 (PAL-M)  CFB873AD|[CFB873AD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52725_CFB873AD.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLPM-65614|Need for Speed - Underground J-Tune (EA Best Hits) [NTSC-J] |[6130F707](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65614_6130F707.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-21658|Need for Speed ProStreet  (U)|[DD3CE71B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21658_DD3CE71B.pnach)|Widescreen Mode (16:9)|
 |SLUS-20811|Need for Speed Underground |[CB99CD12](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20811_CB99CD12.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Patches the game to run at 60 FPS.|
@@ -2199,7 +2210,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52737|ObsCure [PAL-Eng] |[CBC9B452](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52737_CBC9B452.pnach)|Widescreen Hack|
 |SLES-52738|ObsCure [PAL-F-I] |[860CC8F9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52738_860CC8F9.pnach)|Widescreen Hack by Bigdemon|
 |SCKA-20114|Obscure II |[9891B945](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20114_9891B945.pnach)|Widescreen hack by nemesis2000 and ElHecht (NTSC-K by Arapapa)|
-|SLES-54782|ObsCure II (PAL-M5) |[FC4AC115](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54782_FC4AC115.pnach)|Widescreen hack by ElHecht|
+|SLES-54782|ObsCure II (PAL-M5) |[FC4AC115](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54782_FC4AC115.pnach)|Widescreen hack by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21709|Obscure: The Aftermath  |[408DFB9C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21709_408DFB9C.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-55110|Odin Sphere (E)|[35F3A1D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55110_35F3A1D9.pnach)|Widescreen hack by Arapapa|
 |SLPM-66474|Odin Sphere (J)|[731B4557](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66474_731B4557.pnach)|Widescreen hack by Arapapa|
@@ -2307,6 +2318,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52519|Pink Pong [PAL] |[46D15FAC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52519_46D15FAC.pnach)|Widescreen Hack by El_Patas|
 |SLUS-21478|Pirates - Legend of the Black Buccaneer (U)|[741E27AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21478_741E27AB.pnach)|Widescreen hack by Arapapa|
 |SLUS-21110|Pirates of The Caribbean - The Legend of Jack Sparrow NTSC-U |[632E3976](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21110_632E3976.pnach)|Widescreen Hack|
+|SLES-51690|Pitfall - The Lost Expedition (PAL-S)  D8A68BBA|[D8A68BBA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51690_D8A68BBA.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20408|Pitfall - The Lost Expedition (U)|[394F402E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20408_394F402E.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25854|Poison Pink (J) |[F7786EE4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25854_F7786EE4.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20989|Polar Express, The (U)|[4AC5A94B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20989_4AC5A94B.pnach)|Widescreen hack by Arapapa|
@@ -2327,7 +2339,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65167|Pride FC - Fighting Championships (J)|[F87B9B78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65167_F87B9B78.pnach)|Widescreen hack by Arapapa|
 |SLKA-25059|Pride FC - Fighting Championships (K)|[3CA4D49](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25059_3CA4D49.pnach)|Widescreen hack by Arapapa|
 |SLPM-65416|Pride GP Grand Prix 2003 |[2EF6D82A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65416_2EF6D82A.pnach)|Widescreen hack|
-|SLES-51918|Prince of Persia - The Sands of Time (PAL-M5) |[4B58A7A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51918_4B58A7A8.pnach)|Widescreen Hack by ElHecht|
+|SLES-51918|Prince of Persia - The Sands of Time (PAL-M5) |[4B58A7A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51918_4B58A7A8.pnach)|Widescreen Hack by ElHecht<br />Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-53777|Prince of Persia - The Two Thrones (PAL-M5) |[6FC40BAA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53777_6FC40BAA.pnach)|Widescreen Hack by ElHecht<br />Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-52822|Prince of Persia - Warrior Within (PAL-M6) |[105CC366](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52822_105CC366.pnach)|Widescreen Hack by ElHecht<br />Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLKA-25120|Prince Of Persia : The Sands Of Time |[41C47E63](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25120_41C47E63.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
@@ -2438,6 +2450,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53413|Rebel Raiders - Operation Nighthawk (E)|[05855832](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53413_05855832.pnach)|Widescreen hack by Arapapa|
 |SLUS-21303|Rebel Raiders - Operation Nighthawk (U)|[5B048038](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21303_5B048038.pnach)|Widescreen hack by Arapapa|
 |SLUS-20500|Red Dead Revolver  Blur orPost-Processing removal (V1.03)|[E169BAF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20500_E169BAF8.pnach)|Blur or Post-Processing removal ported from Aggressive CRC|
+|SLES-52478|Red Dead Revolver [PAL-M]  E2E67E23|[E2E67E23](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52478_E2E67E23.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20073|Red Faction (NTSC-U) |[FBF28175](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20073_FBF28175.pnach)|Widescreen hack by ElHecht|
 |SLES-50278|Red Faction (PAL-F) |[A7E712FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50278_A7E712FD.pnach)|Widescreen hack by Bigdemon|
 |SLES-50279|Red Faction (PAL-G) |[8DC64680](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50279_8DC64680.pnach)|Widescreen hack by ElHecht|
@@ -2638,7 +2651,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21009|Sega Classics Collection (NTSC-U)  [497DBC3C]|[497DBC3C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21009_497DBC3C.pnach)|Widescreen hacks by...<br />-No.47 (NTSC-J Alien Syndrome/Virtua Racing)<br />-sergx12 (NTSC-J Out Run)<br />-FeRcHuLeS (original Golden Axe/Space Harrier hacks)<br />-Devina (NTSC-U ports of NTSC-J hacks)<br />-Aced14 (enable conditions, Golden Axe/Space Harrier ELF hacks)|
 |SLKA-25362|Sega Rally 2006 (K)|[C8B06625](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25362_C8B06625.pnach)|Widescreen Hack by VIRGIN KLM|
 |SLPM-66212|Sega Rally 2006 (NTSC-J )|[B26172F0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66212_B26172F0.pnach)|Sega Rally 2006 (NTSC-J SLPM-66212) Widescreen Hack by VIRGIN KLM<br />Attempts to disable interlaced offset rendering.|
-|SLPM-62703|Sega Rally Championship (NTSC-J)  [4888BD62]|[4888BD62](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62703_4888BD62.pnach)|Widescreen hacks by No.47 (original codes) and Aced14 (leftover ELF hacks and car select additions)|
+|SLPM-62703|Sega Rally Championship (NTSC-J)  [4888BD62]|[4888BD62](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62703_4888BD62.pnach)|Widescreen hacks by No.47 (original codes) and Aced14 (leftover ELF hacks and car select additions)<br />Autoenable progressive scan mode|
 |SLKA-15059|Sega Rally Championship (NTSC-K)|[5980BD69](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-15059_5980BD69.pnach)|Widescreen hacks by No.47 (original codes) and Aced14 (leftover ELF hacks and car select additions)|
 |SLES-51125|Sega Soccer Slam (E)|[9DD290E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51125_9DD290E2.pnach)|Widescreen hack by Arapapa|
 |SLUS-20509|Sega Soccer Slam (U)|[F9DCF583](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20509_F9DCF583.pnach)|Widescreen hack by Arapapa|
@@ -2896,15 +2909,15 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55152|Skyscraper (E)|[EAEEC017](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55152_EAEEC017.pnach)|Widescreen Hack by Arapapa|
 |SLES-50776|Slam Tennis (E)|[43CC009B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50776_43CC009B.pnach)|Widescreen Hack by Arapapa|
 |SCUS-97316|Sly 2 - Band of Thieves |[07652DD9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97316_07652DD9.pnach)|Widescreen Fix by PsxFan107<br />No Interlacing & No Motion Blur|
-|SCES-52529|Sly 2 - Band of Thieves (PAL-M11) |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_FDA1CBF6.pnach)|Widescreen hack by ElHecht|
+|SCES-52529|Sly 2 - Band of Thieves (PAL-M11) |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_FDA1CBF6.pnach)|Widescreen hack by ElHecht<br />No Motion Blur by Meos|
 |SCUS-97316|Sly 2 - Band of Thieves (PAL-M11) |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97316_FDA1CBF6.pnach)|Widescreen hack by ElHecht|
-|SCES-53409|Sly 3 - Honour Among Thieves |[8164C614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53409_8164C614.pnach)|Widescreen Hack|
+|SCES-53409|Sly 3 - Honour Among Thieves |[8164C614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53409_8164C614.pnach)|Widescreen Hack<br />No Motion Blur by Meos|
 |SCUS-97464|Sly 3 - Honour Among Thieves NTSC-U|[8BC95883](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97464_8BC95883.pnach)|Widescreen Hack<br />No Interlacing & No Motion Blur|
 |SCUS-97198|Sly Cooper (NTSC) |[C77AF2CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97198_C77AF2CA.pnach)|No Interlacing & No Motion Blur<br />Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SCKA-20044|Sly Cooper 2 - Band of Thieves |[518DD841](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20044_518DD841.pnach)|Widescreen Fix by PsxFan107 (NTSC-K by Arapapa)|
 |SCKA-20063|Sly Cooper 3 - Honour Among Thieves (K)|[A8CC1583](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20063_A8CC1583.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
 |SCKA-20004|Sly Cooper and the Thievius Raccoonus (K)|[71017DE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20004_71017DE1.pnach)|Widescreen hack (NTSC-K by Arapapa)|
-|SCES-50917|Sly Raccoon (PAL-M5) |[DA3DD765](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50917_DA3DD765.pnach)|Widescreen hack by ElHecht|
+|SCES-50917|Sly Raccoon (PAL-M5) |[DA3DD765](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50917_DA3DD765.pnach)|Widescreen hack by ElHecht<br />No Motion Blur by Meos|
 |SLES-53940|Smarties - Meltdown (E)|[B112BD24](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53940_B112BD24.pnach)|Widescreen Hack by Arapapa|
 |SLES-50810|Smash Court Tennis - Pro Tournament (E)|[257F96FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50810_257F96FD.pnach)|Widescreen Hack by Arapapa|
 |SCPS-56009|Smash Court Tennis - Pro Tournament (K)|[2B0D3251](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56009_2B0D3251.pnach)|Widescreen Hack by Arapapa|
@@ -2945,7 +2958,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53560|Sonic Riders (PAL-M5) |[F881CD68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53560_F881CD68.pnach)|Widescreen hack by ElHecht|
 |SLUS-21642|Sonic Riders Zero Gravity (NTSC-U)|[D04516EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21642_D04516EE.pnach)|Widescreen hack by JLB|
 |SLUS-21846|Sonic Unleashed |[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)|Widescreen Patch (16:9) by Monsterjamp|
-|SLES-55380|Sonic Unleashed (PAL-M5) |[8C913264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55380_8C913264.pnach)|Widescreen hack by ElHecht|
+|SLES-55380|Sonic Unleashed (PAL-M5) |[8C913264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55380_8C913264.pnach)|Widescreen hack by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLPS-25008|Sorcerous Stabber Orphen [NTSC-J] |[126B585A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25008_126B585A.pnach)|Pnach by Little Giant|
 |SLES-51301|SOS: The Final Escape |[337BF959](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51301_337BF959.pnach)|Widescreen Hack|
 |SLPS-25827|Soukou Kihei Votoms (NTSC-J)|[50AE9E9E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25827_50AE9E9E.pnach)|Widescreen hack by Arapapa|
@@ -3031,11 +3044,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20420|Star Wars - Bounty Hunter |[A1030867](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20420_A1030867.pnach)|Widescreen Hack|
 |SLUS-21143|Star Wars - Episode III - Revenge of the Sith |[976EA156](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21143_976EA156.pnach)|Widescreen Hack|
 |SLES-53157|Star Wars - Episode III - Revenge of the Sith (PAL-G) |[9A03A3DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53157_9A03A3DB.pnach)|Widescreen hack by ElHecht|
-|SLES-53155|Star Wars - Episode III - Revenge of the Sith (PAL-M3) |[99AD19EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53155_99AD19EE.pnach)|Widescreen hack by ElHecht|
+|SLES-53155|Star Wars - Episode III - Revenge of the Sith (PAL-M3) |[99AD19EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53155_99AD19EE.pnach)|Widescreen hack by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20293|Star Wars - Jedi Starfighter |[82957819](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20293_82957819.pnach)|Widescreen Hack|
 |SLES-50371|Star Wars - Jedi Starfighter (E)|[979F5102](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50371_979F5102.pnach)|Widescreen Hack (PAL by Arapapa)|
 |SLPS-25147|Star Wars - Jedi Starfighter (J)|[1839BAC3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25147_1839BAC3.pnach)|Widescreen Hack (NTSC-J by Arapapa)|
 |SLPM-67543|Star Wars - Jedi Starfighter (K)|[F4D84B68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67543_F4D84B68.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
+|SLES-54659|Star Wars - The Force Unleashed [PAL-M]  DAF2145C|[DAF2145C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54659_DAF2145C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20898|Star Wars: Battlefront (NTSC-U)|[503BF9E1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20898_503BF9E1.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLUS-21240|Star Wars: Battlefront 2 (U)|[02F4B541](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21240_02F4B541.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
 |SLUS-20268|Star Wars: Racer Revenge [NTSC-U] |[A7F6E4C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20268_A7F6E4C8.pnach)|Widescreen Hack by El_Patas|
@@ -3427,6 +3441,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53076|Trigger Man (E)|[C92321FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53076_C92321FF.pnach)|Widescreen hack by Arapapa|
 |SLUS-20931|Trigger Man (U)|[8EE3D234](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20931_8EE3D234.pnach)|Widescreen hack by Arapapa|
 |SLPS-20062|Truck Kyousoukyoku - Ai to Kanashimi no Rodeo (J)|[79EAB070](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20062_79EAB070.pnach)|Widescreen Hack by Arapapa|
+|SLES-53618|True Crime - New York City [PAL-S]  B1AC3BEB. elf secondary B2D44C6C|[B1AC3BEB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53618_B1AC3BEB.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
+|SLES-53618|True Crime - New York City [PAL-S]  B1AC3BEB. elf secondary B2D44C6C|[B2D44C6C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53618_B2D44C6C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
+|SLES-51754|True Crime - Streets of L.A. [PAL-M]  6B9AEA0D. elf secondary 29E9D83C|[29E9D83C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51754_29E9D83C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
+|SLES-51754|True Crime - Streets of L.A. [PAL-M]  6B9AEA0D. elf secondary 29E9D83C|[6B9AEA0D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51754_6B9AEA0D.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20292|tsugunai|[9D57694E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20292_9D57694E.pnach)|Widescreen Hack|
 |SCPS-11007|Tsugunai (J)|[592FE581](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11007_592FE581.pnach)|Widescreen hack by Arapapa|
 |SLPM-65826|Tsukiyo ni Saraba |[A6BD0DA3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65826_A6BD0DA3.pnach)|Widescreen hack by sergx12 (NTSC-J by Arapapa)|
@@ -3694,6 +3712,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52624|X-Men Legends (PAL-E) |[69094734](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52624_69094734.pnach)|Widescreen Hack (16:9) by XxGaMiNGK3LLERxX|
 |SLES-52625|X-Men Legends (PAL-G) |[6900A74B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52625_6900A74B.pnach)|Widescreen hack by ElHecht|
 |SLUS-21138|X-Men Legends II - Rise of Apocalypse (NTSC-U)|[0E707DA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21138_0E707DA4.pnach)|Widescreen Hack by ElHecht (NTSC-U by Arapapa)|
+|SLES-53377|X-Men Legends II - Rise of Apocalypse (PAL-M)  912C8E55|[912C8E55](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53377_912C8E55.pnach)|Widescreen hack by ElHecht|
 |SLES-53374|X-Men Legends II - Rise of Apocalypse (PAL-M3) |[912C8E55](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53374_912C8E55.pnach)|Widescreen hack by ElHecht|
 |SLES-50031|X-Squad (E)|[E81BE74B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50031_E81BE74B.pnach)|Widescreen Hack (PAL by Arapapa)|
 |SLUS-20094|X-Squad [NTSC-U] |[238FFAAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20094_238FFAAE.pnach)|Widescreen Hack|
