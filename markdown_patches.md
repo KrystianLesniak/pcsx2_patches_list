@@ -3045,7 +3045,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21396|Star Trek - Encounters (U)|[E91EAFEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21396_E91EAFEE.pnach)|Widescreen hack by Arapapa|
 |SLUS-20227|Star Trek Voyager - Elite Force (U)|[9F70EE4F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20227_9F70EE4F.pnach)|Widescreen hack by Arapapa|
 |SLUS-20420|Star Wars - Bounty Hunter |[A1030867](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20420_A1030867.pnach)|Widescreen Hack|
-|SLUS-21143|Star Wars - Episode III - Revenge of the Sith |[976EA156](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21143_976EA156.pnach)|Widescreen Hack|
+|SLUS-21143|Star Wars - Episode III - Revenge of the Sith |[976EA156](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21143_976EA156.pnach)|Widescreen Hack<br />Patches the game to run at 60 FPS. 180% EE Overclock recommended.|
 |SLES-53157|Star Wars - Episode III - Revenge of the Sith (PAL-G) |[9A03A3DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53157_9A03A3DB.pnach)|Widescreen hack by ElHecht|
 |SLES-53155|Star Wars - Episode III - Revenge of the Sith (PAL-M3) |[99AD19EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53155_99AD19EE.pnach)|Widescreen hack by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20293|Star Wars - Jedi Starfighter |[82957819](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20293_82957819.pnach)|Widescreen Hack|
