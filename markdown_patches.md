@@ -3054,7 +3054,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-67543|Star Wars - Jedi Starfighter (K)|[F4D84B68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67543_F4D84B68.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
 |SLES-54659|Star Wars - The Force Unleashed [PAL-M]  DAF2145C|[DAF2145C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54659_DAF2145C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20898|Star Wars: Battlefront (NTSC-U)|[503BF9E1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20898_503BF9E1.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
-|SLUS-21240|Star Wars: Battlefront 2 (U)|[02F4B541](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21240_02F4B541.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
+|SLES-53501|Star Wars: Battlefront 2 (E)|[B68D35CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53501_B68D35CA.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
+|SLES-53503|Star Wars: Battlefront 2 (G)|[EAC52C47](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53503_EAC52C47.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
+|SLUS-21240|Star Wars: Battlefront 2 (U)|[62390B9E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21240_62390B9E.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
 |SLUS-20268|Star Wars: Racer Revenge [NTSC-U] |[A7F6E4C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20268_A7F6E4C8.pnach)|Widescreen Hack by El_Patas|
 |SLES-50366|Star Wars: Racer Revenge [PAL] |[BA248FC3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50366_BA248FC3.pnach)|Widescreen Hack by El_Patas|
 |SLES-51617|Starsky & Hutch (E)|[518398FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51617_518398FC.pnach)|Widescreen hack by Arapapa|
