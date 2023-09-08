@@ -861,7 +861,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21392|DreamWorks Shrek Smash n' Crash Racing (U)|[34B473E6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21392_34B473E6.pnach)|Widescreen Hack by Arapapa|
 |SLES-54771|DreamWorks Shrek the Third (E)|[6DD4EB8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54771_6DD4EB8D.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21454|DreamWorks Shrek the Third (U)|[90A9963E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21454_90A9963E.pnach)|Widescreen Hack by Arapapa|
-|SLPM-65246|Drift Racer - Kaido Battle [NTSC-J] |[0AD22FB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_0AD22FB5.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
+|SLPM-65246|Drift Racer - Kaido Battle [NTSC-J] |[0AD22FB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_0AD22FB5.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Attempts to disable interlaced offset rendering.|
 |SLES-52153|Driv3r [PAL-M]  E94FBF35|[E94FBF35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52153_E94FBF35.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21109|Drive To Survive (U)|[0520A26D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21109_0520A26D.pnach)|Widescreen Hack by Arapapa|
 |SLES-50390|Driven (E)|[250353F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50390_250353F1.pnach)|Widescreen Hack by Arapapa|
@@ -1578,11 +1578,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52179|Kaan - Barbarian's Blade (E)|[973793E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52179_973793E8.pnach)|Widescreen hack by Arapapa|
 |SLPS-25445|Kagero 2 - Dark Illusion (J)|[5FEE89E0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25445_5FEE89E0.pnach)|Widescreen hack by ElHecht (NTSC-J by Arapapa)<br />Attempts to disable interlaced offset rendering.|
 |SLPM-66022|Kaido - Touge no Densetsu [NTSC-J] |[EC33CA0D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66022_EC33CA0D.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Attempts to disable interlaced offset rendering.|
+|SLPM-65246|Kaido Battle - Nikko, Haruna, Rokko, Hakone [NTSC-J] |[2046216F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_2046216F.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Attempts to disable interlaced offset rendering.|
 |SLKA-25063|Kaido Battle (NTSC-K)|[E3795E39](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25063_E3795E39.pnach)|Widescreen pnach by Arapapa|
-|SLPM-65514|Kaido Battle 2 - Chain Reaction [NTSC-J] |[C37C1B76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65514_C37C1B76.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
+|SLPM-65514|Kaido Battle 2 - Chain Reaction [NTSC-J] |[C37C1B76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65514_C37C1B76.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Attempts to disable interlaced offset rendering.|
 |SLKA-25146|Kaido Battle 2 (NTSC-K)|[D285B3DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25146_D285B3DF.pnach)|Widescreen pnach by Arapapa|
-|SLES-53900|Kaido Racer 2 PAL |[C7993BCC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53900_C7993BCC.pnach)|Widescreen hack by El_Patas|
-|SLES-53191|Kaido Racer PAL |[F7780E06](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53191_F7780E06.pnach)|Widescreen hack by El_Patas|
+|SLES-53900|Kaido Racer 2 PAL |[C7993BCC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53900_C7993BCC.pnach)|Widescreen hack by El_Patas<br />Attempts to disable interlaced offset rendering.|
+|SLES-53191|Kaido Racer PAL |[F7780E06](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53191_F7780E06.pnach)|Widescreen hack by El_Patas<br />Attempts to disable interlaced offset rendering.|
 |SCPS-15090|Kaitou Sly Cooper 2 |[615EA2DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15090_615EA2DB.pnach)|Widescreen Fix by PsxFan107 (NTSC-J by Arapapa)|
 |SCPS-15036|Kaitou Sly Cooper(J)|[15C88C7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15036_15C88C7B.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLPS-25657|Kakutou Bijin Wulong [NTSC-J] |[4A4B623A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25657_4A4B623A.pnach)|Widescreen hack|
