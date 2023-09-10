@@ -1667,8 +1667,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-27565|King of Fighters - Maximum Impact Regulation A (J)|[645495B7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-27565_645495B7.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25448|King of Fighters '94, The - Re-Bout (Japan) (Special Genteiban) |[E74F7C39](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25448_E74F7C39.pnach)|autoboot question progressive mode by felixthecat1970|
 |SLKA-25394|King of Fighters, The - Maximum Impact 2 (K)|[13A41CA1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25394_13A41CA1.pnach)|Widescreen Hack by Arapapa|
-|SLES-50920|King's Field IV |[401F4726](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50920_401F4726.pnach)|Widescreen hack by pelvicthrustman|
-|SLPS-25057|King's Field IV (J)|[04C3765E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25057_04C3765E.pnach)|Widescreen hack by Arapapa|
+|SLES-50920|King's Field IV |[401F4726](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50920_401F4726.pnach)|Widescreen hack by pelvicthrustman<br />Disables scanmask usage to reduce blur when turning.|
+|SLPS-25057|King's Field IV (J)|[04C3765E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25057_04C3765E.pnach)|Widescreen hack by Arapapa<br />Disables scanmask usage to reduce blur when turning.|
 |SLUS-20370|Kingdom Hearts |[0F6B6315](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20370_0F6B6315.pnach)|Widescreen patch by nemesis2000 (pnach by nemesis2000 )|
 |SLPS-25105|Kingdom Hearts (NTSC-J) |[DB557147](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25105_DB557147.pnach)|Widescreen patch by nemesis2000 (pnach by nemesis2000 )|
 |SCES-50968|Kingdom Hearts (PAL-F) |[F6DC728D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50968_F6DC728D.pnach)|Widescreen hack by ElHecht - Port PAL-FR by PuNkY_BoY|
@@ -1688,7 +1688,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66676|Kingdom Hearts: Re:Chain of Memories |[A287DF74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66676_A287DF74.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />Forces the game to run at 60.|
 |SLUS-21799|Kingdom Hearts: Re:Chain of Memories |[A287DF74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21799_A287DF74.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />Forces the game to run at 60.|
 |SLKA-15006|Kinght Rider (K)|[741A5EA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-15006_741A5EA2.pnach)|Widescreen hack by ThirteenAG (NTSC-K by Arapapa)|
-|SLUS-20318|Kings Field: The Ancient City |[36E02E91](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20318_36E02E91.pnach)|Widescreen hack by pelvicthrustman<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20318|Kings Field: The Ancient City |[36E02E91](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20318_36E02E91.pnach)|Widescreen hack by pelvicthrustman<br />Attempts to disable interlaced offset rendering.<br />Disables scanmask usage to reduce blur when turning.|
 |SLPS-25166|Kinkou Myaku Tansa Simulation - Ingot 79 (J)|[0C786CEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25166_0C786CEF.pnach)|Widescreen hack by Arapapa|
 |SLPM-65048|Kinniku Banzuke - Muscle Wars 21 (J)|[FF6BA78B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65048_FF6BA78B.pnach)|Widescreen hack by Arapapa|
 |SLPS-20369|Kinnikuman Generations (J)|[823A7E69](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20369_823A7E69.pnach)|Widescreen hack by Arapapa|
@@ -2037,7 +2037,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-50034|Moto GP (E)|[E6C0751A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50034_E6C0751A.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20040|Moto GP (J)|[2E2BF306](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20040_2E2BF306.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20058|Moto GP (U)|[B9BD4B3B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20058_B9BD4B3B.pnach)|Widescreen Hack by Arapapa<br />Attempts to disable interlaced offset rendering.|
-|SLES-50409|Moto GP 2 (E)|[3242590D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50409_3242590D.pnach)|Widescreen Hack by Arapapa|
+|SCES-50409|Moto GP 2 (E)|[3242590D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50409_3242590D.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20285|Moto GP 2 (U)|[586EA828](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20285_586EA828.pnach)|Widescreen Hack by Arapapa<br />Attempts to disable interlaced offset rendering.|
 |SCES-50982|Moto GP 3 (E)|[EB518B9F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50982_EB518B9F.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25204|Moto GP 3 (J)|[38D93759](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25204_38D93759.pnach)|Widescreen Hack by Arapapa|
