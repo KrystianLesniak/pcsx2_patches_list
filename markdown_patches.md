@@ -2157,6 +2157,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97204|NCAA Final Four 2003 (U)|[B505A479](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97204_B505A479.pnach)|Widescreen hack by Arapapa|
 |SLPS-25314|Nebula - Echo Night (J)|[B6AA81EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25314_B6AA81EE.pnach)|Widescreen Hack by Arapapa|
 |SLES-50731|Need for Speed - Hot Pursuit 2 (PAL-M6) |[1D2818AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50731_1D2818AF.pnach)|Widescreen Hack by nemesis2000/pnach by ElHecht<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
+|SLUS-21351|Need for Speed - Most Wanted [Black Edition] [NTSC-U] |[0518D274](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21351_0518D274.pnach)|Disables the brownish yellow post processing filter|
 |SLES-53857|Need for Speed - Most Wanted [Black Edition] [PAL-M] |[805C3B3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53857_805C3B3A.pnach)|Disables the brownish yellow post processing filter|
 |SLUS-21267|Need for Speed - Most Wanted [NTSC-U] |[270F8C03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21267_270F8C03.pnach)|Disables the brownish yellow post processing filter|
 |SLES-53557|Need for Speed - Most Wanted [PAL-E] |[692CBA8E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53557_692CBA8E.pnach)|Disables the brownish yellow post processing filter|
