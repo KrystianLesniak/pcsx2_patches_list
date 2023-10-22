@@ -49,6 +49,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52956|Action Girlz Racing (E)|[5E82A640](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52956_5E82A640.pnach)|Widescreen hack by Arapapa|
 |SLES-52521|Adiboo and the Energy Thieves (E)|[C6D4771F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52521_C6D4771F.pnach)|Widescreen hack by Arapapa|
 |SLPM-65061|Adventure of Tokyo Disney Sea (J)|[9A409943](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65061_9A409943.pnach)|Widescreen hack by Arapapa|
+|SLUS-21205|Aeon Flux (NTSC-U)  9FA0A1B0|[9FA0A1B0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21205_9FA0A1B0.pnach)|Unlocked at 60 FPS. Might need enable 300% EE Overclock to be stable.|
+|SLES-54169|Aeon Flux (PAL-M)  761CABB3|[761CABB3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54169_761CABB3.pnach)|Unlocked at 50 FPS. Might need enable 300% EE Overclock to be stable.|
 |SLES-52368|AFL Live - Premiership Edition (E)|[4D3469CC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52368_4D3469CC.pnach)|Widescreen hack by Arapapa|
 |SLES-51168|AFL Live 2003 (E)|[D7A9DEF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51168_D7A9DEF6.pnach)|Widescreen hack by Arapapa|
 |SLES-51903|AFL Live 2004 - Aussie Rules Football (E)|[2287515F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51903_2287515F.pnach)|Widescreen hack by Arapapa|
@@ -80,6 +82,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50429|Alex Ferguson's Player Manager 2001 (E)|[E0CD9A1D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50429_E0CD9A1D.pnach)|Widescreen hack by Arapapa|
 |SLUS-20673|Alias (NTSC-U)|[E3ADDC73](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20673_E3ADDC73.pnach)|Widescreen Hack by Arapapa|
 |SLES-51821|Alias (Pal-M5)|[83466553](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51821_83466553.pnach)|Widescreen hack by ElHecht|
+|SLES-53139|Alien Hominid (PAL-M)  14274DC3|[14274DC3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53139_14274DC3.pnach)|Forces progressive scan mode 480p at startup|
 |SLPM-62500|Alien Syndrome |[67E7DE5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62500_67E7DE5C.pnach)|Widescreen hack by No.47|
 |SLES-55532|Aliens in the Attic (E)|[3AAD52A4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55532_3AAD52A4.pnach)|Widescreen hack by Arapapa|
 |SLES-51792|Aliens Versus Predator - Extinction |[64DA75B2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51792_64DA75B2.pnach)|Widescreen Hack|
@@ -189,6 +192,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20206|Army Men - RTS (U)|[49DC3D25](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20206_49DC3D25.pnach)|Widescreen Hack by Arapapa|
 |SLES-50192|Army Men - Sarge's Heroes 2 (PAL-Unk)|[F491BA82](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50192_F491BA82.pnach)|Widescreen Hack by El_Patas and Arapapa|
 |SLUS-20132|Army Men - Sarge's Heroes 2 (U)|[FB307F03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20132_FB307F03.pnach)|Widescreen Hack by Arapapa|
+|SLES-52587|Army Men - Sarge's War (PAL-M)  95CFD603|[95CFD603](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52587_95CFD603.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLUS-21831|Army Men - Soldiers of Misfortune (U)|[4BB40113](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21831_4BB40113.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21305|Arthur and the Invisibles: The Game [NTSC-U] |[8EBA521C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21305_8EBA521C.pnach)|Widescreen hack by Sergx12|
 |SLES-54420|Arthur and the Minimoys [PAL-M7] |[859AB297](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54420_859AB297.pnach)|Widescreen hack by El_Patas|
@@ -561,6 +565,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54615|Code of the Samurai (PAL-E) |[35F040CD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54615_35F040CD.pnach)|Widescreen hack by ElHecht|
 |SLUS-21155|Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E. (U)|[9AC20A5B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21155_9AC20A5B.pnach)|Widescreen Hack<br />Patches the game to run at 60 FPS.|
 |SLES-53812|Codename - Kids Next Door - Operation V.I.D.E.O.G.A.M.E. [PAL-M4] |[A38C6B77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53812_A38C6B77.pnach)|Widescreen Hack<br />Unlocked at 50FPS|
+|SLUS-21047|Cold Fear (NSTC-U)  ECFBAB36|[ECFBAB36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21047_ECFBAB36.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
+|SLES-53158|Cold Fear (PAL-M)  E38A0AB6|[E38A0AB6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53158_E38A0AB6.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20845|Cold Winter |[D6D704BB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20845_D6D704BB.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLES-52963|Cold Winter [PAL-M4] |[CD6AA180](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52963_CD6AA180.pnach)|Widescreen hack 16:9<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20502|Colin McRae Rally 3 [SLUS 20502] (U)|[AA294EDC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20502_AA294EDC.pnach)|Widescreen patch|
@@ -592,7 +598,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97108|Cool Boarders 2001 |[0993962D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97108_0993962D.pnach)|Widescreen Hack|
 |SLPM-65506|Cool Girl (J)|[150529ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65506_150529ED.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21854|Coraline |[64ABECC8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21854_64ABECC8.pnach)|Widescreen hack|
-|SLES-55470|Coraline [PAL] |[4F82849C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55470_4F82849C.pnach)|Widescreen hack by El_Patas|
+|SLES-55470|Coraline [PAL] |[4F82849C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55470_4F82849C.pnach)|Widescreen hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21499|Corvette Evolution GT |[45A8B64C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21499_45A8B64C.pnach)|Widescreen patch by nemesis2000 (pnach by nemesis2000)|
 |SLES-54568|Covert Command (E)|[CFE893B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54568_CFE893B8.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25551|Cowboy Bebop - Tsuioku no Serenade (J)|[C162A768](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25551_C162A768.pnach)|Widescreen Hack by Arapapa|
@@ -652,8 +658,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25537|Dai-3-Ji Super Robot Taisen Alpha - Shuuen no Ginga he (J)|[5D12241C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25537_5D12241C.pnach)|Widescreen hack by Arapapa|
 |SLPS-25374|Daidassou - The Great Escape (J)|[BD533A18](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25374_BD533A18.pnach)|Widescreen hack by Arapapa|
 |SLPM-62029|Dance Summit 2001: Bust A Move (J)|[F881A604](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62029_F881A604.pnach)|Widescreen hack by Arapapa|
+|SLUS-20379|Dark Angel - James Cameron's (NSTC-U)  29BA2F04|[29BA2F04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20379_29BA2F04.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLPM-64537|Dark Angel - Vampire Apocalpse (K)|[D8BE3E6E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64537_D8BE3E6E.pnach)|Widescreen hack by Arapapa|
 |SLUS-20131|Dark Angel - Vampire Apocalypse (U)|[38E20A00](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20131_38E20A00.pnach)|Widescreen hack by Arapapa|
+|SLES-51333|Dark Angel (PAL-M)  5BE3F481|[5BE3F481](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51333_5BE3F481.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SCPS-15033|Dark Chronicle (J)|[712A8AD1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15033_712A8AD1.pnach)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|
 |SCPS-15033|Dark Chronicle (J) |[9F7C1223](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15033_9F7C1223.pnach)|Widescreen hack by ElHecht (pnach NTSC-J by Arapapa)|
 |SCUS-97111|Dark Cloud |[A5C05C78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97111_A5C05C78.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )<br />Attempts to disable interlaced offset rendering.|
@@ -709,7 +717,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65450|Detective Gakuen Q (NTSC-J)|[970FEAB8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65450_970FEAB8.pnach)|Widescreen hack by Arapapa|
 |SLES-52041|Detonator [PAL] |[090379B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52041_090379B9.pnach)|Widescreen hack by El_Patas|
 |SLES-50808|Deus Ex  PAL-S 3AC738AA. ELF secondary 7070DC2F|[7070DC2F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50808_7070DC2F.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
-|SLES-50808|Deus Ex [PAL-S]  3AC738AA. ELF secondary 7070DC2F|[3AC738AA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50808_3AC738AA.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
+|SLES-50808|Deus Ex [PAL-S]  3AC738AA. ELF secondary 7070DC2F|[3AC738AA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50808_3AC738AA.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLUS-21297|Devil Kings |[B304172F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21297_B304172F.pnach)|Widescreen hack|
 |SLUS-20216|Devil May Cry |[79B8A95F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20216_79B8A95F.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Attempts to disable interlaced offset rendering.|
 |SLPM-65038|Devil May Cry (J)|[96B2F56D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65038_96B2F56D.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
@@ -1140,7 +1148,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52824|Furry Tales (E)|[AA91DEA8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52824_AA91DEA8.pnach)|Widescreen hack by Arapapa|
 |SLPM-62341|Fushigi no Kuni no Alice (J)|[C53DB321](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62341_C53DB321.pnach)|Widescreen hack by Arapapa|
 |SLUS-20439|Futurama (NTSC-U) |[0A342A88](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20439_0A342A88.pnach)|Widescreen Hack|
-|SLES-51507|Futurama (PAL-M5) |[EB25115F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51507_EB25115F.pnach)|Widescreen hack by ElHecht|
+|SLES-51507|Futurama (PAL-M5) |[EB25115F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51507_EB25115F.pnach)|Widescreen hack<br />Forces progressive scan mode 480p at startup|
 |SLPM-65973|Future Boy Conan (J) (Mirai Shounen Conan) |[163A62C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65973_163A62C8.pnach)|Widescreen hack by Arapapa|
 |SLES-52701|Future Tactics: The Uprising [PAL] |[5E4C44CF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52701_5E4C44CF.pnach)|Widescreen hack by El_Patas|
 |SLPM-65813|Fuun Bakumatsuden [NTSC-J] |[950241D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65813_950241D3.pnach)|Widescreen hack by Little Giant|
@@ -1564,7 +1572,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55129|Jumper - Griffin's Story (E)|[08944D35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55129_08944D35.pnach)|Widescreen hack  by Arapapa|
 |SLUS-21730|Jumper - Griffin's Story (U)|[E164CB28](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21730_E164CB28.pnach)|Widescreen hack  by Arapapa|
 |SLUS-21907|Jurassic - The Hunted (U)|[EFE4448F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21907_EFE4448F.pnach)|Widescreen hack by Arapapa|
-|SLES-51354|Jurassic Park - Operation Genesis (E)|[960FFA6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51354_960FFA6A.pnach)|Widescreen Hack by Arapapa|
+|SLES-51354|Jurassic Park - Operation Genesis (E)|[960FFA6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51354_960FFA6A.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20380|Jurassic Park - Operation Genesis (U)(SLUS20380)|[A99B8FE7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20380_A99B8FE7.pnach)|Widescreen Hack by Arapapa|
 |SLES-54200|Just Cause (E-F)|[151DF9C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54200_151DF9C9.pnach)|Widescreen hack  by Arapapa|
 |SLES-54137|Just Cause (E)|[5CC61637](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54137_5CC61637.pnach)|Widescreen hack  by Arapapa<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
@@ -1792,6 +1800,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53194|LEGO Star Wars: The Videogame [PAL] |[B2408080](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53194_B2408080.pnach)|Widescreen hack by El_Patas|
 |SLES-52641|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-E) |[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52641_A1FD63D6.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLUS-20956|Leisure Suit Larry - Magna Cum Laude (NTSC-U) |[A1736B07](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20956_A1736B07.pnach)|Widescreen hack by ElHecht|
+|SLES-52644|Leisure Suit Larry - Magna Cum Laude (PAL-S)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52644_A1FD63D6.pnach)|Widescreen Hack|
 |SLES-52807|Lemony Snicket's A Series of Unfortunate Events (E)|[5B2962FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52807_5B2962FD.pnach)|Widescreen hack by Arapapa|
 |SLUS-21078|Lemony Snicket's A Series of Unfortunate Events (U)|[4835F048](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21078_4835F048.pnach)|Widescreen hack by Arapapa|
 |SCPS-11028|Let's Bravo Music (J)|[19ED9AE4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11028_19ED9AE4.pnach)|Widescreen hack by Arapapa|
@@ -1892,9 +1901,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53799|Matrix, The - Path of Neo [PAL-M]  13D5330A|[13D5330A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53799_13D5330A.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20335|Matt Hoffman's Pro BMX 2 |[A37C0344](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20335_A37C0344.pnach)|Widescreen Hack|
 |SCPS-11027|Mawaza (J)|[794D3E00](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11027_794D3E00.pnach)|Widescreen hack by Arapapa|
-|SLUS-20230|Max Payne (NTSC-U)|[BEB4577E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_BEB4577E.pnach)|Widescreen hack by ElHecht|
+|SLUS-20230|Max Payne (NTSC-U)|[513CA7D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_513CA7D9.pnach)|Widescreen Hack|
+|SLUS-20230|Max Payne (NTSC-U)|[BEB4577E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_BEB4577E.pnach)|Widescreen Hack|
 |SLES-50325|Max Payne (PAL-E) |[E7FB0320](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50325_E7FB0320.pnach)|Widescreen hack by ElHecht|
-|SLES-50326|Max Payne [PAL-M4] |[52E0597D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50326_52E0597D.pnach)|Widescreen Hack by El_Patas|
+|SLES-50326|Max Payne [PAL-M4] |[52E0597D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50326_52E0597D.pnach)|Widescreen Hack|
+|SLES-50326|Max Payne [PAL-M4] |[C669B63C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50326_C669B63C.pnach)|Widescreen Hack|
 |SLUS-20814|Max Payne 2 - Fall of Max Payne |[CD68E44A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20814_CD68E44A.pnach)|Patches the game to run at 60 FPS (Might need 180% EE Overclock to be stable).|
 |SLES-52256|Max Payne 2 - Fall of Max Payne (Spain) |[D13BEF2C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52256_D13BEF2C.pnach)|Patches the game to run at 50 FPS (Might need 180% EE Overclock to be stable).|
 |SLES-50703|Maximo - Ghosts to Glory |[B4B7A5A1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50703_B4B7A5A1.pnach)|Widescreen Hack|
@@ -2586,6 +2597,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25108|Runabout 3 - Neo Age (J)|[DF3812A4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25108_DF3812A4.pnach)|Widescreen hack by Arapapa|
 |SLUS-20109|Rune - Viking Warlord (NTSC-U)  3A09007C secondary crc 1259612B|[1259612B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20109_1259612B.pnach)|Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLUS-20109|Rune - Viking Warlord (NTSC-U)  3A09007C secondary crc 1259612B|[3A09007C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20109_3A09007C.pnach)|Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
+|SLES-50335|Rune - Viking Warlord (PAL-E)  7DB392C5 secondary crc 52638022|[52638022](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50335_52638022.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
+|SLES-50335|Rune - Viking Warlord (PAL-E)  7DB392C5 secondary crc 52638022|[7DB392C5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50335_7DB392C5.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLES-50339|Rune - Viking Warlord (PAL-S)  7DB392C5 secondary crc D51BA097|[7DB392C5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50339_7DB392C5.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLES-50339|Rune - Viking Warlord (PAL-S)  7DB392C5 secondary crc D51BA097|[D51BA097](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50339_D51BA097.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLPS-25685|Rurouni Kenshin - Enjou! Kyoto Rinne [NTSC-J] |[DE737FE2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25685_DE737FE2.pnach)|Widescreen Hack by Little Giant|
@@ -2698,7 +2711,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66542|Sengoku Musou 2 Empires (J)|[675839AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66542_675839AB.pnach)|Widescreen Hack (16:9) by ElHecht (NTSC-K by Arapapa)|
 |SLPS-67014|Sengoku Musou 2 Moushouden[NTSC-J] (SLPS-670.14)|[6DEAEFEA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-67014_6DEAEFEA.pnach)|Widescreen patch|
 |SLPM-65718|Sengoku Musou: Moushouden [NTSC-J] |[DBD2230B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65718_DBD2230B.pnach)|Widescreen Hack by ElHecht (Pnach by Little Giant)<br />Attempts to disable interlaced offset rendering.|
-|SLES-52805|Señor de Los Anillos, El - La Tercera Edad (PAL-S)  614F4CF4|[614F4CF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52805_614F4CF4.pnach)|Widescreen hack 16:9<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
+|SLES-52805|Señor de Los Anillos, El - La Tercera Edad (PAL-S)  614F4CF4|[614F4CF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52805_614F4CF4.pnach)|Widescreen hack 16:9<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLES-53810|Sensible Soccer 2006 (PAL-M5) |[A1B752C7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53810_A1B752C7.pnach)|Widescreen hack by ElHecht|
 |SLUS-20907|Serious Sam: Next Encounter |[155466E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20907_155466E8.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLES-52348|Seven Samurai 20XX (PAL-M5) |[CC229675](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52348_CC229675.pnach)|Widescreen Hack (16:9) by ElHecht|
@@ -2821,7 +2834,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51250|Shox (PAL)|[3DF10389](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51250_3DF10389.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20533|Shox (U)|[DDAC3815](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20533_DDAC3815.pnach)|Widescreen Hack by Arapapa|
 |SLPM-65697|Shrek 2 (J)|[6479C20F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65697_6479C20F.pnach)|Widescreen hack by Arapapa|
-|SLUS-20745|Shrek 2 (U) |[11D7EC66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20745_11D7EC66.pnach)|Widescreen hack by Arapapa|
+|SLES-52382|Shrek 2 (Spain) |[4CF48A70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52382_4CF48A70.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original NTSC-U pnach by Arapapa)|
+|SLES-52382|Shrek 2 (Spain) |[76C01D41](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52382_76C01D41.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio. (Original NTSC-U pnach by Arapapa)|
+|SLUS-20745|Shrek 2 (U) |[11D7EC66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20745_11D7EC66.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS.|
+|SLUS-20745|Shrek 2 (U) |[9C41124B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20745_9C41124B.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS.|
 |SLPS-25028|Shutokou Battle 0 (J)|[F9D5C6A6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25028_F9D5C6A6.pnach)|Widescreen Hack by Arapapa and VIRGIN KLM<br />No Interlacing Patch by Tokman5|
 |SLPS-25028|Shutokou Battle 0 [NTSC-J] |[77D0DACC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25028_77D0DACC.pnach)|Widescreen Hack|
 |SLPM-65308|Shutokou Battle 01 [NTSC-J] |[DD70E38F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65308_DD70E38F.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />No Interlacing Patch by Tokman5|
@@ -2929,7 +2945,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-62484|Simple 2000 Series Vol.50 - The Daibijin (J)|[430E79CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62484_430E79CA.pnach)|Widescreen hack by Arapapa|
 |SLPM-62494|Simple 2000 Series Vol.55 - The Cat Fight (J) |[54897350](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62494_54897350.pnach)|Widescreen hack by Arapapa|
 |SLPM-62652|Simple 2000 Series Vol.81 - The Chikyuu Boueigun 2 (NTSC-J)  [7CD1CDCD]|[7CD1CDCD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62652_7CD1CDCD.pnach)|Widescreen hacks by ggxxtonghao (initial active X FOV hack) and Aced14 (ELF and 16:10 hacks)|
-|SLES-54906|Simpsons Game, The (PAL-S-I)  565B7E04|[565B7E04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54906_565B7E04.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
+|SLUS-21665|Simpsons Game, The (NTSC-U)  BBE4D862|[BBE4D862](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21665_BBE4D862.pnach)|Unlocked at 60 FPS. Set EE Cycle Skipping to Mild Underclock to prevent framedrops and 130% EE Overclock to be stable.|
+|SLES-54905|Simpsons Game, The (PAL-F)  5C1EBF61|[5C1EBF61](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54905_5C1EBF61.pnach)|Unlocked at 50 FPS. Set EE Cycle Skipping to Mild Underclock to prevent framedrops and 130% EE Overclock to be stable.|
+|SLES-55020|Simpsons Game, The (PAL-G)  5C1EBD61|[5C1EBD61](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55020_5C1EBD61.pnach)|Unlocked at 50 FPS. Set EE Cycle Skipping to Mild Underclock to prevent framedrops and 130% EE Overclock to be stable.|
+|SLES-54904|Simpsons Game, The (PAL-M4)  4C7BB3C8|[4C7BB3C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54904_4C7BB3C8.pnach)|Unlocked at 50 FPS. Set EE Cycle Skipping to Mild Underclock to prevent framedrops and 130% EE Overclock to be stable.|
+|SLES-54906|Simpsons Game, The (PAL-S-I)  565B7E04|[565B7E04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54906_565B7E04.pnach)|Unlocked at 50 FPS. Set EE Cycle Skipping to Mild Underclock to prevent framedrops and 130% EE Overclock to be stable.|
 |SCUS-97355|Siren |[D6C48447](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97355_D6C48447.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SCPS-15053|Siren [NTSC-J] |[FDDE7528](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15053_FDDE7528.pnach)|Widescreen hack|
 |SLES-54628|Skate Attack (E)|[AFFB8141](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54628_AFFB8141.pnach)|Widescreen Hack by Arapapa|
@@ -3160,6 +3180,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54222|Super-Bikes: Riding Challenge [PAL-M5] |[449D9B9B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54222_449D9B9B.pnach)|Widescreen Hack by El_Patas|
 |SLUS-21442|SuperDragonBall Z |[DE2DF62D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21442_DE2DF62D.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLUS-21442|SuperDragonBall Z |[FABD7602](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21442_FABD7602.pnach)|Widescreen Hack|
+|SLES-50795|Superman - Shadow of Apokolips (PAL-M)  4F5579D3|[4F5579D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50795_4F5579D3.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-54583|Surf's Up (E)|[904A9089](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54583_904A9089.pnach)|Widescreen hack by Arapapa|
 |SLUS-21572|Surf's Up (U)|[BED8AB7C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21572_BED8AB7C.pnach)|Widescreen hack by Arapapa|
 |SLES-50056|Surfing H3O (E)|[6A031FEB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50056_6A031FEB.pnach)|Widescreen hack by Arapapa|
@@ -3244,6 +3265,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20066|Tenshi no Present: Marle Oukoku Monogatari [NTSC-J] ( & SLPS_200.53)|[7C20E49D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20066_7C20E49D.pnach)|Widescreen hack by El_Patas|
 |SLPS-20053|Tenshi no Present: Marle Oukoku Monogatari [NTSC-J] (SLPS_200.66 & )|[7C20E49D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20053_7C20E49D.pnach)|Widescreen hack by El_Patas|
 |SLPM-65442|Terminator 3 - Rise of the Machines (J)|[AAF10C7F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65442_AAF10C7F.pnach)|Widescreen hack by Arapapa|
+|SLES-52039|Terminator 3 - Rise Of The Machines (PAL-S)  BE408EFF|[BE408EFF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52039_BE408EFF.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-52283|Terminator 3 - The Redemption |[5DF023A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52283_5DF023A5.pnach)|Widescreen Hack|
 |SLUS-20852|Terminator 3: The Redemption (U)|[B993C212](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20852_B993C212.pnach)|Widescreen Hack (NTSC-U by Arapapa)|
 |SLUS-20177|Test Drive - Off-Road - Wide Open (NTSC-U) |[0DDFE767](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20177_0DDFE767.pnach)|Widescreen hack|
@@ -3310,7 +3332,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52017|The Lord of the Rings - The Return of the King (PAL-M5) |[9771C478](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52017_9771C478.pnach)|Widescreen hack by ElHecht|
 |SLKA-25237|The Lord of the Rings - The Third Age (K) |[37CD4279](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25237_37CD4279.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
 |SLUS-21027|The Lord of the Rings - The Third Age (NTSC-U)|[EB198738](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21027_EB198738.pnach)|Widescreen Hack (NTSC-U by Arapapa)<br />Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
-|SLES-52801|The Lord of the Rings - The Third Age (PAL-M5) |[614F4CF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52801_614F4CF4.pnach)|Widescreen hack 16:9<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
+|SLES-52801|The Lord of the Rings - The Third Age (PAL-M5) |[614F4CF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52801_614F4CF4.pnach)|Widescreen hack 16:9<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLPM-67546|The Lord of the Rings - The Two Towers (K) |[6898435D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67546_6898435D.pnach)|Widescreen Hack by Arapapa|
 |SLES-51252|The Lord of the Rings - The Two Towers (PAL-M3) |[DC43F2B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51252_DC43F2B8.pnach)|Widescreen hack by ElHecht|
 |SLES-51252|The Lord of the Rings: The Two Towers (PAL-Spain) (SLES_512.56)|[9ABF90FB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51252_9ABF90FB.pnach)|Widescreen hack by El_Patas|
@@ -3474,6 +3496,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21283|Total Overdose: A Gunslinger's Tale in Mexico (NTSC-U)|[461F9727](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21283_461F9727.pnach)|Widescreen Hack<br />Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLPM-62087|Touge 3 (J)|[454BDDA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62087_454BDDA2.pnach)|Widescreen hack by Arapapa|
 |SCUS-97502|Tourist Trophy  (USA)|[FF9C0E93](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97502_FF9C0E93.pnach)|Autoboot in 480p|
+|SLES-55520|Transformers - Revenge of the Fallen (PAL-M)  9E36E023|[9E36E023](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55520_9E36E023.pnach)|Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
+|SLES-54755|Transformers - The Game (PAL-E)  2609B672|[2609B672](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54755_2609B672.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
+|SLES-54756|Transformers - The Game (PAL-S-F)  F453BCD9|[F453BCD9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54756_F453BCD9.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLPM-65407|Transformers Tatakai (J)|[9D5125EA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65407_9D5125EA.pnach)|Widescreen hack by Arapapa|
 |SLES-50886|TransWorld Surf (E)|[1E4D0D98](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50886_1E4D0D98.pnach)|Widescreen hack by Arapapa|
 |SLUS-20356|Transworld Surf [NTSC-U] |[66B7B74E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20356_66B7B74E.pnach)|Widescreen hack by Arapapa|
@@ -3483,7 +3508,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53076|Trigger Man (E)|[C92321FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53076_C92321FF.pnach)|Widescreen hack by Arapapa|
 |SLUS-20931|Trigger Man (U)|[8EE3D234](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20931_8EE3D234.pnach)|Widescreen hack by Arapapa|
 |SLPS-20062|Truck Kyousoukyoku - Ai to Kanashimi no Rodeo (J)|[79EAB070](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20062_79EAB070.pnach)|Widescreen Hack by Arapapa|
-|SLES-53618|True Crime - New York City [PAL-S]  B1AC3BEB. elf secondary B2D44C6C|[B1AC3BEB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53618_B1AC3BEB.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
+|SLES-53618|True Crime - New York City [PAL-S]  B1AC3BEB. elf secondary B2D44C6C|[B1AC3BEB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53618_B1AC3BEB.pnach)|Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLES-53618|True Crime - New York City [PAL-S]  B1AC3BEB. elf secondary B2D44C6C|[B2D44C6C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53618_B2D44C6C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-51754|True Crime - Streets of L.A. [PAL-M]  6B9AEA0D. elf secondary 29E9D83C|[29E9D83C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51754_29E9D83C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-51754|True Crime - Streets of L.A. [PAL-M]  6B9AEA0D. elf secondary 29E9D83C|[6B9AEA0D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51754_6B9AEA0D.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
@@ -3927,6 +3952,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20758||[03F9C6D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20758_03F9C6D1.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20858||[DDFD68B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20858_DDFD68B1.pnach)|Corvette (NTSC-U)|
 |SLUS-20904||[536FEB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20904_536FEB77.pnach)|Spongebob Squarepants Movie Game (NTSC-U) (SLUS-20904) Widescreen Hack (nemesis2000) (gamemasterplc)|
+|SLUS-20909||[8CFAB4EA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20909_8CFAB4EA.pnach)||
+|SLUS-20909||[B318AA3C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20909_B318AA3C.pnach)||
 |SLUS-20913||[D7A2F802](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20913_D7A2F802.pnach)|InuYasha - Secret of the Cursed Mask(SLUS-20913) WS patch|
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
