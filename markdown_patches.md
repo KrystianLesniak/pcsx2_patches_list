@@ -2748,7 +2748,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65883|Shadow of Rome (J)|[36393CD3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65883_36393CD3.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLES-53242|Shadow the Hedgehog |[7B94480C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53242_7B94480C.pnach)|Widescreen Hack|
 |SLUS-21261|Shadow the Hedgehog |[A5D29941](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21261_A5D29941.pnach)|Widescreen Hack|
-|SLPS-25217|Shadow Tower Abyss (English patch) |[38145680](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25217_38145680.pnach)|Widescreen hack, set to 16:9 in-game<br />No-Interlacing|
+|SLPS-25217|Shadow Tower Abyss (English patch) |[38145680](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25217_38145680.pnach)|Widescreen hack, set to 16:9 in-game<br />No-Interlacing<br />Disables scanmask usage to reduce blur when turning.|
 |SLPS-25359|Shaman King - Funbari Spirits [NTSC-J] |[C0D585EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25359_C0D585EF.pnach)|Widescreen hack by Little Giant|
 |SLUS-20953|Shaman King - Power of Spirit |[076604F3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20953_076604F3.pnach)|Widescreen Hack|
 |SLES-53353|Shaman King: Power of Spirit [PAL] |[12D57B4F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53353_12D57B4F.pnach)|Widescreen hack by El_Patas|
