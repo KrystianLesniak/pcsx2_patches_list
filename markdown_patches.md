@@ -3785,7 +3785,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20279|X-Men - Next Dimension |[36240AE2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20279_36240AE2.pnach)|Widescreen Hack|
 |SLES-50898|X-Men - Next Dimension (E)|[AF1CACC7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50898_AF1CACC7.pnach)|Widescreen hack (Pal by Arapapa)|
 |SLES-50899|X-Men - Next Dimension (PAL-G) |[00DCB57B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50899_00DCB57B.pnach)|Widescreen hack by ElHecht|
-|SLES-51286|X-Men 2 - Wolverine's Revenge (E)|[EE3180F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51286_EE3180F4.pnach)|Widescreen hack by Arapapa, ElHecht|
+|SLES-51286|X-Men 2 - Wolverine's Revenge (E)|[EE3180F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51286_EE3180F4.pnach)|Widescreen hack by Arapapa, ElHecht, patch is removed due to it causes crashes on level 3.|
 |SLES-51548|X-Men 2 - Wolverine's Revenge (PAL-M3) |[FBF2383B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51548_FBF2383B.pnach)|Widescreen hack by ElHecht|
 |SLUS-20656|X-Men Legends |[CE6A63BF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20656_CE6A63BF.pnach)|Widescreen Hack|
 |SLES-52624|X-Men Legends (PAL-E) |[69094734](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52624_69094734.pnach)|Widescreen Hack (16:9) by XxGaMiNGK3LLERxX|
@@ -3797,7 +3797,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20094|X-Squad [NTSC-U] |[238FFAAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20094_238FFAAE.pnach)|Widescreen Hack|
 |SLES-50998|X-treme Express - World Grand Prix (E)|[2CFB6C22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50998_2CFB6C22.pnach)|Widescreen hack by Arapapa|
 |SLES-53141|X-treme Quads (E)|[DB49EA17](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53141_DB49EA17.pnach)|Widescreen hack by Arapapa|
-|SLUS-20337|X2 - Wolverine's Revenge |[16FB9855](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20337_16FB9855.pnach)|Widescreen Hack|
+|SLUS-20337|X2 - Wolverine's Revenge |[16FB9855](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20337_16FB9855.pnach)|Widescreen Hack patch is removed due to it causes crashes on level 3.|
 |SLES-54541|Xena: Warrior Princess (PAL)|[59B36669](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54541_59B36669.pnach)|Widescreen Hack (50hz)|
 ||Xena: Warrior Princess (PAL)|[6D980D22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/6D980D22.pnach)||
 |SCAJ-30001|Xenosaga Episode I|[A3D63039](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCAJ-30001_A3D63039.pnach)|NTSC-J Widescreen Hack by synce|
