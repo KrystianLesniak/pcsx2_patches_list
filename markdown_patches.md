@@ -507,7 +507,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20068|Cars (K)|[AA9ABE8B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20068_AA9ABE8B.pnach)|Widescreen Hack by El_Patas (NTSC-K by Arapapa)|
 |SLUS-21151|Cars (U)|[F2A25D7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21151_F2A25D7B.pnach)|Widescreen Hack by El_Patas (NTSC-U by Arapapa)|
 |SLES-54007|Cars [PAL-Spain] |[B8435BF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54007_B8435BF4.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.<br />Forces progressive scan and run at 60 fps|
-|SLES-55536|Cars Race-O-Rama (PAL-M5)|[E4278493](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES_55536_E4278493.pnach)|Widescreen Hack Conversion|
+|SLES-55536|Cars Race-O-Rama (PAL-M5)|[E4278493](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55536_E4278493.pnach)|Widescreen Hack Conversion|
 |SLUS-21883|Cars Race-O-Rama (U)|[E4278493](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21883_E4278493.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21637|Cars: Mater-National Championship [NTSC-U] |[57F534F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21637_57F534F4.pnach)|Widescreen hack by El_Patas|
 |SLES-55026|Cars: Mater-National Championship [PAL-M2-Nl-Fr] |[EC74C264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55026_EC74C264.pnach)|Widescreen hack conversion|
@@ -983,7 +983,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25032|Enter the Matrix  Ver. 2.0|[E5BE5D27](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25032_E5BE5D27.pnach)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|
 |SLUS-20454|Enter the Matrix  Ver. 2.0|[2A968F81](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20454_2A968F81.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLES-51203|Enter the Matrix [PAL-M5] |[F1370E83](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51203_F1370E83.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
-|SLES-51203|Enter the Matrix [PAL-M5]  V2.00|[B1252C3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES_51203_B1252C3D.pnach)|Widescreen hack conversion|
+|SLES-51203|Enter the Matrix [PAL-M5]  V2.00|[B1252C3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51203_B1252C3D.pnach)|Widescreen hack conversion|
 |SLUS-20967|Enthusia - Professional Racing |[81D233DC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20967_81D233DC.pnach)|Widescreen hack by No.47<br />Attempts to disable interlaced offset rendering.|
 |SLES-53125|Enthusia - Professional Racing PAL|[5C63B5AC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53125_5C63B5AC.pnach)|Widescreen hack|
 |SLPM-65948|Enthusia Professional Racing (J)|[5637E95B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65948_5637E95B.pnach)|Widescreen hack by No.47<br />Attempts to disable interlaced offset rendering.|
@@ -1551,7 +1551,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20222|Inaka Kurasi - Nan no Shima no Monogatari (J)|[8EE57E45](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20222_8EE57E45.pnach)|Widescreen Hack by Arapapa|
 |PBPX-95201|Inaka Kurasi - Nan no Shima no Monogatari (Super Best Collection) [NTSC-J]  (SLPS-20499)|[AA75FE6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_AA75FE6A.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20499|Inaka Kurasi - Nan no Shima no Monogatari (Super Best Collection) [NTSC-J] (PBPX-95201) |[AA75FE6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20499_AA75FE6A.pnach)|Widescreen Hack by Arapapa|
-|SLES-55208|Incredible Hulk, The |[11C4798E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES_55208_11C4798E.pnach)|Widescreen hack conversion|
+|SLES-55208|Incredible Hulk, The |[11C4798E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55208_11C4798E.pnach)|Widescreen hack conversion|
 |SLUS-21765|Incredible Hulk, The |[EA8D4BDF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21765_EA8D4BDF.pnach)|Widescreen hack|
 |SLES-53430|Incredible Hulk, The - Ultimate Destruction (PAL-M)  6B3D50A5|[6B3D50A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53430_6B3D50A5.pnach)|Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLUS-21217|Incredibles, The - Rise of the Underminer |[6DFE8ED7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21217_6DFE8ED7.pnach)|Widescreen hack|
@@ -2009,7 +2009,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPM-85101|McDonald's Original Happy Disc (NTSC-J) |[43D4FF3E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPM-85101_43D4FF3E.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20657|McFarlane Evil Prophecy (U)|[6798E3C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20657_6798E3C9.pnach)|Widescreen hack (NTSC-U by Arapapa)|
 |SLES-52710|McFarlane's Evil Prophecy |[C0252617](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52710_C0252617.pnach)|Widescreen Hack|
-|SLES-52710|McFarlane's Evil Prophecy |[C0252617](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES_52710_C0252617.pnach)|Widescreen Hack|
 |SLES-50248|MDK 2: Armageddon [PAL-M5] |[4515F52F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50248_4515F52F.pnach)|Widescreen pnach by El_Patas|
 |SLKA-25243|Medal of Honor - European Assault (NTSC-K)|[BB70F989](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25243_BB70F989.pnach)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|
 |SLES-53336|Medal of Honor - European Assault (PAL-S)  BB70FFB9|[BB70FFB9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53336_BB70FFB9.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
@@ -3395,6 +3394,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52283|Terminator 3 - The Redemption |[5DF023A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52283_5DF023A5.pnach)|Widescreen Hack|
 |SLUS-20852|Terminator 3: The Redemption (U)|[B993C212](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20852_B993C212.pnach)|Widescreen Hack (NTSC-U by Arapapa)|
 |SLUS-20177|Test Drive - Off-Road - Wide Open (NTSC-U) |[0DDFE767](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20177_0DDFE767.pnach)|Widescreen hack|
+|SLUS-20910|Test Drive: Eve of Destruction (NTSC-U) (5D0244D3)|[5D0244D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20910_5D0244D3.pnach)|Disables the edge border when using 16:9 (from game options). WARNING, menus don't have a skybox so expect artifacts on edges of screen.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.|
 |SLPM-64544|Tetsu 1 - Densha de Battle! - World Grand Prix (K)|[3A0A56B6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64544_3A0A56B6.pnach)|Widescreen hack by Arapapa|
 |PBPX-95201|Tetsu 1 - Densha de Battle! [NTSC-J] (SLPS-20100)|[F66528FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_F66528FF.pnach)|Widescreen hack by Arapapa|
 |SLPS-20100|Tetsu 1 - Densha de Battle! [NTSC-J] [PBPX-95201]|[F66528FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20100_F66528FF.pnach)|Widescreen hack by Arapapa|
