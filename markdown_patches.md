@@ -274,11 +274,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65234|Bakusou Dekotora Densetsu - Otoko Hanamichi Yume Roman (J)|[3D80BAAB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65234_3D80BAAB.pnach)|Widescreen hack by Arapapa|
 |SLPM-74419|Bakusou Dekotora Densetsu Otoko Hanamichi Yume Roman (Playstation2 The Best) (J)|[8362ED29](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74419_8362ED29.pnach)|Widescreen hack by Arapapa|
 |SLPM-65845|Baldur's Gate - Dark Alliance II (NTSC-J)|[C3B698F9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65845_C3B698F9.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
-|SLES-50672|Baldur's Gate: Dark Alliance|[4A9D8E01](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50672_4A9D8E01.pnach)|Widescreen Hack<br />Baldur's Gate: Dark Alliance * SLES-50672 * PAL-M5 * 4A9D8E01<br />Widescreen Hack by El_Patas<br />Attempts to disable interlaced offset rendering.|
+|SLES-50672|Baldur's Gate: Dark Alliance|[4A9D8E01](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50672_4A9D8E01.pnach)|Widescreen Hack<br />Baldur's Gate: Dark Alliance * SLES-50672 * PAL-M5 * 4A9D8E01<br />Widescreen Hack by El_Patas|
 |SLPS-25140|Baldur's Gate: Dark Alliance (J) |[4BA22FFF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25140_4BA22FFF.pnach)|Widescreen hack by nemesis2000 (pnach NTSC-J by Arapapa)|
-|SLUS-20035|Baldur's Gate: Dark Alliance *  * NTSC-U * 773A8DAB|[773A8DAB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20035_773A8DAB.pnach)|Baldur's Gate: Dark Alliance * SLUS-20035 * NTSC-U * 773A8DAB<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20035|Baldur's Gate: Dark Alliance *  * NTSC-U * 773A8DAB|[773A8DAB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20035_773A8DAB.pnach)|Baldur's Gate: Dark Alliance * SLUS-20035 * NTSC-U * 773A8DAB|
 |SLES-52187|Baldur's Gate: Dark Alliance II|[F59FF56B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52187_F59FF56B.pnach)|Widescreen Hack<br />Baldur's Gate: Dark Alliance II * SLES-52188 * PAL-M3 * F59FF56B<br />Widescreen Hack by El_Patas|
-|SLUS-20675|Baldur's Gate: Dark Alliance II |[B0859096](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20675_B0859096.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20675|Baldur's Gate: Dark Alliance II |[B0859096](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20675_B0859096.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-52188|Baldur's Gate: Dark Alliance II  F59FF56B|[F59FF56B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52188_F59FF56B.pnach)|Widescreen Hack|
 |SLES-51978|Baphomets Fluch - Der Schlafende Drache  (Broken Sword Germany)|[1248FE3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51978_1248FE3A.pnach)|Widescreen patch by nemesis2000 (pnach by nemesis2000 )|
 |SLUS-20136|Barbarian |[5C6B00F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20136_5C6B00F4.pnach)|Widescreen Hack|
@@ -532,11 +532,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51554|Cell Damage Overdrive (PAL-M5) |[904B7BA0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51554_904B7BA0.pnach)|Widescreen hack by dieSkaarj|
 |SLES-50636|Centre Court - Hard Hitter (E)|[2E34BD54](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50636_2E34BD54.pnach)|Widescreen Hack by Arapapa|
 |SLKA-25291|Chains of Power (K)|[BD11A6EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25291_BD11A6EE.pnach)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|
-|SLES-53039|Champions - Return to Arms (PAl-M4) |[5C64E73A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53039_5C64E73A.pnach)|Widescreen Hack<br />Disable interlacing hack by ElHecht|
+|SLES-53039|Champions - Return to Arms (PAl-M4) |[5C64E73A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53039_5C64E73A.pnach)|Widescreen Hack|
 |SLUS-20565|Champions of Norrath |[90E66BC5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20565_90E66BC5.pnach)|Widescreen hack by No.47<br />Attempts to disable interlaced offset rendering.|
 |SLES-52325|Champions of Norrath (PAL-M3) |[75D86958](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52325_75D86958.pnach)|Widescreen Hack by ElHecht<br />Disable interlacing hack by ElHecht|
 |SLES-52373|Champions of Norrath [PAL-M2] [En,Es] |[D18EF711](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52373_D18EF711.pnach)|Widescreen Hack|
-|SLUS-20973|Champions: Return to Arms (NTSC-U)|[4028A55F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20973_4028A55F.pnach)|Widescreen hack<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20973|Champions: Return to Arms (NTSC-U)|[4028A55F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20973_4028A55F.pnach)|Widescreen hack|
 |SLPM-66176|Chaos Field - New Order (J) |[7186F769](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66176_7186F769.pnach)|Widescreen hack by Arapapa|
 |SLUS-20695|Chaos Legion |[F3B0734E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20695_F3B0734E.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLKA-25026|Chaos Legion (K) |[AD0C84EA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25026_AD0C84EA.pnach)|Widescreen hack by nemesis2000 (NTSC-K by Arapapa)|
@@ -1048,8 +1048,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25015|Evolution Skateboarding (K)|[B3734A96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25015_B3734A96.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20540|Evolution Skateboarding (U)|[536D9565](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20540_536D9565.pnach)|Widescreen Hack by Arapapa|
 |SCPS-15011|Extermination (J)|[A369B96F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15011_A369B96F.pnach)|Widescreen Hack (NTSC-J by Arapapa)|
-|SCES-50240|Extermination [PAL-M5] |[68707E85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50240_68707E85.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
-|SCUS-97112|Extermination SCUS 971.12|[0AE679AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97112_0AE679AF.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
+|SCES-50240|Extermination [PAL-M5] |[68707E85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50240_68707E85.pnach)|Widescreen Hack|
+|SCUS-97112|Extermination SCUS 971.12|[0AE679AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97112_0AE679AF.pnach)|Widescreen Hack|
 |SLES-53080|Extreme Sprint 3010 (E)|[1634FB4A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53080_1634FB4A.pnach)|Widescreen Hack by Arapapa|
 |SLES-50423|F1 2001 (E)|[063FF7DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50423_063FF7DB.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20264|F1 2001 (U)|[2870C248](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20264_2870C248.pnach)|Widescreen Hack by Arapapa|
@@ -1275,8 +1275,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-62476|GetBackers Dakkanya - Urashinshiku Saikyou Battle (J)|[50B5FA9F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62476_50B5FA9F.pnach)|Widescreen hack  by Arapapa|
 |SLES-52671|Ghost Master - The Gravenville Chronicles (PAL-M5) |[17F324F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52671_17F324F4.pnach)|Widescreen hack by ElHecht|
 |SLES-54317|Ghost Rider (PAL-M)  F9DD17AA|[F9DD17AA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54317_F9DD17AA.pnach)|Forces progressive scan and run at 60 fps|
-|SLES-51433|Ghost Vibration |[CDD0C904](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51433_CDD0C904.pnach)|Widescreen Hack<br />No interlacing|
 |SLPS-25131|Ghost Vibration (J)|[E52F8059](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25131_E52F8059.pnach)|Widescreen Hack (pnach by Arapapa)|
+|SLES-51433|Ghost Vibration (PAL-E)  CDD0C904|[CDD0C904](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51433_CDD0C904.pnach)|Widescreen Hack|
 |SLPM-67526|Ghost Vibration(K) |[D1367113](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67526_D1367113.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLUS-21882|Ghostbusters - The Video Game (NTSC-U/PAL)|[7030A01C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21882_7030A01C.pnach)|Widescreen hack<br />Requires having a save game before enabling it. Might need enable 300% EE Overclock.<br />Forces progressive scan mode 480p at startup|
 |SLES-55571|Ghostbusters - The Video Game (PAL)|[7030A01C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55571_7030A01C.pnach)|Widescreen hack by ElHecht|
