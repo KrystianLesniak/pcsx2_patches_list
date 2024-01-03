@@ -3155,7 +3155,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21331|Sonic Riders (NTSC-U)|[B44896B7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21331_B44896B7.pnach)|Widescreen hack|
 |SLES-53560|Sonic Riders (PAL-M5) |[F881CD68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53560_F881CD68.pnach)|Widescreen hack by ElHecht|
 |SLUS-21642|Sonic Riders Zero Gravity (NTSC-U)|[D04516EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21642_D04516EE.pnach)|Widescreen hack by JLB|
-|SLUS-21846|Sonic Unleashed |[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)|Widescreen Patch (16:9) by Monsterjamp|
 |SLES-55380|Sonic Unleashed (PAL-M5)  8C913264|[8C913264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55380_8C913264.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.<br />Forces progressive scan mode at 60 fps|
 |SLPS-25008|Sorcerous Stabber Orphen [NTSC-J] |[126B585A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25008_126B585A.pnach)|Pnach by Little Giant|
 |SLES-51301|SOS: The Final Escape |[337BF959](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51301_337BF959.pnach)|Widescreen Hack|
@@ -4032,9 +4031,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54462|Zombie Virus (E)|[A64DA833](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54462_A64DA833.pnach)|Widescreen Hack by Arapapa|
 |SLES-54461|Zombie Zone - Other Side (PAL-E) |[3F73B727](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54461_3F73B727.pnach)|Widescreen Hack (16:9) by ElHecht<br />Disable interlacing hack by ElHecht|
 |SLES-53398|Zombie Zone (PAL-E) |[A2316D03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53398_A2316D03.pnach)|Widescreen Hack (16:9) by ElHecht<br />Disable interlacing hack by ElHecht|
-|SLES-50111|Zone of the Enders (E)|[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)|Widescreen Hack|
 |SLPM-65019|Zone of the Enders (J) |[35E2B1AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65019_35E2B1AF.pnach)|Widescreen Hack by synce (pnach by Arapapa)|
-|SLUS-20148|Zone of the Enders (U)|[8CB179A6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20148_8CB179A6.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20148|Zone of the Enders (U)|[8CB179A6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20148_8CB179A6.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20545|Zone of the Enders: The 2nd Runner |[FD12A397](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20545_FD12A397.pnach)|Widescreen Hack|
 |SLES-51113|Zone of the Enders: The 2nd Runner SLES 511.13|[3E0BEB3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51113_3E0BEB3A.pnach)|Widescreen Hack|
 |SLPM-65073|幻想水滸伝 III |[5AF8016F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65073_5AF8016F.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
@@ -4046,6 +4044,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-15045||[DC73BFF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15045_DC73BFF8.pnach)|KA2 aka Mr Mosquito 2 - Widescreen Hack (16:9) (NTSC-J)|
 |SCUS-97102||[85AE91B3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97102_85AE91B3.pnach)|Attempts to disable interlaced offset rendering.|
 |SCUS-97231||[E7B6CFA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97231_E7B6CFA2.pnach)|Arc - Twilight of the Spirits - Widescreen Hack (16:9) (NTSC-U)|
+|SLES-50111||[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)||
 |SLES-50383||[A630B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50383_A630B37E.pnach)|Metal Gear Solid 2 - Sons Of Liberty (PAL-M3) (SLES-50383) Widescreen Hack (16:9) by ElHecht|
 |SLES-51619||[D9FC6310](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51619_D9FC6310.pnach)|Clock Tower 3 - Widescreen Hack (16:9) (PAL-E) // strider3871|
 |SLES-51621||[8760B4B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51621_8760B4B1.pnach)|Widescreen Hack by Arapapa|
@@ -4139,4 +4138,5 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21720||[21D3B445](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21720_21D3B445.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-21750||[A06A7AFD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21750_A06A7AFD.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21819||[D3F40C6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21819_D3F40C6A.pnach)|Widescreen Hack by Arapapa|
+|SLUS-21846||[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)||
 |||[FF3DB201](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF3DB201.pnach)||
