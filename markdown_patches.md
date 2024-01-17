@@ -4153,7 +4153,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21330||[BDFB1507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21330_BDFB1507.pnach)|Monster Rancher EVO (NTSC-U) WS patch|
 |SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
 |SLUS-21410||[104F08F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21410_104F08F4.pnach)|Mortal Kombat - Armageddon (U) (SLUS-21410) Widescreen Hack (16:9) by ElHecht|
-|SLUS-21419||[44A5FA15](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21419_44A5FA15.pnach)|Dirge of Cerberus - Final Fantasy VII Widescreen Hack (16:9) (NTSC-U)|
+|SLUS-21419||[44A5FA15](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21419_44A5FA15.pnach)||
 |SLUS-21488||[0F26BB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21574||[9DC1CED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21574_9DC1CED8.pnach)|Dawn of Mana UNDUB SLUS-21574 - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
 |SLUS-21594||[E0A817F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21594_E0A817F8.pnach)|Naruto - Uzumaki Chronicles 2 (NTSC-U) (SLUS-21594) Widescreen Hack (16:9) by ElHecht|
