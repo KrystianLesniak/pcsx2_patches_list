@@ -809,6 +809,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65795|Digital Devil Saga Avatar Tuner 2 |[E47C1A9C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65795_E47C1A9C.pnach)|NTSC-J Widescreen Hack by synce|
 |SLES-51095|Dino Stalker [PAL-F] |[8E2021E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51095_8E2021E8.pnach)|Widescreen Hack Conversion|
 |SLES-50930|Dino Stalker [PAL] |[086DB720](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50930_086DB720.pnach)|Widescreen Hack|
+|SLUS-21419|Dirge of Cerberus - Final Fantasy VII  44A5FA15|[44A5FA15](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21419_44A5FA15.pnach)|Widescreen hack|
 |SLPM-66271|Dirge of Cerberus - Final Fantasy VII (J)|[AFAC88EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66271_AFAC88EF.pnach)|Widescreen hack|
 |SLPM-66629|Dirge of Cerberus - Final Fantasy VII International [Ultimate Hits] (NTSC-J) |[BC06733B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66629_BC06733B.pnach)|Widescreen Hack (16:9)|
 |SLES-54185|Dirge of Cerberus: Final Fantasy VII (PAL-M5) |[33F7D21A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54185_33F7D21A.pnach)|Widescreen Hack|
@@ -2115,7 +2116,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21029|Midnight Club 3 - DUB Edition (NTSC-U)  0DD3417A v2.0|[0DD3417A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21029_0DD3417A.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLUS-21029|Midnight Club 3 - DUB Edition (NTSC-U)  4A0E5B3A v1.0|[4A0E5B3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21029_4A0E5B3A.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLES-53717|Midnight Club 3 - DUB Edition Remix |[208183AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53717_208183AF.pnach)|Widescreen Hack|
-|SLUS-21355|Midnight Club 3 - DUB Edition Remix |[60A42FF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21355_60A42FF5.pnach)|Widescreen Hack<br />removes motion blur<br />Patches the game to run at 60 FPS (Requires 300% EE Overclock).|
+|SLUS-21355|Midnight Club 3 - DUB Edition Remix |[60A42FF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21355_60A42FF5.pnach)|Widescreen Hack<br />Fixes HUD scaling when using Widescreen hack (Requires HW Renderer)<br />removes motion blur<br />Patches the game to run at 60 FPS (Requires 300% EE Overclock).|
 |SLES-51054|Midnight Club II (PAL-M)  ACB1989A|[ACB1989A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51054_ACB1989A.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLUS-20209|Midnight Club II (U) E5F2DF38|[E5F2DF38](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20209_E5F2DF38.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLUS-21094|Midway Arcade Treasures 3|[B843EAFB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21094_B843EAFB.pnach)|Widescreen Hack|
@@ -2569,7 +2570,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-55130|Pro Yakyuu Spirits 5 Kanzenban  (NTSC-J)|[87E781EC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55130_87E781EC.pnach)|16:9 widescreen hack by 99skull (pnach by Arapapa)<br />Search values are apply to other series games|
 |SLPM-55158|Pro Yakyuu Spirits 6  (NTSC-J)|[1429EB9F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55158_1429EB9F.pnach)|16:9 widescreen hack|
 |SLUS-21037|Project - Snowblind (NTSC-U)|[2BDA8ADB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21037_2BDA8ADB.pnach)|Widescreen Hack|
-|SLES-53124|Project - Snowblind (PAL-M4) |[F00CA82B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53124_F00CA82B.pnach)|Widescreen Hack|
+|SLES-53124|Project - Snowblind (PAL-M4)  821A0C40 (BO3GM.ELF) single-player|[821A0C40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53124_821A0C40.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.|
+|SLES-53124|Project - Snowblind (PAL-M4)  CD9DAA4C (BO3NETGM.ELF) LAN/multi-player|[CD9DAA4C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53124_CD9DAA4C.pnach)|Renders the game in 16:9 aspect ratio|
+|SLES-53124|Project - Snowblind (PAL-M4)  F00CA82B|[F00CA82B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53124_F00CA82B.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLPS-25102|Project Arms (J)|[4B4A5878](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25102_4B4A5878.pnach)|Widescreen hack by Arapapa|
 |SLPS-25110|Project FIFA Worldcup - Sorenara kimi ga daihyou kantoku (J)|[4471743C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25110_4471743C.pnach)|Widescreen hack by Arapapa|
 |SLPM-67545|Project Minerva (K)|[40C77B13](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67545_40C77B13.pnach)|Widescreen Hack by Little Gaint (NTSC-K by Arapapa)|
@@ -4159,7 +4162,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21330||[BDFB1507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21330_BDFB1507.pnach)|Monster Rancher EVO (NTSC-U) WS patch|
 |SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
 |SLUS-21410||[104F08F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21410_104F08F4.pnach)|Mortal Kombat - Armageddon (U) (SLUS-21410) Widescreen Hack (16:9) by ElHecht|
-|SLUS-21419||[44A5FA15](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21419_44A5FA15.pnach)||
 |SLUS-21488||[0F26BB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21574||[9DC1CED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21574_9DC1CED8.pnach)|Dawn of Mana UNDUB SLUS-21574 - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
 |SLUS-21594||[E0A817F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21594_E0A817F8.pnach)|Naruto - Uzumaki Chronicles 2 (NTSC-U) (SLUS-21594) Widescreen Hack (16:9) by ElHecht|
