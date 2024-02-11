@@ -3244,6 +3244,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21252|SpongeBob SquarePants - Lights, Camera, Pants! (U)|[9DDF4676](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21252_9DDF4676.pnach)|Widescreen hack by Arapapa|
 |SLES-51285|SpongeBob Squarepants - Revenge of the Flying Dutchman (E)|[8FDE8E16](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51285_8FDE8E16.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20425|SpongeBob Squarepants - Revenge of the Flying Dutchman (U)|[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)|Widescreen Hack by Arapapa|
+|SLUS-20904|Spongebob Squarepants Movie Game (NTSC-U) |[536FEB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20904_536FEB77.pnach)|Forces the game to run at 16:9 aspect ratio|
 |SLES-55024|SpongeBob's Atlantis SquarePantis (E)|[AE28C9C7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55024_AE28C9C7.pnach)|Widescreen Hack<br />Patches the game to run at 50 FPS.|
 |SLUS-21644|SpongeBob's Atlantis SquarePantis (U)|[1FF9C051](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21644_1FF9C051.pnach)|Widescreen Hack<br />Patches the game to run at 60 FPS.|
 |SLES-55610|Springdale (E)|[41ACBA03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55610_41ACBA03.pnach)|Widescreen hack by Arapapa|
@@ -4148,7 +4149,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20721||[C6DDDB74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20721_C6DDDB74.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20758||[03F9C6D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20758_03F9C6D1.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20858||[DDFD68B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20858_DDFD68B1.pnach)|Corvette (NTSC-U)|
-|SLUS-20904||[536FEB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20904_536FEB77.pnach)|Spongebob Squarepants Movie Game (NTSC-U) (SLUS-20904) Widescreen Hack (nemesis2000) (gamemasterplc)|
 |SLUS-20913||[D7A2F802](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20913_D7A2F802.pnach)|InuYasha - Secret of the Cursed Mask(SLUS-20913) WS patch|
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
