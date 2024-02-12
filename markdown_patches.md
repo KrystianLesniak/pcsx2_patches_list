@@ -2162,7 +2162,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54215|Monster House (PAL)|[1AFD7469](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54215_1AFD7469.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20896|Monster Hunter |[0EF16A99](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20896_0EF16A99.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLPM-65495|Monster Hunter (J) |[C2008A92](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65495_C2008A92.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
-|SLPM-65495|Monster Hunter (J)  ( english patched)|[6232D656](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65495_6232D656.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
+|SLPM-65495|Monster Hunter (J)  (English patched)|[6232D656](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65495_6232D656.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
 |SLES-52707|Monster Hunter (PAL-M5) |[6E8BAF03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52707_6E8BAF03.pnach)|Widescreen hack by ElHecht|
 |SLPM-66280|Monster Hunter 2 |[2F0E94A1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66280_2F0E94A1.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLPM-65869|Monster Hunter G (J) |[29396A53](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65869_29396A53.pnach)|Widescreen hack by nemesis2000 (NTSC-J by Arapapa)|
