@@ -802,7 +802,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20836|Digimon World 4 (NTSC-U)|[B871C1D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20836_B871C1D0.pnach)|Widescreen hack by ElHecht|
 |SLES-53405|Digimon World 4 (PAL-M4) |[2CEFF37C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53405_2CEFF37C.pnach)|Widescreen hack by ElHecht|
 |SLPS-25453|Digimon World X [NTSC-J] |[E4F97921](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25453_E4F97921.pnach)|Widescreen Hack by ElHecht|
-|SLUS-20974|Digital Devil Saga|[D7273511](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20974_D7273511.pnach)|Shin Megami Tensei - Digital Devil Saga (SLUS-20974) (CRC-D7273511)|
 |SLKA-25300|Digital Devil Saga Avatar Tuner |[F2E397C0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25300_F2E397C0.pnach)|Widescreen Hack by synce (pnach by Arapapa)|
 |SLPM-65597|Digital Devil Saga Avatar Tuner |[44865CE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65597_44865CE1.pnach)|NTSC-J Widescreen Hack by synce|
 |SLKA-25301|Digital Devil Saga Avatar Tuner 2 |[43202D1A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25301_43202D1A.pnach)|Widescreen Hack by synce (pnach NTSC-K by Arapapa)|
@@ -2790,7 +2789,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55108|Samurai Warriors 2 - Xtreme Legends (PAL-E) |[67472179](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55108_67472179.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLES-54340|Samurai Warriors 2 (PAL-E) |[C8844E0B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54340_C8844E0B.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLUS-21462|Samurai Warriors 2 (U)|[CC4B9CDE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21462_CC4B9CDE.pnach)|Widescreen Hack (16:9) by ElHecht|
-|SLUS-21726|Samurai Warriors 2 Xtreme Legends [SLUS 21726] (U)|[3C93E16A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21726_3C93E16A.pnach)|Widescreen patch|
+|SLUS-21726|Samurai Warriors 2: Xtreme Legends * NTSC-U *  * 3C93E16A|[3C93E16A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21726_3C93E16A.pnach)||
 |SLUS-21080|Samurai Warriors: Xtreme Legends (NTSC-U) |[0442B1BD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21080_0442B1BD.pnach)|Widescreen Hack by ElHecht (Pnach by Little Giant)|
 |SLPM-65755|Samurai Western - Katsugeki Samurai-dou [NTSC-J] |[65FFA9B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65755_65FFA9B9.pnach)|Widescreen Hack|
 |SLUS-21187|Samurai Western (NTSC-U)|[9EE4D67B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21187_9EE4D67B.pnach)|Widescreen Hack|
@@ -4151,6 +4150,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20858||[DDFD68B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20858_DDFD68B1.pnach)|Corvette (NTSC-U)|
 |SLUS-20913||[D7A2F802](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20913_D7A2F802.pnach)|InuYasha - Secret of the Cursed Mask(SLUS-20913) WS patch|
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
+|SLUS-20974||[D7273511](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20974_D7273511.pnach)||
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-20980||[EF9E43EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20980_EF9E43EF.pnach)|Ys - The Ark of Napishtim - Widescreen Hack (16:9) (NTSC-U)|
 |SLUS-21050||[BEBF8793](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21050_BEBF8793.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />Menus will render at 60 FPS<br />Crashes will render at 60 FPS<br />Always ask for 480p mode during boot<br />Change speedometer unit from MPH to KPH|
