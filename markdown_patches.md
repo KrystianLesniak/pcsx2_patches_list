@@ -812,6 +812,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66271|Dirge of Cerberus - Final Fantasy VII (J)|[AFAC88EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66271_AFAC88EF.pnach)|Widescreen hack|
 |SLPM-66629|Dirge of Cerberus - Final Fantasy VII International [Ultimate Hits] (NTSC-J) |[BC06733B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66629_BC06733B.pnach)|Widescreen Hack (16:9)|
 |SLES-54185|Dirge of Cerberus: Final Fantasy VII (PAL-M5) |[33F7D21A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54185_33F7D21A.pnach)|Widescreen Hack|
+|SLES-51621|Dirt Track Devils (E)|[8760B4B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51621_8760B4B1.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20561|Disaster Report |[7D7D4D9D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20561_7D7D4D9D.pnach)|Widescreen Hack|
 |SCPS-56012|Disaster Report (K) |[8D726B7A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56012_8D726B7A.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLKA-25048|Disgaea - Hour of Darkness (K)|[AE97CE43](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25048_AE97CE43.pnach)|Widescreen hack|
@@ -825,7 +826,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54452|Disney Chicken Little - As en Acción (PAL-S)  F7D63335|[F7D63335](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54452_F7D63335.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-55502|Disney G-Force (PAL-R)  09BF522A|[09BF522A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55502_09BF522A.pnach)|Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLES-55499|Disney G-Force [PAL-M]  AB761209|[AB761209](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55499_AB761209.pnach)|Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
+|SLES-55293|Disney Hannah Montana - Spotlight World Tour (E)|[56CEA32F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55293_56CEA32F.pnach)|Widescreen Hack by Arapapa|
+|SLUS-21750|Disney Hannah Montana - Spotlight World Tour (U)|[A06A7AFD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21750_A06A7AFD.pnach)|Widescreen Hack by Arapapa|
 |SLES-55398|Disney High School Musical 3 - Senior Year Dance! (E)|[8ED1E558](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55398_8ED1E558.pnach)|Widescreen Hack by Arapapa|
+|SLUS-21819|Disney High School Musical 3 - Senior Year Dance! (U)|[D3F40C6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21819_D3F40C6A.pnach)|Widescreen Hack by Arapapa|
 |SLES-51666|Disney Piglet - El Gran Juego (PAL-S)  1BD0A97E|[1BD0A97E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51666_1BD0A97E.pnach)|Renders the game in 16:9 aspect ratio|
 |SLUS-20659|Disney Presents Piglet's Big Game (U)|[004B2E96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20659_004B2E96.pnach)|Widescreen Hack by Arapapa|
 |SLES-54837|Disney Princess - Enchanted Journey (E)|[5F30B426](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54837_5F30B426.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
@@ -1872,9 +1876,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54674|Lara Croft Tomb Raider: Anniversary *  * PAL-M10 * A629A376|[A629A376](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54674_A629A376.pnach)|Might need EE overclocking to be stable.<br />Native Widescreen activation hack.<br />Activates the native widescreen and shifts it to 16:10.<br />Activates the native widescreen and shifts it to 15:10.<br />Bisects the Blackbars<br />Removes the Blackbars|
 |SLES-53908|Lara Croft Tomb Raider: Legend *  * PAL-M8 * 05177ECE|[05177ECE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53908_05177ECE.pnach)|Might need EE overclocking to be stable.<br />Native Widescreen activation hack.<br />Activates the native widescreen and shifts it to 16:10.<br />Activates the native widescreen and shifts it to 15:10.<br />Bisects the Blackbars<br />Removes the Blackbars|
 |SLES-51227|Lara Croft Tomb Raider: The Angel of Darkness *  * PAL-M10 * 54AD76D7|[54AD76D7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51227_54AD76D7.pnach)|Might need EE overclocking to be stable.<br />60 fps through HDTV 720p mode|
-|SLKA-25073|Lara Croft Tomb Raider: The Angel of Darkness * NTSC-K *  * 98D833A0|[98D833A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25073_98D833A0.pnach)||
-|SLUS-20467|Lara Croft Tomb Raider: The Angel of Darkness * NTSC-U *  * 3BAEBCC3|[3BAEBCC3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20467_3BAEBCC3.pnach)||
-|SLPS-25246|Lara Croft Tomb Raider: Utsukushiki Toubousha * NTSC-J *  * 19D22A40|[19D22A40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25246_19D22A40.pnach)||
+|SLKA-25073|Lara Croft Tomb Raider: The Angel of Darkness * NTSC-K *  * 98D833A0|[98D833A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25073_98D833A0.pnach)|Native Widescreen activation hack (Full boot bypassing)|
+|SLUS-20467|Lara Croft Tomb Raider: The Angel of Darkness * NTSC-U *  * 3BAEBCC3|[3BAEBCC3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20467_3BAEBCC3.pnach)|Native Widescreen activation hack (Full boot bypassing)|
+|SLPS-25246|Lara Croft Tomb Raider: Utsukushiki Toubousha * NTSC-J *  * 19D22A40|[19D22A40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25246_19D22A40.pnach)|Native Widescreen activation hack (Full boot bypassing)|
 |SLES-51093|Largo Winch - Empire Under Threat (E)|[1373EB26](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51093_1373EB26.pnach)|Widescreen hack by Arapapa|
 |SLUS-21440|LarryBoy and the Bad Apple [NTSC-U] |[4E838541](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21440_4E838541.pnach)|Widescreen hack by El_Patas (Causes a glitch in the upper left HUD panel)|
 |SLES-54669|Lassie (E)|[9CBB7B0F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54669_9CBB7B0F.pnach)|Widescreen hack by Arapapa|
@@ -1988,7 +1992,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53690|Makai Kingdom: Chronicles of the Sacred Tome [PAL] |[C97A17F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53690_C97A17F8.pnach)|Widescreen hack by El_Patas|
 |SLPS-20251|Makai Senki Disgaea |[8C104E5A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20251_8C104E5A.pnach)|Widescreen hack by nemesis2000|
 |SLPS-25608|Makai Senki Disgaea 2 (J) (SLPS-256.08)|[4334E17D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25608_4334E17D.pnach)|Widescreen hack by nemesis2000 (pnach by Arapapa)|
-|SLPS-25042|Maken Shao - Limited Edition |[F7CD277C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25042_F7CD277C.pnach)|Progressive scan patch.<br />Renders the game in 16:9 aspect ratio, instead of 4:3.|
+|SLPS-25042|Maken Shao - Limited Edition |[F7CD277C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25042_F7CD277C.pnach)|NTSC-J Widescreen Hack<br />Progressive scan patch.<br />Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-51058|Maken Shao (PAL) |[54854C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51058_54854C71.pnach)|Widescreen Hack<br />Progressive scan and 60hz patch|
 |SLES-55443|Mana Khemia - Alchemists of Al-Revis (PAL-E) |[44194750](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55443_44194750.pnach)|Widescreen Hack (16:9) by nemesis2000|
 |SLUS-21890|Mana Khemia 2: Fall of Alchemy |[433951E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21890_433951E7.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
@@ -3068,6 +3072,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20474|Simple 2000 Series Vol. 107 - The Honoo no Kakutou Banchou (J)|[F3A2AB09](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20474_F3A2AB09.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20476|Simple 2000 Series Vol. 108 - The Nippon Tokushubutai (J)|[715D9DD3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20476_715D9DD3.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20478|Simple 2000 Series Vol. 109 - The Taxi 2 (J)|[91A93F28](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20478_91A93F28.pnach)|Widescreen Hack by Arapapa|
+|SLPM-62223|Simple 2000 Series Vol. 11 - The Offroad Buggy(Rebuild) (J)(PBPX-95201)|[35610B70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62223_35610B70.pnach)|Widescreen Hack by Arapapa|
+|PBPX-95201|Simple 2000 Series Vol. 11 - The Offroad Buggy(Rebuild) (J)(SLPM-62223)|[35610B70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_35610B70.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25703|Simple 2000 Series Vol. 111 - The Itadaki Raider (J)|[9C4A9CD2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25703_9C4A9CD2.pnach)|Widescreen Hack by Arapapa|
 |SLPS-20488|Simple 2000 Series Vol. 113: The Tairyou Jigoku [NTSC-J] |[82481A67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20488_82481A67.pnach)|Widescreen Hack by El_Patas|
 |SLPS-20489|Simple 2000 Series Vol. 114 - The Onna Okappichi Torimonochou - Oharuchan Go Go Go! [NTSC-J] |[FC0F8A5B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20489_FC0F8A5B.pnach)|Widescreen Hack|
@@ -3285,7 +3291,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54659|Star Wars - The Force Unleashed [PAL-M]  DAF2145C|[DAF2145C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54659_DAF2145C.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-20898|Star Wars: Battlefront (NTSC-U)|[503BF9E1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20898_503BF9E1.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-53501|Star Wars: Battlefront 2 (E)|[B68D35CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53501_B68D35CA.pnach)|Widescreen Hack by nemesis2000 and Arapapa<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
-|SLES-53502|Star Wars: Battlefront 2 (F)(SLES-53505)|[EFC63B51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53502_EFC63B51.pnach)|Widescreen Hack Conversion|
+|SLES-53502|Star Wars: Battlefront 2 (F)|[EFC63B51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53502_EFC63B51.pnach)|Widescreen Hack Conversion|
 |SLES-53503|Star Wars: Battlefront 2 (G)|[EAC52C47](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53503_EAC52C47.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
 |SLUS-21240|Star Wars: Battlefront 2 (U)|[249540F3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21240_249540F3.pnach)|Widescreen Hack by nemesis2000 and Arapapa<br />Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21240|Star Wars: Battlefront 2 (U)|[62390B9E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21240_62390B9E.pnach)|Widescreen Hack by nemesis2000 and Arapapa|
@@ -4071,7 +4077,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51113|Zone of the Enders: The 2nd Runner SLES 511.13|[3E0BEB3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51113_3E0BEB3A.pnach)|Widescreen Hack|
 |SLPM-65073|幻想水滸伝 III |[5AF8016F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65073_5AF8016F.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
 |SLPM-66286|幻想水滸伝 V |[7380A572](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66286_7380A572.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
-|PBPX-95201||[35610B70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_35610B70.pnach)|Widescreen Hack by Arapapa|
 |SCES-50858||[60013EBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50858_60013EBD.pnach)|Attempts to disable interlaced offset rendering.|
 |SCES-55255||[DA8DB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55255_DA8DB266.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-15013||[FE6D362F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15013_FE6D362F.pnach)|Attempts to disable interlaced offset rendering.|
@@ -4080,7 +4085,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50111||[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)||
 |SLES-50383||[A630B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50383_A630B37E.pnach)|Metal Gear Solid 2 - Sons Of Liberty (PAL-M3) (SLES-50383) Widescreen Hack (16:9) by ElHecht|
 |SLES-51619||[D9FC6310](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51619_D9FC6310.pnach)|Clock Tower 3 - Widescreen Hack (16:9) (PAL-E) // strider3871<br />Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
-|SLES-51621||[8760B4B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51621_8760B4B1.pnach)|Widescreen Hack by Arapapa|
 |SLES-51815||[9AAC5309](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51815_9AAC5309.pnach)|Final Fantasy X-2 (PAL-Europe/Australia) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
 |SLES-51817||[9AAC530D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51817_9AAC530D.pnach)|Final Fantasy X-2 (PAL-G) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
 |SLES-51877||[C5DBDB45](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51877_C5DBDB45.pnach)|Bloody Roar 4 (PAL) (SLES-51877) Widescreen Hack (16:9) by ElHecht|
@@ -4102,7 +4106,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54727||[DFE7D8AA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54727_DFE7D8AA.pnach)|Naruto - Uzumaki Chronicles (PAL-M5) (SLES-54727) Widescreen Hack (16:9) by ElHecht|
 |SLES-54878||[A816B282](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54878_A816B282.pnach)|Naruto - Ultimate Ninja 2 (PAL-M5) (SLES-54878) Widescreen Hack (16:9) by ElHecht|
 |SLES-55237||[FFCEBAC9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55237_FFCEBAC9.pnach)|Naruto - Ultimate Ninja 3 (PAL-M5) (SLES-55237) Widescreen Hack (16:9) by ElHecht|
-|SLES-55293||[56CEA32F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55293_56CEA32F.pnach)|Widescreen Hack by Arapapa|
 |SLES-55482||[69640884](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55482_69640884.pnach)|Naruto - Ultimate Ninja 4 (PAL-M3) (SLES-55482) Widescreen Hack (16:9) by ElHecht|
 |SLES-55605||[C071D4C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55605_C071D4C1.pnach)|Naruto - Ultimate Ninja 5 (PAL-M5) (SLES-55605) Widescreen Hack (16:9) by ElHecht|
 |SLES-82030||[167A484D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82030_167A484D.pnach)|Shadow Hearts 2 Covenant (PAL-M3) (SLES-82030) Widescreen Hack (16:9) by ElHecht|
@@ -4114,7 +4117,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-55184||[E97030DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55184_E97030DF.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-55292||[9E18263C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55292_9E18263C.pnach)|Removes the radiosity filter which causes a ghosting effect on the people and environment.|
 |SLPM-62205||[A1AA9D67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62205_A1AA9D67.pnach)|Attempts to disable interlaced offset rendering.|
-|SLPM-62223||[35610B70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62223_35610B70.pnach)|Widescreen Hack by Arapapa|
 |SLPM-65218||[903CCECC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65218_903CCECC.pnach)|Bomberman Jetters (SLPM_65218) Widescreen Hack (gamemasterplc)|
 |SLPM-65218||[B4AC4EE0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65218_B4AC4EE0.pnach)|Bomberman Jetters (SLPM_65218) Widescreen Hack (gamemasterplc)|
 |SLPM-65266||[BFB0DFBE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65266_BFB0DFBE.pnach)|Drakengard (J) (SLPM_652.66)<br />Widescreen Hack by Hyakki (pnach by Arapapa)<br />Enhacement by Felixthecat1970|
@@ -4166,7 +4168,5 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21574||[9DC1CED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21574_9DC1CED8.pnach)|Dawn of Mana UNDUB SLUS-21574 - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
 |SLUS-21594||[E0A817F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21594_E0A817F8.pnach)|Naruto - Uzumaki Chronicles 2 (NTSC-U) (SLUS-21594) Widescreen Hack (16:9) by ElHecht|
 |SLUS-21720||[21D3B445](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21720_21D3B445.pnach)|Attempts to disable interlaced offset rendering.|
-|SLUS-21750||[A06A7AFD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21750_A06A7AFD.pnach)|Widescreen Hack by Arapapa|
-|SLUS-21819||[D3F40C6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21819_D3F40C6A.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21846||[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)||
 |||[FF3DB201](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF3DB201.pnach)||
