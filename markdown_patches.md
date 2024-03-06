@@ -1043,7 +1043,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-62084|ESPN X-Games Skateboarding (J)|[33A198C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62084_33A198C1.pnach)|Widescreen hack by Arapapa|
 |SLPM-65009|ESPN X-Games Snowboarding (J)|[0EFF5BCA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65009_0EFF5BCA.pnach)|Widescreen hack by Arapapa|
 |SLPM-65072|ESPN X-Games Snowboarding 2002 (J)|[5350FBD1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65072_5350FBD1.pnach)|Widescreen hack by Arapapa|
-|SLPM-66211|eter Jackson's King Kong - The Official Game of the Movie (J)|[7EC8A8A3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66211_7EC8A8A3.pnach)|Widescreen hack by Arapapa|
 |SLUS-21779|Eternal Poison (U) |[2BE55519](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21779_2BE55519.pnach)|Widescreen Hack by Arapapa|
 |SLES-51624|Eternal Quest (E)|[2C019D1F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51624_2C019D1F.pnach)|Widescreen hack|
 |SLES-50051|Eternal Ring (E)|[C5B61685](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50051_C5B61685.pnach)|Widescreen hack by Arapapa|
@@ -2494,6 +2493,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51735|Perfect Ace - Pro Tournament Tennis (E)|[928F63CD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51735_928F63CD.pnach)|Widescreen hack by Arapapa|
 |SLES-52402|Perfect Ace 2 - The Championships (E)|[CFF1365D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52402_CFF1365D.pnach)|Widescreen hack by Arapapa|
 |SLES-53703|Peter Jackson's King Kong - The Official Game of the Movie (E)|[2D0F72D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53703_2D0F72D6.pnach)|Widescreen hack by Arapapa|
+|SLPM-66211|Peter Jackson's King Kong - The Official Game of the Movie (J)|[7EC8A8A3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66211_7EC8A8A3.pnach)|Widescreen hack by Arapapa|
 |SLKA-25337|Peter Jackson's King Kong - The Official Game of the Movie (K)|[EA9B3268](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25337_EA9B3268.pnach)|Widescreen hack by Arapapa|
 |SLUS-21311|Peter Jackson's King Kong - The Official Game of the Movie (U)|[2B1CC3FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21311_2B1CC3FF.pnach)|Widescreen hack by Arapapa|
 |SLPM-66663|Phantasy Star Universe - Ambition of the Illuminus (NTSC-J) |[32E8F92A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66663_32E8F92A.pnach)|Widescreen Hack (16:9) by ElHecht (pnach NTSC-J by Arapapa)|
