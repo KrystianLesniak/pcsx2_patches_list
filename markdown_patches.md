@@ -2629,7 +2629,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97353|Ratchet & Clank - Up Your Arsenal|[45FE0CC4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97353_45FE0CC4.pnach)|Widescreen hack by PsxFan107|
 |SCUS-97353|Ratchet & Clank - Up Your Arsenal|[49536F3F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97353_49536F3F.pnach)|Widescreen hack by PsxFan107|
 |SCPS-15037|Ratchet & Clank (J)|[56A35F77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15037_56A35F77.pnach)|Widescreen hack by PsxFan107 (NTSC-J by Arapapa)|
-|SCUS-97199|Ratchet & Clank (NTSC-U)|[CE4933D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97199_CE4933D0.pnach)|Widescreen hack by PsxFan107. Currently it appears to break rendering of textures in some areas.|
 |SCES-50916|Ratchet & Clank (PAL-M5) |[76F724A3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50916_76F724A3.pnach)|Widescreen hack by ElHecht|
 |SCES-51607|Ratchet & Clank 2 (PAL-M5) |[2F486E6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51607_2F486E6F.pnach)|Widescreen hack by ElHecht|
 |SCES-52456|Ratchet & Clank 3 (PAL-M5) |[17125698](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52456_17125698.pnach)|Widescreen hack by ElHecht|
@@ -4097,6 +4096,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-55255||[DA8DB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55255_DA8DB266.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-15013||[FE6D362F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15013_FE6D362F.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-15045||[DC73BFF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15045_DC73BFF8.pnach)|KA2 aka Mr Mosquito 2 - Widescreen Hack (16:9) (NTSC-J)|
+|SCUS-97199||[CE4933D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97199_CE4933D0.pnach)||
 |SCUS-97231||[E7B6CFA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97231_E7B6CFA2.pnach)|Arc - Twilight of the Spirits - Widescreen Hack (16:9) (NTSC-U)|
 |SLES-50111||[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)||
 |SLES-50383||[A630B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50383_A630B37E.pnach)|Metal Gear Solid 2 - Sons Of Liberty (PAL-M3) (SLES-50383) Widescreen Hack (16:9) by ElHecht|
