@@ -2512,6 +2512,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21478|Pirates - Legend of the Black Buccaneer (U)|[741E27AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21478_741E27AB.pnach)|Widescreen hack by Arapapa|
 |SLUS-21110|Pirates of The Caribbean - The Legend of Jack Sparrow NTSC-U |[632E3976](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21110_632E3976.pnach)|Widescreen Hack|
 |SLES-54237|Pirates of The Caribbean - The Legend of Jack Sparrow PAL[M5]  E6C2F211|[E6C2F211](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54237_E6C2F211.pnach)|Widescreen Hack Conversion<br />Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
+|SLES-51687|Pitfall - The Lost Expedition (PAL-F)  D8A68BBA|[D8A68BBA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51687_D8A68BBA.pnach)|Ported by Bigdemon|
 |SLES-51690|Pitfall - The Lost Expedition (PAL-S)  D8A68BBA|[D8A68BBA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51690_D8A68BBA.pnach)|Widescreen Hack|
 |SLUS-20408|Pitfall - The Lost Expedition (U)|[394F402E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20408_394F402E.pnach)|Widescreen Hack by Arapapa|
 |SLES-53965|Plan, Th3 (PAL-E)  ACE7A856|[ACE7A856](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53965_ACE7A856.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
@@ -2798,6 +2799,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20899|Samurai Jack - The Shadow of Aku |[51B675DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20899_51B675DE.pnach)|Widescreen Hack|
 |SLES-53004|Samurai Warriors - Xtreme Legends (PAL-G) |[95E985AA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53004_95E985AA.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLUS-20878|Samurai Warriors (NTSC-U) |[CF11CD83](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20878_CF11CD83.pnach)|Widescreen Hack (16:9) by ElHecht|
+|SLES-52552|Samurai Warriors (PAL-F) |[BCCAB4C0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52552_BCCAB4C0.pnach)|Ported by Bigdemon|
 |SLES-52553|Samurai Warriors (PAL-G) |[73C051CE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52553_73C051CE.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLES-54624|Samurai Warriors 2 - Empires (PAL-E) |[2FF26DC2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54624_2FF26DC2.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLUS-21585|Samurai Warriors 2 - Empires (U)  [3D3D9A58]|[3D3D9A58](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21585_3D3D9A58.pnach)|Widescreen Hack (16:9) by ElHecht converted by Shang|
@@ -3233,6 +3235,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21812|Speed Racer |[F2980E1A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21812_F2980E1A.pnach)|Widescreen hack by pelvicthrustman|
 |SLES-55075|Speed Racer (PAL) |[24FCE337](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55075_24FCE337.pnach)|Widescreen hack by pelvicthrustman<br />PAL Port by PuNkY_BoY|
 |SLES-50812|Spider-Man - The Movie (E)|[CB179BA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50812_CB179BA2.pnach)|Widescreen Hack by Arapapa|
+|SLES-50813|Spider-Man - The Movie (F)|[295D2F91](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50813_295D2F91.pnach)|Widescreen Hack Conversion|
 |SLPM-65205|Spider-Man - The Movie (J)|[359EA298](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65205_359EA298.pnach)|Widescreen Hack by Arapapa|
 |SLES-50965|Spider-Man - The Movie (S) CCF57297|[CCF57297](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50965_CCF57297.pnach)|Widescreen Hack|
 |SLUS-20336|Spider-Man - The Movie (U)|[015CB6F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20336_015CB6F4.pnach)|Widescreen Hack by Arapapa|
@@ -3266,6 +3269,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51285|SpongeBob Squarepants - Revenge of the Flying Dutchman (E)|[8FDE8E16](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51285_8FDE8E16.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20425|SpongeBob Squarepants - Revenge of the Flying Dutchman (U)|[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20904|Spongebob Squarepants Movie Game (NTSC-U) |[536FEB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20904_536FEB77.pnach)|Forces the game to run at 16:9 aspect ratio|
+|SLES-52896|Spongebob Squarepants Movie Game (PAL-E) (M2) |[34DA05D2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52896_34DA05D2.pnach)|Widescreen Hack Conversion|
 |SLES-55024|SpongeBob's Atlantis SquarePantis (E)|[AE28C9C7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55024_AE28C9C7.pnach)|Widescreen Hack<br />Patches the game to run at 50 FPS.|
 |SLUS-21644|SpongeBob's Atlantis SquarePantis (U)|[1FF9C051](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21644_1FF9C051.pnach)|Widescreen Hack<br />Patches the game to run at 60 FPS.|
 |SLES-55610|Springdale (E)|[41ACBA03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55610_41ACBA03.pnach)|Widescreen hack by Arapapa|
@@ -3283,6 +3287,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52569|Spyro: A Hero's Tail |[6E51213C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52569_6E51213C.pnach)|Widescreen|
 |SLUS-20884|Spyro: A Hero's Tail |[94C56923](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20884_94C56923.pnach)|Widescreen|
 |SLUS-21321|Squadra Course Alfa Romeo (Alfa Romeo Racing Italiano) (U)|[22FB53FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21321_22FB53FF.pnach)|Widescreen hack by Arapapa|
+|SLUS-21278|SSX On Tour (U)|[0F27ED9B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21278_0F27ED9B.pnach)|Forces 60 frames per second|
 |SLPM-65704|Standard Daisenryaku - Dengekisen (J)|[CD1EC9D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65704_CD1EC9D0.pnach)|Widescreen hack by Arapapa|
 |SLPM-65959|Standard Daisenryaku - Shiwareta Shouri (J)|[5D41A6AD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65959_5D41A6AD.pnach)|Widescreen hack by Arapapa|
 |SLUS-21396|Star Trek - Encounters (U)|[E91EAFEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21396_E91EAFEE.pnach)|Widescreen hack by Arapapa|
@@ -3359,6 +3364,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25528|Summon Night EX Thesis - Yoake no Tsubasa (J)|[0C3E8D76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25528_0C3E8D76.pnach)|Widescreen Hack by Arapapa|
 |SLPS-25947|Summon Night Gran-These - Horobi no Tsurugi to Yakusoku no Kishi (J)|[081CA57B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25947_081CA57B.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20074|Summoner |[13E2774E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20074_13E2774E.pnach)|Widescreen Hack|
+|SLES-82003|Summoner (PAL-F) |[E7D4DC18](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82003_E7D4DC18.pnach)|Ported by Bigdemon|
 |SLES-82005|Summoner (PAL-G) |[24C43406](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82005_24C43406.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLES-51142|Summoner 2 (NTSC-U)|[B338676A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51142_B338676A.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-51143|Summoner 2 (PAL-F) |[CA5967E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51143_CA5967E2.pnach)|Widescreen Hack Conversion|
@@ -3399,6 +3405,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-52033|Syphon Filter: The Omega Strain |[27E54B37](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52033_27E54B37.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SCUS-97264|Syphon Filter: The Omega Strain |[D5605611](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97264_D5605611.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-21218|Tak - The Great Juju Challenge (U)|[4B06117D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21218_4B06117D.pnach)|Widescreen hack by Arapapa|
+|SLES-52103|Tak & Le Pouvoir de Juju (PAL-F)  2F1F3758|[2F1F3758](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52103_2F1F3758.pnach)|Widescreen Hack Conversion|
 |SLKA-25272|Tak 2 - The Staff of Dreams (K)|[1C713A5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25272_1C713A5C.pnach)|Widescreen hack by Arapapa|
 |SLUS-20952|Tak 2: The Staff of Dreams [NTSC-U]|[55F99E5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20952_55F99E5C.pnach)|Widescreen Hack by El_Patas|
 |SLES-53036|Tak 2: The Staff of Dreams [PAL] |[F1A69850](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53036_F1A69850.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
@@ -3622,6 +3629,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-56013|This is Football 2003 (K)|[C0E0549E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56013_C0E0549E.pnach)|Widescreen hack by Arapapa|
 |SCPS-15034|This is Football: Soccer Sekai Senki 2003 (J)|[A3EA7249](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15034_A3EA7249.pnach)|Widescreen hack by Arapapa|
 |SLUS-21413|Thrillville |[172417DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21413_172417DB.pnach)|Widescreen Patch (16:9) by Monsterjamp|
+|SLES-54807|Thrillville - Le Parc en Folie (PAL-F)|[A54496E5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54807_A54496E5.pnach)|Widescreen Hack Conversion|
 |SLKA-25343|Thrillville - Off the Rails (K)|[E8BF0F97](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25343_E8BF0F97.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21611|Thrillville - Off the Rails (U)|[63107E8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21611_63107E8F.pnach)|Widescreen Hack by Arapapa|
 |SLUS-21413|Thrillville (U)|[A4315184](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21413_A4315184.pnach)|Widescreen Hack by Arapapa|
@@ -3837,7 +3845,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53621|Wallace & Gromit - The Curse of the Were-Rabbit (E) 7C211BF9|[7C211BF9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53621_7C211BF9.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLUS-21312|Wallace & Gromit - The Curse of the Were-Rabbit (U)(SLUS-021312)|[073EEDC0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21312_073EEDC0.pnach)|Widescreen hack by Arapapa|
 |SLES-51372|Wallace & Gromit in Project Zoo (E)|[4AD214CB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51372_4AD214CB.pnach)|Widescreen hack by Arapapa|
-|SLES-51989|Wallace & Gromit in Project Zoo (PAL-M)  BF45EFF4|[BF45EFF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51989_BF45EFF4.pnach)|Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
+|SLES-51989|Wallace & Gromit in Project Zoo (PAL-M)  BF45EFF4|[BF45EFF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51989_BF45EFF4.pnach)|Widescreen hack Conversion<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLUS-20647|Wallace & Gromit in Project Zoo (U)|[E498DD6E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20647_E498DD6E.pnach)|Widescreen hack by Arapapa|
 |SLES-50045|Walt Disney's The Jungle Book - Groove Party (E)|[572D9D76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50045_572D9D76.pnach)|Widescreen hack by Arapapa|
 |SLUS-20075|Walt Disney's The Jungle Book - Rhythm N'Groove (U)|[46D74751](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20075_46D74751.pnach)|Widescreen hack by Arapapa|
