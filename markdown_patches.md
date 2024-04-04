@@ -1638,7 +1638,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20309|Jade Cocoon 2 |[CA91718B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20309_CA91718B.pnach)|Widescreen Hack|
 |SLES-50735|Jade Cocoon 2 (PAL-E) |[7FD7A1B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50735_7FD7A1B9.pnach)|Widescreen Hack (16:9) by ElHecht<br />Disable interlacing hack by ElHecht|
 |SCKA-20040|Jak 3 (NTSC-K) |[D1368EAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20040_D1368EAE.pnach)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|
-|SCES-52460|Jak 3 (PAL-M7) |[12804727](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52460_12804727.pnach)|Widescreen Hack|
+|SCES-52460|Jak 3 (PAL-M7) |[12804727](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52460_12804727.pnach)|Widescreen Hack.|
 |SCUS-97330|Jak 3 (U)|[644CFD03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97330_644CFD03.pnach)|Widescreen Hack by ElHecht (NTSC-U by Arapapa)|
 |SCES-55510|Jak and Daxter - The Lost Frontier  71583CA9|[71583CA9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55510_71583CA9.pnach)|Unlocked progressive Mode 480p|
 |SCUS-97124|Jak and Daxter - The Precursor Legacy (NTSC-U) |[1B3976AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_1B3976AB.pnach)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|
@@ -1646,7 +1646,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-50361|Jak and Daxter - The Precursor Legacy (PAL-M6) |[9C712FF0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50361_9C712FF0.pnach)|Widescreen Hack<br />No Interlacing & No Blur|
 |SCPS-15057|Jak II - Jak x Daxter 2 (J)|[B4976DAF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15057_B4976DAF.pnach)|Widescreen Hack by ElHecht (NTSC-J by Arapapa)|
 |SCKA-20010|Jak II - Renegade (NTSC-K) |[25FE4D23](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20010_25FE4D23.pnach)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|
-|SCES-51608|Jak II - Renegade (PAL-M7) |[2479F4A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51608_2479F4A9.pnach)|Widescreen Hack|
 |SCUS-97265|Jak II - Renegade (U)|[9184AAF1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97265_9184AAF1.pnach)|Widescreen Hack by ElHecht (NTSC-U by Arapapa)|
 |SCPS-15021|Jak x Daxter - Kyuusekai no Isan (NTSC-J) |[EDE4FE64](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15021_EDE4FE64.pnach)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|
 |SLES-50539|James Bond 007 - Agent Under Fire (E) |[992B46DC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50539_992B46DC.pnach)|16:9 widescreen patch|
@@ -2948,7 +2947,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65462|Shin Megami Tensei III Nocturne Maniax|[0E762E8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65462_0E762E8D.pnach)|NTSC-J Widescreen Hack by synce|
 |SLUS-21431|Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs the Soulless Army (NTSC-U)|[BD9EAA7A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21431_BD9EAA7A.pnach)|Widescreen pnach by El_Patas (Only works for 3D characters, not for prerendered backgrounds)|
 |SLES-54629|Shin Megami Tensei: Devil Summoner - Raidou Kuzunoha vs the Soulless Army PAL |[4D76082F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54629_4D76082F.pnach)|Widescreen pnach by El_Patas (Only works for 3D characters, not for prerendered backgrounds)|
-|SLUS-21845|Shin Megami Tensei: Devil Summoner 2: Raidou Kuzunoha vs. King Abaddon (NTSC-U)|[7FAE77BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21845_7FAE77BE.pnach)|Widescreen pnach (Only works for 3D, not for prerendered backgrounds)|
 |SLUS-21569|Shin Megami Tensei: Persona 3 |[7AE1C04B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21569_7AE1C04B.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLPM-66445|Shin Megami Tensei: Persona 3 (J) |[05C3D28F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66445_05C3D28F.pnach)|Widescreen hack by nemesis2000 (pnach by Arapapa)|
 |SCKA-20099|Shin Megami Tensei: Persona 3 (K) |[BCD68B1E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20099_BCD68B1E.pnach)|Widescreen hack by nemesis2000 and devina (pnach by Arapapa)|
@@ -4101,6 +4099,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65073|幻想水滸伝 III |[5AF8016F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65073_5AF8016F.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
 |SLPM-66286|幻想水滸伝 V |[7380A572](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66286_7380A572.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000 )|
 |SCES-50858||[60013EBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50858_60013EBD.pnach)|Attempts to disable interlaced offset rendering.|
+|SCES-51608||[2479F4A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51608_2479F4A9.pnach)||
 |SCES-55255||[DA8DB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55255_DA8DB266.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-15013||[FE6D362F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15013_FE6D362F.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-15045||[DC73BFF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15045_DC73BFF8.pnach)|KA2 aka Mr Mosquito 2 - Widescreen Hack (16:9) (NTSC-J)|
@@ -4192,5 +4191,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21574||[9DC1CED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21574_9DC1CED8.pnach)|Dawn of Mana UNDUB SLUS-21574 - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
 |SLUS-21594||[E0A817F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21594_E0A817F8.pnach)|Naruto - Uzumaki Chronicles 2 (NTSC-U) (SLUS-21594) Widescreen Hack (16:9) by ElHecht|
 |SLUS-21720||[21D3B445](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21720_21D3B445.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-21845||[7FAE77BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21845_7FAE77BE.pnach)||
 |SLUS-21846||[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)||
 |||[FF3DB201](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF3DB201.pnach)||
