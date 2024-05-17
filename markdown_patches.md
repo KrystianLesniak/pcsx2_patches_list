@@ -1542,7 +1542,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21628|Hot Wheels - Beat That! (U)|[8EA70682](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21628_8EA70682.pnach)|Widescreen hack by Arapapa|
 |SLES-52481|Hot Wheels - Stunt Track Challenge |[1DE69E4C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52481_1DE69E4C.pnach)|Widescreen Hack|
 |SLES-52481|Hot Wheels - Stunt Track Challenge (PAL-Unk)|[39F20A4D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52481_39F20A4D.pnach)|Widescreen hack by Arapapa|
-|SLUS-20954|Hot Wheels - Stunt Track Challenge (U)|[E798B2D5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20954_E798B2D5.pnach)|Widescreen hack by Arapapa|
 |SLUS-20412|Hot Wheels - Velocity X (U)|[E7273BFA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20412_E7273BFA.pnach)|Widescreen hack by Arapapa|
 |SLES-51879|Hot Wheels - World Race (E)|[080807DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51879_080807DE.pnach)|Widescreen hack by Arapapa|
 |SLUS-20737|Hot Wheels - World Race (U)|[F803C7BC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20737_F803C7BC.pnach)|Widescreen hack by Arapapa|
@@ -4176,6 +4175,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20758||[03F9C6D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20758_03F9C6D1.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20858||[DDFD68B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20858_DDFD68B1.pnach)|Corvette (NTSC-U)|
 |SLUS-20913||[D7A2F802](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20913_D7A2F802.pnach)|InuYasha - Secret of the Cursed Mask(SLUS-20913) WS patch|
+|SLUS-20954||[E798B2D5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20954_E798B2D5.pnach)||
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-20974||[D7273511](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20974_D7273511.pnach)||
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
