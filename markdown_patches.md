@@ -905,7 +905,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25460|Dragon Ball Z 3 (J)|[5B26AFF9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25460_5B26AFF9.pnach)|Widescreen hack by ElHecht (NTSC-J by Arapapa)|
 |SLPS-25560|Dragon Ball Z Sparking! (J)|[E7D5481C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25560_E7D5481C.pnach)|Widescreen hack by sergx12/ElHecht (NTSC-J by Arapapa)|
 |SLPS-25815|Dragon Ball Z: Sparking! Meteor * NTSC-J *  * F28D21F1|[F28D21F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25815_F28D21F1.pnach)|16:9 Widescreen hack by RashFaustinho<br />based on sergx12's & 99skull's patches for the NTSC-U/NTSC-K versions|
-|SLPM-66363|Dragon Quest - Young Yangus Mysterious Dungeon (J) |[AE22A564](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66363_AE22A564.pnach)|Widescreen hack by Arapapa|
 |SLPM-65555|Dragon Quest V - Bride of the Sky (English Patched) (NTSC-J) |[E09E454C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65555_E09E454C.pnach)|Widescreen hack by kerostar (Font fix by Arapapa)|
 |SLPM-65555|Dragon Quest V - Tenkuu no Hanayome [NTSC-J] |[09C5BB8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65555_09C5BB8F.pnach)|Widescreen hack by kerostar (English patch)|
 |SLPM-65555|Dragon Quest V - Tenkuu no Hanayome [NTSC-J] |[72FBD360](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65555_72FBD360.pnach)|Widescreen hack by kerostar (English patch)|
@@ -3567,7 +3566,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55328|The Millenium European Paintball Series - Championship Paintball 2009 (E)|[E6585C44](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55328_E6585C44.pnach)|Widescreen Hack by Arapapa|
 |SLES-50510|The Mummy Returns (E)|[B9254C98](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50510_B9254C98.pnach)|Widescreen hack<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLUS-20253|The Mummy Returns (U)|[035BF93D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20253_035BF93D.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
-|SLPS-25377|The Nightmare of Druaga - Fushigi no Dungeon (J)|[B476ED7A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25377_B476ED7A.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLUS-21071|The Nightmare of Druaga: Fushigino Dungeon |[1F3E6C66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21071_1F3E6C66.pnach)|Widescreen Hack|
 |SLPM-62525|The Oneechanbara|[5D67AE48](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62525_5D67AE48.pnach)|NTSC-J Widescreen Hack by synce|
 |SLPS-20444|The Oneechanbara 2|[7E9FD243](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20444_7E9FD243.pnach)|NTSC-J Widescreen Hack by synce|
@@ -4147,9 +4145,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65266||[BFB0DFBE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65266_BFB0DFBE.pnach)|Drakengard (J) (SLPM_652.66)<br />Widescreen Hack by Hyakki (pnach by Arapapa)<br />Enhacement by Felixthecat1970|
 |SLPM-65565||[976BE857](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65565_976BE857.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLPM-66056||[F0C24BB1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66056_F0C24BB1.pnach)|Attempts to disable interlaced offset rendering.|
+|SLPM-66363||[AE22A564](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66363_AE22A564.pnach)||
 |SLPM-66750||[1E7A88A7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66750_1E7A88A7.pnach)|Final Fantasy XII International: Zodiac Job System (SLPM-66750)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />English patch|
 |SLPM-66750||[E20A9B0A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66750_E20A9B0A.pnach)|Final Fantasy XII International: Zodiac Job System (SLPM-66750)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)<br />Original game|
 |SLPM-66940||[D8AA81A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66940_D8AA81A8.pnach)|Gundam Musou Special (NTSC-J) 16:9|
+|SLPS-25377||[B476ED7A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25377_B476ED7A.pnach)||
 |SLPS-25686||[28244492](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25686_28244492.pnach)|JoJo no Kimyouna Bouken Phantom Blood (NTSC-J) (SLPS-25686) Widescreen Hack by Goshorai|
 |SLUS-20001||[67454C1E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20001_67454C1E.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />original no interlace code by asasega. ported by someother1ne|
 |SLUS-20001||[E84C9242](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20001_E84C9242.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />Attempts to disable interlaced offset rendering.|
