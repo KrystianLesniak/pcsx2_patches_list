@@ -1596,6 +1596,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50840|Indiana Jones y la Tumba del Emperador (PAL-S)  AE0E0C2F|[AE0E0C2F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50840_AE0E0C2F.pnach)|Widescreen Hack|
 |SLUS-21196|Indigo Prophecy |[A7A37EB8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21196_A7A37EB8.pnach)|Widescreen Hack|
 |SLKA-25309|Indigo Prophecy (K)  |[A320AABE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25309_A320AABE.pnach)|Widescreen patch (pnach NTSC-J by Arapapa)|
+|SLPM-65268|Initial D Special Stage (J)|[A62EBC2C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65268_A62EBC2C.pnach)|16:9 widescreen hack 99skull and Arapapa|
 |SLPM-65268|Initial D Special Stage (J)|[B9FA5764](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65268_B9FA5764.pnach)|16:9 widescreen hack 99skull and Arapapa|
 |SLUS-21641|Innocent Life - A Futuristic Harvest Moon (NTSC-U) |[9AEF9126](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21641_9AEF9126.pnach)|Widescreen Hack by VIRGIN KLM|
 |SLES-50914|International Cue Club (PAL-M5) |[4369DC37](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50914_4369DC37.pnach)|Widescreen Hack by El_Patas|
