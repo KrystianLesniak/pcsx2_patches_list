@@ -2001,7 +2001,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20251|Makai Senki Disgaea |[8C104E5A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20251_8C104E5A.pnach)|Widescreen hack by nemesis2000|
 |SLPS-25608|Makai Senki Disgaea 2 (J) (SLPS-256.08)|[4334E17D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25608_4334E17D.pnach)|Widescreen hack by nemesis2000 (pnach by Arapapa)|
 |SLPS-25042|Maken Shao - Limited Edition |[F7CD277C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25042_F7CD277C.pnach)|NTSC-J Widescreen Hack<br />Progressive scan patch.<br />Renders the game in 16:9 aspect ratio, instead of 4:3.|
-|SLES-51058|Maken Shao (PAL) |[54854C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51058_54854C71.pnach)|Widescreen Hack<br />Progressive scan and 60hz patch|
+|SLES-51058|Maken Shao (PAL) |[54854C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51058_54854C71.pnach)|Widescreen Hack<br />Progressive scan|
 |SLES-55443|Mana Khemia - Alchemists of Al-Revis (PAL-E) |[44194750](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55443_44194750.pnach)|Widescreen Hack (16:9) by nemesis2000|
 |SLUS-21890|Mana Khemia 2: Fall of Alchemy |[433951E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21890_433951E7.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLPM-55005|Mana Khemia 2: Fall of Alchemy [NTSC-J]|[D6E90E33](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55005_D6E90E33.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
@@ -2502,7 +2502,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54892|Phantasy Star Universe - Ambition of the Illuminus (PAL-M3) |[17CAC631](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54892_17CAC631.pnach)|Widescreen Hack (16:9) by ElHecht|
 |SLPM-66031|Phantasy Star Universe (NTSC-J) |[9288AA35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66031_9288AA35.pnach)|Widescreen Hack (16:9) by ElHecht (pnach NTSC-J by Arapapa)|
 |SLUS-21194|Phantasy Star Universe (NTSC-U) |[29B44F89](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21194_29B44F89.pnach)|Widescreen Patch by TechieSaru|
-|SLES-54308|Phantasy Star Universe (PAL-M3)  38A5588B|[38A5588B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54308_38A5588B.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
+|SLES-54308|Phantasy Star Universe (PAL-M3)  38A5588B|[38A5588B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54308_38A5588B.pnach)|Removes black bars in cutscenes|
 |SLUS-20955|Phantom Brave [NTSC-U] |[B43000A1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20955_B43000A1.pnach)|Widescreen hack by El_Patas|
 |SLES-52951|Phantom Brave [PAL] |[977116A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52951_977116A5.pnach)|Widescreen hack by El_Patas|
 |SLPS-20410|Phantom Kingdom (J)|[BE3F85FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20410_BE3F85FF.pnach)|Widescreen Hack by Arapapa|
