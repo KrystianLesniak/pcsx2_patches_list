@@ -1920,7 +1920,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55133|LEGO Indiana Jones: The Original Adventures [PAL] |[6B1E796B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55133_6B1E796B.pnach)|Widescreen hack by El_Patas|
 |SLUS-21083|LEGO Star Wars - The Video Game |[926307DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21083_926307DE.pnach)|Widescreen Hack|
 |SLPS-20423|LEGO Star Wars (J)|[7BE628C2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20423_7BE628C2.pnach)|Widescreen hack by Arapapa|
-|SLES-54221|LEGO Star Wars II - The Original Trilogy (E)|[37E36C6D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54221_37E36C6D.pnach)|Widescreen hack by Arapapa|
 |SLPM-66572|LEGO Star Wars II - The Original Trilogy (J)|[9830E5FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66572_9830E5FD.pnach)|Widescreen hack by Arapapa|
 |SLUS-21409|LEGO Star Wars II - The Original Trilogy (U)|[DBC0EE78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21409_DBC0EE78.pnach)|Widescreen hack by Arapapa|
 |SLUS-21083|LEGO Star Wars: The Video Game [NTSC-U] (v1.01) |[50A57492](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21083_50A57492.pnach)|Widescreen hack by El_Patas and gamemasterplc|
@@ -3450,7 +3449,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25100|Tekken 4 [NTSC-J] |[26173F9A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25100_26173F9A.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-21059|Tekken 5 |[652050D2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21059_652050D2.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SCKA-20049|Tekken 5 (NTSC-K) |[EA64EF39](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20049_EA64EF39.pnach)|Widescreen hack by nemesis2000, porting by 99skull|
-|SCES-53202|Tekken 5 (PAL-M5) |[1F88BECD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53202_1F88BECD.pnach)|Widescreen ported from NTSC hack by nemesis2000|
+|SCES-53202|Tekken 5 (PAL-M5) |[1F88BECD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53202_1F88BECD.pnach)|Widescreen ported from NTSC hack by nemesis2000 fixed by PeterDelta.|
 |SLPS-25510|Tekken 5 [NTSC-J] |[FC46EA61](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25510_FC46EA61.pnach)|Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SCKA-20039|Tekken Nina Williams In Death By Degree (K) F088FA5B|[F088FA5B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20039_F088FA5B.pnach)|Widescreen hack<br />Removes black bars in cutscenes|
 |SCPS-56002|Tekken Tag Tournament |[D73A8856](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56002_D73A8856.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
@@ -4124,6 +4123,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53870||[1DE8E946](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53870_1DE8E946.pnach)|Devil Kings (PAL-M5) (SLES-53870) Widescreen Hack (16:9) by ElHecht|
 |SLES-54156||[433A82D4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54156_433A82D4.pnach)|Mortal Kombat - Armageddon (PAL-M5) (SLES-54156) Widescreen Hack (16:9) by ElHecht|
 |SLES-54163||[47166C2F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54163_47166C2F.pnach)|Naruto - Ultimate Ninja (PAL-M5) (SLES-54163)<br />Widescreen Hack by ElHecht & Arapapa|
+|SLES-54221||[37E36C6D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54221_37E36C6D.pnach)||
 |SLES-54354||[78DA0252](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54354_78DA0252.pnach)|Final Fantasy XII (SLES-54354)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLES-54356||[DC2A467E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54356_DC2A467E.pnach)|Final Fantasy XII (SLES-54356)<br />Widescreen hack by nemesis2000 (original pnach by nemesis2000)<br />Ported from PAL-E to PAL-G by theHOMER|
 |SLES-54711||[03F9539F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54711_03F9539F.pnach)|Shadow Hearts 3 - From The New World (PAL-E) (SLES-54711) Widescreen Hack (16:9) by ElHecht|
