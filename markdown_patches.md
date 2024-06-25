@@ -917,7 +917,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50631|Dragon Rage [PAL-M2-French-German] |[66EC6EF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50631_66EC6EF6.pnach)|Widescreen Hack by El_Patas|
 |SLPS-25735|Dragon Shadow Spell (J)|[8B8B97C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25735_8B8B97C8.pnach)|Widescreen Hack by Arapapa|
 |SLES-54460|Dragon Sisters (PAL-E) |[1054ED67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54460_1054ED67.pnach)|Widescreen Hack (16:9)<br />Disable interlacing hack by ElHecht|
-|SLUS-20591|DragonBall Z - Budokai |[2FF8E31F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20591_2FF8E31F.pnach)|Widescreen Hack|
+|SLUS-20591|DragonBall Z - Budokai |[2FF8E31F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20591_2FF8E31F.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLES-51233|DragonBall Z - Budokai (PAL-M5) |[37472BE0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51233_37472BE0.pnach)|Widescreen Hack|
 |SLUS-20779|DragonBall Z - Budokai 2 (NTSC-US) |[1FB1F8E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20779_1FB1F8E2.pnach)|Widescreen hack by Catarax|
 |SLES-51839|DragonBall Z - Budokai 2 (PAL-M5) |[FE09A7CC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51839_FE09A7CC.pnach)|Widescreen hack by ElHecht|
@@ -3464,7 +3464,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25064|Tenchu - Wrath of Heaven (NTSC-K)|[AFBEC8B7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25064_AFBEC8B7.pnach)|Widescreen hack (NTSC-K by Arapapa)|
 |SLES-51402|Tenchu - Wrath of Heaven (PAL-G) |[83261085](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51402_83261085.pnach)|Widescreen hack|
 |SLES-50679|Tenchu - Wrath of Heaven PAL (Europe) |[C8DADF58](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50679_C8DADF58.pnach)|Widescreen Hack|
-|SLES-51403|Tenchu - Wrath of Heaven PAL (PAL-F) |[A3AE7C2A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES_51403_A3AE7C2A.pnach)|Widescreen Hack Conversion|
+|SLES-51403|Tenchu - Wrath of Heaven PAL (PAL-F) |[A3AE7C2A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51403_A3AE7C2A.pnach)|Widescreen Hack Conversion|
 |SLES-51400|Tenchu - Wrath of Heaven PAL (Spain) |[7FA1510D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51400_7FA1510D.pnach)|Widescreen Hack|
 |SLUS-21129|Tenchu Fatal Shadows |[64C58FB4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21129_64C58FB4.pnach)|Widescreen Hack|
 |SLUS-21129|Tenchu Fatal Shadows |[A33AF77A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21129_A33AF77A.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
