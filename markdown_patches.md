@@ -3198,7 +3198,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21331|Sonic Riders (NTSC-U)|[B44896B7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21331_B44896B7.pnach)|Widescreen hack|
 |SLES-53560|Sonic Riders (PAL-M5) |[F881CD68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53560_F881CD68.pnach)|Widescreen hack by ElHecht|
 |SLUS-21642|Sonic Riders Zero Gravity (NTSC-U)|[D04516EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21642_D04516EE.pnach)|Widescreen hack by JLB|
-|SLES-55380|Sonic Unleashed (PAL-M5)  8C913264|[8C913264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55380_8C913264.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.<br />Forces progressive scan mode at 60 fps|
+|SLES-55380|Sonic Unleashed (PAL-M5)  8C913264|[8C913264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55380_8C913264.pnach)|Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.<br />Forces progressive scan mode at 60 fps|
 |SLPS-25008|Sorcerous Stabber Orphen [NTSC-J] |[126B585A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25008_126B585A.pnach)|Pnach by Little Giant|
 |SLES-51301|SOS: The Final Escape |[337BF959](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51301_337BF959.pnach)|Widescreen Hack|
 |SLPS-25827|Soukou Kihei Votoms (NTSC-J)|[50AE9E9E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25827_50AE9E9E.pnach)|Widescreen hack by Arapapa|
