@@ -3266,7 +3266,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25319|SpongeBob SquarePants - Lights, Camera, Pants! (K)|[1C0740ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25319_1C0740ED.pnach)|Widescreen hack by Arapapa|
 |SLUS-21252|SpongeBob SquarePants - Lights, Camera, Pants! (U)|[9DDF4676](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21252_9DDF4676.pnach)|Widescreen hack by Arapapa|
 |SLES-51285|SpongeBob Squarepants - Revenge of the Flying Dutchman (E)|[8FDE8E16](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51285_8FDE8E16.pnach)|Widescreen Hack by Arapapa|
-|SLUS-20425|SpongeBob Squarepants - Revenge of the Flying Dutchman (U)|[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)|Widescreen Hack by Arapapa|
 |SLUS-20904|Spongebob Squarepants Movie Game (NTSC-U) |[536FEB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20904_536FEB77.pnach)|Forces the game to run at 16:9 aspect ratio|
 |SLES-52896|Spongebob Squarepants Movie Game (PAL-E) (M2) |[34DA05D2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52896_34DA05D2.pnach)|Widescreen Hack Conversion|
 |SLES-55024|SpongeBob's Atlantis SquarePantis (E)|[AE28C9C7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55024_AE28C9C7.pnach)|Widescreen Hack<br />Patches the game to run at 50 FPS.|
@@ -4163,6 +4162,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20307||[4783F7ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20307_4783F7ED.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20388||[339A0B8C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20388_339A0B8C.pnach)|Fatal Frame (SLUS-20388)<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-20425||[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)||
 |SLUS-20485||[3FBF0EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20485_3FBF0EA6.pnach)|Dino Stalker (SLUS-20485)<br />Widescreen hack by nemesis2000 (pnach by nemesis2000)|
 |SLUS-20515||[07AD79C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20515_07AD79C9.pnach)|Yu-Gi-Oh! The Duelist of the Roses NTSC-U patches|
 |SLUS-20562||[43048DD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20562_43048DD4.pnach)|dot Hack - Part 2 - Mutation - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
