@@ -1638,7 +1638,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50735|Jade Cocoon 2 (PAL-E) |[7FD7A1B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50735_7FD7A1B9.pnach)|Widescreen Hack (16:9) by ElHecht<br />Disable interlacing hack by ElHecht|
 |SCKA-20040|Jak 3 (NTSC-K) |[D1368EAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20040_D1368EAE.pnach)|Widescreen Hack by ElHecht (NTSC-K by Arapapa)|
 |SCES-52460|Jak 3 (PAL-M7) |[12804727](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52460_12804727.pnach)|Widescreen Hack.|
-|SCUS-97330|Jak 3 (U)|[644CFD03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97330_644CFD03.pnach)|Widescreen Hack by ElHecht (NTSC-U by Arapapa)|
 |SCES-55510|Jak and Daxter - The Lost Frontier  71583CA9|[71583CA9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55510_71583CA9.pnach)|Unlocked progressive Mode 480p|
 |SCUS-97124|Jak and Daxter - The Precursor Legacy (NTSC-U) |[1B3976AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_1B3976AB.pnach)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|
 |SCUS-97124|Jak and Daxter - The Precursor Legacy (NTSC-U) (Greatest Hits)|[472E7699](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_472E7699.pnach)|Widescreen Hack (16:9) by ElHecht<br />No Interlacing & No Blur|
@@ -4104,6 +4103,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-15045||[DC73BFF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15045_DC73BFF8.pnach)|KA2 aka Mr Mosquito 2 - Widescreen Hack (16:9) (NTSC-J)|
 |SCUS-97199||[CE4933D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97199_CE4933D0.pnach)||
 |SCUS-97231||[E7B6CFA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97231_E7B6CFA2.pnach)|Arc - Twilight of the Spirits - Widescreen Hack (16:9) (NTSC-U)|
+|SCUS-97330||[644CFD03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97330_644CFD03.pnach)||
 |SLES-50111||[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)||
 |SLES-50383||[A630B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50383_A630B37E.pnach)|Metal Gear Solid 2 - Sons Of Liberty (PAL-M3) (SLES-50383) Widescreen Hack (16:9) by ElHecht|
 |SLES-51153||[1A957202](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51153_1A957202.pnach)||
