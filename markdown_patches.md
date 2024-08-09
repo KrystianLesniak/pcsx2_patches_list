@@ -542,7 +542,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51249|Castleween (E)|[EE3BCA71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51249_EE3BCA71.pnach)||
 |SLES-52567|Catwoman (E)|[B90470B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52567_B90470B8.pnach)||
 |SLUS-20992|Catwoman (U)|[E3DF71E1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20992_E3DF71E1.pnach)||
-|SLES-51554|Cell Damage Overdrive (PAL-M5) |[904B7BA0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51554_904B7BA0.pnach)||
 |SLES-50636|Centre Court - Hard Hitter (E)|[2E34BD54](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50636_2E34BD54.pnach)||
 |SLKA-25291|Chains of Power (K)|[BD11A6EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25291_BD11A6EE.pnach)||
 |SLUS-20565|Champions of Norrath * NTSC-U *  * 90E66BC5|[90E66BC5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20565_90E66BC5.pnach)|EE overclock is needed to avoid infrequent frame rate drops.|
@@ -4107,6 +4106,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50111||[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)||
 |SLES-50383||[A630B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50383_A630B37E.pnach)|Metal Gear Solid 2 - Sons Of Liberty (PAL-M3) (SLES-50383) Widescreen Hack (16:9) by ElHecht|
 |SLES-51153||[1A957202](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51153_1A957202.pnach)||
+|SLES-51554||[904B7BA0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51554_904B7BA0.pnach)||
 |SLES-51815||[9AAC5309](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51815_9AAC5309.pnach)|Final Fantasy X-2 (PAL-Europe/Australia) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
 |SLES-51817||[9AAC530D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51817_9AAC530D.pnach)|Final Fantasy X-2 (PAL-G) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
 |SLES-51877||[C5DBDB45](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51877_C5DBDB45.pnach)|Bloody Roar 4 (PAL) (SLES-51877) Widescreen Hack (16:9) by ElHecht|
