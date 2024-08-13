@@ -1296,7 +1296,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21668|George of the Jungle and the Search for the Secret (U)|[028AAFC8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21668_028AAFC8.pnach)||
 |SLES-55529|Germany's Next Topmodel (PAL)|[6D666080](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55529_6D666080.pnach)||
 |SLPM-65949|Get Ride! AMDriver: Soukoku no Shinjitsu [NTSC-J] |[805627AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65949_805627AB.pnach)||
+|SCUS-97408|Getaway Black Monday [NTSC-U]  E78971DF|[E78971DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97408_E78971DF.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SCES-52758|Getaway Black Monday [PAL-M]  09C3DF79|[09C3DF79](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52758_09C3DF79.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
+|SCUS-97133|Getaway, The [NTSC-U]  E21404E2|[E21404E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97133_E21404E2.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SCES-51159|Getaway, The [PAL-M]  458485EF|[458485EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51159_458485EF.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLPM-62276|GetBackers Dakkanya - Dakkandayo! Zenin Shuugou!! (J)|[DF0DD9E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62276_DF0DD9E7.pnach)||
 |SLPM-62186|GetBackers Dakkanya - Ubawareta Mugenjou (J)|[B5622E87](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62186_B5622E87.pnach)||
@@ -2537,15 +2539,16 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65416|Pride GP Grand Prix 2003 |[2EF6D82A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65416_2EF6D82A.pnach)|Widescreen hack|
 |SCUS-97142|Primal - Civilization Is Only Skin Deep (NTSC-U)  FCD89DC3|[FCD89DC3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97142_FCD89DC3.pnach)|Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
 |SCES-51135|Primal * PAL-M5 *  * DCC4EEEA|[DCC4EEEA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51135_DCC4EEEA.pnach)|Might need EE overclocking to be stable (130%).<br />Native Widescreen is set on start.|
-|SLES-51918|Prince of Persia - The Sands of Time (PAL-M5) |[4B58A7A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51918_4B58A7A8.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.|
-|SLES-53777|Prince of Persia - The Two Thrones (PAL-M5) |[6FC40BAA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53777_6FC40BAA.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.|
-|SLES-52822|Prince of Persia - Warrior Within (PAL-M6) |[105CC366](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52822_105CC366.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.|
-|SLKA-25120|Prince Of Persia : The Sands Of Time |[41C47E63](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25120_41C47E63.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
+|SLES-51918|Prince of Persia - The Sands of Time (PAL-M5) |[4B58A7A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51918_4B58A7A8.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.<br />Removes the post-processing blur/bloom effect|
+|SLES-53777|Prince of Persia - The Two Thrones (PAL-M5) |[6FC40BAA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53777_6FC40BAA.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.<br />Removes the post-processing blur/bloom effect|
+|SLES-52822|Prince of Persia - Warrior Within (PAL-M6) |[105CC366](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52822_105CC366.pnach)|Widescreen Hack<br />Unlocked at 50/60 FPS. Might need enable 180% EE Overclock to be stable.<br />Removes the post-processing blur/bloom effect|
+|SLKA-25120|Prince Of Persia : The Sands Of Time |[41C47E63](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25120_41C47E63.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull<br />Removes the post-processing blur/bloom effect|
 |SLKA-25346|Prince Of Persia : The Two Thrones|[A1CBBE50](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25346_A1CBBE50.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
-|SLUS-20743|Prince of Persia: The Sands of Time |[7F6EB3D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20743_7F6EB3D0.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
-|SLUS-21287|Prince of Persia: The Two Thrones |[84F3309D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21287_84F3309D.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
-|SLUS-21022|Prince of Persia: Warrior Within |[6B17B39F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21022_6B17B39F.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
-|SLES-50397|Prisoner of War (PAL-M5) |[BAFCDA66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50397_BAFCDA66.pnach)||
+|SLUS-20743|Prince of Persia: The Sands of Time |[7F6EB3D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20743_7F6EB3D0.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.<br />Removes the post-processing blur/bloom effect|
+|SLUS-21287|Prince of Persia: The Two Thrones |[84F3309D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21287_84F3309D.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.<br />Removes the post-processing blur/bloom effect|
+|SLUS-21022|Prince of Persia: Warrior Within |[6B17B39F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21022_6B17B39F.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.<br />Removes the post-processing blur/bloom effect|
+|SLES-50397|Prisoner of War (PAL-M5)  61F79C5A COLDITZ.ELF|[61F79C5A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50397_61F79C5A.pnach)|Renders the game in 16:9 aspect ratio<br />Renders the game in 16:10 aspect ratio<br />Remove black bars from cutscenes|
+|SLES-50397|Prisoner of War (PAL-M5)  BAFCDA66|[BAFCDA66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50397_BAFCDA66.pnach)|Renders the game in 16:9 aspect ratio<br />Renders the game in 16:10 aspect ratio<br />Remove black bars from cutscenes|
 |SLES-51492|Pro Beach Soccer (E)|[0A4A7296](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51492_0A4A7296.pnach)||
 |SLES-50412|Pro Evolution Soccer (E)(v2.00)|[7220EA06](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50412_7220EA06.pnach)||
 |SLES-50462|Pro Evolution Soccer (I)(v2.00)|[0C4D62D7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50462_0C4D62D7.pnach)||
@@ -2952,6 +2955,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21621|Shin Megami Tensei: Persona 3 FES  (UNDUB)|[970A82A2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21621_970A82A2.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLPM-74277|Shin Megami Tensei: Persona 3 FES (SLPM-66690)|[232C7D72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74277_232C7D72.pnach)||
 |SLUS-21621|Shin Megami Tensei: Persona 3 FES (U)|[94A82AAA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21621_94A82AAA.pnach)||
+|SLUS-21621|Shin Megami Tensei: Persona 3 FES (U)  0033A2C2 (Spanish Fan Translation Undub)|[0033A2C2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21621_0033A2C2.pnach)|Widescreen hack by nemesis2000, devina, CeruleansBlue, Arapapa, The Calculator<br />Forces progressive scan at startup<br />The entire party is controllable like Persona 4/5|
 |SLES-55354|Shin Megami Tensei: Persona 3 FES [PAL] |[F64A6AE5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55354_F64A6AE5.pnach)|16:9 Widescreen, 60fps, & Progressive Scan|
 |SLES-55474|Shin Megami Tensei: Persona 4  [PAL] |[117D1977](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55474_117D1977.pnach)|16:9 Widescreen, 60fps, & Progressive Scan|
 |SLUS-21782|Shin Megami Tensei: Persona 4 (B)|[DE61647A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21782_DE61647A.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
@@ -3424,6 +3428,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25400|Tales of Symphonia (NTSC-J)|[830B6FB1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25400_830B6FB1.pnach)|Widescreen fix by flameofrecca<br />Attempts to disable interlaced offset rendering.|
 |SLPS-25586|Tales Of The Abyss (NTSC-J) |[AA5EC3A3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25586_AA5EC3A3.pnach)|Tales Of The Abyss (NTSC-J) (SLPS_25586) 16:9 Widescreen Hack & Progressive Scan<br />partial hud fix by sergx12|
 |SLUS-21386|Tales Of The Abyss (NTSC-U) |[14FE77F7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21386_14FE77F7.pnach)|Tales Of The Abyss (NTSC-U) (SLUS-21386) 16:9 Widescreen Hack|
+|SLUS-21386|Tales Of The Abyss (NTSC-U)  045D77E9 (Undub)|[045D77E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21386_045D77E9.pnach)|Tales Of The Abyss (NTSC-U) (SLUS-21386) 16:9 Widescreen Hack|
+|SLUS-21386|Tales Of The Abyss (NTSC-U)  A616A6C2 (Spanish Fan Translation Undub)|[A616A6C2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21386_A616A6C2.pnach)|Tales Of The Abyss (NTSC-U) (SLUS-21386) 16:9 Widescreen Hack|
+|SLUS-21386|Tales Of The Abyss (NTSC-U)  B6B5A6DC (Spanish Fan Translation)|[B6B5A6DC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21386_B6B5A6DC.pnach)|Tales Of The Abyss (NTSC-U) (SLUS-21386) 16:9 Widescreen Hack|
 |SLPS-25054|Tamamayu Monogatari 2 - Horobi no Mushi |[CA067714](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25054_CA067714.pnach)||
 |SLKA-25042|Tamamayu Monogatari 2 (K) |[48397D33](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25042_48397D33.pnach)||
 |SLES-51855|Tank Elite (PAL)|[09A48207](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51855_09A48207.pnach)||
@@ -3650,7 +3657,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20038|Time Crisis - Crisis Zone (K) |[7AF33AEC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20038_7AF33AEC.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SCES-52530|Time Crisis - Crisis Zone (PAL-M5) |[88E8290A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52530_88E8290A.pnach)|Widescreen hack. Port by dieSkaarj (PAL.)|
 |SLES-50300|Time Crisis 2 |[30FABE51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50300_30FABE51.pnach)|Aiming still in 4:3|
-|SLUS-20219|Time Crisis 2 |[D5D560FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20219_D5D560FF.pnach)|Widescreen Hack|
+|SLUS-20219|Time Crisis 2 |[D5D560FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20219_D5D560FF.pnach)|Widescreen Hack<br />Sound fix for stuttering glitchy audio during FMV/cut-scenes|
 |SCKA-20002|Time Crisis 2 (K) |[FE12B657](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20002_FE12B657.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLES-51844|Time Crisis 3 |[FD32030F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51844_FD32030F.pnach)||
 |SLUS-20645|Time Crisis 3 |[7290669C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20645_7290669C.pnach)|Widescreen Hack|
@@ -4093,6 +4100,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20148|Zone of the Enders (U)|[8CB179A6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20148_8CB179A6.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20545|Zone of the Enders: The 2nd Runner |[FD12A397](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20545_FD12A397.pnach)|Widescreen Hack|
 |SLES-51113|Zone of the Enders: The 2nd Runner SLES 511.13|[3E0BEB3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51113_3E0BEB3A.pnach)|Widescreen Hack|
+|SLPM-66002|プリンス・オブ・ペルシャ ケンシ ノ ココロ |[6E90F4C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66002_6E90F4C1.pnach)|Removes the post-processing blur/bloom effect|
 |SLPM-65073|幻想水滸伝 III |[5AF8016F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65073_5AF8016F.pnach)||
 |SLPM-66286|幻想水滸伝 V |[7380A572](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66286_7380A572.pnach)||
 |SCES-50858||[60013EBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50858_60013EBD.pnach)|Attempts to disable interlaced offset rendering.|
