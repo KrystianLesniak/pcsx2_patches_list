@@ -1074,6 +1074,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25015|Evolution Skateboarding (K)|[B3734A96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25015_B3734A96.pnach)||
 |SLUS-20540|Evolution Skateboarding (U)|[536D9565](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20540_536D9565.pnach)||
 |SCPS-15011|Extermination (J)|[A369B96F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15011_A369B96F.pnach)|Widescreen Hack (NTSC-J by Arapapa)|
+|SCUS-97112|Extermination (NTSC-U)  087A3C85 (Undub)|[087A3C85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97112_087A3C85.pnach)|Widescreen Hack|
 |SCES-50240|Extermination [PAL-M5] |[68707E85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50240_68707E85.pnach)|Widescreen Hack|
 |SCUS-97112|Extermination SCUS 971.12|[0AE679AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97112_0AE679AF.pnach)|Widescreen Hack|
 |SLES-53080|Extreme Sprint 3010 (E)|[1634FB4A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53080_1634FB4A.pnach)||
@@ -1866,6 +1867,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25135|Kunoichi (K) |[6BA65DD8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25135_6BA65DD8.pnach)||
 |SLUS-21007|Kuon |[9AC63A2E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21007_9AC63A2E.pnach)|Widescreen Hack|
 |SLES-53411|Kuon (PAL-M3) |[09B4F5F9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53411_09B4F5F9.pnach)||
+|SLES-53411|Kuon (PAL-M3)  B3589D67 (Spanish Fan Translation)|[B3589D67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53411_B3589D67.pnach)||
 |SLPS-25329|Kuon [NTSC-J] |[D1AD86D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25329_D1AD86D6.pnach)|Widescreen hack|
 |SLPS-25013|Kuri Kuri Mix (J)|[1DE78E93](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25013_1DE78E93.pnach)||
 |SLES-50224|Kuri Kuri Mix [PAL-M3] |[19D145D7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50224_19D145D7.pnach)||
@@ -3103,6 +3105,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-62223|Simple 2000 Series Vol. 11 - The Offroad Buggy(Rebuild) (J)(PBPX-95201)|[35610B70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62223_35610B70.pnach)||
 |PBPX-95201|Simple 2000 Series Vol. 11 - The Offroad Buggy(Rebuild) (J)(SLPM-62223)|[35610B70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_35610B70.pnach)||
 |SLPS-25703|Simple 2000 Series Vol. 111 - The Itadaki Raider (J)|[9C4A9CD2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25703_9C4A9CD2.pnach)||
+|SLPS-20488|Simple 2000 Series Vol. 113: The Tairyou Jigoku (NTSC-J)  B2486AF4 (Spanish Fan Translation)|[B2486AF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20488_B2486AF4.pnach)||
 |SLPS-20488|Simple 2000 Series Vol. 113: The Tairyou Jigoku [NTSC-J] |[82481A67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20488_82481A67.pnach)||
 |SLPS-20489|Simple 2000 Series Vol. 114 - The Onna Okappichi Torimonochou - Oharuchan Go Go Go! [NTSC-J] |[FC0F8A5B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20489_FC0F8A5B.pnach)|Widescreen Hack|
 |SLPS-20493|Simple 2000 Series Vol. 116 - The Neko Mura no Hitobito Pagu Daikan no Akugyou Zanmai (J)|[333F1F59](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20493_333F1F59.pnach)||
@@ -3898,6 +3901,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20407|Way of the Samurai (NTSC-U)|[06157251](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20407_06157251.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-50921|Way of the Samurai (PAL-M3) |[658E589F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50921_658E589F.pnach)||
 |SLUS-20893|Way Of The Samurai 2 (NTSC-U)|[1B3EDC36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20893_1B3EDC36.pnach)||
+|SLUS-20893|Way Of The Samurai 2 (NTSC-U)  158FA006 (Undub)|[158FA006](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20893_158FA006.pnach)||
 |SLES-52275|Way of the Samurai 2 (PAL-M3) |[7B79C53C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52275_7B79C53C.pnach)|Widescreen Hack|
 |SLES-53828|We Love Katamari |[C5FD7217](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53828_C5FD7217.pnach)||
 |SLUS-21230|We Love Katamari |[337B927C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21230_337B927C.pnach)||
