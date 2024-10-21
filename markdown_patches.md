@@ -3571,7 +3571,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53967|The Godfather (PAL-M)  9C5C1478|[9C5C1478](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53967_9C5C1478.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLES-53971|The Godfather [PAL-Spain] |[9C593C78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53971_9C593C78.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-51315|The Great Escape (PAL-M)  647D9161|[647D9161](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51315_647D9161.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
-|SLUS-20670|The Great Escape (U)|[D600925B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20670_D600925B.pnach)||
 |SLUS-21451|The Grim Adventures of Billy & Mandy (NTSC-U)|[D3659615](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21451_D3659615.pnach)||
 |SLES-52216|The Haunted Mansion (PAL-M5)|[50DFAD38](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52216_50DFAD38.pnach)|Widescreen hack conversion|
 |SLUS-20681|The Haunted Mansion (U)|[32E9B04D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20681_32E9B04D.pnach)||
@@ -4228,6 +4227,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20614||[9729A03A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20614_9729A03A.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20633||[274E5444](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20633_274E5444.pnach)|Clock Tower 3 (SLUS-20633)<br />Removes black bars in cutscenes|
 |SLUS-20651||[92AEE337](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20651_92AEE337.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
+|SLUS-20670||[D600925B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20670_D600925B.pnach)||
 |SLUS-20702||[0EF3697B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20702_0EF3697B.pnach)|Monster Rancher 4 (NTSC-U) - Widescreen Hack (16:9)|
 |SLUS-20721||[C6DDDB74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20721_C6DDDB74.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20758||[03F9C6D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20758_03F9C6D1.pnach)|Attempts to disable interlaced offset rendering.|
