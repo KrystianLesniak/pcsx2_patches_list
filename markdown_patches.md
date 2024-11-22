@@ -840,7 +840,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55398|Disney High School Musical 3 - Senior Year Dance! (E)|[8ED1E558](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55398_8ED1E558.pnach)||
 |SLUS-21819|Disney High School Musical 3 - Senior Year Dance! (U)|[D3F40C6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21819_D3F40C6A.pnach)||
 |SLES-51666|Disney Piglet - El Gran Juego (PAL-S)  1BD0A97E|[1BD0A97E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51666_1BD0A97E.pnach)|Renders the game in 16:9 aspect ratio|
-|SLUS-20659|Disney Presents Piglet's Big Game (U)|[004B2E96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20659_004B2E96.pnach)||
 |SLES-54837|Disney Princess - Enchanted Journey (PAL-E-G-S)  5F30B426|[5F30B426](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54837_5F30B426.pnach)|Widescreen Hack<br />Removes black bars in cutscenes<br />Unlocks internal FPS. Might need EE Overclock at 130%.<br />Forces progressive scan mode 480p at startup.|
 |SLUS-21660|Disney Princess - Enchanted Journey (U)|[56790A28](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21660_56790A28.pnach)|Widescreen Hack<br />Removes black bars in cutscenes<br />Unlocks internal FPS. Might need EE Overclock at 130%.|
 |SLPM-66902|Disney Princess - Mahou no Sekai e (J)|[38D6ED88](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66902_38D6ED88.pnach)||
@@ -2988,7 +2987,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20907|Serious Sam: Next Encounter |[155466E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20907_155466E8.pnach)||
 |SLES-52348|Seven Samurai 20XX (PAL-M5) |[CC229675](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52348_CC229675.pnach)||
 |SLUS-20621|Seven Samurai 20XX (U) |[A6356EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20621_A6356EA6.pnach)||
-|SLES-50677|Shadow Hearts |[DEFA4763](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50677_DEFA4763.pnach)|Widescreen Hack|
 |SLUS-20347|Shadow Hearts |[8BE3D7B2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20347_8BE3D7B2.pnach)|Widescreen Hack|
 |SLUS-21326|Shadow Hearts - From the New World  |[C3D28EB9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21326_C3D28EB9.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLPM-66071|Shadow Hearts - From the New World [NTSC-J] |[D090AC7F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66071_D090AC7F.pnach)|Widescreen Hack (pnach NTSC-J by Arapapa)|
@@ -3927,7 +3925,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20678|Unlimited Saga (U)|[82BD9123](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20678_82BD9123.pnach)||
 |SLES-50074|Unreal Tournament (PAL-E)  4A805DF1|[4A805DF1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50074_4A805DF1.pnach)|Might need EE Overclock at 180%.|
 |SCPS-15069|Uo-7-tsu no Mizu to Densetsu no Nushi (J)|[E77C2D4F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15069_E77C2D4F.pnach)||
-|SLUS-21390|Urban Chaos - Riot Response (NTSC-U) |[17493C04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21390_17493C04.pnach)||
 |SLES-53991|Urban Chaos - Riot Response (PAL-M5) |[59B5D614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53991_59B5D614.pnach)||
 |SLES-52957|Urban Extreme (E)|[BAEEE480](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52957_BAEEE480.pnach)||
 |SLES-50939|USA Racer PAL-M  29DCD484|[29DCD484](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50939_29DCD484.pnach)|Might need EE Overclock.|
@@ -4252,6 +4249,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97330||[644CFD03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97330_644CFD03.pnach)||
 |SLES-50111||[04489C11](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50111_04489C11.pnach)||
 |SLES-50383||[A630B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50383_A630B37E.pnach)|Metal Gear Solid 2 - Sons Of Liberty (PAL-M3) (SLES-50383) Widescreen Hack (16:9) by ElHecht|
+|SLES-50677||[DEFA4763](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50677_DEFA4763.pnach)||
 |SLES-51153||[1A957202](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51153_1A957202.pnach)||
 |SLES-51554||[904B7BA0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51554_904B7BA0.pnach)||
 |SLES-51815||[9AAC5309](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51815_9AAC5309.pnach)|Final Fantasy X-2 (PAL-Europe/Australia) (SLES-51817) Widescreen Hack (16:9) by ElHecht|
@@ -4318,6 +4316,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20614||[9729A03A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20614_9729A03A.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20633||[274E5444](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20633_274E5444.pnach)|Clock Tower 3 (SLUS-20633)<br />Removes black bars in cutscenes|
 |SLUS-20651||[92AEE337](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20651_92AEE337.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
+|SLUS-20659||[004B2E96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20659_004B2E96.pnach)||
 |SLUS-20670||[D600925B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20670_D600925B.pnach)||
 |SLUS-20702||[0EF3697B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20702_0EF3697B.pnach)|Monster Rancher 4 (NTSC-U) - Widescreen Hack (16:9)|
 |SLUS-20721||[C6DDDB74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20721_C6DDDB74.pnach)|Attempts to disable interlaced offset rendering.|
@@ -4336,6 +4335,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21258||[89E303FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21258_89E303FC.pnach)|.Hack//G.U Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21330||[BDFB1507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21330_BDFB1507.pnach)|Monster Rancher EVO (NTSC-U) WS patch|
 |SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
+|SLUS-21390||[17493C04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21390_17493C04.pnach)||
 |SLUS-21410||[104F08F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21410_104F08F4.pnach)|Mortal Kombat - Armageddon (U) (SLUS-21410) Widescreen Hack (16:9) by ElHecht|
 |SLUS-21488||[0F26BB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21574||[9DC1CED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21574_9DC1CED8.pnach)|Dawn of Mana UNDUB SLUS-21574 - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
