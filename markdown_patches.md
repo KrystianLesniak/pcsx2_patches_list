@@ -129,7 +129,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25394|Another Century's Episode (J)|[08B19EFF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25394_08B19EFF.pnach)||
 |SLPS-25623|Another Century's Episode 2 (J)|[3ED7CFA1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25623_3ED7CFA1.pnach)|author=Arapapa and Somebody who fixed A.C.E 3|
 |SLPS-25829|Another Century's Episode 2 [Special Vocal Version] (J)|[EE84B8C5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25829_EE84B8C5.pnach)|author=Arapapa and Somebody who fixed A.C.E 3|
-|SLPS-25784|Another Century's Episode 3 - The Final (J)|[B1B6E33D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25784_B1B6E33D.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-54152|Ant Bully, The (PAL-M)  802F7B69|[802F7B69](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54152_802F7B69.pnach)|Might need EE Overclock at 130%.<br />SDTV 480p mode at start.|
 |SLES-50964|Antz Extreme Racing (E)|[500F0197](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50964_500F0197.pnach)||
 |SLUS-20392|Antz Extreme Racing (U)|[298ABB7D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20392_298ABB7D.pnach)||
@@ -4309,6 +4308,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66940||[D8AA81A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66940_D8AA81A8.pnach)|Gundam Musou Special (NTSC-J) 16:9|
 |SLPS-25377||[B476ED7A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25377_B476ED7A.pnach)||
 |SLPS-25686||[28244492](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25686_28244492.pnach)|JoJo no Kimyouna Bouken Phantom Blood (NTSC-J) (SLPS-25686) Widescreen Hack by Goshorai|
+|SLPS-25784||[B1B6E33D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25784_B1B6E33D.pnach)||
 |SLUS-20001||[67454C1E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20001_67454C1E.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />original no interlace code by asasega. ported by someother1ne|
 |SLUS-20001||[E84C9242](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20001_E84C9242.pnach)|Tekken Tag Tournament (Widescreen) NTSC-U<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20018||[A07A5057](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20018_A07A5057.pnach)|Attempts to disable interlaced offset rendering.|
