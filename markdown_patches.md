@@ -1523,6 +1523,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65612|Harry Potter to Azkaban no Shuujin (J)|[A8901AD6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65612_A8901AD6.pnach)||
 |SLPS-20234|Harry Potter to Himitsu no Heya (J)|[E1963055](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20234_E1963055.pnach)||
 |SLPM-68005|Harry Potter to Himitsu no Heya(Coca Cola Original version) (J)|[E90BE9F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-68005_E90BE9F8.pnach)||
+|SLES-51194|Harry Potter und die Kammer des Schreckens (G) CRC C5473413|[C5473413](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51194_C5473413.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLES-51195|Harry Potter y la Cámara Secreta (S) CRC C5473413|[C5473413](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51195_C5473413.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21171|Harvest Moon - A Wonderful Life - Special Edition (NTSC-U) |[304C115C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21171_304C115C.pnach)||
 |SLES-53480|Harvest Moon - A Wonderful Life - Special Edition (PAL-E) |[8AF9A6A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53480_8AF9A6A5.pnach)||
@@ -3130,7 +3131,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25076|Sidewinder F (NTSC-J) |[7993AD80](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25076_7993AD80.pnach)||
 |SLPS-25018|Sidewinder Max [NTSC-J] |[B4580F15](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25018_B4580F15.pnach)||
 |SLPS-25271|Sidewinder V [NTSC-J] (SLPS_252.55)|[29D80A23](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25271_29D80A23.pnach)||
-|SLPM-55231|Silent Hill - Shattered Memories (J)|[F66FAFB2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55231_F66FAFB2.pnach)||
+|SLPM-55231|Silent Hill - Shattered Memories (J)|[F66FAFB2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55231_F66FAFB2.pnach)|Widescreen hack<br />Noise filter removal<br />Removes black bars in cutscenes|
 |SLPM-65051|Silent Hill 2 |[E36E16C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65051_E36E16C9.pnach)||
 |SLES-51156|Silent Hill 2 - Director's Cut (PAL-M)  6BBD4932|[6BBD4932](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51156_6BBD4932.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLPM-65098|Silent Hill 2 - Saigo no Uta [NTSC-J] |[380D6782](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65098_380D6782.pnach)||
@@ -3145,11 +3146,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25149|Silent Hill 4 - The Room (K) |[C54646E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25149_C54646E9.pnach)|FMV hack by Pelvicthrustman|
 |SLES-52445|Silent Hill 4 - The Room (PAL-M5) |[0A5E41A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52445_0A5E41A5.pnach)|Widescreen Hack|
 |SLPM-65574|Silent Hill 4 - The Room [NTSC-J] |[9BF472B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65574_9BF472B8.pnach)||
-|SLUS-21731|Silent Hill Origins |[A8D83239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21731_A8D83239.pnach)|Patches the game to run at 60 FPS<br />Widescreen fix<br />Removes black bars in cutscenes<br />Forces progressive scan mode 480p at startup.|
+|SLUS-21731|Silent Hill Origins |[A8D83239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21731_A8D83239.pnach)|Patches the game to run at 60 FPS<br />Noise filter removal<br />Widescreen fix<br />Removes black bars in cutscenes<br />Forces progressive scan mode 480p at startup.|
 |SLKA-25422|Silent Hill Origins (K)|[F3662F76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25422_F3662F76.pnach)||
-|SLES-55147|Silent Hill Origins (PAL-M)  DC180A6B|[DC180A6B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55147_DC180A6B.pnach)|Widescreen fix<br />Removes black bars in cutscenes<br />Unlocks internal FPS. Might need EE Overclock at 130%.|
-|SLES-55569|Silent Hill: Shattered Memories |[492CB73E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55569_492CB73E.pnach)||
-|SLUS-21899|Silent Hill: Shattered Memories |[61A7E622](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21899_61A7E622.pnach)||
+|SLES-55147|Silent Hill Origins (PAL-M) |[DC180A6B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55147_DC180A6B.pnach)|Noise filter removal<br />Widescreen fix<br />Unlocks internal FPS. Might need EE Overclock at 130%.<br />Removes black bars in cutscenes|
+|SLES-55569|Silent Hill: Shattered Memories |[492CB73E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55569_492CB73E.pnach)|Widescreen hack<br />Noise filter removal<br />Removes black bars in cutscenes|
+|SLUS-21899|Silent Hill: Shattered Memories |[61A7E622](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21899_61A7E622.pnach)|Widescreen hack<br />Noise filter removal<br />Removes black bars in cutscenes|
 |SLUS-20078|Silent Scope (U)|[53CB5976](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20078_53CB5976.pnach)||
 |SLES-51157|Silent Scope 3 (E)|[904A1774](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51157_904A1774.pnach)|Widescreen Hack|
 |SLPM-62246|Silent Scope 3 (J)|[69684336](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62246_69684336.pnach)||
