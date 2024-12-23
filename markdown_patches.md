@@ -3583,7 +3583,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-56002|Tekken Tag Tournament |[D73A8856](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56002_D73A8856.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
 |SCES-50001|Tekken Tag Tournament (PAL-M5)  0DD8941C v1.00|[0DD8941C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50001_0DD8941C.pnach)|Renders the game in 16:9 aspect ratio<br />full frame mode + sharp mode|
 |SCES-50001|Tekken Tag Tournament (PAL-M5)  D07E8F35 v2.00|[D07E8F35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50001_D07E8F35.pnach)|Renders the game in 16:9 aspect ratio<br />full frame mode + sharp mode|
-|SLPS-20015|Tekken Tag Tournament [NTSC-J] |[06979F19](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20015_06979F19.pnach)||
+|SLPS-20015|Tekken Tag Tournament [NTSC-J] |[06979F19](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20015_06979F19.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-56006|Tekken4  (NTSC-K)|[35B4028B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56006_35B4028B.pnach)|16:9 widescreen hack|
 |SLPM-60143|Tekkoki Mikazuki: Trial Edition (NTSC-J) |[6BB8CADF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-60143_6BB8CADF.pnach)|Widescreen hacks by Aced14|
 |SLES-53014|Tenchu - Fatal Shadows (PAL-G) |[BF0DC4CE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53014_BF0DC4CE.pnach)|Widescreen hack|
