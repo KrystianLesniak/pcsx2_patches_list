@@ -1796,7 +1796,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20483|Kamen Rider Kabuto (J)|[E4614547](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20483_E4614547.pnach)||
 |SLPM-66477|Kamiwaza |[F4EF4B57](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66477_F4EF4B57.pnach)||
 |SLES-51998|Kao the Kangaroo Round 2 (E)|[C3BE8BAB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51998_C3BE8BAB.pnach)||
-|SLUS-20296|Kao the Kangaroo Round 2 (U)|[5D8B63C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20296_5D8B63C1.pnach)||
 |SLUS-21008|Katamari Damacy |[FA7E3081](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21008_FA7E3081.pnach)||
 |SCKA-20025|Katamari Damacy (K) |[5B563DA7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20025_5B563DA7.pnach)||
 |SCKA-20051|Katamari Damacy 2 (K) |[E0BF7C19](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20051_E0BF7C19.pnach)||
@@ -2660,6 +2659,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55676|Pro Evolution Soccer 2014 [E] |[6B903B81](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55676_6B903B81.pnach)|Widescreen hack (PAL by Arapapa)|
 |SLES-51912|Pro Evolution Soccer 3 [PAL-M4] |[3D653E04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51912_3D653E04.pnach)||
 |SLES-52760|Pro Evolution Soccer 4 [PAL-M4] |[FB8BCB6D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52760_FB8BCB6D.pnach)||
+|SLES-52760|Pro Evolution Soccer 4 v2.0 [PAL-M4] |[784EAE55](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52760_784EAE55.pnach)||
 |SLES-53544|Pro Evolution Soccer 5 PAL Spain |[BFDF7C5A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53544_BFDF7C5A.pnach)||
 |SLES-54362|Pro Evolution Soccer 6 PAL Spain |[2D2AF931](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54362_2D2AF931.pnach)||
 |SLES-54203|Pro Evolution Soccer 6 PAL UK |[7D2AF924](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54203_7D2AF924.pnach)||
@@ -3401,6 +3401,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52569|Spyro: A Hero's Tail |[6E51213C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52569_6E51213C.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
 |SLUS-20884|Spyro: A Hero's Tail |[94C56923](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20884_94C56923.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
 |SLUS-21321|Squadra Course Alfa Romeo (Alfa Romeo Racing Italiano) (U)|[22FB53FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21321_22FB53FF.pnach)||
+|SLUS-20772|SSX 3 |[08FFF00D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20772_08FFF00D.pnach)|Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.|
 |SLUS-21278|SSX On Tour (U)|[0F27ED9B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21278_0F27ED9B.pnach)|Forces 60 frames per second|
 |SLPM-65704|Standard Daisenryaku - Dengekisen (J)|[CD1EC9D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65704_CD1EC9D0.pnach)||
 |SLPM-65959|Standard Daisenryaku - Shiwareta Shouri (J)|[5D41A6AD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65959_5D41A6AD.pnach)||
@@ -4107,6 +4108,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21301|World Series of Poker (U)|[F61754B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21301_F61754B9.pnach)||
 |SLPM-62053|World Soccer Winning Eleven 5 |[2F4B332E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62053_2F4B332E.pnach)||
 |SLPM-62113|World Soccer Winning Eleven 5: Final Evolution |[4B213AB0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62113_4B213AB0.pnach)||
+|SLUS-20623|World Soccer Winning Eleven 6 - International (NTSC-U) |[59D4DF34](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20623_59D4DF34.pnach)||
 |SLUS-21117|World Soccer Winning Eleven 8: International [NTSC-U] |[8B645E10](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21117_8B645E10.pnach)||
 |SLUS-21220|World Soccer Winning Eleven 9 [NTSC-U] |[4429BEFE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21220_4429BEFE.pnach)||
 |SLES-54080|World Super Police (E)|[436F4549](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54080_436F4549.pnach)||
@@ -4319,6 +4321,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20194||[160076FE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20194_160076FE.pnach)|Grandia II (NTSC-U) (SLUS-20194) Widescreen Hack (16:9)|
 |SLUS-20251||[F0A6D880](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20251_F0A6D880.pnach)|Harvest Moon - Save the Homeland - Widescreen Hack (16:9) (NTSC-U)<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20267||[38A894C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20267_38A894C6.pnach)|dot Hack - Part 1 - Infection - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
+|SLUS-20296||[5D8B63C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20296_5D8B63C1.pnach)||
 |SLUS-20307||[4783F7ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20307_4783F7ED.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20425||[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)||
