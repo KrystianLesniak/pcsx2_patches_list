@@ -3124,7 +3124,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52382|Shrek 2 (Spain) |[76C01D41](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52382_76C01D41.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.<br />SDTV 480p mode at start.|
 |SLUS-20745|Shrek 2 (U) |[11D7EC66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20745_11D7EC66.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS.|
 |SLUS-20745|Shrek 2 (U) |[9C41124B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20745_9C41124B.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.<br />Patches the game to run at 60 FPS.|
-|SLPS-25028|Shutokou Battle 0 (J)|[F9D5C6A6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25028_F9D5C6A6.pnach)|16:9 widescreen patch<br />Attempts to disable interlaced offset rendering.|
+|SLPS-25028|Shutokou Battle 0 (J)|[F9D5C6A6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25028_F9D5C6A6.pnach)|Changes the controller scheme to match TXR2's<br />16:9 widescreen patch<br />Attempts to disable interlaced offset rendering.|
 |SLPS-25028|Shutokou Battle 0 [NTSC-J] |[77D0DACC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25028_77D0DACC.pnach)|Widescreen Hack|
 |SLPM-65308|Shutokou Battle 01 [NTSC-J] |[DD70E38F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65308_DD70E38F.pnach)||
 |SLPM-67538|Sidewinder F (K) |[6C5DCBDC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67538_6C5DCBDC.pnach)||
@@ -3653,7 +3653,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54473|The Flintstones - Bedrock Racing (E) 8B0725D5|[8B0725D5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54473_8B0725D5.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
 |SLES-50259|The Flintstones in Viva Rock Vegas [PAL] |[E7C59CE9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50259_E7C59CE9.pnach)||
 |SLPM-66710|The Godfather (NTSC-J)|[E5E683C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66710_E5E683C9.pnach)||
-|SLUS-21385|The Godfather (NTSC-U)|[D850707E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21385_D850707E.pnach)||
+|SLUS-21385|The Godfather (NTSC-U)|[D850707E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21385_D850707E.pnach)|Fixes disproportionate FOV of character and weapon models. Cutscene, dialogue and extorsion black bars were restored to keep the 1972 movie's feel.<br />No blackbars in cutscenes. Made by suggestion from pgert.|
 |SLES-53967|The Godfather (PAL-M)  9C5C1478|[9C5C1478](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53967_9C5C1478.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLES-53971|The Godfather [PAL-Spain] |[9C593C78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53971_9C593C78.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21677|The Golden Compass NTSC-U  E514BA51|[E514BA51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21677_E514BA51.pnach)|Might need EE Overclock.|
@@ -3815,7 +3815,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21471|Tokobot Plus - Mysteries of the Karakuri |[AE0148F7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21471_AE0148F7.pnach)|Widescreen Hack|
 |SLES-54487|Tokobot Plus: Mysteries of the Karakuri [PAL] |[EBD35EC9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54487_EBD35EC9.pnach)||
 |SLPM-65032|Tokyo Bus Annai - Kyou kara Kimi mo Untenshu (J)|[02DEE05F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65032_02DEE05F.pnach)||
-|SLUS-20189|Tokyo Extreme Racer - Zero (U) |[C1760287](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20189_C1760287.pnach)|16:9 widescreen patch<br />Attempts to disable interlaced offset rendering.|
+|SLUS-20189|Tokyo Extreme Racer - Zero (U) |[C1760287](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20189_C1760287.pnach)|Changes the controller scheme to match TXR2's<br />16:9 widescreen patch<br />Attempts to disable interlaced offset rendering.|
 |SLES-50115|Tokyo Extreme Racer (E) |[073D7FB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50115_073D7FB5.pnach)|16:9 widescreen patch<br />Attempts to disable interlaced offset rendering.|
 |SLES-50954|Tokyo Road Race (E)|[F880239B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50954_F880239B.pnach)||
 |SLUS-20831|Tokyo Xtreme Racer 3 |[0F932D81](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20831_0F932D81.pnach)|Reduce Exotic Butterfly and Whirlwind Fanfare's Credit(CP) requirements by 100.<br />Attempts to disable interlaced offset rendering.|
