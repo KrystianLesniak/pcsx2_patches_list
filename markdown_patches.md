@@ -4327,7 +4327,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20425||[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)||
 |SLUS-20485||[3FBF0EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20485_3FBF0EA6.pnach)|Dino Stalker (SLUS-20485)|
-|SLUS-20515||[07AD79C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20515_07AD79C9.pnach)|Yu-Gi-Oh! The Duelist of the Roses NTSC-U patches|
+|SLUS-20515||[07AD79C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20515_07AD79C9.pnach)|Fixes the zoom graphical glitch<br />Deck Master K in the custom duel. Incompatible with other Deck Master patches.<br />Deck Master S in the custom duel. Incompatible with other Deck Master patches.<br />Deck Master T in the custom duel. Incompatible with other Deck Master patches.<br />Deck Master I in the custom duel. Incompatible with other Deck Master patches.|
 |SLUS-20562||[43048DD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20562_43048DD4.pnach)|dot Hack - Part 2 - Mutation - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
 |SLUS-20563||[0001171A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20563_0001171A.pnach)|dot Hack - Part 3 - Outbreak - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
 |SLUS-20564||[DF05D056](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20564_DF05D056.pnach)|dot Hack - Part 4 - Quarantine - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
