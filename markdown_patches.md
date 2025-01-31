@@ -789,7 +789,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-67502|Devil May Cry (K) |[C0E5F643](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67502_C0E5F643.pnach)||
 |SLES-50358|Devil May Cry (PAL-M5) |[7D8F539A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50358_7D8F539A.pnach)|Widescreen Hack|
 |SLKA-25012|Devil May Cry 2 (/SLKA_250.13)|[66DE5973](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25012_66DE5973.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
-|SLUS-20484|Devil May Cry 2 (Disc 1) (Dante Disc)  / Devil May Cry 2 (Disc 2) (Lucia Disc) (SLUS-20627)|[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20484_08995DEE.pnach)||
 |SLUS-20627|Devil May Cry 2 (Disc 1) (Dante Disc) (SLUS-20484) / Devil May Cry 2 (Disc 2) (Lucia Disc) |[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20627_08995DEE.pnach)||
 |SLPM-65232|Devil May Cry 2 (Disc 1) (Dante Disc) (SLUS-20484) / Devil May Cry 2 (Disc 2) (Lucia Disc) (SLUS-20627)|[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65232_08995DEE.pnach)||
 |SLPM-65233|Devil May Cry 2 (Disc 1) (Dante Disc) (SLUS-20484) / Devil May Cry 2 (Disc 2) (Lucia Disc) (SLUS-20627)|[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65233_08995DEE.pnach)||
@@ -2852,7 +2851,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20443|Rugrats: Royal Ransom (U)|[7AACBFD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20443_7AACBFD4.pnach)|Widescreen hack<br />Unlocks internal FPS. Might need EE Overclock at 130%.|
 |SLES-54218|Rule of Rose |[52585249](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54218_52585249.pnach)|Widescreen Hack|
 |SCPS-15093|Rule of Rose (J) |[72588D1A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15093_72588D1A.pnach)|Widescreen patch (NTSC-J by Arapapa)|
-|SLUS-21448|Rule of Rose SLUS 214.48|[F3FD313E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21448_F3FD313E.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLES-50120|Rumble Racing [PAL-M3] |[A9908033](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50120_A9908033.pnach)||
 |SLUS-20174|Rumble Racing NTSC-U |[2F5354BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20174_2F5354BE.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLKA-25234|Rumble Roses (K)|[6435675C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25234_6435675C.pnach)|Font fix by Arapapa|
@@ -4326,6 +4324,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20307||[4783F7ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20307_4783F7ED.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20425||[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)||
+|SLUS-20484||[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20484_08995DEE.pnach)||
 |SLUS-20485||[3FBF0EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20485_3FBF0EA6.pnach)|Dino Stalker (SLUS-20485)|
 |SLUS-20515||[07AD79C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20515_07AD79C9.pnach)|Fixes the zoom graphical glitch<br />Deck Master K in the custom duel. Incompatible with other Deck Master patches.<br />Deck Master S in the custom duel. Incompatible with other Deck Master patches.<br />Deck Master T in the custom duel. Incompatible with other Deck Master patches.<br />Deck Master I in the custom duel. Incompatible with other Deck Master patches.|
 |SLUS-20562||[43048DD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20562_43048DD4.pnach)|dot Hack - Part 2 - Mutation - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
@@ -4356,6 +4355,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
 |SLUS-21390||[17493C04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21390_17493C04.pnach)||
 |SLUS-21410||[104F08F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21410_104F08F4.pnach)|Mortal Kombat - Armageddon (U) (SLUS-21410) Widescreen Hack (16:9) by ElHecht|
+|SLUS-21448||[F3FD313E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21448_F3FD313E.pnach)||
 |SLUS-21488||[0F26BB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21574||[9DC1CED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21574_9DC1CED8.pnach)|Dawn of Mana UNDUB SLUS-21574 - Widescreen Hack (16:9) (NTSC-U) (pavachan)|
 |SLUS-21594||[E0A817F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21594_E0A817F8.pnach)|Naruto - Uzumaki Chronicles 2 (NTSC-U) (SLUS-21594) Widescreen Hack (16:9) by ElHecht|
