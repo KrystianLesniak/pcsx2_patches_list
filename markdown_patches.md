@@ -2595,7 +2595,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54237|Pirates of The Caribbean - The Legend of Jack Sparrow PAL[M5]  E6C2F211|[E6C2F211](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54237_E6C2F211.pnach)|Widescreen Hack Conversion<br />Might need EE Overclock at 180%.|
 |SLES-51687|Pitfall - The Lost Expedition (PAL-F)  D8A68BBA|[D8A68BBA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51687_D8A68BBA.pnach)|Ported by Bigdemon|
 |SLES-51690|Pitfall - The Lost Expedition (PAL-S)  D8A68BBA|[D8A68BBA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51690_D8A68BBA.pnach)|Widescreen Hack|
-|SLUS-20408|Pitfall - The Lost Expedition (U)|[394F402E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20408_394F402E.pnach)||
 |SLES-53965|Plan, Th3 (PAL-E)  ACE7A856|[ACE7A856](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53965_ACE7A856.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLPS-25854|Poison Pink (J) |[F7786EE4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25854_F7786EE4.pnach)||
 |SLES-50285|Police 24/7 (E)|[08A1C938](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50285_08A1C938.pnach)||
@@ -4322,6 +4321,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20267||[38A894C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20267_38A894C6.pnach)|dot Hack - Part 1 - Infection - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
 |SLUS-20296||[5D8B63C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20296_5D8B63C1.pnach)||
 |SLUS-20307||[4783F7ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20307_4783F7ED.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-20408||[394F402E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20408_394F402E.pnach)||
 |SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20425||[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)||
 |SLUS-20484||[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20484_08995DEE.pnach)||
