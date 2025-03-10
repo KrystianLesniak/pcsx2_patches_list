@@ -74,6 +74,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20327|Aggressive Inline |[67DB3ED8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20327_67DB3ED8.pnach)|Widescreen patch by BloodRaynare (Based on PAL version by ElHecht)|
 |SLES-50480|Aggressive Inline (PAL-M4) |[D6A0D7A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50480_D6A0D7A5.pnach)||
 |SLPS-25447|Aim for the Top - Gunbuster (NTSC-J) |[603F5B4E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25447_603F5B4E.pnach)||
+|SLPM-65409|Air Ranger 2 Plus - Rescue Helicopter (NTSC-J) |[EE61D258](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65409_EE61D258.pnach)|Removes depth-of-field effect (must be initially enabled outside mission)|
 |SLUS-20346|AirBlade (NTSC-U)|[ACB735A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20346_ACB735A5.pnach)|Widescreen Hack|
 |SCES-50246|AirBlade (PAL-M5) |[8358460B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50246_8358460B.pnach)|Widescreen Hack Conversion|
 |SLES-52939|Airborne Troops - Countdown to D-Day (E)|[07D1DC03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52939_07D1DC03.pnach)||
@@ -2203,7 +2204,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25674|Metal Slug 6 (J)|[2113EA2E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25674_2113EA2E.pnach)||
 |SLES-51162|Metropolismania (E)|[9BA3712B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51162_9BA3712B.pnach)||
 |SLUS-20377|Metropolismania (U)|[46FFB836](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20377_46FFB836.pnach)||
-|SLES-53073|Michigan - Report from Hell (PAL-M4) |[DCD7104E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53073_DCD7104E.pnach)|Enhancement test|
+|SLES-53073|Michigan - Report from Hell (PAL-M4) |[DCD7104E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53073_DCD7104E.pnach)|Enhancement test<br />Restores fog effects which were removed from the PAL release|
 |SLPM-65480|Michigan [NTSC-J] |[B2B71761](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65480_B2B71761.pnach)||
 |SLUS-20063|Midnight Club - Street Racing (NTSC-U)  DFD26C76|[DFD26C76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20063_DFD26C76.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-50071|Midnight Club - Street Racing (PAL-M)  831078BD|[831078BD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50071_831078BD.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
