@@ -2823,7 +2823,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21275|River King - A Wonderful Journey (NTSC-U)|[D926BF85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21275_D926BF85.pnach)||
 |SLPM-62758|River Ride Adventure featuring Salomon (J)|[9A20738A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62758_9A20738A.pnach)||
 |SLES-51930|Road Rage 3 (PAL-E) |[09736614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51930_09736614.pnach)|Attempts to disable interlaced offset rendering.|
-|SLUS-20398|Road Trip (U)|[4C168567](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20398_4C168567.pnach)||
+|SLUS-20398|Road Trip (NTSC-U) |[4C168567](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20398_4C168567.pnach)|16:9 3D with 16:9-optimized UI<br />Removes interlacing artefacts<br />Forces the highest-quality LOD for car models in the overworld<br />Disables after-image effect<br />Enables analog steering with the left analog stick (WIP; breaks player 2, race replays, front wheels don't turn)|
 |SLES-51356|Road Trip Adventure PAL |[52C19E70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51356_52C19E70.pnach)||
 |SLUS-20687|RoadKill NTSC-U  EBD245D0|[EBD245D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20687_EBD245D0.pnach)|Might need EE Overclock (130%).|
 |SLUS-20723|Robin Hood - Defender of the Crown (U)|[77E3CBB4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20723_77E3CBB4.pnach)||
