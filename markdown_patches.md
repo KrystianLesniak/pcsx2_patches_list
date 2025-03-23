@@ -3410,8 +3410,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25007|Spy Fiction (NTSC-K)|[9872000C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25007_9872000C.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
 |SLES-52505|Spy Fiction (PAL-M5) |[08833E1E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52505_08833E1E.pnach)||
 |SLPS-25311|Spy Fiction [NTSC-J] |[479DC25E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25311_479DC25E.pnach)|Widescreen Hack|
-|SLUS-20056|Spy Hunter |[E3ADA82E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20056_E3ADA82E.pnach)|Widescreen Patch (16:9) by Monsterjamp|
 |SLUS-21421|Spy Hunter - Nowhere to Run |[64B39069](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21421_64B39069.pnach)|Widescreen Hack|
+|SLUS-20056|Spy Hunter (NTSC-U) |[E3ADA82E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20056_E3ADA82E.pnach)|16:9 3D<br />Runs the game at 60 FPS|
+|SLES-50268|Spy Hunter (PAL) |[B5BF9785](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50268_B5BF9785.pnach)|16:9 3D<br />Runs the game at 50 FPS; 180% EE Cycle Rate recommended|
 |SLES-54130|Spy Hunter: Nowhere to Run [PAL] |[4731578B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54130_4731578B.pnach)|Widescreen Hack|
 |SLES-53078|Spy vs. Spy |[6A31FB5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53078_6A31FB5C.pnach)|Widescreen Hack|
 |SLUS-20590|SpyHunter 2 |[A2B36980](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20590_A2B36980.pnach)|Widescreen Hack|
