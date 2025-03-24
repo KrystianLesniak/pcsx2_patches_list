@@ -1466,7 +1466,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21224|Guitar Hero (U)|[B815F724](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21224_B815F724.pnach)||
 |SLUS-21139|Gun (NTSC-U)  4B80628D|[4B80628D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21139_4B80628D.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-53523|Gun [PAL-M]  98D7BF5E|[98D7BF5E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53523_98D7BF5E.pnach)|Might need EE Overclock at 130%.|
-|SLPM-65059|Gun Survivor 2 - BioHazard Code - Veronica (with GunCon2) [NTSC-J] |[35FB8EE2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65059_35FB8EE2.pnach)||
+|SLPM-65059|Gun Survivor 2 - BioHazard Code - Veronica (with GunCon2) [NTSC-J] |[35FB8EE2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65059_35FB8EE2.pnach)|Removes flash effect when using the GunCon2 Controller|
 |SLKA-25038|Gun Survivor 4 - Biohazard - Heroes Never Die (K)|[A8D433AD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25038_A8D433AD.pnach)||
 |SLPM-65245|Gun Survivor 4 - BioHazard - Heroes Never Die [NTSC-J] |[301A78F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65245_301A78F2.pnach)||
 |SLES-52620|Guncom 2 (E)|[6149414E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52620_6149414E.pnach)||
@@ -2791,7 +2791,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50306|Resident Evil - Code Veronica X (PAL-M4)  A5434CCF|[A5434CCF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50306_A5434CCF.pnach)|Widescreen hack 16:9<br />480p enable progressive scan mode v1|
 |SLUS-20669|Resident Evil - Dead Aim |[FBB5290C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20669_FBB5290C.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLES-51448|Resident Evil - Dead Aim (PAL-M5) |[F79AF536](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51448_F79AF536.pnach)||
-|SLES-50650|Resident Evil - Survivor 2 - Code Veronica (PAL-E) |[CD3ED649](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50650_CD3ED649.pnach)||
+|SLES-50650|Resident Evil - Survivor 2 - Code Veronica (PAL-E) |[CD3ED649](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50650_CD3ED649.pnach)|Removes flash effect when using the GunCon2 Controller|
 |SLUS-21134|Resident Evil 4  013E349D|[013E349D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21134_013E349D.pnach)|Widescreen improvement.|
 |SLES-53702|Resident Evil 4  6BA2F6B9|[6BA2F6B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53702_6BA2F6B9.pnach)|Widescreen improvement.|
 |SLUS-20765|Resident Evil Outbreak  (NTSC-U)|[02445B50](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20765_02445B50.pnach)|Version 1.01|
@@ -3811,10 +3811,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20038|Time Crisis - Crisis Zone (K) |[7AF33AEC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20038_7AF33AEC.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SCES-52530|Time Crisis - Crisis Zone (PAL-M5) |[88E8290A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52530_88E8290A.pnach)|Widescreen hack. Port by dieSkaarj (PAL.)|
 |SLES-50300|Time Crisis 2 |[30FABE51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50300_30FABE51.pnach)|Aiming still in 4:3|
-|SLUS-20219|Time Crisis 2 |[D5D560FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20219_D5D560FF.pnach)|Renders the game in 16:9 aspect ratio<br />Sound fix for stuttering glitchy audio during FMV/cut-scenes|
+|SLUS-20219|Time Crisis 2 |[D5D560FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20219_D5D560FF.pnach)|Renders the game in 16:9 aspect ratio<br />Sound fix for stuttering glitchy audio during FMV/cut-scenes<br />Removes flash effect when using the GunCon2 Controller|
 |SCKA-20002|Time Crisis 2 (K) |[FE12B657](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20002_FE12B657.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLES-51844|Time Crisis 3 |[FD32030F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51844_FD32030F.pnach)||
-|SLUS-20645|Time Crisis 3 |[7290669C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20645_7290669C.pnach)|Widescreen Hack|
+|SLUS-20645|Time Crisis 3 |[7290669C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20645_7290669C.pnach)|Widescreen Hack<br />Removes flash effect when using the GunCon2 Controller|
 |SCKA-20015|Time Crisis 3 (K) |[A6993EA8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20015_A6993EA8.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLPS-25207|TimeSplitter - Jikuu no Shinryakusha (J)|[2C16B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25207_2C16B37E.pnach)||
 |SLES-50078|TimeSplitters |[288AA369](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50078_288AA369.pnach)|Widescreen Hack|
@@ -3980,7 +3980,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66419|Valkyrie Profile 2 - Silmeria [NTSC-J] |[774DE8E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66419_774DE8E2.pnach)||
 |SLES-54646|Valkyrie Profile 2: Silmeria (PAL-G) |[B65E141B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54646_B65E141B.pnach)||
 |SLPS-25077|Vampire Night (J)|[A4C84DE7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25077_A4C84DE7.pnach)||
-|SLUS-20221|Vampire Night (NTSC-U) |[7FBCDA34](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20221_7FBCDA34.pnach)|Removes black bars in cutscenes|
+|SLUS-20221|Vampire Night (NTSC-U) |[7FBCDA34](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20221_7FBCDA34.pnach)|Removes black bars in cutscenes<br />Removes flash effect when using the GunCon2 Controller|
 |SCES-50411|Vampire Night (PAL-M5)  91510857|[91510857](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50411_91510857.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLPM-62506|Vampire Panic (First Print Limited Edition) (J)|[14DDB291](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62506_14DDB291.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-62507|Vampire Panic (Japan) (English Patched) |[C293DD66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62507_C293DD66.pnach)|Attempts to disable interlaced offset rendering.|
