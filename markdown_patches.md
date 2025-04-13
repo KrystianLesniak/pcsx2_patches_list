@@ -1715,6 +1715,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20040|Jak 3 (NTSC-K) |[D1368EAE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20040_D1368EAE.pnach)||
 |SCES-52460|Jak 3 (PAL-M7) |[12804727](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52460_12804727.pnach)|Enable native widescreen<br />SDTV 480p mode at start.|
 |SCES-55510|Jak and Daxter - The Lost Frontier (PAL-M)  71583CA9|[71583CA9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55510_71583CA9.pnach)|Enable native widescreen<br />SDTV 480p mode at start.|
+|SCUS-97124|Jak and Daxter - The Precursor Legacy (NTSC-U) |[143976AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_143976AB.pnach)|No Interlacing & No Blur|
 |SCUS-97124|Jak and Daxter - The Precursor Legacy (NTSC-U) |[1B3976AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_1B3976AB.pnach)|No Interlacing & No Blur|
 |SCUS-97124|Jak and Daxter - The Precursor Legacy (NTSC-U) (Greatest Hits)|[472E7699](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97124_472E7699.pnach)|No Interlacing & No Blur|
 |SCES-50361|Jak and Daxter - The Precursor Legacy (PAL-M6)  9C712FF0|[9C712FF0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50361_9C712FF0.pnach)|Widescreen fix<br />No Interlacing & No Blur<br />NTSC mode at start.|
@@ -1722,6 +1723,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20010|Jak II - Renegade (NTSC-K) |[25FE4D23](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20010_25FE4D23.pnach)||
 |SCES-51608|Jak II - Renegade (PAL-M7)  2479F4A9|[2479F4A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51608_2479F4A9.pnach)|Widescreen fix<br />SDTV 480p mode at start.|
 |SCUS-97265|Jak II - Renegade (U)|[9184AAF1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97265_9184AAF1.pnach)||
+|SCUS-97265|Jak II - Renegade (U)|[9E84AAF1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97265_9E84AAF1.pnach)||
 |SCPS-15021|Jak x Daxter - Kyuusekai no Isan (NTSC-J) |[EDE4FE64](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15021_EDE4FE64.pnach)|No Interlacing & No Blur|
 |SLES-50539|James Bond 007 - Agent Under Fire (E) |[992B46DC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50539_992B46DC.pnach)|16:9 widescreen patch|
 |SLPM-67505|James Bond 007 - Agent Under Fire (K) |[60666E72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67505_60666E72.pnach)|16:9 widescreen patch|
@@ -2123,6 +2125,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-11027|Mawaza (J)|[794D3E00](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11027_794D3E00.pnach)||
 |SLUS-20230|Max Payne (NTSC-U)|[513CA7D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_513CA7D9.pnach)|Widescreen Hack|
 |SLUS-20230|Max Payne (NTSC-U)|[BEB4577E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_BEB4577E.pnach)|Widescreen Hack|
+|SLUS-20230|Max Payne (NTSC-U)|[BEB45781](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_BEB45781.pnach)|Widescreen Hack|
+|SLUS-20230|Max Payne (NTSC-U)     510DA7F8|[510DA7F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20230_510DA7F8.pnach)|Widescreen Hack|
 |SLES-50325|Max Payne (PAL-E) |[E7FB0320](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50325_E7FB0320.pnach)||
 |SLES-50326|Max Payne [PAL-M4]  52E0597D|[52E0597D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50326_52E0597D.pnach)|Renders the game in 16:9 aspect ratio<br />Removes black bars in cutscenes<br />SDTV 480p mode at start. Might need EE Overclock at 300%|
 |SLES-50326|Max Payne [PAL-M4]  C669B63C MAIN_P.RUN|[C669B63C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50326_C669B63C.pnach)|Renders the game in 16:9 aspect ratio<br />Removes black bars in cutscenes<br />SDTV 480p mode at start. Might need EE Overclock at 300%|
@@ -2715,6 +2719,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25110|Project FIFA Worldcup - Sorenara kimi ga daihyou kantoku (J)|[4471743C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25110_4471743C.pnach)||
 |SLPM-67545|Project Minerva (K)|[40C77B13](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67545_40C77B13.pnach)||
 |SLPM-65165|Project Minerva [NTSC-J] |[AB09D7EC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65165_AB09D7EC.pnach)||
+|SLES-52472|Project Minerva Professional (PAL) |[0AF4683D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52472_0AF4683D.pnach)|Attempts to disable interlaced offset rendering.<br />Sets game to NTSC Mode upon startup (display mode can be changed in-game).|
 |SLPM-65344|Project Minerva Professional & Simple 2000 Ultimate Series Vol. 23: Project Minerva Professional [NTSC-J] |[1FA1E198](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65344_1FA1E198.pnach)||
 |SLES-50821|Project Zero *  * PAL-M5 * 22E91837|[22E91837](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50821_22E91837.pnach)|Makes main menu bland looking|
 |SLES-53825|Project Zero 3: The Tormented *  * PAL-M5 * 23B754F4|[23B754F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53825_23B754F4.pnach)|Fixes offset glitch<br />Fixes MenuZoom glitch|
@@ -2834,7 +2839,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20390|Risk - Global Domination (U)|[735DA2F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20390_735DA2F2.pnach)||
 |SLUS-21275|River King - A Wonderful Journey (NTSC-U)|[D926BF85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21275_D926BF85.pnach)||
 |SLPM-62758|River Ride Adventure featuring Salomon (J)|[9A20738A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62758_9A20738A.pnach)||
-|SLES-51930|Road Rage 3 (PAL-E) |[09736614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51930_09736614.pnach)|Attempts to disable interlaced offset rendering.|
+|SLES-51930|Road Rage 3 (PAL-E) |[09736614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51930_09736614.pnach)|Attempts to disable interlaced offset rendering.<br />Forces game to run in NTSC mode (restart required).|
 |SLUS-20398|Road Trip (NTSC-U) |[4C168567](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20398_4C168567.pnach)|16:9 3D with 16:9-optimized UI<br />Removes interlacing artefacts<br />Forces the highest-quality LOD for car models in the overworld<br />Disables after-image effect<br />Enables analog steering with the left analog stick (WIP; breaks player 2, race replays, front wheels don't turn)|
 |SLES-51356|Road Trip Adventure PAL |[52C19E70](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51356_52C19E70.pnach)||
 |SLUS-20687|RoadKill NTSC-U  EBD245D0|[EBD245D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20687_EBD245D0.pnach)|Might need EE Overclock (130%).|
@@ -3180,7 +3185,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20622|Silent Hill 3 |[2498951B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20622_2498951B.pnach)|Patches the game to run at 60 FPS|
 |SLPM-65257|Silent Hill 3 NTSC-J  8CFE667F|[8CFE667F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65257_8CFE667F.pnach)|Widescreen Hack<br />Might need EE Overclock.|
 |SLUS-20873|Silent Hill 4 - The Room |[3919136D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20873_3919136D.pnach)|Widescreen Hack|
-|SLKA-25149|Silent Hill 4 - The Room (K) |[C54646E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25149_C54646E9.pnach)|FMV hack by Pelvicthrustman|
+|SLKA-25149|Silent Hill 4 - The Room (K) |[C54646E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25149_C54646E9.pnach)|FMV hack by Pelvicthrustman<br />Enable the multilanguage selector in the game options, Available languages: English, Spanish, French, German, Italian, Japanese and Korean.|
 |SLES-52445|Silent Hill 4 - The Room (PAL-M5) |[0A5E41A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52445_0A5E41A5.pnach)|Widescreen Hack|
 |SLPM-65574|Silent Hill 4 - The Room [NTSC-J] |[9BF472B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65574_9BF472B8.pnach)||
 |SLUS-21731|Silent Hill Origins |[A8D83239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21731_A8D83239.pnach)|Widescreen fix<br />Patches the game to run at 60 FPS<br />Removes black bars in cutscenes<br />Forces progressive scan mode 480p at startup.<br />Noise filter removal|
@@ -3277,6 +3282,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55020|Simpsons Game, The (PAL-G)  5C1EBD61|[5C1EBD61](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55020_5C1EBD61.pnach)|Might need EE Overclock (130%).|
 |SLES-54904|Simpsons Game, The (PAL-M4)  4C7BB3C8|[4C7BB3C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54904_4C7BB3C8.pnach)|Might need EE Overclock (130%).|
 |SLES-54906|Simpsons Game, The (PAL-S-I)  565B7E04|[565B7E04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54906_565B7E04.pnach)|Might need EE Overclock (130%).|
+|SLUS-20114|Simpsons Skateboarding, The (NTSC-U) |[6D0D9F1F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20114_6D0D9F1F.pnach)|Removes framerate cap.  Simulation runs at 60fps, but some elements such as UI run quick.|
 |SCUS-97355|Siren |[D6C48447](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97355_D6C48447.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SCPS-15053|Siren [NTSC-J] |[FDDE7528](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15053_FDDE7528.pnach)|Widescreen hack|
 |SLES-54628|Skate Attack (E)|[AFFB8141](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54628_AFFB8141.pnach)||
@@ -3702,7 +3708,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20681|The Haunted Mansion (U)|[32E9B04D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20681_32E9B04D.pnach)||
 |SLES-55102|The History Channel - Battle for the Pacific (E)|[855C75E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55102_855C75E9.pnach)||
 |SLUS-21712|The History Channel - Battle for the Pacific (U)|[551E3E7A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21712_551E3E7A.pnach)||
-|SLUS-21474|The History Channel - Civil War - A Nation Divided (U)|[18834BA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21474_18834BA2.pnach)|Widescreen Hack|
+|SLUS-21474|The History Channel - Civil War - A Nation Divided (U)|[18834BA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21474_18834BA2.pnach)|Widescreen Hack<br />Runs game at 60 FPS.|
 |SLES-52247|The Hobbit (PAL-R)  36ECD588|[36ECD588](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52247_36ECD588.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).<br />SDTV 480p mode at start.|
 |SLUS-21335|The Hustle - Detroit Streets (U)|[CD50F9CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21335_CD50F9CA.pnach)||
 |SLUS-20941|The Incredible Hulk - Ultimate Destruction (NTSC-U) |[F17AF8BD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20941_F17AF8BD.pnach)|Patches the game to run at 60FPS. Requires 180% EE Overclock|
