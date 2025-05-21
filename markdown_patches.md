@@ -3995,11 +3995,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20252|UFC: Throwdown [NTSC-U] |[1F051E41](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20252_1F051E41.pnach)||
 |SLES-50999|UFC: Throwdown [PAL] |[D506150D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50999_D506150D.pnach)||
 |SLPM-64539|Ultimate Fighting Championship 2 - Tap-Out (J)|[B92C34BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64539_B92C34BE.pnach)||
-|SLES-53390|Ultimate Spider-Man (E)|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53390_FDD12792.pnach)|Might need EE Overclock at 130%.|
-|SLES-53391|Ultimate Spider-Man (E)|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53391_FDD12792.pnach)|Might need EE Overclock at 130%.|
-|SLPM-66404|Ultimate Spider-Man (J)|[ADFF13DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66404_ADFF13DF.pnach)||
-|SLUS-20870|Ultimate Spider-Man (U) and (E)(SLES-53391) // Ultimate Spider-Man [Limited Edition] (U)(SLUS-21285)|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20870_FDD12792.pnach)|Might need EE Overclock at 130%.|
-|SLUS-21285|Ultimate Spider-Man (U)(SLUS-20870) and (E)(SLES-53391) // Ultimate Spider-Man [Limited Edition] (U)|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21285_FDD12792.pnach)|Might need EE Overclock at 130%.|
+|SLPM-66404|Ultimate Spider-Man (NTSC-J)  ADFF13DF|[ADFF13DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66404_ADFF13DF.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
+|SLUS-20870|Ultimate Spider-Man (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20870_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
+|SLES-53390|Ultimate Spider-Man (PAL-E)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53390_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
+|SLES-53391|Ultimate Spider-Man (PAL-M)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53391_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
+|SLUS-21285|Ultimate Spider-Man [Limited Edition] (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21285_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
 |SLPS-25364|Ultraman (J)|[FCABB636](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25364_FCABB636.pnach)||
 |SLPS-25155|Ultraman Fighting Evolution 2 [NTSC-J] |[9BD2779A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25155_9BD2779A.pnach)||
 |SLPS-25441|Ultraman Fighting Evolution 3 [NTSC-J] |[128CF8F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25441_128CF8F4.pnach)||
