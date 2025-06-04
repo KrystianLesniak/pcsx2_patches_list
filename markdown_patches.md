@@ -818,6 +818,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20836|Digimon World 4 (NTSC-U)|[B871C1D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20836_B871C1D0.pnach)||
 |SLES-53405|Digimon World 4 (PAL-M4) |[2CEFF37C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53405_2CEFF37C.pnach)||
 |SLPS-25453|Digimon World X [NTSC-J] |[E4F97921](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25453_E4F97921.pnach)||
+|SLUS-20974|Digital Devil Saga|[D7273511](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20974_D7273511.pnach)|Digital Devil Saga-NTSC-U-Widescreen Hack (16:9)|
 |SLKA-25300|Digital Devil Saga Avatar Tuner |[F2E397C0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25300_F2E397C0.pnach)||
 |SLPM-65597|Digital Devil Saga Avatar Tuner |[44865CE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65597_44865CE1.pnach)||
 |SLKA-25301|Digital Devil Saga Avatar Tuner 2 |[43202D1A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25301_43202D1A.pnach)||
@@ -4418,7 +4419,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20913||[D7A2F802](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20913_D7A2F802.pnach)|InuYasha - Secret of the Cursed Mask(SLUS-20913) WS patch|
 |SLUS-20915||[AA31B5BF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20915_AA31B5BF.pnach)||
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)|
-|SLUS-20974||[D7273511](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20974_D7273511.pnach)||
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)|
 |SLUS-20980||[EF9E43EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20980_EF9E43EF.pnach)|Ys - The Ark of Napishtim - Widescreen Hack (16:9) (NTSC-U)|
 |SLUS-21090||[190DF20A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21090_190DF20A.pnach)|Alien Hominid Widescreen (NTSC-U)|
