@@ -1397,10 +1397,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20090|God Hand (K) |[924C4AA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20090_924C4AA6.pnach)||
 |SLES-54490|God Hand (PAL-M5) |[DE9722A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54490_DE9722A5.pnach)|Widescreen Hack|
 |SCKA-30002|God of War |[BFCC1795](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30002_BFCC1795.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
-|SCUS-97399|God of War (NTSC-U)  D6385328|[D6385328](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97399_D6385328.pnach)|Widescreen fix|
-|SCES-53133|God of War (PAL-M)  FB0E6D72|[FB0E6D72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53133_FB0E6D72.pnach)|Widescreen fix|
-|SCUS-97481|God of War 2 |[2F123FD8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97481_2F123FD8.pnach)||
-|SCES-54206|God of War 2 - PAL |[44A8A22A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54206_44A8A22A.pnach)|Widescreen Converted from NTSC hack by nemesis2000|
+|SCUS-97399|God of War (NTSC-U)  D6385328|[D6385328](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97399_D6385328.pnach)|Widescreen fix<br />With Any Action Button|
+|SCES-53133|God of War (PAL-M)  FB0E6D72|[FB0E6D72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53133_FB0E6D72.pnach)|Widescreen fix<br />With Any Action button|
+|SCUS-97481|God of War 2 |[2F123FD8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97481_2F123FD8.pnach)|With Any Action Button|
+|SCES-54206|God of War 2 - PAL |[44A8A22A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54206_44A8A22A.pnach)|Widescreen Converted from NTSC hack by nemesis2000<br />With Any Action Button|
 |SCKA-30006|God of War2 |[4340C7C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30006_4340C7C6.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
 |SLUS-20809|Godzilla - Save the Earth (NTSC-U)|[1025D50A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20809_1025D50A.pnach)||
 |SLES-52766|Godzilla - Save the Earth (PAL-M5) |[AA869E3B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52766_AA869E3B.pnach)||
@@ -4019,6 +4019,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-15069|Uo-7-tsu no Mizu to Densetsu no Nushi (J)|[E77C2D4F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15069_E77C2D4F.pnach)||
 |SLES-53991|Urban Chaos - Riot Response (PAL-M5) |[59B5D614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53991_59B5D614.pnach)||
 |SLES-52957|Urban Extreme (E)|[BAEEE480](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52957_BAEEE480.pnach)||
+|SLUS-21209|Urban Reign (NTSC-U)|[BDD9BAAD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21209_BDD9BAAD.pnach)|Automatically boots the game in progressive scan mode (Fixes interlacing issues such as shaking and improves visual quality).|
 |SLES-50939|USA Racer PAL-M  29DCD484|[29DCD484](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50939_29DCD484.pnach)|Might need EE Overclock.|
 |SLES-50725|V-Rally 3 (PAL-M5) |[163F0461](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50725_163F0461.pnach)||
 |SLES-50730|V.I.P. (PAL-M5) |[B74C378E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50730_B74C378E.pnach)||
@@ -4033,8 +4034,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65723|Van Helsing NTSC-J  960D74D7|[960D74D7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65723_960D74D7.pnach)|Widescreen hack|
 |SLUS-20738|Van Helsing NTSC-U  901ECEFC|[901ECEFC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20738_901ECEFC.pnach)|Widescreen hack|
 |SLES-51908|Van Helsing PAL-M  8176235A|[8176235A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51908_8176235A.pnach)|Widescreen hack|
-|SLUS-20383|Vexx |[B6580DA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20383_B6580DA4.pnach)|Widescreen Hack|
 |SLKA-25121|Vexx (NTSC-K)|[97A4995B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25121_97A4995B.pnach)||
+|SLUS-20383|Vexx (NTSC-U)  B6580DA4|[B6580DA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20383_B6580DA4.pnach)|Widescreen Hack<br />Unlocks the dynamic framerate cap to 60FPS. Requires 180% overclock to be stable.|
 |SLES-50481|Vexx [PAL-M5] |[A0600111](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50481_A0600111.pnach)|Widescreen Hack|
 |SCPS-11032|Vib Ripple (J)|[D641407A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11032_D641407A.pnach)||
 |SLES-50280|Victorious Boxers - Ippo's Road to Glory (PAL)|[E3F31090](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50280_E3F31090.pnach)||
@@ -4397,7 +4398,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20267||[38A894C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20267_38A894C6.pnach)|dot Hack - Part 1 - Infection - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
 |SLUS-20296||[5D8B63C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20296_5D8B63C1.pnach)||
 |SLUS-20307||[4783F7ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20307_4783F7ED.pnach)|Attempts to disable interlaced offset rendering.<br />Disables the Depth of Field effect that subtly blurs distant objects.|
-|SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-20419||[5838E074](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20419_5838E074.pnach)|Attempts to disable interlaced offset rendering.<br />Improves performance while camera is facing the sun, slight accuracy compromise|
 |SLUS-20425||[5D2C6E36](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20425_5D2C6E36.pnach)||
 |SLUS-20484||[08995DEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20484_08995DEE.pnach)||
 |SLUS-20485||[3FBF0EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20485_3FBF0EA6.pnach)|Dino Stalker (SLUS-20485)|
