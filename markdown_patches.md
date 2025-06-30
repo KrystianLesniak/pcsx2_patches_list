@@ -4422,7 +4422,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)|
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)|
 |SLUS-20980||[EF9E43EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20980_EF9E43EF.pnach)|Ys - The Ark of Napishtim - Widescreen Hack (16:9) (NTSC-U)|
-|SLUS-21090||[190DF20A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21090_190DF20A.pnach)|Alien Hominid Widescreen (NTSC-U)|
+|SLUS-21090||[190DF20A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21090_190DF20A.pnach)||
 |SLUS-21152||[D382C164](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21152_D382C164.pnach)|Shin Megami Tensei - Digital Devil Saga 2 NTSC-U-Widescreen Hack (16:9)|
 |SLUS-21221||[C0AC5781](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21221_C0AC5781.pnach)|Magna Carta - Tears of Blood - Widescreen Hack (16:9) (NTSC-U)<br />Attempts to disable interlaced offset rendering.<br />Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLUS-21245||[1CC39DBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21245_1CC39DBD.pnach)|Suikoden Tactics (SLUS-21245)|
