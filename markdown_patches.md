@@ -2506,7 +2506,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54991|Nicktoons - Attack of the Toybots (E)|[35BD22CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54991_35BD22CA.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
 |SLUS-21605|Nicktoons - Attack of the Toybots (U)|[910FDAA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21605_910FDAA4.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
 |SLUS-21469|Nicktoons - Battle for Volcano Island (U)|[CAF1432F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21469_CAF1432F.pnach)|Patches the game to run at 16:9 Widescreen Aspect Ratio.|
-|SLUS-21284|Nicktoons Unite! (NTSC-U) |[28D09BF9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21284_28D09BF9.pnach)|Widescreen fix by flameofrecca|
 |SLUS-20810|Nightshade |[519E816B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20810_519E816B.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-52238|Nightshade [PAL] |[3B470BBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52238_3B470BBD.pnach)||
 |SLPM-62194|Nihon Sumo Kyokai Kounin: Nihon Oozumou Gekitou Honbashohen (J)|[1554A5C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62194_1554A5C8.pnach)||
@@ -4428,6 +4427,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21245||[1CC39DBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21245_1CC39DBD.pnach)|Suikoden Tactics (SLUS-21245)|
 |SLUS-21258||[89E303FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21258_89E303FC.pnach)|.Hack//G.U Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
 |SLUS-21273||[8BE5DFF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21273_8BE5DFF3.pnach)||
+|SLUS-21284||[28D09BF9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21284_28D09BF9.pnach)||
 |SLUS-21330||[BDFB1507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21330_BDFB1507.pnach)|Monster Rancher EVO (NTSC-U) WS patch|
 |SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
 |SLUS-21390||[17493C04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21390_17493C04.pnach)||
