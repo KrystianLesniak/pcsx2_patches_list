@@ -891,8 +891,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66256|DNA - Dark Native Apostle (NTSC-J)|[47C35A50](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66256_47C35A50.pnach)||
 |SLUS-20071|DOA2: Hardcore |[23AF6876](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20071_23AF6876.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPS-20057|Dog of Bay (J)|[0194120C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20057_0194120C.pnach)||
-|SLUS-21018|Dog's Life (NTSC-U)  35CB5180|[35CB5180](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21018_35CB5180.pnach)|Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
-|SCES-51248|Dog's Life (PAL-M)  531061F2|[531061F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51248_531061F2.pnach)|Enable native widescreen<br />Might need EE Overclock at 130%.|
+|SLUS-21018|Dog's Life (NTSC-U)  35CB5180|[35CB5180](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21018_35CB5180.pnach)|Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.<br />Disable DOF/blur post-processing effect.|
+|SCES-51248|Dog's Life (PAL-M)  531061F2|[531061F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51248_531061F2.pnach)|Enable native widescreen<br />Might need EE Overclock (130%).<br />Disable DOF/blur post-processing effect.|
+|SLPM-65995|Dog's Life NTSC-J  08E89523|[08E89523](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65995_08E89523.pnach)|Might need EE overclock (130%).<br />Disable DOF/blur post-processing effect.|
 |SLUS-21778|Dokapon Kingdom |[CDE9832D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21778_CDE9832D.pnach)|Widescreen Hack|
 |SLPM-66878|Dokapon Kingdom (J) |[EEE2C773](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66878_EEE2C773.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SCPS-15081|Doko Demo Issyo - Toro to Ippai (J)|[9F0248CB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15081_9F0248CB.pnach)||
@@ -3677,7 +3678,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50068|TG DareDevil (E)|[B5E40DA3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50068_B5E40DA3.pnach)||
 |SLUS-20170|The Adventures of Cookie & Cream (NTSC) |[348CEAC4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20170_348CEAC4.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-21592|The Adventures of Darwin [NTSC-U] |[25E83ED5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21592_25E83ED5.pnach)||
-|SLUS-20887|The Adventures of Jimmy Neutron Boy Genius - Attack of the Twonkies (U)|[058849D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20887_058849D1.pnach)||
+|SLUS-20887|The Adventures of Jimmy Neutron Boy Genius - Attack of the Twonkies (U)|[058849D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20887_058849D1.pnach)|Press the START or X Button to skip cutscenes.|
 |SLES-52700|The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies (E)|[EA50B9F5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52700_EA50B9F5.pnach)||
 |SLUS-21415|The Ant Bully (U)|[E10A865B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21415_E10A865B.pnach)|Patches the game to run at 60 FPS.|
 |SLKA-25246|The Bard's Tale * NTSC-K *  * 35DEA711|[35DEA711](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25246_35DEA711.pnach)||
