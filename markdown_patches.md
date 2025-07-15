@@ -1397,12 +1397,17 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66550|God Hand (J) |[AEDAEE99](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66550_AEDAEE99.pnach)||
 |SCKA-20090|God Hand (K) |[924C4AA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20090_924C4AA6.pnach)||
 |SLES-54490|God Hand (PAL-M5) |[DE9722A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54490_DE9722A5.pnach)|Widescreen Hack|
-|SCKA-30002|God of War |[BFCC1795](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30002_BFCC1795.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
+|SCKA-30002|God of War |[BFCC1795](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30002_BFCC1795.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull<br />With Any Action Button|
+|SLPM-67010|God of War (NTSC-J)  CA052D22|[CA052D22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67010_CA052D22.pnach)|With Any Action Button|
 |SCUS-97399|God of War (NTSC-U)  D6385328|[D6385328](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97399_D6385328.pnach)|Widescreen fix<br />With Any Action Button|
 |SCES-53133|God of War (PAL-M)  FB0E6D72|[FB0E6D72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53133_FB0E6D72.pnach)|Widescreen fix<br />With Any Action button|
+|SCUS-97467|God of War [Demo] (NTSC-U)  DF3A5A5C|[DF3A5A5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97467_DF3A5A5C.pnach)|With X|
 |SCUS-97481|God of War 2 |[2F123FD8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97481_2F123FD8.pnach)|With Any Action Button|
 |SCES-54206|God of War 2 - PAL |[44A8A22A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54206_44A8A22A.pnach)|Widescreen Converted from NTSC hack by nemesis2000<br />With Any Action Button|
-|SCKA-30006|God of War2 |[4340C7C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30006_4340C7C6.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
+|SLPM-67013|God of War 2 (NTSC-J)  E96E55BD|[E96E55BD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67013_E96E55BD.pnach)|With Any Action Button|
+|SCUS-97467|God of War 2 E3 Demo (NTSC-U)  56EC00B5|[56EC00B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97467_56EC00B5.pnach)|With Any Action Button|
+|SCUS-97482|God of War 2 The Colossus Battle [Demo]  174F7EC0|[174F7EC0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97482_174F7EC0.pnach)|With Any Action Button|
+|SCKA-30006|God of War2 |[4340C7C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30006_4340C7C6.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull<br />With Any Action Button|
 |SLUS-20809|Godzilla - Save the Earth (NTSC-U)|[1025D50A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20809_1025D50A.pnach)||
 |SLES-52766|Godzilla - Save the Earth (PAL-M5) |[AA869E3B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52766_AA869E3B.pnach)||
 |SLPM-65805|Godzilla Kaijuu Dairansen - Chikyuu Saishuu Kessen (J)|[98CD9ACA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65805_98CD9ACA.pnach)||
