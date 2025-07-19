@@ -2349,6 +2349,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51189|MTV Celebrity Deathmatch (E)|[BBDCE560](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51189_BBDCE560.pnach)||
 |SLES-55511|MTV Pimp My Ride - Street Racing (E)|[A51F0FED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55511_A51F0FED.pnach)||
 |SLES-54632|MTV Pimp My Ride (PAL-M)  CB15F3F3|[CB15F3F3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54632_CB15F3F3.pnach)|Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
+|SLUS-21580|MTV Pimp My Ride NTSC-U  166ADC2E|[166ADC2E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21580_166ADC2E.pnach)|Widescreen Hack<br />Widescreen Hack<br />Widescreen Hack<br />Widescreen Hack<br />Widescreen Hack|
 |SLES-52230|Muppets Party Cruise (E)|[FD927ADB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52230_FD927ADB.pnach)||
 |SLUS-20635|Muppets Party Cruise (U)|[EB933C4B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20635_EB933C4B.pnach)||
 |SLUS-20983|Musashi - Samurai Legend  |[675CEB8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20983_675CEB8F.pnach)|Widescreen Hack|
@@ -3204,7 +3205,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25149|Silent Hill 4 - The Room (K) |[C54646E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25149_C54646E9.pnach)|FMV hack by Pelvicthrustman<br />Enable the multilanguage selector in the game options, Available languages: English, Spanish, French, German, Italian, Japanese and Korean.|
 |SLES-52445|Silent Hill 4 - The Room (PAL-M5) |[0A5E41A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52445_0A5E41A5.pnach)|Widescreen Hack|
 |SLPM-65574|Silent Hill 4 - The Room [NTSC-J] |[9BF472B8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65574_9BF472B8.pnach)||
-|SLUS-21731|Silent Hill Origins |[A8D83239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21731_A8D83239.pnach)|Widescreen fix<br />Patches the game to run at 60 FPS<br />Removes black bars in cutscenes<br />Forces progressive scan mode 480p at startup.<br />Noise filter removal|
+|SLUS-21731|Silent Hill Origins |[A8D83239](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21731_A8D83239.pnach)|Widescreen fix<br />Requires "Cycle Rate" set to 180% or 300%<br />Removes black bars in cutscenes<br />Forces progressive scan mode 480p at startup.<br />Noise filter removal|
 |SLKA-25422|Silent Hill Origins (K)|[F3662F76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25422_F3662F76.pnach)||
 |SLES-55147|Silent Hill Origins (PAL-M) |[DC180A6B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55147_DC180A6B.pnach)|Widescreen fix<br />Unlocks internal FPS. Might need EE Overclock at 130%.<br />Removes black bars in cutscenes<br />Noise filter removal|
 |SLES-55569|Silent Hill: Shattered Memories |[492CB73E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55569_492CB73E.pnach)|Widescreen hack<br />Noise filter removal<br />Removes black bars in cutscenes|
