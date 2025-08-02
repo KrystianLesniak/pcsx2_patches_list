@@ -628,7 +628,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21045|Conflict - Vietnam (U)|[CC6CBF20](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21045_CC6CBF20.pnach)||
 |SLPM-65460|Conflict Delta - Wangan Sensou 1991 (J)|[3141C0EB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65460_3141C0EB.pnach)||
 |SLPM-66000|Conflict Delta II - Wangan Sensou 1991 (J)|[FFDF5E63](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66000_FFDF5E63.pnach)||
-|SLUS-20240|Conflict Zone - Modern War Strategy (U)|[7DBA914D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20240_7DBA914D.pnach)||
 |SLES-50902|Conflict: Desert Storm [PAL-M4] |[30DED227](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50902_30DED227.pnach)||
 |SLES-52872|Constantine (PAL-M)  715AD5FD|[715AD5FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52872_715AD5FD.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (180%).<br />NTSC mode at start.|
 |SLUS-21142|Constantine (U)|[314DAA9F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21142_314DAA9F.pnach)|Widescreen Hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
@@ -4402,6 +4401,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20069||[FEE23E8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20069_FEE23E8F.pnach)|The Bouncer - Widescreen (16:9) (NTSC-U) // by Hyakki<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20105||[F191AFBC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20105_F191AFBC.pnach)|MDK2: Armageddon (SLUS-20105)|
 |SLUS-20194||[160076FE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20194_160076FE.pnach)|Grandia II (NTSC-U) (SLUS-20194) Widescreen Hack (16:9)|
+|SLUS-20240||[7DBA914D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20240_7DBA914D.pnach)||
 |SLUS-20251||[F0A6D880](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20251_F0A6D880.pnach)|Harvest Moon - Save the Homeland - Widescreen Hack (16:9) (NTSC-U)<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20267||[38A894C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20267_38A894C6.pnach)|dot Hack - Part 1 - Infection - Widescreen Hack (16:9) (NTSC-U) (Hyakki)|
 |SLUS-20296||[5D8B63C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20296_5D8B63C1.pnach)||
