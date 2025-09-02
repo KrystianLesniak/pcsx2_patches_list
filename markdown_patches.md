@@ -527,7 +527,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50541|Capcom vs SNK 2: Mark of the Millennium 2001 [PAL] |[FFC911D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50541_FFC911D0.pnach)||
 |SLPM-65047|Capcom vs. SNK 2: Mark of the Millennium 2001  [NTSC-J] |[B54C0319](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65047_B54C0319.pnach)||
 |SLPS-25691|Captain Tsubasa (NTSC-J)|[2CF3EFF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25691_2CF3EFF3.pnach)||
-|SLES-53485|Car Racing Challenge (E)|[6C694919](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53485_6C694919.pnach)||
+|SLES-53485|Car Racing Challenge (E)|[6C694919](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53485_6C694919.pnach)|Removes interlacing artefacts.<br />Slightly increases draw distance for entities/cars|
 |SCKA-20068|Cars (K)|[AA9ABE8B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20068_AA9ABE8B.pnach)||
 |SLES-54007|Cars [PAL-Spain]  B8435BF4|[B8435BF4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54007_B8435BF4.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLES-55026|Cars: Mater-National Championship [PAL-M2-Nl-Fr] |[EC74C264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55026_EC74C264.pnach)|Widescreen hack conversion|
