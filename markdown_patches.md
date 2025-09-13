@@ -2750,6 +2750,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52702|Psi-Ops: The Mindgate Conspiracy [PAL-M5]  5E7EB5E2|[5E7EB5E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52702_5E7EB5E2.pnach)|Renders the game in 16:9 aspect ratio<br />Enable progressive interlacing.<br />Might need EE Overclock at 180%.|
 |SLUS-21120|Psychonauts |[2373FD16](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21120_2373FD16.pnach)|Runs game at 60 FPS|
 |SLES-53830|Psychonauts (PAL-M)  6B97BBC8|[6B97BBC8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53830_6B97BBC8.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 180%.|
+|SLES-50981|R-C Sports Copter Challenge (PAL) |[07822947](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50981_07822947.pnach)|Removes interlacing artefacts.|
 |SLUS-20780|R-Type Final |[85E994DD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20780_85E994DD.pnach)|Widescreen Hack|
 |SLPS-25247|R-Type Final (J)|[D0E17D26](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25247_D0E17D26.pnach)|Widescreen hack NTSC-J by Arapapa|
 |SCKA-20009|R-Type Final (K)|[5681F8B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20009_5681F8B1.pnach)|Widescreen hack NTSC-K by Arapapa|
