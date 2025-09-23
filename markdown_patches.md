@@ -1615,6 +1615,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21563|Horsez (U)|[F0512849](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21563_F0512849.pnach)||
 |SCPS-56007|Hot Shots Golf 3 (K)|[98C1CE89](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56007_98C1CE89.pnach)||
 |SCUS-97130|Hot Shots Golf 3 (U)|[9794BFEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97130_9794BFEF.pnach)||
+|SCUS-97130|Hot Shots Golf 3 (U)(v2.00)|[9C8D0998](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97130_9C8D0998.pnach)|Removes interlacing artefacts (does not affect FMVs).|
 |SCUS-97610|Hot Shots Tennis (NTSC-U) |[72326E67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97610_72326E67.pnach)||
 |SLUS-21628|Hot Wheels - Beat That! (U)|[8EA70682](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21628_8EA70682.pnach)||
 |SLES-52481|Hot Wheels - Stunt Track Challenge |[1DE69E4C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52481_1DE69E4C.pnach)|Widescreen Hack|
