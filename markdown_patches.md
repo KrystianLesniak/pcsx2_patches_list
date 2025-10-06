@@ -2211,7 +2211,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65077|Metal Gear Solid 2 - Sons of Liberty (Premium Package) (J)|[CBDBD79E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65077_CBDBD79E.pnach)||
 |SLES-50385|Metal Gear Solid 2 - Sons Of Liberty (S)  A633A4BF|[A633A4BF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50385_A633A4BF.pnach)|Widescreen Hack<br />Unlocked at 50 FPS in cutscenes. Might need enable EE Overclock to be stable.|
 |SLPM-68503|Metal Gear Solid 2 - Sons of Liberty [Shareholder Edition] (J)|[CED2D09E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-68503_CED2D09E.pnach)||
-|SLUS-20554|Metal Gear Solid 2 - Substance |[C539049D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20554_C539049D.pnach)|Widescreen Hack|
+|SLUS-20554|Metal Gear Solid 2 - Substance  93B9A720|[93B9A720](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20554_93B9A720.pnach)|Widescreen Hack|
+|SLUS-20554|Metal Gear Solid 2 - Substance  C539049D|[C539049D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20554_C539049D.pnach)|Widescreen Hack<br />60 fps for Cutscenes|
 |SLPM-67002|Metal Gear Solid 2 - Substance (J)|[CED0851A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67002_CED0851A.pnach)||
 |SLES-82009|Metal Gear Solid 2 - Substance (PAL-M5) |[093E7D52](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82009_093E7D52.pnach)|Widescreen Hack<br />Unlocked at 50 FPS in cutscenes. Might need enable EE Overclock to be stable.|
 |SLKA-35001|Metal Gear Solid 2 Substance (K)|[5942DD1F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-35001_5942DD1F.pnach)|Widescreen Hack (NTSC-K by Arapapa)|
