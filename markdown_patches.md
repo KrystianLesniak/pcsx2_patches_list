@@ -2910,7 +2910,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53094|Rugby 2005 (E)|[7250EB43](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53094_7250EB43.pnach)||
 |SLUS-21158|Rugby 2005 (USA) |[DAEC84E6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21158_DAEC84E6.pnach)||
 |SLES-51385|Rugrats Rescate Real (PAL-S)  4603820E|[4603820E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51385_4603820E.pnach)|Might need EE Overclock at 130%.|
-|SLUS-20443|Rugrats: Royal Ransom (U)|[7AACBFD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20443_7AACBFD4.pnach)|Widescreen hack<br />Unlocks internal FPS. Might need EE Overclock at 130%.|
+|SLUS-20443|Rugrats: Royal Ransom (U)|[7AACBFD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20443_7AACBFD4.pnach)|Widescreen hack<br />Unlocks internal FPS. Might need EE Overclock at 130%.<br />Uninverts horizontal and vertical camera axes. Setting "Aiming" to Reversed inverts horizontal axis.|
 |SLES-54218|Rule of Rose |[52585249](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54218_52585249.pnach)|Widescreen Hack|
 |SCPS-15093|Rule of Rose (J) |[72588D1A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15093_72588D1A.pnach)|Widescreen patch (NTSC-J by Arapapa)|
 |SLES-50120|Rumble Racing [PAL-M3] |[A9908033](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50120_A9908033.pnach)||
