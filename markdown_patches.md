@@ -4314,6 +4314,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25553|Yoshitsune Eiyuuden Shura - The Story of Hero Yoshitsune Shura [NTSC-J] |[7B29DC24](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25553_7B29DC24.pnach)|Widescreen Hack|
 |SLPS-25523|Yoshitsune-ki [NTSC-J] |[7902B638](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25523_7902B638.pnach)|Widescreen Hack|
 |SLPM-65830|Ys - Napishtim no Hako (Limited Edition) [NTSC-J] |[51BF4F00](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65830_51BF4F00.pnach)||
+|SLUS-20980|Ys - The Ark of Napishtim (NTSC-U) |[EF9E43EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20980_EF9E43EF.pnach)|Ys - The Ark of Napishtim - Widescreen Hack (16:9) (NTSC-U)<br />Fixes an issue where the player will not move if the analog stick is held to the top left.|
 |SLES-53079|Ys - The Ark of Napishtim (PAL-M5) |[3ED09CF5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53079_3ED09CF5.pnach)||
 |SLPS-25206|Ys I & II Eternal Story (Japan) |[4497BAFB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25206_4497BAFB.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-53062|Yu Yu Hakusho - Dark Tournament (E)|[866DA672](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53062_866DA672.pnach)||
@@ -4439,7 +4440,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20915||[AA31B5BF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20915_AA31B5BF.pnach)||
 |SLUS-20963||[0779FBDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20963_0779FBDB.pnach)|Final Fantasy XII (SLUS-20963)|
 |SLUS-20979||[E2984005](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20979_E2984005.pnach)|Suikoden IV (SLUS-20979)|
-|SLUS-20980||[EF9E43EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20980_EF9E43EF.pnach)|Ys - The Ark of Napishtim - Widescreen Hack (16:9) (NTSC-U)|
 |SLUS-21090||[190DF20A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21090_190DF20A.pnach)||
 |SLUS-21152||[D382C164](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21152_D382C164.pnach)|Shin Megami Tensei - Digital Devil Saga 2 NTSC-U-Widescreen Hack (16:9)|
 |SLUS-21221||[C0AC5781](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21221_C0AC5781.pnach)|Magna Carta - Tears of Blood - Widescreen Hack (16:9) (NTSC-U)<br />Attempts to disable interlaced offset rendering.<br />Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
