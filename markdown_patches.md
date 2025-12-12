@@ -4018,7 +4018,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50999|UFC: Throwdown [PAL] |[D506150D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50999_D506150D.pnach)||
 |SLPM-64539|Ultimate Fighting Championship 2 - Tap-Out (J)|[B92C34BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64539_B92C34BE.pnach)||
 |SLPM-66404|Ultimate Spider-Man (NTSC-J)  ADFF13DF|[ADFF13DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66404_ADFF13DF.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
-|SLUS-20870|Ultimate Spider-Man (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20870_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
+|SLUS-20870|Ultimate Spider-Man (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20870_FDD12792.pnach)|Renders the game in 16:9 aspect ratio|
 |SLES-53390|Ultimate Spider-Man (PAL-E)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53390_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
 |SLES-53391|Ultimate Spider-Man (PAL-M)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53391_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
 |SLUS-21285|Ultimate Spider-Man [Limited Edition] (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21285_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
