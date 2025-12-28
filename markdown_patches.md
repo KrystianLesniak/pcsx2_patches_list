@@ -195,7 +195,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53819|Armored Core - Nine Breaker (PAL-E) |[98BE10F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53819_98BE10F8.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.<br />Removes blur effects.<br />Removes HUD artifacts on hardware renderer.|
 |SLPS-25408|Armored Core - Nine Breaker [NTSC-J] |[5C4E1AC4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25408_5C4E1AC4.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.<br />Removes blur effects.<br />Removes HUD artifacts on hardware renderer.|
 |SLUS-20644|Armored Core - Silent Line |[B8BFF0B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20644_B8BFF0B1.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
-|SLKA-25041|Armored Core - Silent Line (K) |[DB4EB6A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25041_DB4EB6A9.pnach)||
+|SLKA-25041|Armored Core - Silent Line (K) |[DB4EB6A9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25041_DB4EB6A9.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-52203|Armored Core - Silent Line (PAL-E) |[89D79F73](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52203_89D79F73.pnach)||
 |SLUS-20014|Armored Core 2 |[0D168765](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20014_0D168765.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLES-50905|Armored Core 2 - Another Age (PAL-E) |[63F88A8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50905_63F88A8F.pnach)||
@@ -205,7 +205,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20249|Armored Core 2 Another Age |[9545216B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20249_9545216B.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLUS-20435|Armored Core 3 |[FDB4D261](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20435_FDB4D261.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLPS-25169|Armored Core 3 - Silent Line [NTSC-J] |[124C0F8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25169_124C0F8D.pnach)|Attempts to disable interlaced offset rendering.|
-|SLPM-67524|Armored Core 3 (NTSC-K) |[D4B9D03C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67524_D4B9D03C.pnach)||
+|SLPM-67524|Armored Core 3 (NTSC-K) |[D4B9D03C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67524_D4B9D03C.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-51399|Armored Core 3 (PAL-E) |[DE5AF9A8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51399_DE5AF9A8.pnach)||
 |SLPS-25112|Armored Core 3 [NTSC-J] |[D00E1931](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25112_D00E1931.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-50233|Army Men - Air Attack - Blade's Revenge (E)|[E658A1D9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50233_E658A1D9.pnach)||
@@ -495,6 +495,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51713|Bust-A-Block [PAL] |[8BDD5892](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51713_8BDD5892.pnach)||
 |SLES-51060|Butt-Ugly Martians - Zoom or Doom! (E)|[3DB34FC9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51060_3DB34FC9.pnach)||
 |SLUS-20527|Butt-Ugly Martians - Zoom or Doom! (U)|[660ECEDE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20527_660ECEDE.pnach)||
+|SCES-54625|Buzz! Junior - Monster Rumble (E)(_12C7B27E)|[12C7B27E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54625_12C7B27E.pnach)|Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.<br />Changes aspect ratio.|
 |SLUS-21379|Cabela's African Safari (U)|[A326D973](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21379_A326D973.pnach)||
 |SLUS-21384|Cabela's Alaskan Adventures (U)|[CACC5766](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21384_CACC5766.pnach)||
 |SLUS-20534|Cabela's Big Game Hunter (U)|[05D4EEB3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20534_05D4EEB3.pnach)||
@@ -551,10 +552,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20992|Catwoman (U)|[E3DF71E1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20992_E3DF71E1.pnach)||
 |SLES-50636|Centre Court - Hard Hitter (E)|[2E34BD54](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50636_2E34BD54.pnach)||
 |SLKA-25291|Chains of Power (K)|[BD11A6EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25291_BD11A6EE.pnach)||
-|SLUS-20565|Champions of Norrath * NTSC-U *  * 90E66BC5|[90E66BC5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20565_90E66BC5.pnach)|EE overclock is needed to avoid infrequent frame rate drops.|
+|SLUS-20565|Champions of Norrath * NTSC-U *  * 90E66BC5|[90E66BC5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20565_90E66BC5.pnach)|Updated version from the forum.<br />Removes interlacing. Does not Require EE overclock.|
 |SLES-52373|Champions of Norrath * PAL-M2 (En,Es) *  * D18EF711|[D18EF711](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52373_D18EF711.pnach)|Renders the game in 16:9 aspect ratio|
 |SLES-52325|Champions of Norrath * PAL-M3 *  * 75D86958|[75D86958](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52325_75D86958.pnach)|Renders the game in 16:9 aspect ratio<br />EE overclocking is needed to avoid infrequent frame rate drops.|
-|SLUS-20973|Champions: Return to Arms * NTSC-U *  * 4028A55F|[4028A55F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20973_4028A55F.pnach)|EE overclock is needed to avoid infrequent frame rate drops.|
+|SLUS-20973|Champions: Return to Arms * NTSC-U *  * 4028A55F|[4028A55F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20973_4028A55F.pnach)|Disables interlacing. No EE overclock needed.|
 |SLES-53039|Champions: Return to Arms * PAL-M4 *  * 5C64E73A|[5C64E73A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53039_5C64E73A.pnach)|Renders the game in 16:9 aspect ratio<br />EE overclocking is needed to avoid infrequent frame rate drops.|
 |SCES-55662|Chandragupta - Warrior Prince PAL-IN  DB2EE959|[DB2EE959](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55662_DB2EE959.pnach)|Might need EE Overclock.|
 |SLPM-66176|Chaos Field - New Order (J) |[7186F769](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66176_7186F769.pnach)||
@@ -1785,6 +1786,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20229|Jonny Moseley Mad Trix (U)|[AE94FAF8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20229_AE94FAF8.pnach)||
 |SLUS-20869|Judge Dredd - Dredd vs. Death (NTSC-U)  759F05CB|[759F05CB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20869_759F05CB.pnach)|Enable native widescreen<br />Might need EE Overclock (130%).|
 |SLES-51649|Judge Dredd - Dredd vs. Death (PAL-M)  6E900957|[6E900957](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51649_6E900957.pnach)|Enable native widescreen<br />Might need EE Overclock at 130%.|
+|SLPM-66277|Juiced - Tuned Car Densetsu (J) |[531B7E2E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66277_531B7E2E.pnach)|Enables the full Xbox controls layout, including menus. Menu button legends will not always match reality.|
+|SLES-53044|Juiced (E) |[D7E2EF61](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53044_D7E2EF61.pnach)|Enables the full Xbox controls layout, including menus. Menu button legends will not always match reality.|
+|SLES-53151|Juiced (I) |[308582DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53151_308582DE.pnach)|Enables the full Xbox controls layout, including menus. Menu button legends will not always match reality.|
+|SLKA-25283|Juiced (K) |[D556AE22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25283_D556AE22.pnach)|Enables the full Xbox controls layout, including menus. Menu button legends will not always match reality.|
+|SLUS-20872|Juiced (U) |[C186ACA9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20872_C186ACA9.pnach)|Enables the full Xbox controls layout, including menus. Menu button legends will not always match reality.|
 |SLES-54834|Juiced 2 (PAL-M)  6D1B0C02|[6D1B0C02](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54834_6D1B0C02.pnach)|NTSC mode at start.<br />SDTV 480p mode at start.|
 |SLES-54382|Jumanji (PAL-M)  0CA21A7F|[0CA21A7F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54382_0CA21A7F.pnach)|Unlocks internal FPS on dash|
 |SLES-54427|Jumanji (PAL-M)  72A2D46E|[72A2D46E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54427_72A2D46E.pnach)|Unlocks internal FPS on dash|
@@ -2750,6 +2756,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65344|Project Minerva Professional & Simple 2000 Ultimate Series Vol. 23: Project Minerva Professional [NTSC-J] |[1FA1E198](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65344_1FA1E198.pnach)||
 |SLES-50821|Project Zero *  * PAL-M5 * 22E91837|[22E91837](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50821_22E91837.pnach)|Makes main menu bland looking|
 |SLES-53825|Project Zero 3: The Tormented *  * PAL-M5 * 23B754F4|[23B754F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53825_23B754F4.pnach)|Fixes offset glitch<br />Fixes MenuZoom glitch|
+|SLES-52384|Project Zero II: Crimson Butterfly (Undub v1.0) *  * PAL-M5 * 9D8206D3|[9D8206D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52384_9D8206D3.pnach)|Puts the Y-axis value to that of 50 Hz-mode, when having 60 Hz-mode.|
 |SLES-52384|Project Zero II: Crimson Butterfly *  * PAL-M5 * 9D87F3AF|[9D87F3AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52384_9D87F3AF.pnach)|Puts the Y-axis value to that of 50 Hz-mode, when having 60 Hz-mode.|
 |SLUS-20172|Pryzm - Chapter One - The Dark Unicorn |[51706243](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20172_51706243.pnach)|Widescreen Hack|
 |SLES-50721|Pryzm: Chapter One: The Dark Unicorn [PAL-M4] |[D4FB6049](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50721_D4FB6049.pnach)||
@@ -2838,7 +2845,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21134|Resident Evil 4  013E349D|[013E349D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21134_013E349D.pnach)|Widescreen improvement.|
 |SLES-53702|Resident Evil 4  6BA2F6B9|[6BA2F6B9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53702_6BA2F6B9.pnach)|Widescreen improvement.|
 |SLUS-20765|Resident Evil Outbreak  (NTSC-U)|[02445B50](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20765_02445B50.pnach)|Version 1.01|
-|SLUS-20184|Resident Evil: Code: Veronica X |[24036809](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20184_24036809.pnach)|Widescreen hack ported from PAL-M4 ver by ElHecht|
+|SLUS-20184|Resident Evil: Code: Veronica X |[24036809](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20184_24036809.pnach)|Widescreen hack ported from PAL-M4 ver by ElHecht<br />Fixes time shown when using computers either as Claire or Chris (shows local instead of JP).|
 |SLES-51589|Resident Evil: Outbreak |[47C231CC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51589_47C231CC.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLUS-20765|Resident Evil: Outbreak   / VER = 2.00|[0245EF6D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20765_0245EF6D.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLES-53319|Resident Evil: Outbreak: File #2 |[A8505479](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53319_A8505479.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
@@ -3063,6 +3070,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20907|Serious Sam: Next Encounter |[155466E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20907_155466E8.pnach)||
 |SLES-52348|Seven Samurai 20XX (PAL-M5) |[CC229675](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52348_CC229675.pnach)||
 |SLUS-20621|Seven Samurai 20XX (U) |[A6356EA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20621_A6356EA6.pnach)||
+|SCUS-97264|SFOS Prototype Review Code Mar 6 2004 (NTSC-U)  062BC79E|[062BC79E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97264_062BC79E.pnach)||
 |SLUS-20347|Shadow Hearts |[8BE3D7B2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20347_8BE3D7B2.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
 |SLUS-21326|Shadow Hearts - From the New World  |[C3D28EB9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21326_C3D28EB9.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLPM-66071|Shadow Hearts - From the New World [NTSC-J] |[D090AC7F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66071_D090AC7F.pnach)|Widescreen Hack (pnach NTSC-J by Arapapa)|
@@ -3380,6 +3388,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53560|Sonic Riders (PAL-M5) |[F881CD68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53560_F881CD68.pnach)||
 |SLUS-21642|Sonic Riders Zero Gravity (NTSC-U)|[D04516EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21642_D04516EE.pnach)||
 |SLES-55380|Sonic Unleashed (PAL-M5)  8C913264|[8C913264](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55380_8C913264.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.<br />SDTV 480p mode at start.|
+|SLUS-21846|Sonic Unleashed NTSC-U  FB236A46|[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)|Widescreen hack<br />Use in combination with widescreen patch to fix aspect ratio in FMVs.<br />Native 60 FPS. Might need EE overclock (130%).|
 |SLPS-25008|Sorcerous Stabber Orphen [NTSC-J] |[126B585A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25008_126B585A.pnach)|Pnach by Little Giant|
 |SLES-51301|SOS: The Final Escape |[337BF959](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51301_337BF959.pnach)|Widescreen Hack|
 |SLPS-25827|Soukou Kihei Votoms (NTSC-J)|[50AE9E9E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25827_50AE9E9E.pnach)||
@@ -3601,6 +3610,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SCUS-97584|Syphon Filter: Logan's Shadow |[848A6CEA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97584_848A6CEA.pnach)||
 |SCES-52033|Syphon Filter: The Omega Strain |[27E54B37](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52033_27E54B37.pnach)|Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SCUS-97264|Syphon Filter: The Omega Strain |[D5605611](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97264_D5605611.pnach)||
+|TCES-52033|Syphon Filter: The Omega Strain Beta Trial Code (PAL-E)  0DDA2728|[0DDA2728](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/TCES-52033_0DDA2728.pnach)||
+|SCUS-97313|Syphon Filter: The Omega Strain Jampack Demo (NTSC-U)  2FFA7E6F|[2FFA7E6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97313_2FFA7E6F.pnach)|Uses "kDefaultScreenRess"(1280x720)+custom scale fix.|
+|SCUS-97264|Syphon Filter: The Omega Strain November Demo (NTSC-U)  BFCE8450|[BFCE8450](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97264_BFCE8450.pnach)||
+|SCUS-97397|Syphon Filter: The Omega Strain Public Beta 1 (NTSC-U)  BFCE8450|[C909A32E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97397_C909A32E.pnach)||
 |SLUS-21218|Tak - The Great Juju Challenge (U)|[4B06117D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21218_4B06117D.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-52103|Tak & Le Pouvoir de Juju (PAL-F)  2F1F3758|[2F1F3758](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52103_2F1F3758.pnach)|Widescreen Hack Conversion|
 |SLKA-25272|Tak 2 - The Staff of Dreams (K)|[1C713A5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25272_1C713A5C.pnach)||
@@ -3640,7 +3653,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21183|Teen Titans (NTSC-U) |[E1F17139](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21183_E1F17139.pnach)|Patches the game to run at 60 FPS.|
 |SLES-54431|Teen Titans PAL-E  E1F17139|[E1F17139](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54431_E1F17139.pnach)|Widescreen hack<br />NTSC mode at start.|
 |SLES-54430|Teen Titans PAL-F  E1F17139|[E1F17139](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54430_E1F17139.pnach)|Widescreen hack<br />NTSC mode at start.|
-|SLUS-20716|Teenage Mutant Ninja Turtles |[F20A2A25](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20716_F20A2A25.pnach)|Widescreen Hack (Zoom fix by Arapapa)|
+|SLUS-20716|Teenage Mutant Ninja Turtles |[F20A2A25](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20716_F20A2A25.pnach)|Widescreen Hack (Zoom fix by Arapapa)<br />Disables most attack quips from the player character.|
 |SLES-53127|Teenage Mutant Ninja Turtles - Mutant Melee (PAL-M5) |[33E15E16](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53127_33E15E16.pnach)||
 |SLUS-21904|Teenage Mutant Ninja Turtles - Smash-Up  532D7041|[532D7041](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21904_532D7041.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-55565|Teenage Mutant Ninja Turtles - Smash-Up (PAL-M)  CEBA108D|[CEBA108D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55565_CEBA108D.pnach)|50fps toggle on by Gabominated<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
@@ -3878,7 +3891,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20015|Time Crisis 3 (K) |[A6993EA8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20015_A6993EA8.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLPS-25207|TimeSplitter - Jikuu no Shinryakusha (J)|[2C16B37E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25207_2C16B37E.pnach)||
 |SLES-50078|TimeSplitters |[288AA369](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50078_288AA369.pnach)|Widescreen Hack|
-|SLUS-20090|TimeSplitters |[B4A004F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20090_B4A004F2.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-20090|TimeSplitters (NTSC-U) (v1.10)  B4A004F2|[B4A004F2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20090_B4A004F2.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-20090|TimeSplitters (NTSC-U) (v2.00)  8966730F|[8966730F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20090_8966730F.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20314|TimeSplitters 2 |[12532F1C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20314_12532F1C.pnach)||
 |SLES-50877|TimeSplitters 2  5CC9BF81|[5CC9BF81](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50877_5CC9BF81.pnach)|Widescreen hack<br />Removes black bars in cutscenes|
 |SLKA-25020|TimeSplitters 2 (K)|[C01FD223](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25020_C01FD223.pnach)||
@@ -4018,10 +4032,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50999|UFC: Throwdown [PAL] |[D506150D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50999_D506150D.pnach)||
 |SLPM-64539|Ultimate Fighting Championship 2 - Tap-Out (J)|[B92C34BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64539_B92C34BE.pnach)||
 |SLPM-66404|Ultimate Spider-Man (NTSC-J)  ADFF13DF|[ADFF13DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66404_ADFF13DF.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
-|SLUS-20870|Ultimate Spider-Man (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20870_FDD12792.pnach)|Renders the game in 16:9 aspect ratio|
-|SLES-53390|Ultimate Spider-Man (PAL-E)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53390_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
-|SLES-53391|Ultimate Spider-Man (PAL-M)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53391_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
-|SLUS-21285|Ultimate Spider-Man [Limited Edition] (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21285_FDD12792.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
+|SLUS-20870|Ultimate Spider-Man (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20870_FDD12792.pnach)|Might need EE Overclock (130%).|
+|SLES-53390|Ultimate Spider-Man (PAL-E)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53390_FDD12792.pnach)|Might need EE Overclock (130%).|
+|SLES-53391|Ultimate Spider-Man (PAL-M)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53391_FDD12792.pnach)|Might need EE Overclock (130%).|
+|SLUS-21285|Ultimate Spider-Man [Limited Edition] (NTSC-U)  FDD12792|[FDD12792](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21285_FDD12792.pnach)|Might need EE Overclock (130%).|
 |SLPS-25364|Ultraman (J)|[FCABB636](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25364_FCABB636.pnach)||
 |SLPS-25155|Ultraman Fighting Evolution 2 [NTSC-J] |[9BD2779A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25155_9BD2779A.pnach)||
 |SLPS-25441|Ultraman Fighting Evolution 3 [NTSC-J] |[128CF8F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25441_128CF8F4.pnach)||
@@ -4039,6 +4053,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20034|Unreal Tournament (NTSC-U)  5751CAC1|[5751CAC1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20034_5751CAC1.pnach)|Might need EE Overclock (180%).|
 |SLES-50074|Unreal Tournament (PAL-E)  4A805DF1|[4A805DF1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50074_4A805DF1.pnach)|Might need EE Overclock at 180%.|
 |SCPS-15069|Uo-7-tsu no Mizu to Densetsu no Nushi (J)|[E77C2D4F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15069_E77C2D4F.pnach)||
+|SLUS-21390|Urban Chaos - Riot Response (NTSC-U) |[17493C04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21390_17493C04.pnach)|60 fps patch (needs EE cylce rate overlock of at least 180%)|
 |SLES-53991|Urban Chaos - Riot Response (PAL-M5) |[59B5D614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53991_59B5D614.pnach)||
 |SLES-52957|Urban Extreme (E)|[BAEEE480](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52957_BAEEE480.pnach)||
 |SLUS-21209|Urban Reign (NTSC-U)|[BDD9BAAD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21209_BDD9BAAD.pnach)|Automatically boots the game in progressive scan mode (Fixes interlacing issues such as shaking and improves visual quality).|
@@ -4396,6 +4411,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-82046||[26A6E286](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82046_26A6E286.pnach)|Metal Gear Solid 3 - Subsistence (PAL-G) (SLES-82046) Widescreen Hack (16:9) by ElHecht|
 |SLES-82046||[9F185CE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-82046_9F185CE1.pnach)|Metal Gear Solid 3 - Subsistence (PAL-UK/FR) (SLES-82046) Widescreen Hack (16:9) by ElHecht|
 |SLKA-25027||[9C5D24FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25027_9C5D24FF.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
+|SLKA-25334||[60EC6A5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25334_60EC6A5C.pnach)|Burger King Challenge and Castrol Ford GT always enabled|
 |SLKA-25359||[E0AE3997](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25359_E0AE3997.pnach)||
 |SLPM-55184||[E97030DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55184_E97030DF.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-62205||[A1AA9D67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62205_A1AA9D67.pnach)|Attempts to disable interlaced offset rendering.|
@@ -4453,7 +4469,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21284||[28D09BF9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21284_28D09BF9.pnach)||
 |SLUS-21330||[BDFB1507](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21330_BDFB1507.pnach)|Monster Rancher EVO (NTSC-U) WS patch|
 |SLUS-21349||[82651334](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21349_82651334.pnach)|no interlace by someother1ne|
-|SLUS-21390||[17493C04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21390_17493C04.pnach)||
 |SLUS-21410||[104F08F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21410_104F08F4.pnach)|Mortal Kombat - Armageddon (U) (SLUS-21410) Widescreen Hack (16:9) by ElHecht|
 |SLUS-21448||[F3FD313E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21448_F3FD313E.pnach)||
 |SLUS-21488||[0F26BB77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21488_0F26BB77.pnach)|.Hack//G.U Vol. II Reminisce Undub - Widescreen Hack (16:9) (NTSC-U) (cloudalmasai)|
@@ -4461,5 +4476,4 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21594||[E0A817F8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21594_E0A817F8.pnach)|Naruto - Uzumaki Chronicles 2 (NTSC-U) (SLUS-21594) Widescreen Hack (16:9) by ElHecht|
 |SLUS-21720||[21D3B445](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21720_21D3B445.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-21845||[7FAE77BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21845_7FAE77BE.pnach)||
-|SLUS-21846||[FB236A46](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21846_FB236A46.pnach)||
 |||[FF3DB201](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/FF3DB201.pnach)||
