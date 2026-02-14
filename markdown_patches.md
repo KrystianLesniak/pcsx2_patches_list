@@ -989,7 +989,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21392|DreamWorks Shrek Smash n' Crash Racing (U)|[34B473E6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21392_34B473E6.pnach)||
 |SLES-54771|DreamWorks Shrek the Third (PAL-M)  6DD4EB8D|[6DD4EB8D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54771_6DD4EB8D.pnach)|Renders the game in 16:9 aspect ratio<br />NTSC mode at start.<br />SDTV 480p mode at start.|
 |SLUS-21454|DreamWorks Shrek the Third (U)|[90A9963E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21454_90A9963E.pnach)||
-|SLPM-65246|Drift Racer - Kaido Battle [NTSC-J] |[0AD22FB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_0AD22FB5.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-50876|Driv3r (PAL-M)  E94FBF35|[E94FBF35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50876_E94FBF35.pnach)|Might need EE Overclock (130%).<br />NTSC mode at start.|
 |SLES-52153|Driv3r (PAL-M)  E94FBF35|[E94FBF35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52153_E94FBF35.pnach)|Might need EE Overclock (130%).<br />NTSC mode at start.|
 |SLUS-21109|Drive To Survive (U)|[0520A26D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21109_0520A26D.pnach)||
@@ -1276,6 +1275,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66205|Front Mission 5  (English patch CRC)|[F60255AC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66205_F60255AC.pnach)|widescreen|
 |SLES-53148|Fruitfall (E)|[1601F9D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53148_1601F9D1.pnach)||
 |SLKA-25257|Fu-un Bakumatsu Den (K)|[48793741](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25257_48793741.pnach)||
+|SLPM-65813|Fu-un Bakumatsu-den [NTSC-J]  950241D3|[950241D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65813_950241D3.pnach)|Attempts to disable interlaced offset rendering.|
+|SLPM-65494|Fu-un Shinsen-gumi [NTSC-J]  AF95D8FC|[AF95D8FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65494_AF95D8FC.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-20464|Fugitive Hunter - War on Terror (U)|[09745632](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20464_09745632.pnach)||
 |SLPM-62505|Fukuhara Ai no Takkyu Icchokusen (J)|[B733F841](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62505_B733F841.pnach)||
 |SLKA-25352|Full Metal Alchemist - Dream Carnival (K)|[3EDAB3F6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25352_3EDAB3F6.pnach)||
@@ -1294,8 +1295,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51507|Futurama (PAL-M5)  EB25115F|[EB25115F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51507_EB25115F.pnach)|Renders the game in 16:9 aspect ratio<br />SDTV 480p mode at start.|
 |SLPM-65973|Future Boy Conan (J) (Mirai Shounen Conan) |[163A62C8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65973_163A62C8.pnach)||
 |SLES-52701|Future Tactics: The Uprising [PAL] |[5E4C44CF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52701_5E4C44CF.pnach)||
-|SLPM-65813|Fuun Bakumatsuden [NTSC-J] |[950241D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65813_950241D3.pnach)||
-|SLPM-65494|Fuun Shinsengumi [NTSC-J] |[AF95D8FC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65494_AF95D8FC.pnach)||
 |SLKA-25139|Fuuun Shinsengumi [NTSC-K] |[68C8FC78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25139_68C8FC78.pnach)||
 |SLUS-21891|G-Force |[67655A22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21891_67655A22.pnach)|Patches the game to run at 60 FPS.|
 |SLPS-25009|G-Saviour (J)|[AA0D46D4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25009_AA0D46D4.pnach)||
@@ -1817,13 +1816,14 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54537|K.O King (E)|[4BBE024D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54537_4BBE024D.pnach)|Widescreen hack  (NTSC-J by Arapapa)|
 |SLES-52179|Kaan - Barbarian's Blade PAL-M  973793E8|[973793E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52179_973793E8.pnach)|NTSC Mode at start.|
 |SLPS-25445|Kagero 2 - Dark Illusion (J)|[5FEE89E0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25445_5FEE89E0.pnach)|Attempts to disable interlaced offset rendering.|
-|SLPM-66022|Kaido - Touge no Densetsu [NTSC-J] |[EC33CA0D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66022_EC33CA0D.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-65246|Kaido Battle - Nikko, Haruna, Rokko, Hakone [NTSC-J] |[2046216F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_2046216F.pnach)|Attempts to disable interlaced offset rendering.|
 |SLKA-25063|Kaido Battle (NTSC-K)|[E3795E39](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25063_E3795E39.pnach)|Widescreen pnach by Arapapa|
-|SLPM-65514|Kaido Battle 2 - Chain Reaction [NTSC-J] |[C37C1B76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65514_C37C1B76.pnach)|Attempts to disable interlaced offset rendering.|
+|SLPM-65246|Kaido Battle [NTSC-J]  0AD22FB5|[0AD22FB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65246_0AD22FB5.pnach)|Attempts to disable interlaced offset rendering.|
+|SLPM-65514|Kaido Battle 2 - Chain Reaction [NTSC-J]  C37C1B76|[C37C1B76](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65514_C37C1B76.pnach)|Attempts to disable interlaced offset rendering.|
 |SLKA-25146|Kaido Battle 2 (NTSC-K)|[D285B3DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25146_D285B3DF.pnach)|Widescreen pnach by Arapapa|
-|SLES-53900|Kaido Racer 2 PAL |[C7993BCC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53900_C7993BCC.pnach)|Attempts to disable interlaced offset rendering.|
-|SLES-53191|Kaido Racer PAL |[F7780E06](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53191_F7780E06.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
+|SLPM-66022|Kaido Battle: Touge no Densetsu [NTSC-J]  EC33CA0D|[EC33CA0D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66022_EC33CA0D.pnach)|Attempts to disable interlaced offset rendering.|
+|SLES-53191|Kaido Racer [PAL]  F7780E06|[F7780E06](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53191_F7780E06.pnach)|Attempts to disable interlaced offset rendering.|
+|SLES-53900|Kaido Racer 2 [PAL]  C7993BCC|[C7993BCC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53900_C7993BCC.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-15090|Kaitou Sly Cooper 2 |[615EA2DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15090_615EA2DB.pnach)||
 |SCPS-15036|Kaitou Sly Cooper(J)|[15C88C7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15036_15C88C7B.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLPS-25657|Kakutou Bijin Wulong [NTSC-J] |[4A4B623A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25657_4A4B623A.pnach)|Widescreen hack|
@@ -2471,7 +2471,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54492|Need for Speed - Carbon [Collector's Edition] (PAL-E)  C2909885|[C2909885](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54492_C2909885.pnach)|Widescreen fix<br />NTSC mode at start.<br />Removes the post-processing blur/bloom effect<br />Removes the speed effect in race<br />Fixes the career cash bonus not checking for Most Wanted: Black Edition.|
 |SLES-54402|Need for Speed - Carbon [Collector's Edition] (PAL-F-G)  2BB7BA40|[2BB7BA40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54402_2BB7BA40.pnach)|Widescreen fix<br />NTSC mode at start.<br />Removes the post-processing blur/bloom effect<br />Removes the speed effect in race|
 |SLES-54323|Need for Speed - Carbono (PAL-S-I)  4078F8F1|[4078F8F1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54323_4078F8F1.pnach)|Widescreen fix<br />NTSC mode at start.<br />Removes the post-processing blur/bloom effect<br />Removes the speed effect in race|
-|SLUS-20362|Need for Speed - Hot Pursuit 2 (NTSC-U) |[1D2818AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20362_1D2818AF.pnach)|Fixes the game to run in a widescreen 16:9 scale.<br />Fixes the HUD to run in a widescreen 16:9 scale.<br />Patches the game to run at 60 FPS (EE Overclock should be set to 130%. Higher values are usable but may cause hanging).<br />Adds extra controller setups, mirroring the scrapped prototype trigger-based setup, two Underground-like setups, and an Xbox HP2-like setup.|
+|SLUS-20362|Need for Speed - Hot Pursuit 2 (NTSC-U) |[1D2818AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20362_1D2818AF.pnach)|Fixes the game to run in a widescreen 16:9 scale.<br />Fixes the HUD to run in a widescreen 16:9 scale.<br />Patches the game to run at 60 FPS (EE Overclock should be set to 130%. Higher values are usable but may cause hanging).<br />Adds extra controller setups, mirroring the scrapped prototype trigger-based setup, two Underground-like setups, and an Xbox HP2-like setup.<br />Automatically saves the game after events if "autosave" is on.|
 |SLES-50731|Need for Speed - Hot Pursuit 2 (PAL-M6)  1D2818AF|[1D2818AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50731_1D2818AF.pnach)|Widescreen ported from NTSC hack by nemesis2000<br />Might need EE Overclock at 130%.<br />NTSC mode at start.<br />Adds extra controller setups, mirroring the scrapped prototype trigger-based setup, two Underground-like setups, and an Xbox HP2-like setup.|
 |SLUS-21267|Need for Speed - Most Wanted (NTSC-U)  270F8C03|[270F8C03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21267_270F8C03.pnach)|Widescreen fix<br />Disables the brownish yellow post processing filter<br />Removes the blur effect|
 |SLES-53557|Need for Speed - Most Wanted (PAL-E)  692CBA8E|[692CBA8E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53557_692CBA8E.pnach)|Widescreen fix<br />Disables the brownish yellow post processing filter<br />NTSC mode at start.<br />Removes the blur effect|
@@ -2768,8 +2768,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-25247|R-Type Final (J)|[D0E17D26](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25247_D0E17D26.pnach)|Widescreen hack NTSC-J by Arapapa|
 |SCKA-20009|R-Type Final (K)|[5681F8B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20009_5681F8B1.pnach)|Widescreen hack NTSC-K by Arapapa|
 |SLES-51952|R-Type Final (PAL-M3) |[355DBDDF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51952_355DBDDF.pnach)||
-|SLPM-65897|Racing Battle C1 Grand Prix (J)|[1C087362](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65897_1C087362.pnach)||
-|SLPM-65897|Racing Battle C1 Grand Prix (J) (English Patched)|[9C4C9611](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65897_9C4C9611.pnach)||
+|SLPM-65897|Racing Battle - C1 Grand Prix [NTSC-J]  1C087362|[1C087362](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65897_1C087362.pnach)||
+|SLPM-65897|Racing Battle - C1 Grand Prix [NTSC-J]  9C4C9611 [English Patch v8.1 Final]|[9C4C9611](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65897_9C4C9611.pnach)||
 |SLPM-66043|Racing Game - Chuui!!! (J)|[669AE6D2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66043_669AE6D2.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLES-51633|Racing Simulation 3 PAL-M  79D8CB9E secondary CRC C7AA13F6|[79D8CB9E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51633_79D8CB9E.pnach)|Might need EE Overclock.|
 |SLES-51633|Racing Simulation 3 PAL-M  79D8CB9E secondary CRC C7AA13F6|[C7AA13F6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51633_C7AA13F6.pnach)|Might need EE Overclock.|
@@ -3212,10 +3212,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65098|Silent Hill 2 - Saigo no Uta [NTSC-J] |[380D6782](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65098_380D6782.pnach)||
 |SLUS-20228|Silent Hill 2 (original version) |[8E8E384B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20228_8E8E384B.pnach)|Widescreen Hack|
 |SLES-50382|Silent Hill 2 (PAL-M6)  6B149273|[6B149273](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50382_6B149273.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
-|SLUS-20228|Silent Hill 2: Greatest Hits (NTSC-U)|[FE06A030](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20228_FE06A030.pnach)|Widescreen hack<br />Patches the game to run at 60 FPS|
+|SLUS-20228|Silent Hill 2: Greatest Hits (NTSC-U)|[FE06A030](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20228_FE06A030.pnach)|Widescreen hack<br />Patches the game to run at 60 FPS<br />Noise Filter will be deactivated<br />Activate auxiliary Map on the Screen!|
 |SLES-51434|Silent Hill 3 |[5088CCDB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51434_5088CCDB.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.|
 |SLKA-25065|Silent Hill 3 |[C6CBDE91](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25065_C6CBDE91.pnach)|Widescreen hack (NTSC-K by Arapapa)|
-|SLUS-20622|Silent Hill 3 |[2498951B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20622_2498951B.pnach)|Patches the game to run at 60 FPS|
+|SLUS-20622|Silent Hill 3 |[2498951B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20622_2498951B.pnach)|Patches the game to run at 60 FPS<br />RE4 Style Camera for SH3<br />Fix Camera Angle with L3 (RE4 Style Camera)|
 |SLPM-65257|Silent Hill 3 NTSC-J  8CFE667F|[8CFE667F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65257_8CFE667F.pnach)|Widescreen Hack<br />Might need EE Overclock.|
 |SLUS-20873|Silent Hill 4 - The Room |[3919136D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20873_3919136D.pnach)|Widescreen Hack|
 |SLKA-25149|Silent Hill 4 - The Room (K) |[C54646E9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25149_C54646E9.pnach)|FMV hack by Pelvicthrustman<br />Enable the multilanguage selector in the game options, Available languages: English, Spanish, French, German, Italian, Japanese and Korean.|
@@ -3911,8 +3911,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50954|Tokyo Road Race (E)|[F880239B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50954_F880239B.pnach)||
 |SLUS-20831|Tokyo Xtreme Racer 3 |[0F932D81](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20831_0F932D81.pnach)|Attempts to disable interlaced offset rendering.<br />Reduce Exotic Butterfly and Whirlwind Fanfare's Credit(CP) requirements by 100.|
 |SLUS-20831|Tokyo Xtreme Racer 3 |[0F9348FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20831_0F9348FF.pnach)|Attempts to disable interlaced offset rendering.|
-|SLUS-21236|Tokyo Xtreme Racer: Drift |[07A4E535](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21236_07A4E535.pnach)|Attempts to disable interlaced offset rendering.|
-|SLUS-21394|Tokyo Xtreme Racer: Drift 2 (NTSC-U - )|[B32E018E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21394_B32E018E.pnach)|Attempts to disable interlaced offset rendering.<br />Changes the ingame speedometer and gear menu to km/h|
+|SLUS-21236|Tokyo Xtreme Racer: Drift [NTSC-U]  07A4E535|[07A4E535](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21236_07A4E535.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-21394|Tokyo Xtreme Racer: Drift 2 [NTSC-U]  B32E018E|[B32E018E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21394_B32E018E.pnach)|Attempts to disable interlaced offset rendering.<br />Changes the ingame speedometer and gear menu to km/h|
 |SLUS-20355|Tom & Jerry's War of the Wiskers (NTSC-U)|[F243A4C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20355_F243A4C9.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
 |SLES-51053|Tom & Jerry's War of the Wiskers (PAL-M)|[350F7F29](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51053_350F7F29.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
 |SLUS-21422|Tom Clancy's Ghost Recon - Advanced Warfighter NTSC-U  75A5436A|[433B0342](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21422_433B0342.pnach)|Widescreen hack|
