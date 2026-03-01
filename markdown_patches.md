@@ -149,7 +149,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-51105|Ape Escape 2 (Spain) |[ADCDCB88](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-51105_ADCDCB88.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
 |SLUS-20685|Ape Escape 2 (USA) |[BDD9F5E1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20685_BDD9F5E1.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
 |SCES-53642|Ape Escape 3 |[53898FD0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53642_53898FD0.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
-|SCUS-97501|Ape Escape 3 |[7571AAEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97501_7571AAEE.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
+|SCUS-97501|Ape Escape 3 |[7571AAEE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97501_7571AAEE.pnach)|Forces 480p display mode<br />Run the game at 16:9 Widescreen Aspect Ratio from the start.|
 |SLPM-66551|Appleseed EX (J)|[BF4AD345](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66551_BF4AD345.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-50053|Aqua Aqua - Wetrix 2 (E)|[C7591F3F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50053_C7591F3F.pnach)||
 |SLUS-20162|Aqua Aqua (U)|[CF736A9D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20162_CF736A9D.pnach)||
@@ -1180,7 +1180,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-50494|Final Fantasy X (PAL-Spain) |[941BB7DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50494_941BB7DE.pnach)|Final Fantasy X (PAL-S)|
 |SLPM-67513|Final Fantasy X International |[3866CA7E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67513_3866CA7E.pnach)|widescreen 16:9 and 16:10 (NTSC-K) hack by 99skull|
 |SLPS-25088|Final Fantasy X International (NTSC-J) |[658597E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25088_658597E2.pnach)|Widescreen hack|
-|SLUS-20672|Final Fantasy X-2 |[48FE0C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20672_48FE0C71.pnach)||
+|SLUS-20672|Final Fantasy X-2 |[48FE0C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20672_48FE0C71.pnach)|Shows a more precise completion percentage in the save menu. Older saves have to be resaved with this patch on to see completion percentage.|
 |SLKA-25144|Final Fantasy X-2 (NTSC-K) |[11624CD6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25144_11624CD6.pnach)||
 |SLES-51816|Final Fantasy X-2 (PAL-Fr) |[9AAC530C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51816_9AAC530C.pnach)|Final Fantasy X-2 (PAL-Fr) (SLES-51816) Widescreen Hack (16:9) by ElHecht, ported to PAL-French by Z_Boy|
 |SLES-51819|Final Fantasy X-2 (PAL-Spain) |[9AAC530A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51819_9AAC530A.pnach)|Final Fantasy X-2 (PAL-S)|
@@ -1471,9 +1471,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20310|Gravity Games Bike - Street. Vert. Dirt. (U)|[57BF965B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20310_57BF965B.pnach)||
 |SLPM-62028|Greatest Striker (J)|[53D4FE33](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62028_53D4FE33.pnach)||
 |SLUS-21539|Greg Hastings' Tournament Paintball Max'd (U)|[40181DDF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21539_40181DDF.pnach)||
-|SLES-51933|Gregory Horror Show |[412D44E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51933_412D44E8.pnach)|Widescreen hack<br />Attempts to disable interlaced offset rendering.|
 |SLPM-65324|Gregory Horror Show - Soul Collector (J)|[992C9F92](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65324_992C9F92.pnach)||
 |SLKA-25033|Gregory Horror Show - Soul Collector (K)|[DB0707F3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25033_DB0707F3.pnach)||
+|SLES-51933|Gregory Horror Show (UNDUB v1.1 En) *  * 41215EB8|[41215EB8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51933_41215EB8.pnach)|Widescreen hack<br />Attempts to disable interlaced offset rendering.|
+|SLES-51933|Gregory Horror Show *  * 412D44E8|[412D44E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51933_412D44E8.pnach)|Widescreen hack<br />Attempts to disable interlaced offset rendering.|
 |SCUS-97466|Gretzky NHL 06 [NTSC-U] |[CC08ACD4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97466_CC08ACD4.pnach)||
 |SCUS-97409|Gretzky NHL 2005 |[B10CBF67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97409_B10CBF67.pnach)|Widescreen Hack|
 |SLES-54897|Grim Grimoire (E)|[E55A4E9A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54897_E55A4E9A.pnach)||
@@ -2801,6 +2802,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21576|Rayman - Raving Rabbids (U)|[53591072](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21576_53591072.pnach)||
 |SLPM-67519|Rayman 2: Revolution * NTSC-K *  * D2F77DF2|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67519_D2F77DF2.pnach)|Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Might need EE overclocking to be stable (130%).|
 |SLUS-20138|Rayman 2: Revolution * NTSC-U *  * D2F77DF2|[D2F77DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20138_D2F77DF2.pnach)|Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Might need EE overclocking to be stable (130%).|
+|SLES-51222|Rayman 3 - Hoodlum Havoc |[0499CB59](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51222_0499CB59.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
+|SLKA-25078|Rayman 3 - Hoodlum Havoc |[90E927F3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25078_90E927F3.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.<br />Run the game at 480p Mode from the start.|
+|SLUS-20601|Rayman 3 - Hoodlum Havoc |[146F67E5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20601_146F67E5.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.<br />Run the game at 480p Mode from the start.|
+|SLUS-20272|Rayman Arena (NTSC-U) |[6028FC5B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20272_6028FC5B.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
+|SLES-50457|Rayman M (PAL-M 1.02) |[3BDFC176](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50457_3BDFC176.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
+|SLES-50457|Rayman M (PAL-M 2.0) |[DDA2FA6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50457_DDA2FA6A.pnach)|Run the game at 16:9 Widescreen Aspect Ratio from the start.|
 |SLPS-25029|Rayman Revolution (NTSC-J) |[BD9E8B57](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25029_BD9E8B57.pnach)|Widescreen Hacks by ElHecht & ICUP321<br />Patches the game to run at 60 FPS.|
 |SLES-50044|Rayman Revolution (PAL-M5)  55EDA5A0|[55EDA5A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50044_55EDA5A0.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLES-50077|RC Revenge Pro (E)|[91202475](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50077_91202475.pnach)||
