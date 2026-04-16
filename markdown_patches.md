@@ -3738,7 +3738,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50068|TG DareDevil (E)|[B5E40DA3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50068_B5E40DA3.pnach)||
 |SLUS-20170|The Adventures of Cookie & Cream (NTSC) |[348CEAC4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20170_348CEAC4.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-21592|The Adventures of Darwin [NTSC-U] |[25E83ED5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21592_25E83ED5.pnach)||
-|SLUS-20887|The Adventures of Jimmy Neutron Boy Genius - Attack of the Twonkies (U)|[058849D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20887_058849D1.pnach)|Press the START or X Button to skip cutscenes.|
+|SLUS-20887|The Adventures of Jimmy Neutron Boy Genius - Attack of the Twonkies (U)|[058849D1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20887_058849D1.pnach)|Press the START or X Button to skip cutscenes. Cutscenes can be skipped after about a second of playtime.|
 |SLES-52700|The Adventures of Jimmy Neutron Boy Genius: Attack of the Twonkies (E)|[EA50B9F5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52700_EA50B9F5.pnach)||
 |SLUS-21415|The Ant Bully (U)|[E10A865B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21415_E10A865B.pnach)|Patches the game to run at 60 FPS.|
 |SLKA-25246|The Bard's Tale * NTSC-K *  * 35DEA711|[35DEA711](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25246_35DEA711.pnach)||
