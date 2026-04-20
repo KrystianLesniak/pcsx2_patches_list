@@ -1831,8 +1831,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66022|Kaido Battle: Touge no Densetsu [NTSC-J]  EC33CA0D|[EC33CA0D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66022_EC33CA0D.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-53191|Kaido Racer [PAL]  F7780E06|[F7780E06](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53191_F7780E06.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-53900|Kaido Racer 2 [PAL]  C7993BCC|[C7993BCC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53900_C7993BCC.pnach)|Attempts to disable interlaced offset rendering.|
-|SCPS-15090|Kaitou Sly Cooper 2 |[615EA2DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15090_615EA2DB.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCPS-15036|Kaitou Sly Cooper(J)|[15C88C7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15036_15C88C7B.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
+|SCPS-15090|Kaitou Sly Cooper 2 |[615EA2DB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15090_615EA2DB.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCPS-15036|Kaitou Sly Cooper(J)|[15C88C7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-15036_15C88C7B.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
 |SLPS-25657|Kakutou Bijin Wulong [NTSC-J] |[4A4B623A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25657_4A4B623A.pnach)|Widescreen hack|
 |SLPS-25944|Kamen Rider - Climax Heroes (J)|[746B14AB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25944_746B14AB.pnach)||
 |SLPS-25302|Kamen Rider - Seigi no Keifu (J)|[B2F0A8D2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25302_B2F0A8D2.pnach)||
@@ -2365,7 +2365,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21666|Mountain Bike Adrenaline (U)|[856ACEB6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21666_856ACEB6.pnach)||
 |SLES-54728|Mountain Bike Adrenaline featuring Salomon (E)|[E81B67D8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54728_E81B67D8.pnach)||
 |SLES-52525|Mouse Trophy (E)|[933ECA90](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52525_933ECA90.pnach)||
-|SLES-54666|Mr. Bean PAL-M  EDCBBC68|[EDCBBC68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54666_EDCBBC68.pnach)|Widescreen hack 16:9<br />Might need EE Overclock (180%).<br />NTSC mode at start.|
+|SLES-54666|Mr. Bean PAL-M  EDCBBC68|[EDCBBC68](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54666_EDCBBC68.pnach)|Widescreen hack 16:9<br />Might need EE Overclock (180%).<br />NTSC mode at start.<br />Upon entering a level forces some treasure chests closed if not enough are closed to collect the remaining jigsaw pieces needed.|
 |SLPM-66248|Mr. Incredible - Kyouteki Underminer Toujou (J)|[249FC69C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66248_249FC69C.pnach)|Widescreen hack (NTSC-J by Arapapa)|
 |SLPM-65759|Mr. Incredible (J)|[4D5BB65A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65759_4D5BB65A.pnach)||
 |SLUS-21270|MS Saga: A New Dawn |[9F18CBC5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21270_9F18CBC5.pnach)||
@@ -3352,22 +3352,22 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-55152|Skyscraper PAL-M  EAEEC017|[EAEEC017](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55152_EAEEC017.pnach)|Might need EE Overclock.|
 |SLES-50776|Slam Tennis (E)|[43CC009B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50776_43CC009B.pnach)||
 |SLES-50683|Sled Storm (PAL-M)  26BD4CDC|[26BD4CDC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50683_26BD4CDC.pnach)|SDTV 480p mode at start.|
-|SCUS-97316|Sly 2 - Band of Thieves |[07652DD9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97316_07652DD9.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCUS-97316|Sly 2 - Band of Thieves |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97316_FDA1CBF6.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCES-52529|Sly 2 - Band of Thieves (PAL-M11) |[15DD1F6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_15DD1F6F.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCES-52529|Sly 2 - Band of Thieves (PAL-M11) |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_FDA1CBF6.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCUS-97415|Sly 2 - Band of Thieves [E3 Demo] |[5B93397F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97415_5B93397F.pnach)|No Interlacing & No Motion Blur|
+|SCUS-97316|Sly 2 - Band of Thieves |[07652DD9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97316_07652DD9.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCUS-97316|Sly 2 - Band of Thieves |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97316_FDA1CBF6.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCES-52529|Sly 2 - Band of Thieves (PAL-M11) |[15DD1F6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_15DD1F6F.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCES-52529|Sly 2 - Band of Thieves (PAL-M11) |[FDA1CBF6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52529_FDA1CBF6.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCUS-97415|Sly 2 - Band of Thieves [E3 Demo] |[5B93397F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97415_5B93397F.pnach)|No Interlacing<br />No Motion Blur|
 |SCUS-97457|Sly 2 - Band of Thieves [Retail Demo] |[B3E892E4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97457_B3E892E4.pnach)|Attempts to disable interlaced offset rendering.|
-|SCUS-97484|Sly 3 - Honor Among Thieves [E3 Demo] |[3130A4D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97484_3130A4D3.pnach)|No Interlacing & No Motion Blur|
-|SCUS-97527|Sly 3 - Honor Among Thieves [Regular Demo] |[35CCFA60](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97527_35CCFA60.pnach)|No Interlacing & No Motion Blur|
-|SCES-53409|Sly 3 - Honour Among Thieves |[8164C614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53409_8164C614.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCUS-97464|Sly 3 - Honour Among Thieves NTSC-U|[8BC95883](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97464_8BC95883.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCUS-97198|Sly Cooper (NTSC) |[C77AF2CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97198_C77AF2CA.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCKA-20044|Sly Cooper 2 - Band of Thieves |[518DD841](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20044_518DD841.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCKA-20063|Sly Cooper 3 - Honour Among Thieves (K)|[A8CC1583](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20063_A8CC1583.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCKA-20004|Sly Cooper and the Thievius Raccoonus (K)|[71017DE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20004_71017DE1.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
-|SCUS-97210|Sly Cooper and the Thievius Raccoonus [Demo] |[EF7F0CE6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97210_EF7F0CE6.pnach)|No Interlacing & No Motion Blur|
-|SCES-50917|Sly Raccoon (PAL-M5) |[DA3DD765](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50917_DA3DD765.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing & No Motion Blur|
+|SCUS-97484|Sly 3 - Honor Among Thieves [E3 Demo] |[3130A4D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97484_3130A4D3.pnach)|No Interlacing<br />No Motion Blur|
+|SCUS-97527|Sly 3 - Honor Among Thieves [Regular Demo] |[35CCFA60](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97527_35CCFA60.pnach)|No Interlacing<br />No Motion Blur|
+|SCES-53409|Sly 3 - Honour Among Thieves |[8164C614](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53409_8164C614.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCUS-97464|Sly 3 - Honour Among Thieves NTSC-U|[8BC95883](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97464_8BC95883.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCUS-97198|Sly Cooper (NTSC) |[C77AF2CA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97198_C77AF2CA.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCKA-20044|Sly Cooper 2 - Band of Thieves |[518DD841](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20044_518DD841.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCKA-20063|Sly Cooper 3 - Honour Among Thieves (K)|[A8CC1583](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20063_A8CC1583.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCKA-20004|Sly Cooper and the Thievius Raccoonus (K)|[71017DE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20004_71017DE1.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
+|SCUS-97210|Sly Cooper and the Thievius Raccoonus [Demo] |[EF7F0CE6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97210_EF7F0CE6.pnach)|No Interlacing<br />No Motion Blur|
+|SCES-50917|Sly Raccoon (PAL-M5) |[DA3DD765](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50917_DA3DD765.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.<br />No Interlacing<br />No Motion Blur|
 |SCED-51452|Sly Raccoon [Demo] |[F3FD8A14](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCED-51452_F3FD8A14.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-53940|Smarties - Meltdown (E)|[B112BD24](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53940_B112BD24.pnach)||
 |SLES-51800|Smash Cars (PAL-M)  7FE15107|[7FE15107](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51800_7FE15107.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock (130%).|
@@ -4399,7 +4399,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66002|プリンス・オブ・ペルシャ ケンシ ノ ココロ |[6E90F4C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66002_6E90F4C1.pnach)|Removes the post-processing blur/bloom effect|
 |SLPM-65073|幻想水滸伝 III |[5AF8016F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65073_5AF8016F.pnach)||
 |SLPM-66286|幻想水滸伝 V |[7380A572](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66286_7380A572.pnach)||
-|PAPX-90231|怪盗 スライ・クーパー [体験版] |[9C29F787](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PAPX-90231_9C29F787.pnach)|No Interlacing & No Motion Blur|
+|PAPX-90231|怪盗 スライ・クーパー [体験版] |[9C29F787](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PAPX-90231_9C29F787.pnach)|No Interlacing<br />No Motion Blur|
 |SLPS-25034|花と太陽と雨と (J)|[8DF76475](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25034_8DF76475.pnach)|Attempts to disable interlaced offset rendering.|
 |SCES-50858||[60013EBD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50858_60013EBD.pnach)|Attempts to disable interlaced offset rendering.|
 |SCES-55255||[DA8DB266](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55255_DA8DB266.pnach)|Attempts to disable interlaced offset rendering.|
