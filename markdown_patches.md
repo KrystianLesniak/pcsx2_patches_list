@@ -1183,12 +1183,16 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-50494|Final Fantasy X (PAL-Spain) |[941BB7DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50494_941BB7DE.pnach)|Final Fantasy X (PAL-S)|
 |SLPM-67513|Final Fantasy X International |[3866CA7E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67513_3866CA7E.pnach)|widescreen 16:9 and 16:10 (NTSC-K) hack by 99skull|
 |SLPS-25088|Final Fantasy X International (NTSC-J) |[658597E2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25088_658597E2.pnach)|Widescreen hack|
-|SLUS-20672|Final Fantasy X-2 |[48FE0C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20672_48FE0C71.pnach)|Shows a more precise completion percentage in the save menu. Older saves have to be resaved with this patch on to see completion percentage.|
 |SLKA-25144|Final Fantasy X-2 (NTSC-K) |[11624CD6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25144_11624CD6.pnach)||
 |SLES-51816|Final Fantasy X-2 (PAL-Fr) |[9AAC530C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51816_9AAC530C.pnach)|Final Fantasy X-2 (PAL-Fr) (SLES-51816) Widescreen Hack (16:9) by ElHecht, ported to PAL-French by Z_Boy|
 |SLES-51819|Final Fantasy X-2 (PAL-Spain) |[9AAC530A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51819_9AAC530A.pnach)|Final Fantasy X-2 (PAL-S)|
+|SLUS-20672|Final Fantasy X-2 * NTSC-U *  * 48FE0C71|[48FE0C71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20672_48FE0C71.pnach)|Shows a more precise completion percentage in the save menu. Older saves have to be resaved with this patch on to see completion percentage.|
+|SLPM-65478|Final Fantasy X-2 International + Last Mission [English patched v1] * NTSC-J *  * 8E868B5B|[8E868B5B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65478_8E868B5B.pnach)||
+|SLPM-65478|Final Fantasy X-2 International + Last Mission [English patched v2] * NTSC-J *  * 77180F74|[77180F74](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65478_77180F74.pnach)||
+|SLPM-65478|Final Fantasy X-2 International + Last Mission [English patched v3] * NTSC-J *  * 77188543|[77188543](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65478_77188543.pnach)||
+|SLPM-65478|Final Fantasy X-2 International + Last Mission [English patched v4] * NTSC-J *  * 881DDE6A|[881DDE6A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65478_881DDE6A.pnach)||
+|SLPM-65478|Final Fantasy X-2 International + Last Mission * NTSC-J *  * E1FD9A2D|[E1FD9A2D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65478_E1FD9A2D.pnach)||
 |SLPS-25250|Final Fantasy X-2 NTSC-J |[8A6D7F14](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25250_8A6D7F14.pnach)|Widescreen hack|
-|SLPM-65478|Final Fantasy X-2 NTSC-J International + Last Mission|[E1FD9A2D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65478_E1FD9A2D.pnach)|Widescreen hack|
 |SLPM-66320|Final Fantasy XII (J)|[280AD120](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66320_280AD120.pnach)||
 |SLES-53853|Final Fight: Streetwise |[73C560BA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53853_73C560BA.pnach)||
 |SLUS-21238|Final Fight: Streetwise (NTSC-U)|[7985D894](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21238_7985D894.pnach)||
