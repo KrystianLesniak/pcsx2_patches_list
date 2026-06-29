@@ -405,9 +405,10 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20862|BloodRayne 2 (NTSC-U)  2AFA6F3A|[2AFA6F3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20862_2AFA6F3A.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-53831|BloodRayne 2 (PAL-M)  78EF5FF7|[78EF5FF7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53831_78EF5FF7.pnach)|Might need EE Overclock at 130%.|
 |SLUS-20212|Bloody Roar 3 |[AA4E5A35](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20212_AA4E5A35.pnach)|Widescreen Hack<br />Attempts to disable interlaced offset rendering.|
+|SLPM-62055|Bloody Roar 3 (Japan) (v1.02) (NTSC-J) |[4D6DBB75](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62055_4D6DBB75.pnach)|Disables interlacing|
+|SLPM-62055|Bloody Roar 3 (Japan) (v2.01) (NTSC-J) |[64328775](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62055_64328775.pnach)|Disables interlacing|
 |SLPM-62055|Bloody Roar 3 (NTSC-J)|[5967BC05](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62055_5967BC05.pnach)|Widescreen Hack (NTSC-J by Arapapa)|
 |SLES-50203|Bloody Roar 3 [PAL] |[880AA922](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50203_880AA922.pnach)||
-|SLPM-62055|Bloody roar 3 jap  Game CRC = 0x64328775|[64328775](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62055_64328775.pnach)||
 |SLUS-20795|Bloody Roar 4 |[C9F6F222](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20795_C9F6F222.pnach)|Widescreen patch 16:9 by paul_met|
 |SLPM-65499|Bloody Roar 4 (NTSC-J)|[0DA820C2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65499_0DA820C2.pnach)||
 |SLES-52989|Blowout [PAL]  0158297B|[0158297B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52989_0158297B.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
@@ -524,9 +525,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53561|Canis Canem Edit (Bully) PAL  CRC C78A495D|[C78A495D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53561_C78A495D.pnach)|Widescreen fix<br />Removes depth of field effect<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.<br />SDTV 480p mode at start, use Software renderer for FMVs. Might need enable EE Overclock to be stable.|
 |SLPM-65047|Capcom vs SNK 2 - Millionaire Fighting (J)(PBPX-95201)|[D79F697A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65047_D79F697A.pnach)||
 |PBPX-95201|Capcom vs SNK 2 - Millionaire Fighting (J)(SLPM-65047)|[D79F697A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_D79F697A.pnach)||
-|SLUS-20246|Capcom vs SNK 2 (NTSC) |[15149318](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20246_15149318.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-50541|Capcom vs SNK 2: Mark of the Millennium 2001 [PAL] |[FFC911D0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50541_FFC911D0.pnach)||
-|SLPM-65047|Capcom vs. SNK 2: Mark of the Millennium 2001  [NTSC-J] |[B54C0319](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65047_B54C0319.pnach)||
+|SLUS-20246|Capcom vs. SNK 2: Mark of the Millennium 2001 (USA) |[15149318](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20246_15149318.pnach)|Enables the native full-frame output path at 640x448; the doubled vertical resolution causes dithering to fit within PS2 VRAM|
+|SLPM-65047|Capcom vs. SNK 2: Millionaire Fighting 2001 (NTSC-J) |[B54C0319](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65047_B54C0319.pnach)|Enables the native 480p full-frame output path at 640x448; the doubled vertical resolution causes dithering to fit within PS2 VRAM|
 |SLPS-25691|Captain Tsubasa (NTSC-J)|[2CF3EFF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25691_2CF3EFF3.pnach)||
 |SLES-53485|Car Racing Challenge (E)|[6C694919](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53485_6C694919.pnach)|Removes interlacing artefacts.<br />Slightly increases draw distance for entities/cars|
 |SCKA-20068|Cars (K)|[AA9ABE8B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20068_AA9ABE8B.pnach)||
@@ -748,7 +749,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25407|DBZ Sparking Meteor  (NTSC-K)|[9B0E119F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25407_9B0E119F.pnach)|16:9 widescreen hack|
 |SCES-50003|Dead or Alive 2 |[7A51F86E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50003_7A51F86E.pnach)|Widescreen hack|
 |SLPS-25002|Dead or Alive 2 |[7894BA09](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25002_7894BA09.pnach)||
-|SLPS-25026|Dead or Alive 2 - Hard*Core |[82C02240](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25026_82C02240.pnach)||
+|SLPS-25026|Dead or Alive 2: Hardcore (NTSC-J) |[82C02240](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25026_82C02240.pnach)|Disables interlacing|
 |SLES-51581|Dead to Rights (E)|[FAC64195](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51581_FAC64195.pnach)||
 |SLPS-25268|Dead to Rights (J)|[916B1D2E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25268_916B1D2E.pnach)|No Interlacing|
 |SLUS-20220|Dead to Rights (U)|[5EA6B8BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20220_5EA6B8BE.pnach)|No Interlacing|
@@ -1056,9 +1057,9 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20454|Enter the Matrix  Ver. 2.0|[2A968F81](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20454_2A968F81.pnach)||
 |SLES-51203|Enter the Matrix [PAL-M5] |[F1370E83](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51203_F1370E83.pnach)|Widescreen Hack<br />Unlocked at 50 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLES-51203|Enter the Matrix [PAL-M5]  V2.00|[B1252C3D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51203_B1252C3D.pnach)|Widescreen hack conversion|
-|SLUS-20967|Enthusia - Professional Racing |[81D233DC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20967_81D233DC.pnach)|Attempts to disable interlaced offset rendering.<br />Allows the speedometer to update every frame instead of being capped at 3 UPS.<br />Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.|
-|SLES-53125|Enthusia - Professional Racing PAL|[5C63B5AC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53125_5C63B5AC.pnach)|Widescreen hack<br />Allows the speedometer to update every frame instead of being capped at 3 UPS.<br />Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.|
-|SLPM-65948|Enthusia Professional Racing (J)|[5637E95B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65948_5637E95B.pnach)|Attempts to disable interlaced offset rendering.<br />Allows the speedometer to update every frame instead of being capped at 3 UPS.<br />Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.|
+|SLUS-20967|Enthusia - Professional Racing |[81D233DC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20967_81D233DC.pnach)|Attempts to disable interlaced offset rendering.<br />Allows the speedometer to update every frame instead of being capped at 3 UPS.<br />Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.<br />Removes the deadzone from steering using the left analog stick.|
+|SLES-53125|Enthusia - Professional Racing PAL|[5C63B5AC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53125_5C63B5AC.pnach)|Widescreen hack<br />Allows the speedometer to update every frame instead of being capped at 3 UPS.<br />Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.<br />Removes the deadzone from steering using the left analog stick.|
+|SLPM-65948|Enthusia Professional Racing (J)|[5637E95B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65948_5637E95B.pnach)|Attempts to disable interlaced offset rendering.<br />Allows the speedometer to update every frame instead of being capped at 3 UPS.<br />Removes the deadzone and fixes the trigger range when using L2/R2 for brake/throttle.<br />Removes the deadzone from steering using the left analog stick.|
 |SLUS-20169|Ephemeral Fantasia [NTSC-J] |[D4DE7788](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20169_D4DE7788.pnach)||
 |SLES-50110|Ephemeral Fantasia [PAL] |[8EF3DDFC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50110_8EF3DDFC.pnach)||
 |SLES-54160|Eragon (PAL-R)  379819CC|[379819CC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54160_379819CC.pnach)|Renders the game in 16:9 aspect ratio<br />Unlocked at 50 FPS. Might need enable 180% EE Overclock to be stable.|
@@ -1407,13 +1408,13 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20090|God Hand (K) |[924C4AA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20090_924C4AA6.pnach)||
 |SLES-54490|God Hand (PAL-M5) |[DE9722A5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54490_DE9722A5.pnach)|Widescreen Hack|
 |SCKA-30002|God of War |[BFCC1795](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30002_BFCC1795.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull<br />With Any Action Button|
-|SLPM-67010|God of War (NTSC-J)  CA052D22|[CA052D22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67010_CA052D22.pnach)|With Any Action Button|
-|SCUS-97399|God of War (NTSC-U)  D6385328|[D6385328](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97399_D6385328.pnach)|Widescreen fix<br />With Any Action Button|
-|SCES-53133|God of War (PAL-M)  FB0E6D72|[FB0E6D72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53133_FB0E6D72.pnach)|Widescreen fix<br />With Any Action button|
+|SLPM-67010|God of War (NTSC-J)  CA052D22|[CA052D22](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67010_CA052D22.pnach)|Enable native widescreen.<br />With Any Action Button|
+|SCUS-97399|God of War (NTSC-U)  D6385328|[D6385328](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97399_D6385328.pnach)|Enable enhanced native widescreen. (Original widescreen uses vertical cropping; Enhanced expands the horizontal view.)<br />With Any Action Button|
+|SCES-53133|God of War (PAL-M)  FB0E6D72|[FB0E6D72](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-53133_FB0E6D72.pnach)|Enable enhanced native widescreen. (Original widescreen uses vertical cropping; Enhanced expands the horizontal view.)<br />With Any Action Button|
 |SCUS-97467|God of War [Demo] (NTSC-U)  DF3A5A5C|[DF3A5A5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97467_DF3A5A5C.pnach)|With X|
-|SCUS-97481|God of War 2 |[2F123FD8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97481_2F123FD8.pnach)|With Any Action Button|
-|SCES-54206|God of War 2 - PAL |[44A8A22A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54206_44A8A22A.pnach)|Widescreen Converted from NTSC hack by nemesis2000<br />With Any Action Button|
-|SLPM-67013|God of War 2 (NTSC-J)  E96E55BD|[E96E55BD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67013_E96E55BD.pnach)|With Any Action Button|
+|SLPM-67013|God of War 2 - NTSC-J |[E96E55BD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67013_E96E55BD.pnach)|Enable enhanced native widescreen. (Original widescreen uses vertical cropping; Enhanced expands the horizontal view.)<br />With Any Action Button|
+|SCUS-97481|God of War 2 - NTSC-U |[2F123FD8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97481_2F123FD8.pnach)|Enable enhanced native widescreen. (Original widescreen uses vertical cropping; Enhanced expands the horizontal view.)<br />With Any Action Button|
+|SCES-54206|God of War 2 - PAL-M |[44A8A22A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54206_44A8A22A.pnach)|Enable enhanced native widescreen. (Original widescreen uses vertical cropping; Enhanced expands the horizontal view.)<br />With Any Action Button|
 |SCUS-97467|God of War 2 E3 Demo (NTSC-U)  56EC00B5|[56EC00B5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97467_56EC00B5.pnach)|With Any Action Button|
 |SCUS-97482|God of War 2 The Colossus Battle [Demo]  174F7EC0|[174F7EC0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97482_174F7EC0.pnach)|With Any Action Button|
 |SCKA-30006|God of War2 |[4340C7C6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-30006_4340C7C6.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull<br />With Any Action Button|
@@ -1661,6 +1662,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-62067|Hunter X Hunter - Ryumyaku no Saidan [NTSC-J] |[821F3647](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62067_821F3647.pnach)||
 |SLES-50264|Hype - The Time Quest  (france)|[B911D61B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50264_B911D61B.pnach)|Widescreen hack|
 |SLPM-62126|Hyper Sports 2002 Winter (J)|[F68EFE2B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62126_F68EFE2B.pnach)||
+|SLPM-65496|Hyper Street Fighter II: The Anniversary Edition (NTSC-J) |[6C711F62](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65496_6C711F62.pnach)|Disables interlaced offset rendering|
 |SCPS-11001|I.Q Remix+ - Intelligent Qube (J)|[DE7A4924](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11001_DE7A4924.pnach)||
 |SLKA-25060|I.Q. Remix+ - Intelligent Qube (K)|[FEDC6572](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25060_FEDC6572.pnach)||
 |SLES-53984|Ice Age 2 - The Meltdown (PAL-M)  2EC49E65|[2EC49E65](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53984_2EC49E65.pnach)|Enable native widescreen<br />Might need EE Overclock at 130%.|
@@ -2053,10 +2055,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21409|LEGO Star Wars II - The Original Trilogy (U)|[DBC0EE78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21409_DBC0EE78.pnach)||
 |SLUS-21083|LEGO Star Wars: The Video Game [NTSC-U] (v1.01) |[50A57492](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21083_50A57492.pnach)||
 |SLES-53194|LEGO Star Wars: The Videogame [PAL] |[B2408080](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53194_B2408080.pnach)||
-|SLES-52641|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-E) |[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52641_A1FD63D6.pnach)||
-|SLUS-20956|Leisure Suit Larry - Magna Cum Laude (NTSC-U) |[A1736B07](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20956_A1736B07.pnach)||
-|SLES-52642|Leisure Suit Larry - Magna Cum Laude (PAL-F)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52642_A1FD63D6.pnach)|Conversion by Bigdemon|
-|SLES-52644|Leisure Suit Larry - Magna Cum Laude (PAL-S)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52644_A1FD63D6.pnach)|Widescreen Hack|
+|SLES-52641|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-E)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52641_A1FD63D6.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52642|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-F)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52642_A1FD63D6.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52643|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-G)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52643_A1FD63D6.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52645|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-I)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52645_A1FD63D6.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52644|Leisure Suit Larry - Magna Cum Laude - Uncut (PAL-S)  A1FD63D6|[A1FD63D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52644_A1FD63D6.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLUS-20956|Leisure Suit Larry - Magna Cum Laude (NTSC-U)  A1736B07|[A1736B07](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20956_A1736B07.pnach)|Renders the game in 16:9 aspect ratio.|
 |SLES-52807|Lemony Snicket's A Series of Unfortunate Events (PAL-E)  5B2962FD|[5B2962FD](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52807_5B2962FD.pnach)|Renders the game in 16:9 aspect ratio<br />Removes black bars in cutscenes<br />Might need EE Overclock (130%).<br />NTSC mode at start.<br />SDTV 480p mode at start.|
 |SLUS-21078|Lemony Snicket's A Series of Unfortunate Events (U) 4835F048|[4835F048](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21078_4835F048.pnach)|Widescreen hack<br />Removes black bars in cutscenes<br />Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
 |SCPS-11028|Let's Bravo Music (J)|[19ED9AE4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11028_19ED9AE4.pnach)||
@@ -2140,7 +2144,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-66748|Mana Khemia: Alchemists of Al-Revis |[B60D30B6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66748_B60D30B6.pnach)||
 |SLUS-21735|Mana Khemia: Alchemists of Al-Revis |[77B0236F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21735_77B0236F.pnach)||
 |SLES-52023|Manhunt (PAL-M)  FE419424|[FE419424](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52023_FE419424.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
-|SLUS-20827|Manhunt (U)|[38DEA143](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20827_38DEA143.pnach)|Widescreen hack<br />Patches the game to run at 60 FPS.|
+|SLUS-20827|Manhunt (U)|[38DEA143](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20827_38DEA143.pnach)|Widescreen hack<br />Patches the game to run at 60 FPS.<br />Fixes a game-breaking bug in the mission "Fuelled By Hate"|
 |SLUS-21613|Manhunt 2 (NTSC-U) |[3B0ADBEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21613_3B0ADBEF.pnach)|Patches the game to run at 60 FPS.|
 |SLES-54819|Manhunt 2 (PAL) |[887AD3A0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54819_887AD3A0.pnach)|Might need EE Overclock at 130%.|
 |SLKA-25331|Marc Ecko's Getting Up - Contents Under Pressure (K)|[068558AE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25331_068558AE.pnach)||
@@ -2154,8 +2158,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21879|Marvel Ultimate Alliance 2 |[FD0C27EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21879_FD0C27EE.pnach)|Widescreen Hack|
 |SLES-51174|Marvel vs Capcom 2 PAL |[D14A6CD6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51174_D14A6CD6.pnach)||
 |SLUS-20486|Marvel vs. Capcom 2: New Age of Heroes |[69B2071C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20486_69B2071C.pnach)||
-|SLUS-20486|Marvel vs. Capcom 2: New Age of Heroes (SLUS204.86;1)|[4D228733](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20486_4D228733.pnach)|Attempts to disable interlaced offset rendering.|
-|SLPM-62227|Marvel vs. Capcom 2: New Age of Heroes [NTSC-J] |[5BC8C9E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62227_5BC8C9E8.pnach)||
+|SLPM-62227|Marvel vs. Capcom 2: New Age of Heroes (NTSC-J) |[5BC8C9E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62227_5BC8C9E8.pnach)|Enables the native 480p full-frame output path at 640x448; the doubled vertical resolution causes dithering to fit within PS2 VRAM<br />Fixes Memory Card auto-load at startup for the Japanese retail version.|
+|SLUS-20486|Marvel vs. Capcom 2: New Age of Heroes (NTSC-U) |[4D228733](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20486_4D228733.pnach)|Enables the native 480p full-frame output path at 640x448; the doubled vertical resolution causes dithering to fit within PS2 VRAM|
 |SLUS-20603|Mary-Kate & Ashley - Sweet Sixteen - Licensed to Drive (U) |[A8CE7DF2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20603_A8CE7DF2.pnach)||
 |SLES-52446|Mashed - Drive to Survive (E)|[E8F2F813](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52446_E8F2F813.pnach)||
 |SLES-50906|Master Rallye (E)|[455B13ED](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50906_455B13ED.pnach)||
@@ -2215,6 +2219,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20960|Mega Man X8 |[196DF4E5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20960_196DF4E5.pnach)||
 |SLES-50903|MegaRace 3 - Nanotech Disaster (E)|[54645811](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50903_54645811.pnach)||
 |SLPM-65642|Meiwaku Seijin Panic Maker (J)|[1AA93761](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65642_1AA93761.pnach)|Widescreen hack (NTSC-J by Arapapa)|
+|SLPM-55184|Melty Blood: Act Cadenza (NTSC-J) |[E97030DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55184_E97030DF.pnach)|Enables progressive scan at boot|
 |SLES-50789|Men in Black II - Alien Escape (E)|[450D5B4F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50789_450D5B4F.pnach)|Might need EE Overclock (130%).|
 |SLPM-67533|Men in Black II - Alien Escape (K)|[E511E11E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-67533_E511E11E.pnach)||
 |SLUS-20373|Men in Black II - Alien Escape NTSC-U  69CF7BDF|[69CF7BDF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20373_69CF7BDF.pnach)|Might need EE Overclock.|
@@ -2425,7 +2430,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65014|Mystical Ninja Goemon Zero (Prototype) |[FA3A9C0F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65014_FA3A9C0F.pnach)|Attempts to disable interlaced offset rendering.|
 |SLES-52241|Myth Makers - Orbs of Doom (E)|[38E47587](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52241_38E47587.pnach)||
 |SLES-53452|Myth Makers - Trixie in Toyland (E)|[881B4780](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53452_881B4780.pnach)||
-|SLPS-25505|Namco x Capcom (NTSC-J)|[75C01A04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25505_75C01A04.pnach)|Widescreen Hack|
+|SLPS-25505|Namco x Capcom (NTSC-J) |[75C01A04](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25505_75C01A04.pnach)|Disables interlacing<br />Widescreen Hack|
 |SLPS-25505|Namco x Capcom (NTSC-J) (English patch) |[9536E111](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25505_9536E111.pnach)|Widescreen Hack|
 |SLES-52964|Nanobreaker |[9B89F425](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52964_9B89F425.pnach)|Widescreen Hack|
 |SLUS-21010|Nanobreaker |[98C7B76D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21010_98C7B76D.pnach)|Widescreen Hack|
@@ -2528,6 +2533,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20961|Neo Contra (NTSC-U) |[08901101](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20961_08901101.pnach)|Widescreen Hack|
 |SLES-52510|Neo Contra (PAL-M3) |[EEE2F6A3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52510_EEE2F6A3.pnach)||
 |SLPM-65752|Neo Contra [NTSC-J] |[A70549D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65752_A70549D6.pnach)|Widescreen hack|
+|SLPS-25503|NeoGeo Online Collection Vol. 2: Bakumatsu Roman Gekka no Kenshi 1-2 (NTSC-J) |[1D223324](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25503_1D223324.pnach)|Forces progressive output for the menu and the gameplay|
 |SCUS-97367|Neopets - The Darkest Faerie (NTSC-U)|[934F9081](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97367_934F9081.pnach)||
 |SLPM-65235|New Roommania - Porori Seishun (NTSC-J)|[9EB4AA0B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65235_9EB4AA0B.pnach)||
 |SLUS-20474|NFL Blitz 20-03 (U)|[49A00204](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20474_49A00204.pnach)||
@@ -2810,6 +2816,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPS-20198|Raging Bless - Gouma Mokushiroku (J)|[A18347E0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20198_A18347E0.pnach)||
 |SLPM-64521|Ragingbless (NTSC-K)|[F2386C7B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64521_F2386C7B.pnach)||
 |SLPS-25265|RahXephon (J) |[4C927A09](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25265_4C927A09.pnach)||
+|SLPM-62690|Raiden III (NTSC-J) |[52CDA025](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62690_52CDA025.pnach)|Disables interlacing|
 |SLPM-65637|Rakugaki Oukoku 2 - Majo no Tataki (J)|[3B1E61D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65637_3B1E61D6.pnach)||
 |SLES-50997|Rally Fusion - Race of Champions (E)|[55E708DA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50997_55E708DA.pnach)||
 |SLUS-20361|Rally Fusion - Race of Champions (U)|[90CEC039](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20361_90CEC039.pnach)||
@@ -2926,8 +2933,8 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20942|Robots (NTSC-U)|[5931A065](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20942_5931A065.pnach)||
 |SLES-53052|Robots (PAL-M)  B860F5B6|[B860F5B6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53052_B860F5B6.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLPM-65643|RockMan X Command Mission [NTSC-J] |[2AF40F67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65643_2AF40F67.pnach)||
-|SLPM-65331|RockMan X7 [NTSC-J] |[E46BD847](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65331_E46BD847.pnach)||
-|SLPM-65730|RockMan X8 [NTSC-J] |[4FF01A82](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65730_4FF01A82.pnach)||
+|SLPM-65331|Rockman X7 (NTSC-J) |[E46BD847](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65331_E46BD847.pnach)|Disables interlacing|
+|SLPM-65730|Rockman X8 (NTSC-J) |[4FF01A82](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65730_4FF01A82.pnach)|Enables progressive scan at boot|
 |SLUS-20890|Rocky - Legends (NTSC-U)|[166EC9E6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20890_166EC9E6.pnach)||
 |SLES-51208|Rocky (E)|[9F45265C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51208_9F45265C.pnach)||
 |SLPM-65463|Rocky (J)|[78865F28](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65463_78865F28.pnach)||
@@ -3004,6 +3011,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-74209|Samurai Dou 2 - Kettouban (PlayStation2 the Best) [NTSC-J] |[95264B6F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74209_95264B6F.pnach)|Widescreen Hack|
 |SLPM-65380|Samurai Dou 2 - Way of the Samurai 2 NTSC-J] |[8E79F84B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65380_8E79F84B.pnach)|Widescreen Hack|
 |SLUS-20899|Samurai Jack - The Shadow of Aku |[51B675DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20899_51B675DE.pnach)|Widescreen Hack|
+|SLPS-25559|Samurai Spirits: Tenkaichi Kenkakuden (NTSC-J) |[DB6BDD3C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25559_DB6BDD3C.pnach)|Forces 640x224 progressive output; menus and backgrounds originally use a 640x448 framebuffer, so they are downscaled|
 |SLES-53004|Samurai Warriors - Xtreme Legends (PAL-G) |[95E985AA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53004_95E985AA.pnach)||
 |SLUS-20878|Samurai Warriors (NTSC-U) |[CF11CD83](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20878_CF11CD83.pnach)||
 |SLES-52552|Samurai Warriors (PAL-F) |[BCCAB4C0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52552_BCCAB4C0.pnach)|Ported by Bigdemon|
@@ -3401,6 +3409,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-50341|Smugglers Run 2 - Hostile Territory PAL-M4 |[F26AF996](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50341_F26AF996.pnach)|Widescreen Hack Conversion|
 |SLES-51820|Sniper Elite (PAL-M5)  EF47C233|[EF47C233](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51820_EF47C233.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.<br />Removes the post-processing blur/bloom effect|
 |SLUS-21231|Sniper Elite (U)|[395779C5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21231_395779C5.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
+|SLPS-25316|SNK vs. Capcom: SVC Chaos (NTSC-J) |[94834BD3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25316_94834BD3.pnach)|Enables progressive scan at boot|
 |SLES-54157|SnoCross 2 - Featuring Blair Morgan (E)|[9A26910A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54157_9A26910A.pnach)||
 |SLUS-21130|SnoCross 2 - Featuring Blair Morgan (U)|[E243EA40](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21130_E243EA40.pnach)||
 |SLES-53936|Snow Rider PAL-E  95DDD361|[95DDD361](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53936_95DDD361.pnach)|Might need EE Overclock.|
@@ -3573,9 +3582,12 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54309|Strawberry Shortcake: The Sweet Dreams Game [PAL-M6] |[60CB032B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54309_60CB032B.pnach)||
 |SLES-53407|Street Boyz (E)|[BA568F6B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53407_BA568F6B.pnach)||
 |SCES-55663|Street Cricket Champions 2 PAL-IN  44755604|[44755604](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-55663_44755604.pnach)|Might need EE Overclock (130%).|
-|SLUS-20130|Street Fighter EX 3 (1)|[72B3802A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20130_72B3802A.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-21317|Street Fighter Alpha Anthology (NTSC-U) |[72CE7A78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21317_72CE7A78.pnach)|Disables the game's final bilinear filter and fixes the final blit UVs during gameplay only, preventing the vertical and horizontal seams that would otherwise split the image into four quads. Best used at native/1x resolution.<br />Sets CPS-2 gameplay to a pixel-perfect 384x448 output, matching the doubled 384x224 arcade layout. Best used at native/1x resolution.|
 |SLES-50072|Street Fighter EX 3 [PAL] |[5E13E6D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50072_5E13E6D6.pnach)||
-|SLPS-20003|Street Fighter EX3 (J)|[63642E9F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20003_63642E9F.pnach)||
+|SLPS-20003|Street Fighter EX3 (NTSC-J) |[63642E9F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-20003_63642E9F.pnach)|Attempts to disable interlaced offset rendering.<br />Disables the fullscreen alpha blend pass|
+|SLUS-20130|Street Fighter EX3 (NTSC-U) |[72B3802A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20130_72B3802A.pnach)|Disables the fullscreen alpha blend pass<br />Attempts to disable interlaced offset rendering.|
+|SLPM-65621|Street Fighter III: 3rd Strike - Fight for the Future (NTSC-J) |[65A15D7C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65621_65A15D7C.pnach)|Sets output to 384x448, matching the doubled CPS-3 384x224 layout. Best used at native/1x resolution.|
+|SLPM-66409|Street Fighter Zero: Fighters' Generation (NTSC-J) |[5E8C2465](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66409_5E8C2465.pnach)|Disables the game's final bilinear filter and fixes the final blit UVs during gameplay only, preventing the vertical and horizontal seams that would otherwise split the image into four quads. Best used at native/1x resolution.<br />Sets CPS-2 gameplay to a pixel-perfect 384x448 output, matching the doubled 384x224 arcade layout. Best used at native/1x resolution.|
 |SLES-50862|Street Hoops (E)|[A77A916D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50862_A77A916D.pnach)||
 |SLUS-20299|Street Hoops (U)|[AD955489](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20299_AD955489.pnach)||
 |SLES-53045|Street Racing Syndicate (E)|[18C101A7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53045_18C101A7.pnach)||
@@ -3815,7 +3827,11 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52812|The Incredibles [NTSC-U] (SLUS_209.05)|[EBDB6E4B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52812_EBDB6E4B.pnach)||
 |SLPM-62097|The Keisatsukan - Shinjuku Cop 24 Hours (J)|[D5E8F99A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62097_D5E8F99A.pnach)||
 |SLUS-21365|The King of Fighters 2006 (1)|[4EE93170](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21365_4EE93170.pnach)||
+|SLPS-25605|The King of Fighters Collection: The Orochi Saga (NTSC-J) |[619E610B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25605_619E610B.pnach)|Disables interlacing|
 |SLPS-25661|The King of Fighters NESTS Collection |[333700CC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25661_333700CC.pnach)|Attempts to disable interlaced offset rendering.|
+|SLPS-25661|The King of Fighters NESTS Collection - KOF '99 NeoGeo Version (NTSC-J) |[9FACED85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25661_9FACED85.pnach)|No interlace|
+|SLPS-25661|The King of Fighters NESTS Collection - KOF 2000 NeoGeo Version (NTSC-J) |[709D7990](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25661_709D7990.pnach)|No interlace|
+|SLPS-25661|The King of Fighters NESTS Collection - KOF 2001 NeoGeo Version (NTSC-J) |[59A9AFA2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25661_59A9AFA2.pnach)|No interlace|
 |SLES-52898|The King of Fighters: Maximum Impact |[20CEB0BC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52898_20CEB0BC.pnach)||
 |SLUS-20923|The King of Fighters: Maximum Impact |[833DDCD5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20923_833DDCD5.pnach)||
 |SLES-54255|The King of Fighters: Maximum Impact 2 |[051A53EE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54255_051A53EE.pnach)||
@@ -4115,6 +4131,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-50411|Vampire Night (PAL-M5)  91510857|[91510857](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50411_91510857.pnach)|Widescreen Hack<br />Removes black bars in cutscenes|
 |SLPM-62506|Vampire Panic (First Print Limited Edition) (J)|[14DDB291](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62506_14DDB291.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-62507|Vampire Panic (Japan) (English Patched) |[C293DD66](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62507_C293DD66.pnach)|Attempts to disable interlaced offset rendering.|
+|SLPM-65998|Vampire: Darkstalkers Collection (NTSC-J) |[BE34808C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65998_BE34808C.pnach)|Disables the game's final bilinear filter and fixes the final blit UVs during gameplay only, preventing the vertical and horizontal seams that would otherwise split the image into four quads. Best used at native/1x resolution.<br />Sets CPS-2 gameplay to a pixel-perfect 384x448 output, matching the doubled 384x224 arcade layout. Best used at native/1x resolution.|
 |SLPM-65723|Van Helsing NTSC-J  960D74D7|[960D74D7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65723_960D74D7.pnach)|Widescreen hack|
 |SLUS-20738|Van Helsing NTSC-U  901ECEFC|[901ECEFC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20738_901ECEFC.pnach)|Widescreen hack|
 |SLES-51908|Van Helsing PAL-M  8176235A|[8176235A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51908_8176235A.pnach)|Widescreen hack|
@@ -4138,14 +4155,15 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-52868|Viewtiful Joe 2 [PAL-M5] |[5F2205B1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52868_5F2205B1.pnach)||
 |SLES-51229|Virtua Cop - Elite Edition (E)|[76A68274](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51229_76A68274.pnach)|Widescreen hack conversion|
 |SLPM-68008|Virtua Fighter - 10th Anniversary (J)|[B5FEAE85](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-68008_B5FEAE85.pnach)||
-|SLPM-65270|Virtua Fighter 4 - Evolution (J)|[AB01411F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65270_AB01411F.pnach)||
 |SLUS-20616|Virtua Fighter 4 - Evolution (U)|[C9DEF513](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20616_C9DEF513.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-62130|Virtua Fighter 4 (J)|[7838882F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62130_7838882F.pnach)||
 |SCES-50759|Virtua Fighter 4 (PAL-M5) |[B65AE44A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50759_B65AE44A.pnach)||
 |SLUS-20323|Virtua Fighter 4 (U)|[EA131B57](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20323_EA131B57.pnach)|Attempts to disable interlaced offset rendering.|
 |SLKA-25043|Virtua Fighter 4 Evolution |[7B402694](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25043_7B402694.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
 |SLES-51616|Virtua Fighter 4 Evolution (PAL-M5) |[81CA29BE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51616_81CA29BE.pnach)||
+|SLPM-65270|Virtua Fighter 4: Evolution (NTSC-J) |[AB01411F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65270_AB01411F.pnach)|Switches gameplay to interlaced field mode for a stable progressive-like image in PCSX2 without true progressive scan|
 |SLPM-65632|Virtua Fighter Cyber Generation - Judgment Six No Yabou (J)|[7D2A0B53](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65632_7D2A0B53.pnach)||
+|SLPM-68008|Virtua Fighter: 10th Anniversary (NTSC-J) |[916E2EAA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-68008_916E2EAA.pnach)|Disables interlacing|
 |SLES-54153|Virtua Pro Football (E)|[F0DD361F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54153_F0DD361F.pnach)||
 |SLUS-20977|Virtua Quest |[FF20AC4C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20977_FF20AC4C.pnach)|Widescreen Hack|
 |SLPM-62443|Virtua Racing - FlatOut |[0A4A83BB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62443_0A4A83BB.pnach)||
@@ -4462,7 +4480,6 @@ If you are looking for specific game use shortcut CTRL+F
 |SLKA-25027||[9C5D24FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25027_9C5D24FF.pnach)|Renders the game in 16:9 aspect ratio, instead of 4:3.|
 |SLKA-25334||[60EC6A5C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25334_60EC6A5C.pnach)|Burger King Challenge and Castrol Ford GT always enabled|
 |SLKA-25359||[E0AE3997](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25359_E0AE3997.pnach)||
-|SLPM-55184||[E97030DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-55184_E97030DF.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-62205||[A1AA9D67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62205_A1AA9D67.pnach)|Attempts to disable interlaced offset rendering.|
 |SLPM-65218||[903CCECC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65218_903CCECC.pnach)|Bomberman Jetters (SLPM_65218) Widescreen Hack (gamemasterplc)|
 |SLPM-65218||[B4AC4EE0](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65218_B4AC4EE0.pnach)|Bomberman Jetters (SLPM_65218) Widescreen Hack (gamemasterplc)|
