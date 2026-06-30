@@ -2036,6 +2036,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54359|Legend of Spyro, The - A New Beginning |[0EE5646B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54359_0EE5646B.pnach)|Patches the game to run at 50 FPS.|
 |SLUS-21372|Legend of Spyro, The - A New Beginning |[D03D4C77](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21372_D03D4C77.pnach)|Patches the game to run at 60 FPS.|
 |SLES-54815|Legend of Spyro, The - The Eternal Night |[8AE9536D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54815_8AE9536D.pnach)|Patches the game to run at 50 FPS.|
+|SLES-54816|Legend of Spyro, The - The Eternal Night |[C95F0198](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54816_C95F0198.pnach)|Patches the game to run at 50 FPS.|
 |SLUS-21607|Legend of Spyro, The - The Eternal Night |[B80CE8EC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21607_B80CE8EC.pnach)|Patches the game to run at 60 FPS.|
 |SLES-50107|Legends of Wrestling (E)|[13516983](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50107_13516983.pnach)||
 |SLPM-64514|Legends of Wrestling (K)|[55AB5FA6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-64514_55AB5FA6.pnach)||
