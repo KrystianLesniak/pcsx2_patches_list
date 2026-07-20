@@ -213,7 +213,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65229|Army Men - RTS (J)|[7A26E1BB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65229_7A26E1BB.pnach)||
 |SLES-50434|Army Men - RTS (PAL-E)  EBB067E7|[EBB067E7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50434_EBB067E7.pnach)|Might need EE Overclock at 130%.|
 |SLES-50706|Army Men - RTS (PAL-Unk) DAB59034|[DAB59034](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50706_DAB59034.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
-|SLUS-20206|Army Men - RTS (U)|[49DC3D25](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20206_49DC3D25.pnach)||
+|SLUS-20206|Army Men - RTS (U)|[49DC3D25](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20206_49DC3D25.pnach)|Runs game at 60 FPS. May require 130% Overclock.|
 |SLES-50192|Army Men - Sarge's Heroes 2 (PAL-Unk)|[F491BA82](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50192_F491BA82.pnach)||
 |SLUS-20132|Army Men - Sarge's Heroes 2 (U)|[FB307F03](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20132_FB307F03.pnach)||
 |SLES-52587|Army Men - Sarge's War (PAL-M)  95CFD603|[95CFD603](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52587_95CFD603.pnach)|Might need EE Overclock at 180%.|
@@ -515,13 +515,15 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21192|Cabela's Outdoor Adventures (2005) (U)|[E65F9D33](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21192_E65F9D33.pnach)||
 |SLUS-21906|Cabela's Outdoor Adventures (2009) (U)|[6712AFD7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21906_6712AFD7.pnach)||
 |SLUS-21624|Cabela's Trophy Bucks (U)|[0576A188](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21624_0576A188.pnach)||
-|SLPM-66159|Call of Duty - Finest Hour (NTSC-J)|[58BF0E90](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66159_58BF0E90.pnach)||
 |SLES-55367|Call of Duty - World at War - Final Fronts (PAL-M)  B78A5F5A|[B78A5F5A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-55367_B78A5F5A.pnach)|Unlocked at 50/60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-53416|Call of Duty 2 - Big Red One (PAL-M3)  DFB26142|[DFB26142](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53416_DFB26142.pnach)|Might need EE Overclock at 180%.|
 |SLUS-21426|Call of Duty 3  5E843024|[5E843024](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21426_5E843024.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
 |SLES-54167|Call of Duty 3 (PAL-M3)  247F025E|[247F025E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54167_247F025E.pnach)|Might need EE Overclock at 180%.|
-|SLES-52782|Call of Duty: Finest Hour |[0BC05D02](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52782_0BC05D02.pnach)||
-|SLUS-20725|Call of Duty: Finest Hour |[30AE5278](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20725_30AE5278.pnach)||
+|SLPM-66159|Call of Duty: Finest Hour (NTSC-J) |[58BF0E90](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66159_58BF0E90.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLUS-20725|Call of Duty: Finest Hour (NTSC-U) |[30AE5278](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20725_30AE5278.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52782|Call of Duty: Finest Hour (PAL-E) |[0BC05D02](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52782_0BC05D02.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52784|Call of Duty: Finest Hour (PAL-G) |[0BC05D02](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52784_0BC05D02.pnach)|Renders the game in 16:9 aspect ratio.|
+|SLES-52783|Call of Duty: Finest Hour (PAL-M) |[30AE5279](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52783_30AE5279.pnach)|Renders the game in 16:9 aspect ratio.|
 |SLES-53561|Canis Canem Edit (Bully) PAL  CRC C78A495D|[C78A495D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53561_C78A495D.pnach)|Widescreen fix<br />Removes depth of field effect<br />Unlocked at 50 FPS. Might need enable EE Overclock to be stable.<br />SDTV 480p mode at start, use Software renderer for FMVs. Might need enable EE Overclock to be stable.|
 |SLPM-65047|Capcom vs SNK 2 - Millionaire Fighting (J)(PBPX-95201)|[D79F697A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65047_D79F697A.pnach)||
 |PBPX-95201|Capcom vs SNK 2 - Millionaire Fighting (J)(SLPM-65047)|[D79F697A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/PBPX-95201_D79F697A.pnach)||
@@ -967,7 +969,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20998|DragonBall Z Budokai 3 |[2A4B60EB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20998_2A4B60EB.pnach)|Widescreen Hack|
 |SLUS-20998|DragonBall Z Budokai 3 - Greatest Hits |[C97EF0A4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20998_C97EF0A4.pnach)|Widescreen Hack|
 |SCES-50006|Drakan - The Ancients' Gates * PAL-M5 *  * 04F9D87F|[04F9D87F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50006_04F9D87F.pnach)|Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Reduces displaycrap around the Health & Mana bars.<br />Might need EE overclocking to be stable (130%).|
-|SCUS-97128|Drakan: The Ancients' Gates * NTSC-U *  * 4167D813|[4167D813](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97128_4167D813.pnach)|Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Might need EE overclocking to be stable (130%).|
+|SCUS-97128|Drakan: The Ancients' Gates * NTSC-U *  * 4167D813|[4167D813](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97128_4167D813.pnach)|Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Combine with 'Widescreen 16:9'.<br />Might need EE overclocking to be stable (130%).<br />Removes white pixel lines around the health, arrows and mana HUD elements when using upscaled rendering.|
 |SLUS-20732|Drakengard (NTSC) SLUS_207|[9679D44C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20732_9679D44C.pnach)|Ported by InfiniteNine from PAL code by ElHecht<br />Attempts to disable interlaced offset rendering.|
 |SLES-52322|Drakengard (PAL-M5) |[79585776](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52322_79585776.pnach)|Attempts to disable interlaced offset rendering.|
 |SLUS-21373|Drakengard 2 (NTSC-U)|[1648E3C9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21373_1648E3C9.pnach)|Widescreen hack<br />Removes black bars in cutscenes|
@@ -1633,6 +1635,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-56007|Hot Shots Golf 3 (K)|[98C1CE89](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56007_98C1CE89.pnach)||
 |SCUS-97130|Hot Shots Golf 3 (U)|[9794BFEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97130_9794BFEF.pnach)||
 |SCUS-97130|Hot Shots Golf 3 (U)(v2.00)|[9C8D0998](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97130_9C8D0998.pnach)|Removes interlacing artefacts (does not affect FMVs).|
+|SCUS-97401|Hot Shots Golf FORE! (NTSC-U) |[D7F42600](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97401_D7F42600.pnach)|Removes Interlacing<br />Full widescreen aspect ratio support<br />Correct the alpha shading on the shot meter when game is rendering in HW mode|
 |SCUS-97610|Hot Shots Tennis (NTSC-U) |[72326E67](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97610_72326E67.pnach)||
 |SLUS-21628|Hot Wheels - Beat That! (U)|[8EA70682](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21628_8EA70682.pnach)||
 |SLES-52481|Hot Wheels - Stunt Track Challenge |[1DE69E4C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52481_1DE69E4C.pnach)|Widescreen Hack|
@@ -1916,7 +1919,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21154|Killer 7 |[467BC7D8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21154_467BC7D8.pnach)||
 |SLPM-65947|Killer 7 (J) |[F03336E3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65947_F03336E3.pnach)||
 |SLES-53366|Killer 7 (PAL-M3) |[54EF429A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53366_54EF429A.pnach)||
-|SCUS-97402|Killzone (NTSC-U)  CAAEC49C|[CAAEC49C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97402_CAAEC49C.pnach)|Enable native widescreen<br />Disable noise filter in gameplay.|
+|SCUS-97402|Killzone (NTSC-U)  CAAEC49C|[CAAEC49C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97402_CAAEC49C.pnach)|Forces 480p display mode<br />Enable native widescreen<br />Disable noise filter in gameplay.|
 |SCES-52004|Killzone (PAL-M)  6624A78C|[6624A78C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52004_6624A78C.pnach)|Enable native widescreen<br />Might need EE Overclock (130%).<br />Enable native NTSC Mode at start instead PAL Mode..<br />Disable noise filter in gameplay|
 |SCUS-97132|Kinetica (NTSC-U)|[D39C08F5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97132_D39C08F5.pnach)|Widescreen hack<br />No Interlacing|
 |SLUS-21046|King Arthur  [4F3B0BA7]|[4F3B0BA7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21046_4F3B0BA7.pnach)|Unlocked at 60 FPS. Might need enable EE Overclock to be stable.|
@@ -3403,7 +3406,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-56009|Smash Court Tennis - Pro Tournament (K)|[2B0D3251](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56009_2B0D3251.pnach)||
 |SLUS-20286|Smash Court Tennis - Pro Tournament (U)|[AD3294F9](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20286_AD3294F9.pnach)||
 |SLUS-20911|SMT-Nocturne (v1.00) |[F0A31EE3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20911_F0A31EE3.pnach)|SMT-Nocturne-NTSC-U-Widescreen Hack (16:9)|
-|SLUS-20065|Smuggler's Run (NTSC-U)  [0E7F91DA]|[0E7F91DA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20065_0E7F91DA.pnach)|Widescreen hacks by Devina (active X FOV discovery), sergx12 (render fixes) and Aced14 (ELF hacks/repositioning/revisions)|
+|SLUS-20065|Smuggler's Run (NTSC-U)  [0E7F91DA]|[0E7F91DA](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20065_0E7F91DA.pnach)|Widescreen hacks by Devina (active X FOV discovery), sergx12 (render fixes) and Aced14 (ELF hacks/repositioning/revisions)<br />Runs game at 60 FPS. May require 130% Overclock.|
 |SLES-50055|Smuggler's Run (PAL-Unk)  [3F7F970B]|[3F7F970B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50055_3F7F970B.pnach)|Widescreen hacks by Aced14|
 |SLES-50061|Smuggler's Run [PAL-M5]  95416482|[95416482](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50061_95416482.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLUS-20204|Smugglers Run 2 - Hostile Territory |[0EF2C216](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20204_0EF2C216.pnach)||
@@ -3914,6 +3917,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21066|The Urbz - Sims in the City (NTSC-U)|[09D35D3F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21066_09D35D3F.pnach)||
 |SLES-52908|The Urbz - Sims in the City (PAL-M)  25C3948E|[25C3948E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52908_25C3948E.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
 |SLUS-21215|The Warriors (U)|[B99A75DE](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21215_B99A75DE.pnach)||
+|SLES-50032|Theme Park World |[9CBA74B7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50032_9CBA74B7.pnach)|Runs game in NTSC Mode (60hz).|
 |SLES-54803|They Came from the Skies (E)|[D8DF7CB5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54803_D8DF7CB5.pnach)||
 |SLUS-20371|Thing, The |[1B9D49F3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20371_1B9D49F3.pnach)|Widescreen Hack<br />Unlocked at 60 FPS. Might need enable 180% EE Overclock to be stable.|
 |SCES-50244|This Is Football 2002 (E)|[71E38F05](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-50244_71E38F05.pnach)||
@@ -4299,7 +4303,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-54792|World Wrestling Championship (E)|[B90A79B4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54792_B90A79B4.pnach)||
 |SLES-51843|Worms 3D (E)|[BB16599F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51843_BB16599F.pnach)||
 |SLUS-20894|Worms 3D (U)|[97E76C44](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20894_97E76C44.pnach)||
-|SLES-53096|Worms 4 - Mayhem (E) DC85FC8F|[DC85FC8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53096_DC85FC8F.pnach)|Widescreen Hack by Arapapa<br />Removes black bars in cutscenes|
+|SLES-53096|Worms 4 - Mayhem (E) DC85FC8F|[DC85FC8F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53096_DC85FC8F.pnach)|Widescreen Hack by Arapapa<br />Force the game to run at 50 FPS. 180% EE overclock required.<br />Removes black bars in cutscenes|
 |SLES-52342|Worms Forts - Under Siege (PAL-M2) |[1A2D3CC7](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52342_1A2D3CC7.pnach)|Widescreen Hack Conversion|
 |SLUS-21093|Worms Forts - Under Siege NTSC-U  A99BACE1|[A99BACE1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21093_A99BACE1.pnach)|Might need EE Overclock.|
 |SLES-52734|Worms Forts - Under Siege PAL-M  38C8967A|[38C8967A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52734_38C8967A.pnach)|Might need EE Overclock.|
