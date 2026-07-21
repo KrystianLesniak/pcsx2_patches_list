@@ -4141,7 +4141,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-20738|Van Helsing NTSC-U  901ECEFC|[901ECEFC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20738_901ECEFC.pnach)|Widescreen hack|
 |SLES-51908|Van Helsing PAL-M  8176235A|[8176235A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51908_8176235A.pnach)|Widescreen hack|
 |SLKA-25121|Vexx (NTSC-K)|[97A4995B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25121_97A4995B.pnach)||
-|SLUS-20383|Vexx (NTSC-U)  B6580DA4|[B6580DA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20383_B6580DA4.pnach)|Widescreen Hack<br />Unlocks the dynamic framerate cap to 60FPS. Requires 180% overclock to be stable.|
+|SLUS-20383|Vexx (NTSC-U)  B6580DA4|[B6580DA4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20383_B6580DA4.pnach)|Widescreen Hack<br />Unlocks the dynamic framerate cap to 60FPS. Requires 180% overclock to be stable.<br />Sets the initial display state to progressive mode. Does not force progressive mode, only changes the game startup mode.|
 |SLES-50481|Vexx (PAL-M) SLES-50444 802EBFF7|[A0600111](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50481_A0600111.pnach)|Widescreen Hack<br />Might need EE Overclock (130%).|
 |SCPS-11032|Vib Ripple (J)|[D641407A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11032_D641407A.pnach)||
 |SLES-50280|Victorious Boxers - Ippo's Road to Glory (PAL)|[E3F31090](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50280_E3F31090.pnach)||
