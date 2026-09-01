@@ -1182,7 +1182,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCPS-11002|Fantavision (J)|[78950D31](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-11002_78950D31.pnach)||
 |SCUS-97105|Fantavision (U)|[40372109](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCUS-97105_40372109.pnach)|Attempts to disable interlaced offset rendering.|
 |SCPS-56008|Fatal Frame * NTSC-K *  * BCF04BF3|[BCF04BF3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCPS-56008_BCF04BF3.pnach)||
-|SLUS-20388|Fatal Frame * NTSC-U *  * 339A0B8C|[339A0B8C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20388_339A0B8C.pnach)|Attempts to disable interlaced offset rendering.|
+|SLUS-20388|Fatal Frame * NTSC-U *  * 339A0B8C|[339A0B8C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20388_339A0B8C.pnach)|Attempts to disable interlaced offset rendering.<br />Swaps the analog stick functions while using the Camera Obscura viewfinder.|
 |SLUS-21244|Fatal Frame 3: The Tormented * NTSC-U *  * 2ADBA7BC|[2ADBA7BC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21244_2ADBA7BC.pnach)|Speedup, but makes the game seem dull<br />Fixes offset glitch<br />Everything is double speed - Might need EE overclocking to be stable.|
 |SLUS-20766|Fatal Frame II: Crimson Butterfly [Undub v1.0.2] *  * NTSC-U * 1C6C1B71|[1C6C1B71](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20766_1C6C1B71.pnach)|Puts the Y-axis value to that of 50 Hz-mode (PAL).|
 |SLUS-20766|Fatal Frame II: Crimson Butterfly *  * NTSC-U * 9A51B627|[9A51B627](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20766_9A51B627.pnach)|Puts the Y-axis value to that of 50 Hz-mode (PAL).|
@@ -2913,7 +2913,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLPM-65165|Project Minerva [NTSC-J] |[AB09D7EC](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65165_AB09D7EC.pnach)||
 |SLES-52472|Project Minerva Professional (PAL) |[0AF4683D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52472_0AF4683D.pnach)|Attempts to disable interlaced offset rendering.<br />Sets game to NTSC Mode upon startup (display mode can be changed in-game).|
 |SLPM-65344|Project Minerva Professional & Simple 2000 Ultimate Series Vol. 23: Project Minerva Professional [NTSC-J] |[1FA1E198](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-65344_1FA1E198.pnach)||
-|SLES-50821|Project Zero *  * PAL-M5 * 22E91837|[22E91837](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50821_22E91837.pnach)|Makes main menu bland looking|
+|SLES-50821|Project Zero *  * PAL-M5 * 22E91837|[22E91837](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50821_22E91837.pnach)|Makes main menu bland looking<br />Swaps the analog stick functions while using the Camera Obscura viewfinder.|
 |SLES-53825|Project Zero 3: The Tormented *  * PAL-M5 * 23B754F4|[23B754F4](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53825_23B754F4.pnach)|Fixes offset glitch<br />Fixes MenuZoom glitch|
 |SLES-52384|Project Zero II: Crimson Butterfly [UnDub v1.0] *  * PAL-M5 * 9D8206D3|[9D8206D3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52384_9D8206D3.pnach)|Puts the Y-axis value to that of 50 Hz-mode, when having 60 Hz-mode.|
 |SLES-52384|Project Zero II: Crimson Butterfly *  * PAL-M5 * 9D87F3AF|[9D87F3AF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52384_9D87F3AF.pnach)|Puts the Y-axis value to that of 50 Hz-mode, when having 60 Hz-mode.|
@@ -4582,7 +4582,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-53696|Zathura (E)|[B1C7FED2](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53696_B1C7FED2.pnach)|Widescreen Hack|
 |SLUS-21336|Zathura (U)|[844EDE02](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21336_844EDE02.pnach)||
 |SLPS-25048|Zeonic Front - Kidou Senshi Gundam 0079 (J)|[626CF8C1](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25048_626CF8C1.pnach)||
-|SLPS-25074|Zero 零 Zero * NTSC-J *  * 9883194E|[9883194E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25074_9883194E.pnach)|Progressive Scan Hack|
+|SLPS-25074|Zero 零 Zero * NTSC-J *  * 9883194E|[9883194E](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25074_9883194E.pnach)|Progressive Scan Hack<br />Swaps the analog stick functions while using the Camera Obscura viewfinder.|
 |SLPS-25303|Zero: Akai Chou * NTSC-J *  * B292D14D|[B292D14D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25303_B292D14D.pnach)||
 |SLPS-25544|Zero: Shisei no Koe * NTSC-J *  * 3F651512|[3F651512](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25544_3F651512.pnach)|Speedup, but makes the game seem dull<br />Fixes offset glitch|
 |SLPS-25113|Zettaizetsumei Toshi [NTSC-J] |[3E359E0B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25113_3E359E0B.pnach)||
