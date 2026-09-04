@@ -462,7 +462,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLES-51557|Broken Sword: The Sleeping Dragon |[1248FE3A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51557_1248FE3A.pnach)||
 |SLPS-25356|Broken Sword: The Sleeping Dragon(J)  |[7C45C11D](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPS-25356_7C45C11D.pnach)||
 |SLPM-66042|Brothers in Arms - Road to Hill 30 (J)|[1CF4E2B3](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66042_1CF4E2B3.pnach)||
-|SLUS-21310|Brothers in Arms: Earned in Blood |[D371F4DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21310_D371F4DF.pnach)||
+|SLUS-21310|Brothers in Arms: Earned in Blood |[D371F4DF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21310_D371F4DF.pnach)|Disables screen grain, sepia, and old movie overlays.|
 |SLPM-66410|Brothers in Arms: Earned in Blood (J) |[22C2AC43](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66410_22C2AC43.pnach)||
 |SLES-53659|Brothers in Arms: Earned in Blood [PAL-M5] |[DD0273E8](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53659_DD0273E8.pnach)||
 |SLUS-21163|Brothers in Arms: Road to Hill 30 |[DFC0888A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21163_DFC0888A.pnach)||
