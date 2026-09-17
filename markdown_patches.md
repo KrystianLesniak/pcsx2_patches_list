@@ -3319,7 +3319,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCKA-20132|Shin Megami Tensei: Persona 4 (K) |[5132BBDF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20132_5132BBDF.pnach)||
 |SLPM-66978|Shin Megami Tensei: Persona 4 NTSC-J |[4E63E63C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-66978_4E63E63C.pnach)||
 |SLPM-74232|Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc1of2] |[C1C77637](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74232_C1C77637.pnach)||
-|SLPM-74232|Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc2of2] |[5C1E5BEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74232_5C1E5BEF.pnach)||
+|SLPM-74233|Shin Onimusha - Dawn of Dreams (PlayStation 2 the Best) [NTSC-J] [Disc2of2] [SLPM-74232]|[5C1E5BEF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-74233_5C1E5BEF.pnach)||
 |SLKA-25187|Shin Sangoku Mosou 3 Empires(=Dynasty warriors 4 Empires) |[D27095D6](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25187_D27095D6.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
 |SLKA-25050|Shin Sangoku Mosou 3(=Dynasty warriors 4) |[ACFB7A31](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25050_ACFB7A31.pnach)|widescreen 16:9 (NTSC-K) hack by 99skull|
 |SLPM-62005|Shin Sangoku Musou (J)|[5A63669B](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLPM-62005_5A63669B.pnach)|Widescreen hack (NTSC-J by Arapapa)|
@@ -4058,6 +4058,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SLUS-21388|The Sopranos - Road to Respect (U) |[7C006C52](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21388_7C006C52.pnach)||
 |SLES-54209|The Sopranos: Road to Respect [PAL] |[673AF937](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-54209_673AF937.pnach)||
 |SLUS-20636|The Suffering |[0486AD78](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20636_0486AD78.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
+|SLES-51693|The Suffering (PAL)  FB680748|[FB680748](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51693_FB680748.pnach)|Renders the game in 16:9 aspect ratio.<br />Might need EE Overclock at 130%.<br />SDTV 480p mode at start.|
 |SLES-52439|The Suffering PAL  FB680748|[FB680748](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-52439_FB680748.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.<br />SDTV 480p mode at start.|
 |SLUS-21189|The Suffering: Ties That Bind |[C2144770](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21189_C2144770.pnach)|Widescreen hack<br />Unlocked at 60 FPS. Might need enable 130% EE Overclock to be stable.|
 |SLES-53527|The Suffering: Ties That Bind (PAL-M)  AC4B758C|[AC4B758C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53527_AC4B758C.pnach)|Renders the game in 16:9 aspect ratio<br />Might need EE Overclock at 130%.|
