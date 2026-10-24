@@ -4117,6 +4117,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-52530|Time Crisis - Crisis Zone (PAL-M5) |[88E8290A](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-52530_88E8290A.pnach)|Widescreen hack. Port by dieSkaarj (PAL.)|
 |SLES-50300|Time Crisis 2 |[30FABE51](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50300_30FABE51.pnach)|Aiming still in 4:3|
 |SLUS-20219|Time Crisis 2 |[D5D560FF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20219_D5D560FF.pnach)|Renders the game in 16:9 aspect ratio<br />Sound fix for stuttering glitchy audio during FMV/cut-scenes<br />Removes flash effect when using the GunCon2 Controller|
+|SLUS-20219|Time Crisis 2 |[D747F0EF](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20219_D747F0EF.pnach)|Sound fix<br />Renders the game in 16:9 aspect ratio<br />Removes the flash and fog effect when firing with the Guncon controller.<br />60fps framerate in co-op multiplayer mode|
 |SCKA-20002|Time Crisis 2 (K) |[FE12B657](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCKA-20002_FE12B657.pnach)|Widescreen Hack (pnach by Arapapa)|
 |SLES-51844|Time Crisis 3 |[FD32030F](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51844_FD32030F.pnach)||
 |SLUS-20645|Time Crisis 3 |[7290669C](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-20645_7290669C.pnach)|Widescreen Hack<br />Removes flash effect when using the GunCon2 Controller|
