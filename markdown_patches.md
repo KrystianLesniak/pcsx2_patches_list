@@ -1141,7 +1141,7 @@ If you are looking for specific game use shortcut CTRL+F
 |SCES-54535|Everybody's Tennis (PAL-M11) |[7B09C4CB](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SCES-54535_7B09C4CB.pnach)||
 |SLUS-21048|Evil Dead - Regeneration  (U)|[9DE65987](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLUS-21048_9DE65987.pnach)|Patches the game to run at 60FPS. Might require 180% EE Overclock|
 |SLES-53457|Evil Dead - Regeneration PAL-E  9DE65987|[9DE65987](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53457_9DE65987.pnach)|Might need EE Overclock (180%).|
-|SLES-50201|Evil Twin - Cyprien's Chronicles (PAL-M5) |[5D795715](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50201_5D795715.pnach)|game still needs black bar fix/removal in cut-scenes|
+|SLES-50201|Evil Twin - Cyprien's Chronicles (PAL-M5) |[5D795715](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-50201_5D795715.pnach)||
 |SLES-53976|Evolution GT (PAL-M5) |[27B3F625](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-53976_27B3F625.pnach)||
 |SLES-51349|Evolution Skateboarding (E)|[7EA8E7C5](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLES-51349_7EA8E7C5.pnach)||
 |SLKA-25015|Evolution Skateboarding (K)|[B3734A96](https://raw.githubusercontent.com/PCSX2/pcsx2_patches/main/patches/SLKA-25015_B3734A96.pnach)||
