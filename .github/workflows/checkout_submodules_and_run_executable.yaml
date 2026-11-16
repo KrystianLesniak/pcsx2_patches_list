@@ -17,7 +17,7 @@ jobs:
     steps:
       # Step 1: Checkout Repository
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       # Step 2: Update Git Submodule
       - name: Update Git Submodule
@@ -25,12 +25,17 @@ jobs:
           git submodule update --init --recursive pcsx2_patches
           git submodule update --recursive --remote pcsx2_patches
 
-      # Step 3: Run Update List Executable
-      - name: Run Update List Executable
-        run: |
-          .\Update_list.exe
+      # Step 3: Setup .NET
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
 
-      # Step 4: Commit and Push Changes
+      # Step 4: Build and run list generator from source
+      - name: Generate Patches List
+        run: dotnet run --project src/PatchesList.ConsoleApp -c Release
+
+      # Step 5: Commit and Push Changes
       - name: Commit and Push Changes
         uses: EndBug/add-and-commit@v9
         with:
