@@ -42,8 +42,15 @@ namespace PatchesList.Services.Exporters
 
         private static async Task CreateHeader(StreamWriter stream)
         {
-            await stream.WriteLineAsync($"## PCSX2 Official Patches");
-            await stream.WriteLineAsync(Environment.NewLine);
+            // Front matter gives the page its title, so the content itself needs no heading.
+            await stream.WriteLineAsync("---");
+            await stream.WriteLineAsync("title: Find patches for your game");
+            await stream.WriteLineAsync("description: Search every widescreen, no-interlacing and FPS patch bundled with the PCSX2 emulator.");
+            await stream.WriteLineAsync("---");
+            await stream.WriteLineAsync("Every game below has a patch bundled with [PCSX2](https://pcsx2.net), so options like \"Enable Widescreen Patches\" and \"Enable No-Interlacing Patches\" work for it out of the box. Click a CRC to download its `.pnach` file.");
+            await stream.WriteLineAsync();
+            await stream.WriteLineAsync("<p class=\"patches-updated\">Synced daily with <a href=\"https://github.com/PCSX2/pcsx2_patches\">PCSX2/pcsx2_patches</a> · last update {{ site.time | date: \"%-d %B %Y\" }}</p>");
+            await stream.WriteLineAsync();
             await stream.WriteLineAsync("|Game Code|Game Title|CRC|Comments|");
             await stream.WriteLineAsync("|---------|----------|---|--------|");
         }

@@ -1,4 +1,6 @@
-﻿namespace PatchesList.Services.Importers
+using System.Text.RegularExpressions;
+
+namespace PatchesList.Services.Importers
 {
     public static class GameDatasManipulator
     {
@@ -17,6 +19,17 @@
                 //Remove empty parenthess from title
                 .Replace("()", string.Empty)
                 .Replace("[]", string.Empty));
+        }
+
+        // Many titles carry leftovers like "(PAL-M)  5A1D79D4", "[2F7B4DB8]" or ";1) Game CRC = 0x9C033483".
+        public static IEnumerable<string> RemoveCrcFromTitles(IEnumerable<string> gameTitles, string crcCode)
+        {
+            var crcPattern = new Regex($@"(;\d\)?\s*)?(game\s*crc\s*=\s*)?(0x)?\[?{Regex.Escape(crcCode)}\]?", RegexOptions.IgnoreCase);
+
+            return gameTitles
+                .Select(x => Regex.Replace(crcPattern.Replace(x, string.Empty), @"\s{2,}", " ").Trim())
+                // Drop titles that were nothing but leftovers, so the game sorts with the untitled ones
+                .Where(x => x.Length > 0);
         }
     }
 }

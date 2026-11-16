@@ -27,13 +27,31 @@
     });
     var code = tr.cells[0].textContent.trim();
     var comment = tr.cells[3] ? tr.cells[3].textContent : '';
-    return {
+    var row = {
       tr: tr,
       text: tr.textContent.toLowerCase(),
+      keys: Array.prototype.map.call(tr.cells, function (td) { return td.textContent.trim(); }),
       region: (REGIONS.filter(function (r) { return r[1].test(code); })[0] || [null])[0],
       types: TYPES.filter(function (t) { return t[1].test(comment); }).map(function (t) { return t[0]; })
     };
+    if (row.keys[2] && navigator.clipboard) tr.cells[2].appendChild(copyButton(row.keys[2]));
+    return row;
   });
+
+  function copyButton(crc) {
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'patches-copy';
+    btn.textContent = 'Copy';
+    btn.setAttribute('aria-label', 'Copy CRC ' + crc);
+    btn.addEventListener('click', function () {
+      navigator.clipboard.writeText(crc).then(function () {
+        btn.textContent = 'Copied';
+        setTimeout(function () { btn.textContent = 'Copy'; }, 1500);
+      });
+    });
+    return btn;
+  }
   var order = rows.slice();
 
   var params = new URLSearchParams(location.search);
@@ -50,16 +68,31 @@
   controls.className = 'patches-controls';
   var search = document.createElement('input');
   search.type = 'search';
-  search.placeholder = 'Search title, game code, CRC or comment…';
+  search.placeholder = 'Search title, game code, CRC or comment…  ( / )';
   search.setAttribute('aria-label', 'Search patches');
   search.value = state.q;
   controls.appendChild(search);
   controls.appendChild(chipGroup('Patch type', 'type', TYPES));
   controls.appendChild(chipGroup('Region', 'region', REGIONS));
-  var count = document.createElement('p');
-  count.className = 'patches-count';
+  var status = document.createElement('p');
+  status.className = 'patches-count';
+  var count = document.createElement('span');
   count.setAttribute('aria-live', 'polite');
-  controls.appendChild(count);
+  var clear = document.createElement('button');
+  clear.type = 'button';
+  clear.className = 'patches-clear';
+  clear.textContent = 'Clear filters';
+  clear.addEventListener('click', function () {
+    state.q = search.value = '';
+    state.type = [];
+    state.region = [];
+    controls.querySelectorAll('[aria-pressed]').forEach(function (b) { b.setAttribute('aria-pressed', 'false'); });
+    render();
+    search.focus();
+  });
+  status.appendChild(count);
+  status.appendChild(clear);
+  controls.appendChild(status);
   table.parentNode.insertBefore(controls, table);
   table.classList.add('patches-table');
 
@@ -101,7 +134,7 @@
       // no numeric collation: CRCs are hex, so "83BB" must not sort as the number 83
       var collator = new Intl.Collator(undefined, { sensitivity: 'base' });
       order = rows.slice().sort(function (a, b) {
-        var x = a.tr.cells[col].textContent.trim(), y = b.tr.cells[col].textContent.trim();
+        var x = a.keys[col], y = b.keys[col];
         if (!x || !y) return x ? -1 : y ? 1 : 0; // empty cells always last
         return state.dir * collator.compare(x, y);
       });
@@ -128,6 +161,7 @@
     tbody.textContent = '';
     tbody.appendChild(frag);
     count.textContent = shown ? 'Showing ' + shown + ' of ' + rows.length + ' patches' : 'No patches found';
+    clear.hidden = !(state.q || state.type.length || state.region.length);
 
     var p = new URLSearchParams();
     if (state.q) p.set('q', state.q);
@@ -141,6 +175,15 @@
   search.addEventListener('input', function () {
     clearTimeout(timer);
     timer = setTimeout(function () { state.q = search.value.trim(); render(); }, 120);
+  });
+
+  // "/" jumps to the search box, like on GitHub
+  document.addEventListener('keydown', function (e) {
+    var tag = document.activeElement && document.activeElement.tagName;
+    if (e.key === '/' && tag !== 'INPUT' && tag !== 'TEXTAREA') {
+      e.preventDefault();
+      search.focus();
+    }
   });
 
   render();

@@ -32,6 +32,7 @@ namespace PatchesList.Services.Exporters
 
                 //Manipulate data
                 gameTitles = GameDatasManipulator.RemoveGameCodeFromTitles(gameTitles, gameCode);
+                gameTitles = GameDatasManipulator.RemoveCrcFromTitles(gameTitles, crcCode);
 
                 //Create a record
                 var gameData = new GameData(

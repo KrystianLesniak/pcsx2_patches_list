@@ -72,7 +72,37 @@
   th[aria-sort="ascending"] button::after { content: " \2191"; opacity: 1; }
   th[aria-sort="descending"] button::after { content: " \2193"; opacity: 1; }
 
-  td { overflow-wrap: anywhere; }
+  // break-word (not anywhere) keeps long comments from squeezing the narrow columns
+  td { overflow-wrap: break-word; }
+  td:nth-child(1), td:nth-child(3) { white-space: nowrap; }
+}
+
+.patches-copy {
+  margin-left: .4rem;
+  padding: .1rem .45rem;
+  font: inherit;
+  font-size: .75rem;
+  color: var(--minima-brand-color);
+  background: none;
+  border: 1px solid var(--minima-table-header-border);
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.patches-clear {
+  margin-left: .5rem;
+  padding: 0;
+  font: inherit;
+  color: var(--minima-link-base-color);
+  background: none;
+  border: 0;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.patches-updated {
+  font-size: .9rem;
+  color: var(--minima-brand-color);
 }
 
 // Phones: full width, one card per game
