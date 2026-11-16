@@ -42,7 +42,6 @@ namespace PatchesList.Services.Exporters
 
         private static async Task CreateHeader(StreamWriter stream)
         {
-            await stream.WriteLineAsync("If you are looking for specific game use shortcut CTRL+F");
             await stream.WriteLineAsync($"## PCSX2 Official Patches");
             await stream.WriteLineAsync(Environment.NewLine);
             await stream.WriteLineAsync("|Game Code|Game Title|CRC|Comments|");

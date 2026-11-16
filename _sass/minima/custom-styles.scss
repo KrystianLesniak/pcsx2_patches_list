@@ -2,3 +2,132 @@
 .site-nav{
     display: none;
 }
+
+// Patches list: search, filters and sorting (assets/js/patches.js)
+.patches-controls {
+  margin-bottom: 1rem;
+
+  input[type="search"] {
+    box-sizing: border-box;
+    width: 100%;
+    padding: .6rem .8rem;
+    font: inherit;
+    font-size: 1rem; // >= 16px stops iOS from zooming in on focus
+    color: var(--minima-text-color);
+    background: var(--minima-background-color);
+    border: 1px solid var(--minima-table-header-border);
+    border-radius: 6px;
+  }
+}
+
+.patches-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: .4rem;
+  margin-top: .6rem;
+
+  span { margin-right: .2rem; font-weight: bold; }
+
+  button {
+    padding: .35rem .8rem;
+    font: inherit;
+    font-size: .9rem;
+    color: var(--minima-text-color);
+    background: var(--minima-table-header-bg-color);
+    border: 1px solid var(--minima-table-header-border);
+    border-radius: 999px;
+    cursor: pointer;
+  }
+
+  button[aria-pressed="true"] {
+    color: var(--minima-background-color);
+    background: var(--minima-link-base-color);
+    border-color: var(--minima-link-base-color);
+  }
+}
+
+.patches-count {
+  margin: .6rem 0 0;
+  font-size: .9rem;
+  color: var(--minima-brand-color);
+}
+
+.patches-table {
+  th { padding: 0; }
+
+  th button {
+    width: 100%;
+    padding: 10px 15px;
+    font: inherit;
+    font-weight: bold;
+    text-align: left;
+    color: inherit;
+    background: none;
+    border: 0;
+    cursor: pointer;
+  }
+
+  th button::after { content: " \21C5"; opacity: .4; }
+  th[aria-sort="ascending"] button::after { content: " \2191"; opacity: 1; }
+  th[aria-sort="descending"] button::after { content: " \2193"; opacity: 1; }
+
+  td { overflow-wrap: anywhere; }
+}
+
+// Phones: full width, one card per game
+@media screen and (max-width: 600px) {
+  .wrapper { max-width: 100%; }
+
+  .patches-table,
+  .patches-table thead,
+  .patches-table tbody,
+  .patches-table td { display: block; }
+
+  .patches-table { border: 0; }
+
+  // header row becomes a row of sort buttons
+  .patches-table thead tr {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin-bottom: .8rem;
+    background: none;
+  }
+
+  .patches-table th {
+    border-radius: 6px;
+  }
+
+  .patches-table th button { padding: .4rem .7rem; }
+
+  .patches-table tbody tr {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: .8rem;
+    padding: .5rem .8rem;
+    border: 1px solid var(--minima-table-border-color);
+    border-radius: 6px;
+  }
+
+  .patches-table td {
+    padding: .2rem 0;
+    border: 0;
+  }
+
+  .patches-table td:empty { display: none; }
+
+  .patches-table td::before {
+    content: attr(data-label) ": ";
+    font-weight: bold;
+  }
+
+  // title first and larger, without a label
+  .patches-table td:nth-child(2) {
+    order: -1;
+    font-size: 1.05rem;
+    font-weight: bold;
+
+    &::before { content: none; }
+  }
+}

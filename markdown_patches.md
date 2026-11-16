@@ -1,4 +1,3 @@
-If you are looking for specific game use shortcut CTRL+F
 ## PCSX2 Official Patches
 
 

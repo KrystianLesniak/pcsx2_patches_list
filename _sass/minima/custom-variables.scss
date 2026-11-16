@@ -1,7 +1,4 @@
 // width of the content area
 // can be set as "px" or "%"
+// ($on-palm/$on-laptop/... are media-query breakpoints and must stay in px, so they keep minima's defaults)
 $content-width:    85%;
-$on-palm:          100%;
-$on-laptop:        85%;
-$on-medium:        100%;
-$on-large:         85%;
